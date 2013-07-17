@@ -1,0 +1,7 @@
+*.zip
+PortlandBuildings-*
+.bundle
+vendor/*
+bin/*
+osm/*
+osm2pgsql

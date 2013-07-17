@@ -1,0 +1,41 @@
+GIT
+  remote: git@github.com:darrell/postgistable.git
+  revision: deb962f51b170bb3625d4dc12f775324f6702378
+  branch: master
+  specs:
+    postgistable (0.1.0)
+      pg
+      rake
+      sequel
+      sequel-postgis
+
+GIT
+  remote: git@github.com:darrell/sequel-postgis.git
+  revision: 3c000876115719c546cf62992968611ce3076cd6
+  specs:
+    sequel-postgis (0.1.0)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    coderay (1.0.9)
+    method_source (0.8.1)
+    pg (0.15.1)
+    pry (0.9.12.2)
+      coderay (~> 1.0.5)
+      method_source (~> 0.8)
+      slop (~> 3.4)
+    rake (10.1.0)
+    sequel (4.0.0)
+    slop (3.4.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler
+  pg
+  postgistable!
+  pry
+  sequel
+  sequel-postgis!
