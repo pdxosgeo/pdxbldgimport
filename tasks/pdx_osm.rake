@@ -36,7 +36,7 @@ end
 table :pdx_bldgs do |t|
   t.drop_table
   t.run %Q{
-  create table osm_buildings as
+  create table #{t.name} as
   select 
   tags -> 'access' as access,
   tags -> 'addr:housename' as addr_housename,
