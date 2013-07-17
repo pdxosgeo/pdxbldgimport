@@ -16,7 +16,8 @@ end
 
 pdx_shapes = { 
             :pdx_bldgs_orig =>  "PortlandBuildings-#{bldg_date}/Building_Footprints_pdx.shp",
-            :master_address => 'master_address.shp'
+            :master_address => 'master_address.shp',
+            :taxlots => 'taxlots.shp'
 }
 
 
@@ -31,14 +32,14 @@ end
 
 task :all_pdx => [:pdx_bldgs, :pdx_addrs]
 
-task :pdx_bldgs_orig do |t|
+task :pdx_bldgs_orig => [:taxlots] do |t|
+  t.add_centroids
   t.run %Q{
     ALTER TABLE #{t.name} ADD COLUMN tlid varchar(20);
     ALTER TABLE #{t.name} ADD COLUMN neighborhood varchar(60);
     UPDATE #{t.name} SET the_geom=st_makevalid(the_geom) WHERE NOT st_isvalid(the_geom);
     UPDATE #{t.name} b SET tlid=t.tlid FROM taxlots t WHERE st_intersects(b.the_geom_centroids,t.the_geom);
   }
-  t.add_centroids
 end
 
 table :pdx_bldgs => [:pdx_bldgs_orig] do |t|
@@ -92,7 +93,7 @@ task :master_address do |t|
     ALTER TABLE master_address ALTER column fdsuf type varchar(10);
     ALTER TABLE master_address ALTER column ftype type varchar(20);
 
-    # make the prefixes/suffixes match silly OSM rules
+    -- make the prefixes/suffixes match silly OSM rules
     UPDATE master_address SET
       fname=initcap(regexp_replace(fname, E'"','','g')),
       fdpre=CASE fdpre
