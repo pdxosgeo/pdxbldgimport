@@ -33,7 +33,7 @@ task :portland_osm  do |t|
  sh %Q{osmosis --read-xml osm/bldgs.osm --truncate-pgsql database=pdx_bldgs --wp database=pdx_bldgs }
 end
 
-table :pdx_bldgs do |t|
+table :osm_buildings do |t|
   t.drop_table
   t.run %Q{
   create table #{t.name} as
