@@ -29,7 +29,7 @@ pdx_shapes.each do |k,v|
   pdx_shape_tasks << x
 end
 
-#task :all_pdx => [:pdx_download]
+task :all_pdx => [:pdx_bldgs, :pdx_addrs]
 
 task :pdx_bldgs_orig do |t|
   t.run %Q{
