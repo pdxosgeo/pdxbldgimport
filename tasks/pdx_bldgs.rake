@@ -52,7 +52,7 @@ table :pdx_bldgs => [:pdx_bldgs_orig] do |t|
   t.run %Q{
   CREATE table pdx_bldgs as 
     SELECT  b.bldg_id,
-    b.tlid,
+    --b.tlid,
     b.num_story as levels,
     round(b.surf_elev::numeric * 0.3048,2) as ele,
     round(b.max_height::numeric * 0.3048,2) as height,
@@ -66,7 +66,7 @@ table :pdx_bldgs => [:pdx_bldgs_orig] do |t|
   } 
   t.add_spatial_index(:the_geom)
   t.add_spatial_index(:the_geom_centroids)
-  t.add_index(:tlid)
+  # t.add_index(:tlid)
   t.add_index(:bldg_id)
   t.add_update_column
 end
@@ -121,7 +121,7 @@ table :addresses => 'address_data.csv' do |t|
       SET x=NULLIF(x,''),y=NULLIF(y,'');
 
     UPDATE #{t.name}
-      SET the_geom=st_transform(st_setsrid(ST_MakePoint("x"::numeric,"y"::numeric),2319),4326),
+      SET the_geom=st_transform(st_setsrid(ST_MakePoint("x"::numeric,"y"::numeric),2913),4326),
       street_name=initcap(regexp_replace(street_name, E'"','','g')),
       str_predir_code=CASE str_predir_code
         WHEN 'N' THEN 'North'
