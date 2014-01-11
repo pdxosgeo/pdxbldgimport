@@ -102,7 +102,7 @@ table :addresses => 'address_data.csv' do |t|
         WHEN 'CRST' THEN 'Crescent'
         END;
     UPDATE #{t.name}
-      SET address_full=array_to_string(ARRAY[address_number_char,str_predir_code,street_name,street_type_code,str_postdir_code], ' ')
+      SET address_full=array_to_string(ARRAY[str_predir_code,street_name,street_type_code,str_postdir_code], ' ')
   }
 
   t.add_update_column
