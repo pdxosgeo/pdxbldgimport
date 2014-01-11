@@ -16,6 +16,10 @@ Rake::TableTask::Config.dbname=ENV['PGDATABASE']
 Rake::TableTask::Config.dbuser=ENV['PGUSER']
 Rake::TableTask::Config.dbhost=ENV['PGHOST']
 
+def psql(query) 
+  %x{psql -c #{Shellwords.escape(query)}}
+end
+
 # we set DB for the census lib, which should probably be
 # merged into postgistable someday.
 DB=Sequel.connect Rake::TableTask::Config.sequel_connect_string
