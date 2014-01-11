@@ -7,7 +7,7 @@
 # Test Extent
 n=45.57
 e=-122.68
-s=45.56
+s=45.5
 w=-122.69
 file 'osm/bldgs.osm.bz2' do |t|
   sh %Q{
