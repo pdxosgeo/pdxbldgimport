@@ -1,3 +1,6 @@
+desc "run all OSM-related tasks"
+task :all_osm => [:osm_buildings]
+
 # Actual Extent
 # n=45.7254175022529
 # e=-121.926452653623
@@ -9,6 +12,7 @@ n=45.57
 e=-122.68
 s=45.5
 w=-122.69
+desc "Download buildings in OSM"
 file 'osm/bldgs.osm.bz2' do |t|
   sh %Q{
 wget -O - 'http://overpass-api.de/api/interpreter?data=
@@ -40,10 +44,12 @@ end
 # need to make sure we get update columns on them all,
 # but we only load the data once (in :portland_osm_line)
 
+desc "Create OSM ways table from raw osmosis data. Used by osm_buildings"
 task :portland_osm  do |t|
  sh %Q{osmosis --read-xml osm/bldgs.osm --truncate-pgsql database=pdx_bldgs --wp database=pdx_bldgs }
 end
 
+desc "Convert OSM ways into a buildings layer with appropriate tags"
 table :osm_buildings do |t|
   t.drop_table
   t.run %Q{

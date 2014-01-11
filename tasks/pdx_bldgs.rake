@@ -10,6 +10,7 @@ file "PortlandBuildings-#{bldg_date}/Building_Footprints_pdx.shp" => 'Building_F
   sh %Q{touch -t #{(File.stat('Building_Footprints_pdx.zip').mtime+1).strftime('%Y%m%d%H%M.%S')}  PortlandBuildings-#{bldg_date}/*}
 end
 
+desc "Dowloads and unzips the latest building footprints"
 task :pdx_download => "PortlandBuildings-#{bldg_date}/Building_Footprints_pdx.shp" do
 end
 
@@ -30,8 +31,10 @@ pdx_shapes.each do |k,v|
   pdx_shape_tasks << x
 end
 
+desc "Run all building and address related tasks"
 task :all_pdx => [:pdx_bldgs, :pdx_addrs]
 
+desc "load raw building footprints. Used only by :pdx_bldgs tasks"
 task :pdx_bldgs_orig do |t|
   t.run %Q{
     UPDATE #{t.name}
@@ -47,6 +50,7 @@ task :pdx_bldgs_orig do |t|
   # }
 end
 
+desc "Generate final format building footprint data"
 table :pdx_bldgs => [:pdx_bldgs_orig] do |t|
   t.drop_table
   t.run %Q{
@@ -71,6 +75,7 @@ table :pdx_bldgs => [:pdx_bldgs_orig] do |t|
   t.add_update_column
 end
 
+desc "Generate final address table"
 table :pdx_addrs => [:addresses] do |t|
  t.drop_table
  t.run %Q{
@@ -91,7 +96,7 @@ table :pdx_addrs => [:addresses] do |t|
 
 end
 
-
+desc "Load raw address data. Used to generate pdx_addrs"
 table :addresses => 'address_data.csv' do |t|
   t.drop_table
   t.run %Q{
