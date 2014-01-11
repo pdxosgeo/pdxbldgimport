@@ -32,14 +32,19 @@ end
 
 task :all_pdx => [:pdx_bldgs, :pdx_addrs]
 
-task :pdx_bldgs_orig => [:taxlots] do |t|
-  t.add_centroids
+task :pdx_bldgs_orig do |t|
   t.run %Q{
-    ALTER TABLE #{t.name} ADD COLUMN tlid varchar(20);
-    ALTER TABLE #{t.name} ADD COLUMN neighborhood varchar(60);
-    UPDATE #{t.name} SET the_geom=st_makevalid(the_geom) WHERE NOT st_isvalid(the_geom);
-    UPDATE #{t.name} b SET tlid=t.tlid FROM taxlots t WHERE st_intersects(b.the_geom_centroids,t.the_geom);
+    UPDATE #{t.name}
+      SET the_geom=st_makevalid(the_geom) 
+      WHERE not st_isvalid(the_geom);
   }
+  t.add_centroids
+  # t.run %Q{
+  #   ALTER TABLE #{t.name} ADD COLUMN tlid varchar(20);
+  #   ALTER TABLE #{t.name} ADD COLUMN neighborhood varchar(60);
+  #   UPDATE #{t.name} SET the_geom=st_makevalid(the_geom) WHERE NOT st_isvalid(the_geom);
+  #   UPDATE #{t.name} b SET tlid=t.tlid FROM taxlots t WHERE st_intersects(b.the_geom_centroids,t.the_geom);
+  # }
 end
 
 table :pdx_bldgs => [:pdx_bldgs_orig] do |t|
@@ -65,38 +70,60 @@ table :pdx_bldgs => [:pdx_bldgs_orig] do |t|
   t.add_index(:bldg_id)
   t.add_update_column
 end
-table :pdx_addrs => [:master_address] do |t|
+
+table :pdx_addrs => [:addresses] do |t|
  t.drop_table
  t.run %Q{
-CREATE TABLE pdx_addrs AS
- SELECT distinct on (tlid,housenumber,street,postcode)
-  tlid,
-  house as housenumber,
-  array_to_string(ARRAY[a.fdpre,a.fname,a.ftype,a.fdsuf],' ') as street,
-  nbo_hood.name as neighborhood,
-  a.zip as postcode,
-  initcap(a.juris_city) as city,
-  'OR'::varchar(2) as state,
-  'US'::varchar(2) as country,
-  a.the_geom
-FROM master_address a
-LEFT OUTER JOIN nbo_hood on st_intersects(nbo_hood.the_geom,a.the_geom);
-CREATE INDEX ON pdx_addrs (tlid);
-CREATE INDEX ON pdx_addrs using gist(the_geom);
-}
-t.add_update_column
+  CREATE TABLE pdx_addrs AS
+   SELECT distinct
+    address_number as housenumber,
+    address_full as street,
+    a.zip_code as postcode,
+    initcap(city) as city,
+    'OR'::varchar(2) as state,
+    'US'::varchar(2) as country,
+    a.the_geom
+  FROM addresses a
+  WHERE the_geom is not null
+  }
+  t.add_update_column
+  t.add_spatial_index(:the_geom)
+
 end
 
-task :master_address do |t|
-  t.run %Q{
-    ALTER TABLE master_address ALTER column fdpre type varchar(10);
-    ALTER TABLE master_address ALTER column fdsuf type varchar(10);
-    ALTER TABLE master_address ALTER column ftype type varchar(20);
 
-    -- make the prefixes/suffixes match silly OSM rules
-    UPDATE master_address SET
-      fname=initcap(regexp_replace(fname, E'"','','g')),
-      fdpre=CASE fdpre
+table :addresses => 'address_data.csv' do |t|
+  t.drop_table
+  t.run %Q{
+    CREATE TABLE #{t.name} (
+      "address_id" varchar(20) primary key,
+      "address_number" integer,
+      "address_number_char" varchar(20),
+      "leading_zero" varchar(1),
+      "str_predir_code" varchar(20),
+      "street_name" varchar(50),
+      "street_type_code" varchar(20),
+      "str_postdir_code" varchar(20),
+      "unit_value" varchar(20),
+      "city" varchar(20),
+      "county" varchar(20),
+      "state_abbrev" varchar(20),
+      "zip_code" varchar(5),
+      "zip4" varchar(4),
+      "address_full" varchar(200),
+      "x" varchar(20),
+      "y" varchar(20))
+  }
+  psql("\\copy #{t.name} FROM #{t.prerequisites.first} CSV HEADER ")
+  t.add_point_column
+  t.run %Q{
+    UPDATE #{t.name}
+      SET x=NULLIF(x,''),y=NULLIF(y,'');
+
+    UPDATE #{t.name}
+      SET the_geom=st_transform(st_setsrid(ST_MakePoint("x"::numeric,"y"::numeric),2319),4326),
+      street_name=initcap(regexp_replace(street_name, E'"','','g')),
+      str_predir_code=CASE str_predir_code
         WHEN 'N' THEN 'North'
         WHEN 'S' THEN 'South'
         WHEN 'E' THEN 'East'
@@ -106,7 +133,7 @@ task :master_address do |t|
         WHEN 'NE' THEN 'Northeast'
         WHEN 'SE' THEN 'Southeast'
         END,
-      fdsuf=CASE fdsuf
+      str_postdir_code=CASE str_postdir_code
         WHEN 'N' THEN 'North'
         WHEN 'S' THEN 'South'
         WHEN 'E' THEN 'East'
@@ -118,7 +145,7 @@ task :master_address do |t|
         WHEN 'SB' THEN 'Southbound'
         WHEN 'NB' THEN 'Northbound'
         END,
-      ftype=CASE ftype
+      street_type_code=CASE street_type_code
         WHEN 'BRG' THEN 'Bridge'
         WHEN 'CR' THEN 'Creek'
         WHEN 'FWY' THEN 'Freeway'
@@ -146,6 +173,10 @@ task :master_address do |t|
         WHEN 'WALK' THEN 'Walk'
         WHEN 'CRST' THEN 'Crescent'
         END;
+    UPDATE #{t.name}
+      SET address_full=array_to_string(ARRAY[address_number_char,str_predir_code,street_name,street_type_code,str_postdir_code], ' ')
   }
+
+  t.add_update_column
 end
 
