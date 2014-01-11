@@ -1,3 +1,14 @@
+# Actual Extent
+# n=45.7254175022529
+# e=-121.926452653623
+# s=45.2012894970606
+# w=-123.19651445735
+
+# Test Extent
+n=45.57
+e=-122.68
+s=45.56
+w=-122.69
 file 'osm/bldgs.osm.bz2' do |t|
   sh %Q{
 wget -O - 'http://overpass-api.de/api/interpreter?data=
@@ -6,13 +17,13 @@ wget -O - 'http://overpass-api.de/api/interpreter?data=
     <union>
       <query type="way">
          <has-kv k="building"/>
-        <bbox-query e="-121.926452653623" n="45.7254175022529" s="45.2012894970606" w="-123.19651445735"/>
+        <bbox-query e="#{e}" n="#{n}" s="#{s}" w="#{w}"/>
       </query>
       <query type="node">
-        <bbox-query e="-121.926452653623" n="45.7254175022529" s="45.2012894970606" w="-123.19651445735"/>
+        <bbox-query e="#{e}" n="#{n}" s="#{s}" w="#{w}"/>
       </query>
       <query type="relation">
-        <bbox-query e="-121.926452653623" n="45.7254175022529" s="45.2012894970606" w="-123.19651445735"/>
+        <bbox-query e="#{e}" n="#{n}" s="#{s}" w="#{w}"/>
       </query>
     </union>
   <print mode="meta"/><!-- fixed by auto repair -->
