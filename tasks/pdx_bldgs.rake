@@ -17,8 +17,8 @@ end
 
 pdx_shapes = { 
             :pdx_bldgs_orig =>  "PortlandBuildings-#{bldg_date}/Building_Footprints_pdx.shp",
-            :master_address => 'master_address.shp',
-            :taxlots => 'taxlots.shp'
+            :master_address => './rlis/TAXLOTS/master_address.shp',
+            :taxlots => './rlis/TAXLOTS/taxlots.shp'
 }
 
 
@@ -32,7 +32,7 @@ pdx_shapes.each do |k,v|
 end
 
 desc "Run all building and address related tasks"
-task :all_pdx => [:pdx_bldgs, :pdx_addrs]
+task :all_pdx => [:pdx_bldgs, :pdx_addrs, :taxlots]
 
 desc "load raw building footprints. Used only by :pdx_bldgs tasks"
 task :pdx_bldgs_orig do |t|
@@ -84,5 +84,6 @@ table :pdx_bldgs => [:pdx_bldgs_orig, :pdx_addrs] do |t|
   t.add_spatial_index(:the_geom_centroids)
   # t.add_index(:tlid)
   t.add_index(:bldg_id)
+  t.add_index(:no_addrs)
   t.add_update_column
 end
