@@ -88,7 +88,7 @@ table :pdx_bldgs => [:pdx_bldgs_orig, :pdx_addrs, :taxlot_bldgs, :taxlot_addrs] 
     b.bldg_use,
     0::integer as no_addrs,
     the_geom_centroids,
-    st_simplify(the_geom,7) as the_geom
+    st_multi(ST_SimplifyPreserveTopology(b.the_geom,7))::geometry(MultiPolygon,4326) as the_geom
   FROM pdx_bldgs_orig b;
   }
 
