@@ -40,34 +40,65 @@ task :pdx_bldgs_orig do |t|
     UPDATE #{t.name}
       SET the_geom=st_makevalid(the_geom) 
       WHERE not st_isvalid(the_geom);
+
+    ALTER TABLE #{t.name}
+      ADD COLUMN pdx_bldg_id serial primary key;
   }
   t.add_centroids
-  # t.run %Q{
-  #   ALTER TABLE #{t.name} ADD COLUMN tlid varchar(20);
-  #   ALTER TABLE #{t.name} ADD COLUMN neighborhood varchar(60);
-  #   UPDATE #{t.name} SET the_geom=st_makevalid(the_geom) WHERE NOT st_isvalid(the_geom);
-  #   UPDATE #{t.name} b SET tlid=t.tlid FROM taxlots t WHERE st_intersects(b.the_geom_centroids,t.the_geom);
-  # }
 end
 
+# join table that has only 1:1 building to taxlot mappings
+# by geometry
+table  :taxlot_bldgs => [:taxlots, :pdx_bldgs_orig] do |t|
+  t.run %Q{
+    CREATE TABLE taxlot_bldgs AS
+    SELECT t.tlid,b.pdx_bldg_id
+    FROM pdx_bldgs_orig b
+    JOIN taxlots t
+      ON ST_Intersects(t.the_geom,b.the_geom_centroids);
+  }
+  t.run %Q{
+    DELETE FROM 
+    -- SELECT * FROM
+    taxlot_bldgs
+      WHERE tlid IN (
+        SELECT tlid from taxlot_buildings
+        GROUP by tlid
+        HAVING COUNT(*)>1
+        );
+  }
+  t.add_index :tlid
+  t.add_index :pdx_bldg_id
+  t.add_update_column
+end
+
+
 desc "Generate final format building footprint data"
-table :pdx_bldgs => [:pdx_bldgs_orig, :pdx_addrs] do |t|
+table :pdx_bldgs => [:pdx_bldgs_orig, :pdx_addrs, :taxlot_bldgs, :taxlot_addrs] do |t|
   t.drop_table
   t.run %Q{
   CREATE table pdx_bldgs as 
     SELECT  b.bldg_id,
-    --b.tlid,
+    b.pdx_bldg_id,
+    NULL::integer as address_id,
     b.num_story as levels,
     round(b.surf_elev::numeric * 0.3048,2) as ele,
     round(b.max_height::numeric * 0.3048,2) as height,
     b.bldg_name as name,
-    'yes'::varchar(20) as building,
     b.bldg_use,
     0::integer as no_addrs,
     the_geom_centroids,
-    the_geom
+    st_simplify(the_geom,7) as the_geom
   FROM pdx_bldgs_orig b;
+  }
 
+  t.add_spatial_index(:the_geom)
+  t.add_spatial_index(:the_geom_centroids)
+  t.add_index(:address_id)
+  t.add_index(:bldg_id)
+  t.add_index(:no_addrs)
+
+  t.run %Q{
   UPDATE #{t.name} bl
     SET no_addrs=addr_count
     FROM (
@@ -79,11 +110,20 @@ table :pdx_bldgs => [:pdx_bldgs_orig, :pdx_addrs] do |t|
     ) ad
     WHERE ad.bldg_id=bl.bldg_id;
 
-  } 
-  t.add_spatial_index(:the_geom)
-  t.add_spatial_index(:the_geom_centroids)
-  # t.add_index(:tlid)
-  t.add_index(:bldg_id)
-  t.add_index(:no_addrs)
+  UPDATE #{t.name} bl
+    SET address_id=a.address_id
+    FROM pdx_addrs a
+    WHERE st_intersects(bl.the_geom,a.the_geom)
+      AND no_addrs=1;
+
+  UPDATE #{t.name} p
+    SET address_id=a.address_id, no_addrs=1
+    FROM taxlot_bldgs b,taxlot_addrs a
+    WHERE p.pdx_bldg_id=b.pdx_bldg_id
+    AND b.tlid=a.tlid
+    AND p.address_id IS NULL
+
+  }
+
   t.add_update_column
 end

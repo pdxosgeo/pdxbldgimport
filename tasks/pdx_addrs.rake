@@ -12,10 +12,14 @@ table :pdx_addrs => [:addresses] do |t|
     'US'::varchar(2) as country,
     a.the_geom
   FROM addresses a
-  WHERE the_geom is not null
+  WHERE the_geom is not null;
+
+  ALTER table #{t.name}
+    ADD COLUMN address_id serial ;
   }
   t.add_update_column
   t.add_spatial_index(:the_geom)
+  t.add_index :address_id
 
 end
 
@@ -105,5 +109,28 @@ table :addresses => 'address_data.csv' do |t|
       SET address_full=array_to_string(ARRAY[str_predir_code,street_name,street_type_code,str_postdir_code], ' ')
   }
 
+  t.add_update_column
+end
+
+# join table that has only 1:1 taxlot to address mappings
+# by geometry
+table :taxlot_addrs => [:taxlots, :addresses] do |t|
+  t.run %Q{
+    CREATE TABLE #{t.name} AS
+      SELECT t.tlid,a.address_id
+      FROM pdx_addrs a 
+      JOIN taxlots t
+        ON ST_Intersects(t.the_geom,a.the_geom);
+
+    DELETE FROM 
+    #{t.name}
+      WHERE tlid IN (
+        SELECT tlid from #{t.name}
+        GROUP by tlid
+        HAVING COUNT(*)>1
+        );
+  }
+  t.add_index :tlid
+  t.add_index :address_id
   t.add_update_column
 end
