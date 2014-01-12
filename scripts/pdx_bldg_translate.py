@@ -47,8 +47,22 @@ def filterTags(attrs):
             tags.update({'height': attrs['HEIGHT']}) 
 
     if attrs['NAME']:
-        tags.update({'name': attrs['NAME'].strip(' ').title()})
-        #TODO: also expand St. to Saint, anything else? 
+        formattedname = ""
+        formattedname = attrs['NAME'].strip(' ').title()
+        
+        #Expand "St. "
+        #TODO: any other expansions necessary?
+        formattedname.replace('St. ', 'Saint ')
+         
+        #Get rid of some obvious addresses. 
+        #TODO: make sure this isn't removing good stuff
+        if ("Nw " in formattedname or "Ne " in formattedname or
+            "Sw " in formattedname or "Sw " in formattedname or
+            "N " in formattedname):
+            formattedname = ""
+
+        if formattedname != "":
+            tags.update({'name': formattedname})
 
     return tags
 
