@@ -121,7 +121,7 @@ table :pdx_bldgs => [:pdx_bldgs_orig, :pdx_addrs, :taxlot_bldgs, :taxlot_addrs] 
     FROM taxlot_bldgs b,taxlot_addrs a
     WHERE p.pdx_bldg_id=b.pdx_bldg_id
     AND b.tlid=a.tlid
-    AND p.address_id IS NULL
+    AND p.address_id IS NULL;
 
   }
 
