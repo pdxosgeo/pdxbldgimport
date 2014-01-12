@@ -52,9 +52,10 @@ def filterTags(attrs):
         
         #Expand "St. "
         #TODO: any other expansions necessary?
-        formattedname.replace('St. ', 'Saint ')
+        if "St. " in formattedname:
+            formattedname.replace("St. ", "Saint ")
          
-        #Get rid of some obvious addresses. 
+        #Get rid of some obvious addresses (do this last). 
         #TODO: make sure this isn't removing good stuff
         if ("Nw " in formattedname or "Ne " in formattedname or
             "Sw " in formattedname or "Sw " in formattedname or
