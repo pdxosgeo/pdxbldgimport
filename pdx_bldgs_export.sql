@@ -1,5 +1,5 @@
-DROP VIEW pdx_bldgs_export;
-CREATE OR REPLACE VIEW pdx_bldgs_test AS
+DROP VIEW IF EXISTS pdx_bldgs_export;
+CREATE OR REPLACE VIEW pdx_bldgs_export AS
 SELECT imports.* FROM (
   SELECT a.housenumber,
        a.street,
@@ -28,7 +28,8 @@ SELECT imports.* FROM (
          ELSE 'yes' 
        END as building,
        p.no_addrs,
-       p.the_geom
+       the_geom
+
   FROM pdx_bldgs p
      JOIN pdx_addrs a ON (a.address_id=p.address_id)
      -- JOIN osm_buildings o ON (st_disjoint(p.the_geom,o.the_geom))

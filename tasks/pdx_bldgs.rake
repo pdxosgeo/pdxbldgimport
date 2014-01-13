@@ -42,7 +42,7 @@ task :pdx_bldgs_orig do |t|
       WHERE not st_isvalid(the_geom);
 
     ALTER TABLE #{t.name}
-      ADD COLUMN pdx_bldg_id serial primary key;
+      RENAME COLUMN gid to pdx_bldg_id;
   }
   t.add_centroids
 end
@@ -50,8 +50,9 @@ end
 # join table that has only 1:1 building to taxlot mappings
 # by geometry
 table  :taxlot_bldgs => [:taxlots, :pdx_bldgs_orig] do |t|
+  t.drop_table
   t.run %Q{
-    CREATE TABLE taxlot_bldgs AS
+    CREATE TABLE #{t.name} AS
     SELECT t.tlid,b.pdx_bldg_id
     FROM pdx_bldgs_orig b
     JOIN taxlots t
@@ -60,9 +61,9 @@ table  :taxlot_bldgs => [:taxlots, :pdx_bldgs_orig] do |t|
   t.run %Q{
     DELETE FROM 
     -- SELECT * FROM
-    taxlot_bldgs
+    #{t.name}
       WHERE tlid IN (
-        SELECT tlid from taxlot_buildings
+        SELECT tlid from #{t.name}
         GROUP by tlid
         HAVING COUNT(*)>1
         );
@@ -88,7 +89,7 @@ table :pdx_bldgs => [:pdx_bldgs_orig, :pdx_addrs, :taxlot_bldgs, :taxlot_addrs] 
     b.bldg_use,
     0::integer as no_addrs,
     the_geom_centroids,
-    st_multi(ST_SimplifyPreserveTopology(b.the_geom,7))::geometry(MultiPolygon,4326) as the_geom
+    st_multi(ST_SimplifyPreserveTopology(b.the_geom,0.000001))::geometry(MultiPolygon,4326) as the_geom
   FROM pdx_bldgs_orig b;
   }
 
@@ -122,7 +123,6 @@ table :pdx_bldgs => [:pdx_bldgs_orig, :pdx_addrs, :taxlot_bldgs, :taxlot_addrs] 
     WHERE p.pdx_bldg_id=b.pdx_bldg_id
     AND b.tlid=a.tlid
     AND p.address_id IS NULL;
-
   }
 
   t.add_update_column

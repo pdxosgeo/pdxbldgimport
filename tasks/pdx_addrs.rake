@@ -115,6 +115,7 @@ end
 # join table that has only 1:1 taxlot to address mappings
 # by geometry
 table :taxlot_addrs => [:taxlots, :addresses] do |t|
+  t.drop_table
   t.run %Q{
     CREATE TABLE #{t.name} AS
       SELECT t.tlid,a.address_id
