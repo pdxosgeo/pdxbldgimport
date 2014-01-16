@@ -1,3 +1,10 @@
+#
+# Run like this, from the ogr2osm directory:
+# python ogr2osm.py ~/pdxbldgimport/pdx_bldgs_export.shp \
+#    -o ~/pdxbldgimport/pdx_bldgs_export.osm \
+#    -t ~/pdxbldgimport/scripts/pdx_bldg_translate.py
+# 
+
 """
 Translation rules for the PDX Building import
 
