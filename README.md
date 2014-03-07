@@ -8,8 +8,8 @@ Because of its size, this repo does not contain the actual data. Just the code t
 Requirements
 ============
 
-1. PostgreSQL
-2. Osmosis
+1. PostgreSQL (Postgres.app)
+2. Osmosis (brew)
 3. ruby, rake, bundler
 
 
@@ -33,7 +33,7 @@ ENV['PGDATABASE']='pdx_bldgs'
 ENV['PGHOST']='myhost'
 ```
 
-Load the osmosis schema:
+Create the OSM schema for your db from the scripts in your Osmosis directory.
 ```
 psql pdx_bldgs -f pgsnapshot_schema_0.6.sql
 psql pdx_bldgs -f pgsnapshot_schema_0.6_linestring.sql
