@@ -1,4 +1,4 @@
-Portland, Oregon OSM Building Import Code Repo
+Portland, Oregon OSM Building Import Process
 =============
 
 The OSM Wiki page for this project is here: http://wiki.openstreetmap.org/wiki/Portland,_OR_Bldg_import
@@ -16,24 +16,32 @@ Requirements
 Preparing
 =========
 
-You need to create a PostgreSQL database. I call mine pdx_bldgs.
+Create a PostgreSQL database (e.g. pdx_bldgs). In your database, load extensions postgis and hstore. 
+```
+create database pdx_bldgs;
+\connect pdx_bldgs
+create extension postgis;
+create extension hstore;
+\quit
+```
+
 Edit the Rakefile to include your database configuration:
 
+```
 ENV['PGUSER']='myname'
 ENV['PGDATABASE']='pdx_bldgs'
 ENV['PGHOST']='myhost'
-
-
-In your database, load extensions postgis and hstore.
+```
 
 Load the osmosis schema:
-
+```
 psql pdx_bldgs -f pgsnapshot_schema_0.6.sql
 psql pdx_bldgs -f pgsnapshot_schema_0.6_linestring.sql
+```
 
 Setup your repo. I use:
 
-bundle install --path=vendor --binstubs
+`bundle install --path=vendor --binstubs`
 
 Loading the data
 ================
