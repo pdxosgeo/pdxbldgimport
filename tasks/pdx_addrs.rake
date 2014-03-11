@@ -1,61 +1,27 @@
-desc "Generate final address table"
-table :pdx_addrs => [:addresses] do |t|
- t.drop_table
- t.run %Q{
-  CREATE TABLE pdx_addrs AS
-   SELECT distinct
-    address_number as housenumber,
-    address_full as street,
-    a.zip_code as postcode,
-    initcap(city) as city,
-    'OR'::varchar(2) as state,
-    'US'::varchar(2) as country,
-    a.the_geom
-  FROM addresses a
-  WHERE the_geom is not null;
+file 'master_address.zip' do 
+  sh %Q{ wget --quiet --timestamping http://library.oregonmetro.gov/rlisdiscovery/master_address.zip }
+end 
 
-  ALTER table #{t.name}
-    ADD COLUMN address_id serial ;
-  }
-  t.add_update_column
-  t.add_spatial_index(:the_geom)
-  t.add_index :address_id
+addr_date=File.stat('master_address.zip').mtime.strftime('%Y-%m-%d')
 
+file "PortlandAddrs-#{addr_date}/master_address.shp" => 'master_address.zip' do
+  sh %Q{unzip -n -j master_address.zip -d PortlandAddrs-#{addr_date};true}
+  # we have to do this, because the individual files are newer than the zipfile that contains them
+  sh %Q{touch -t #{(File.stat('master_address.zip').mtime+1).strftime('%Y%m%d%H%M.%S')}  PortlandAddrs-#{addr_date}/*}
 end
 
-desc "Load raw address data. Used to generate pdx_addrs"
-table :addresses => 'address_data.csv' do |t|
-  t.drop_table
-  t.run %Q{
-    CREATE TABLE #{t.name} (
-      "address_id" varchar(20) primary key,
-      "address_number" integer,
-      "address_number_char" varchar(20),
-      "leading_zero" varchar(1),
-      "str_predir_code" varchar(20),
-      "street_name" varchar(50),
-      "street_type_code" varchar(20),
-      "str_postdir_code" varchar(20),
-      "unit_value" varchar(20),
-      "city" varchar(20),
-      "county" varchar(20),
-      "state_abbrev" varchar(20),
-      "zip_code" varchar(5),
-      "zip4" varchar(4),
-      "address_full" varchar(200),
-      "x" varchar(20),
-      "y" varchar(20))
-  }
-  psql("\\copy #{t.name} FROM #{t.prerequisites.first} CSV HEADER ")
-  t.add_point_column
-  t.run %Q{
-    UPDATE #{t.name}
-      SET x=NULLIF(x,''),y=NULLIF(y,'');
+desc "Dowloads and unzips the latest address file"
+task :pdx_addr_download => "PortlandAddrs-#{addr_date}/master_address.shp" do
+end
 
+table :master_address => shapefile("PortlandAddrs-#{addr_date}/master_address.shp") do |t|
+  t.drop_table
+  t.load_shapefile(t.prerequisites.first, :append => false)
+  run %Q{
     UPDATE #{t.name}
-      SET the_geom=st_transform(st_setsrid(ST_MakePoint("x"::numeric,"y"::numeric),2913),4326),
-      street_name=initcap(regexp_replace(street_name, E'"','','g')),
-      str_predir_code=CASE str_predir_code
+      SET 
+      fname=initcap(regexp_replace(fname, E'"','','g')),
+      fdpre=CASE fdpre
         WHEN 'N' THEN 'North'
         WHEN 'S' THEN 'South'
         WHEN 'E' THEN 'East'
@@ -65,7 +31,7 @@ table :addresses => 'address_data.csv' do |t|
         WHEN 'NE' THEN 'Northeast'
         WHEN 'SE' THEN 'Southeast'
         END,
-      str_postdir_code=CASE str_postdir_code
+      fdsuf=CASE fdsuf
         WHEN 'N' THEN 'North'
         WHEN 'S' THEN 'South'
         WHEN 'E' THEN 'East'
@@ -77,61 +43,69 @@ table :addresses => 'address_data.csv' do |t|
         WHEN 'SB' THEN 'Southbound'
         WHEN 'NB' THEN 'Northbound'
         END,
-      street_type_code=CASE street_type_code
-        WHEN 'BRG' THEN 'Bridge'
-        WHEN 'CR' THEN 'Creek'
-        WHEN 'FWY' THEN 'Freeway'
-        WHEN 'LOOP' THEN 'Loop'
-        WHEN 'PARK' THEN 'Park'
-        WHEN 'RDG' THEN 'Ridge'
-        WHEN 'PT' THEN 'Point'
-        WHEN 'ST' THEN 'Street'
-        WHEN 'RD' THEN 'Road'
-        WHEN 'PL' THEN 'Place'
-        WHEN 'WAY' THEN 'Way'
-        WHEN 'DR' THEN 'Drive'
-        WHEN 'BLVD' THEN 'Boulevard'
-        WHEN 'SQ' THEN 'Square'
-        WHEN 'LN' THEN 'Lane'
-        WHEN 'CT' THEN 'Court'
-        WHEN 'TER' THEN 'Terrace'
-        WHEN 'PKWY' THEN 'Parkway'
-        WHEN 'CIR' THEN 'Circle'
-        WHEN 'HWY' THEN 'Highway'
-        WHEN 'AVE' THEN 'Avenue'
-        WHEN 'CRES' THEN 'Crest'
-        WHEN 'PATH' THEN 'Path'
+      ftype=CASE ftype
         WHEN 'ALY' THEN 'Alley'
-        WHEN 'WALK' THEN 'Walk'
+        WHEN 'AVE' THEN 'Avenue'
+        WHEN 'BLVD' THEN 'Boulevard'
+        WHEN 'BRG' THEN 'Bridge'
+        WHEN 'CIR' THEN 'Circle'
+        WHEN 'CIRC' THEN 'Circle'
+        WHEN 'CR' THEN 'Creek'
+        WHEN 'CRES' THEN 'Crest'
         WHEN 'CRST' THEN 'Crescent'
+        WHEN 'CT' THEN 'Court'
+        WHEN 'DR' THEN 'Drive'
+        WHEN 'FWY' THEN 'Freeway'
+        WHEN 'HWY' THEN 'Highway'
+        WHEN 'LN' THEN 'Lane'
+        WHEN 'LOOP' THEN 'Loop'
+        WHEN 'LP' THEN 'Loop'
+        WHEN 'PARK' THEN 'Park'
+        WHEN 'PATH' THEN 'Path'
+        WHEN 'PKWY' THEN 'Parkway'
+        WHEN 'PL' THEN 'Place'
+        WHEN 'PT' THEN 'Point'
+        WHEN 'RD' THEN 'Road'
+        WHEN 'RDG' THEN 'Ridge'
+        WHEN 'SQ' THEN 'Square'
+        WHEN 'ST' THEN 'Street'
+        WHEN 'TER' THEN 'Terrace'
+        WHEN 'TERR' THEN 'Terrace'
+        WHEN 'VW' THEN 'View'
+        WHEN 'WALK' THEN 'Walk'
+        WHEN 'WAY' THEN 'Way'
+        WHEN 'WY' THEN 'Way'
+        ELSE ftype
         END;
     UPDATE #{t.name}
-      SET address_full=array_to_string(ARRAY[str_predir_code,street_name,street_type_code,str_postdir_code], ' ')
+      SET fulladd=array_to_string(ARRAY[fdpre,fname,ftype,fdsuf], ' ')
   }
-
-  t.add_update_column
 end
 
-# join table that has only 1:1 taxlot to address mappings
-# by geometry
-table :taxlot_addrs => [:taxlots, :addresses] do |t|
-  t.drop_table
-  t.run %Q{
-    CREATE TABLE #{t.name} AS
-      SELECT t.tlid,a.address_id
-      FROM pdx_addrs a 
-      JOIN taxlots t
-        ON ST_Intersects(t.the_geom,a.the_geom);
+desc "Generate final address table"
+table :pdx_addrs => [:master_address] do |t|
+ t.drop_table
+ t.run %Q{
+  CREATE TABLE pdx_addrs AS
+   SELECT distinct
+    tlid as state_id,
+    house as housenumber,
+    fulladd as street,
+    a.zip as postcode,
+    initcap(mail_city) as city,
+    'OR'::varchar(2) as state,
+    'US'::varchar(2) as country,
+    a.the_geom
+  FROM master_address a;
 
-    DELETE FROM 
-    #{t.name}
-      WHERE tlid IN (
-        SELECT tlid from #{t.name}
-        GROUP by tlid
-        HAVING COUNT(*)>1
-        );
+  ALTER table #{t.name}
+    ADD COLUMN address_id serial ;
   }
-  t.add_index :tlid
+  t.add_update_column
+  t.add_spatial_index(:the_geom)
+  t.add_index :state_id
   t.add_index :address_id
-  t.add_update_column
+
 end
+
+
