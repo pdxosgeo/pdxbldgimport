@@ -37,7 +37,7 @@ table :pdx_bldgs_orig  =>  shapefile("PortlandBuildings-#{bldg_date}/buildings.s
 end
 
 desc "Generate final format building footprint data"
-table :pdx_bldgs => [:pdx_bldgs_orig, :pdx_addrs] do |t|
+table :pdx_bldgs => [:pdx_bldgs_orig, :pdx_addrs, :osm_buildings] do |t|
   t.drop_table
   t.run %Q{
   CREATE TEMP TABLE house_and_garage AS
@@ -84,6 +84,10 @@ table :pdx_bldgs => [:pdx_bldgs_orig, :pdx_addrs] do |t|
   t.add_index(:no_addrs)
   
   t.run %Q{
+    DELETE FROM #{t.name} a
+    USING osm_buildings b
+    where st_intersects(a.the_geom,b.the_geom);
+    
     UPDATE #{t.name}
     SET housenumber = NULL,
     street = NULL,

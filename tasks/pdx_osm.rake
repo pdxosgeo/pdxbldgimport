@@ -2,16 +2,16 @@ desc "run all OSM-related tasks"
 task :all_osm => [:osm_buildings]
 
 # Actual Extent
-# n=45.7254175022529
-# e=-121.926452653623
-# s=45.2012894970606
-# w=-123.19651445735
+n=45.7254175022529
+e=-121.926452653623
+s=45.2012894970606
+w=-123.19651445735
 
 # Test Extent
-n=45.57
-e=-122.68
-s=45.5
-w=-122.69
+# n=45.57
+# e=-122.68
+# s=45.5
+# w=-122.69
 desc "Download buildings in OSM"
 file 'osm/bldgs.osm.bz2' do |t|
   sh %Q{
