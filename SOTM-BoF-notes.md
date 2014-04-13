@@ -13,3 +13,4 @@
 * Skip the addr:country tag
 * Generate some .osm files for the imports-us committee to look at
 * Defer till after the data update in May
+* Identify osm-extant buildings without addresses, and add find appropriate address point(s) to add.
