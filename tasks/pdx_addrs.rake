@@ -17,7 +17,7 @@ end
 table :master_address => shapefile("PortlandAddrs-#{addr_date}/master_address.shp") do |t|
   t.drop_table
   t.load_shapefile(t.prerequisites.first, :append => false)
-  run %Q{
+  t.run %Q{
     UPDATE #{t.name}
       SET 
       fname=initcap(regexp_replace(fname, E'"','','g')),
@@ -88,7 +88,7 @@ table :pdx_addrs => [:master_address] do |t|
  t.run %Q{
   CREATE TABLE pdx_addrs AS
    SELECT distinct
-    tlid as state_id,
+    regexp_replace(tlid, E'(\s+|-0*)','','g') as state_id,
     house as housenumber,
     fulladd as street,
     a.zip as postcode,

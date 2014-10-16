@@ -28,6 +28,9 @@ table :pdx_bldgs_orig  =>  shapefile("PortlandBuildings-#{bldg_date}/buildings.s
 --    UPDATE #{t.name}
 --      SET the_geom=st_makevalid(the_geom) 
 --      WHERE not st_isvalid(the_geom);
+'
+    UPDATE  #{t.name} 
+      SET state_id=regexp_replace(state_id, E'(\s|-0*)','','g');
 
     ALTER TABLE #{t.name}
       RENAME COLUMN gid to pdx_bldg_id;
@@ -41,8 +44,8 @@ table :pdx_bldgs => [:pdx_bldgs_orig, :pdx_addrs, :osm_buildings] do |t|
   t.drop_table
   t.run %Q{
   CREATE TEMP TABLE house_and_garage AS
-  SELECT DISTINCT a.state_id from 
-    pdx_bldgs_orig a
+  SELECT DISTINCT a.state_id
+   from  pdx_bldgs_orig a
     JOIN pdx_bldgs_orig b on (a.state_id=b.state_id)
     WHERE a.state_id in (select state_id from pdx_bldgs_orig group by state_id having count(1)=2)
     AND (
@@ -52,7 +55,7 @@ table :pdx_bldgs => [:pdx_bldgs_orig, :pdx_addrs, :osm_buildings] do |t|
     );
     
   CREATE table pdx_bldgs as 
-    SELECT  b.state_id,
+    SELECT b.state_id,
     b.bldg_id,
     b.pdx_bldg_id,
     a.address_id,
@@ -75,6 +78,11 @@ table :pdx_bldgs => [:pdx_bldgs_orig, :pdx_addrs, :osm_buildings] do |t|
   LEFT OUTER JOIN pdx_addrs a on (a.state_id=b.state_id)
   WHERE b.state_id IN (select state_id from pdx_bldgs_orig group by state_id having count(1)=1)
   OR b.state_id IN (SELECT state_id FROM house_and_garage);
+  
+  UPDATE #{t.name}
+    SET address_id=NULL, housenumber=NULL,street=NULL 
+    WHERE bldg_type='Garage' 
+    AND address_id IS NOT NULL;
   }
 
   t.add_spatial_index(:the_geom)
