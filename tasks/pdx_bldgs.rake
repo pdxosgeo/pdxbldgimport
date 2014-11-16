@@ -15,7 +15,7 @@ task :pdx_bldg_download => "PortlandBuildings-#{bldg_date}/buildings.shp" do
 end
 
 desc "Run all building and address related tasks"
-task :all_pdx => [:pdx_bldgs, :pdx_addrs, :taxlots]
+task :all_pdx => [:pdx_bldgs, :pdx_addrs, :qtr_sec]
 
 desc "load raw building footprints. Used only by :pdx_bldgs tasks"
 table :pdx_bldgs_orig  =>  shapefile("PortlandBuildings-#{bldg_date}/buildings.shp") do |t|
@@ -28,15 +28,24 @@ table :pdx_bldgs_orig  =>  shapefile("PortlandBuildings-#{bldg_date}/buildings.s
 --    UPDATE #{t.name}
 --      SET the_geom=st_makevalid(the_geom) 
 --      WHERE not st_isvalid(the_geom);
-'
+
     UPDATE  #{t.name} 
       SET state_id=regexp_replace(state_id, E'(\s|-0*)','','g');
 
     ALTER TABLE #{t.name}
       RENAME COLUMN gid to pdx_bldg_id;
+
+    ALTER TABLE #{t.name}
+      ADD COLUMN qtr_sec text;
+
+    UPDATE #{t.name}
+    SET qtr_sec = qtr_sec.qtrsec
+    FROM qtr_sec
+    WHERE st_intersects(qtr_sec.the_geom,#{t.name}.the_geom_centroids);  
   }
   t.add_centroids
   t.add_index :state_id
+  t.add_index :qtrsec
 end
 
 desc "Generate final format building footprint data"
@@ -65,12 +74,23 @@ table :pdx_bldgs => [:pdx_bldgs_orig, :pdx_addrs, :osm_buildings] do |t|
     a.city,
     a.state,
     a.country,
+    ''::text as qtrsec,
     b.num_story as levels,
     round(b.surf_elev::numeric * 0.3048,2) as ele,
     round(b.max_height::numeric * 0.3048,2) as height,
     b.bldg_name as name,
-    b.bldg_use,
-    b.bldg_type,
+    CASE b.bldg_type
+      WHEN 'Townhouse' THEN 'house'
+      WHEN 'House' THEN 'detached'
+      WHEN 'Garage' THEN 'garage'
+      WHEN 'RES' THEN 'residential'
+      WHEN 'Res' THEN 'residential'
+      WHEN 'Duplex' THEN 'apartments'
+      WHEN 'Apartment Complex' THEN 'apartments'
+      WHEN 'Multiplex' THEN 'apartments'
+      WHEN 'Residential Condominiums' THEN 'apartments'
+      WHEN 'Dormitories' THEN 'dormitory'
+      ELSE 'yes' END as bldg_type,
     CASE a.state_id IS NULL WHEN true THEN 0::integer ELSE 1::integer END as no_addrs,
     the_geom_centroids,
     st_multi(ST_SimplifyPreserveTopology(b.the_geom,0.000001))::geometry(MultiPolygon,4326) as the_geom
@@ -106,6 +126,11 @@ table :pdx_bldgs => [:pdx_bldgs_orig, :pdx_addrs, :osm_buildings] do |t|
   UPDATE #{t.name}
     SET name = btrim(initcap(name))
     WHERE name is not NULL;
+
+  UPDATE #{t.name}
+    SET qtrsec = conslidated_qtr_secs.qtrsec
+    FROM conslidated_qtr_secs
+    WHERE st_intersects(conslidated_qtr_secs.the_geom,pdx_bldgs.the_geom_centroids);
 
   UPDATE #{t.name}
     SET name = NULL
