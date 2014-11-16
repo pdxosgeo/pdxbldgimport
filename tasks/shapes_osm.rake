@@ -90,7 +90,6 @@ if DB.tables.include?(:conslidated_qtr_secs)
               ele,
               height,
               name,
-              bldg_use,
               bldg_type,
               no_addrs,
               the_geom,
