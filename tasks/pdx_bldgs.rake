@@ -225,14 +225,6 @@ table :pdx_bldgs => [:pdx_bldgs_orig, :pdx_addrs, :osm_buildings] do |t|
     END
     WHERE name IS NOT NULL;
 
-    UPDATE #{t.name} SET
-      bldg_use = NULL
-      WHERE name='Storage A'
-        AND bldg_use='Commercial Restaurant';
-
-    UPDATE #{t.name}
-      SET bldg_use='Institutional Religious'
-      WHERE name='First Unitarian Church Parish Hall'
   }
 
   t.add_update_column
