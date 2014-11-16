@@ -15,47 +15,41 @@ def filterTags(attrs):
 
     tags = {}
     
-    if attrs['BLDG_ID']:
-        tags.update({'pdxbldgs:id':attrs['BLDG_ID'].strip(' ')})
+    # if attrs['BLDG_ID']:
+    #     tags.update({'pdxbldgs:id':attrs['BLDG_ID'].strip(' ')})
 
-    if attrs['HOUSENUMBE']:
-        tags.update({'addr:housenumber':attrs['HOUSENUMBE'].strip(' ')})
+    if attrs['housenum']:
+        tags.update({'addr:housenumber':attrs['housenum'].strip(' ')})
 
-    if attrs['STREET']:
-        tags.update({'addr:street':attrs['STREET'].strip(' ')})
+    if attrs['street']:
+        tags.update({'addr:street':attrs['street'].strip(' ')})
 
-    if attrs['POSTCODE']:
-        tags.update({'addr:postcode': attrs['POSTCODE'].strip(' ')})
+    if attrs['postcode']:
+        tags.update({'addr:postcode': attrs['postcode'].strip(' ')})
 
-    if attrs['CITY']:
-        tags.update({'addr:city': attrs['CITY'].strip(' ')})
+    if attrs['city']:
+        tags.update({'addr:city': attrs['city'].strip(' ')})
 
-    if attrs['COUNTRY']:
-        tags.update({'addr:country': attrs['COUNTRY'].strip(' ')})
+    if attrs['levels']:
+        tags.update({'building:levels': attrs['levels']})
 
-    if attrs['STATE']:
-        tags.update({'addr:state': attrs['STATE'].strip(' ')})  
+    if attrs['bldg_type']:
+        tags.update({'building': attrs['bldg_type'].strip(' ')}) 
 
-    if attrs['LEVELS']:
-        tags.update({'building:levels': attrs['LEVELS']})
+    if attrs['ele'] and isinstance(attrs['ele'], float):
+        tags.update({'ele': round(attrs['ele'], 2)})
 
-    if attrs['BUILDING']:
-        tags.update({'building': attrs['BUILDING'].strip(' ')}) 
-
-    if attrs['ELE'] and isinstance(attrs['ELE'], float):
-        tags.update({'ele': round(attrs['ELE'], 2)})
-
-    if attrs['HEIGHT'] and isinstance(attrs['HEIGHT'], float):
+    if attrs['height'] and isinstance(attrs['height'], float):
         height = 0
-        height = round(attrs['HEIGHT'], 2)
+        height = round(attrs['height'], 2)
         if height == 0.00:
             pass
         else:
-            tags.update({'height': attrs['HEIGHT']}) 
+            tags.update({'height': attrs['height']}) 
 
-    if attrs['NAME']:
+    if attrs['name']:
         formattedname = ""
-        formattedname = attrs['NAME'].strip(' ').title()
+        formattedname = attrs['name'].strip(' ').title()
         
         #Expand "St. "
         #TODO: any other expansions necessary?
