@@ -47,24 +47,24 @@ def filterTags(attrs):
         else:
             tags.update({'height': attrs['height']}) 
 
-    if attrs['name']:
-        formattedname = ""
-        formattedname = attrs['name'].strip(' ').title()
+    # if attrs['name']:
+    #     formattedname = ""
+    #     formattedname = attrs['name'].strip(' ').title()
         
-        #Expand "St. "
-        #TODO: any other expansions necessary?
-        if "St. " in formattedname:
-            formattedname.replace("St. ", "Saint ")
+    #     #Expand "St. "
+    #     #TODO: any other expansions necessary?
+    #     if "St. " in formattedname:
+    #         formattedname.replace("St. ", "Saint ")
          
-        #Get rid of some obvious addresses (do this last). 
-        #TODO: make sure this isn't removing good stuff
-        if ("Nw " in formattedname or "Ne " in formattedname or
-            "Sw " in formattedname or "Sw " in formattedname or
-            "N " in formattedname):
-            formattedname = ""
+    #     #Get rid of some obvious addresses (do this last). 
+    #     #TODO: make sure this isn't removing good stuff
+    #     if ("Nw " in formattedname or "Ne " in formattedname or
+    #         "Sw " in formattedname or "Sw " in formattedname or
+    #         "N " in formattedname):
+    #         formattedname = ""
 
-        if formattedname != "":
-            tags.update({'name': formattedname})
+    #     if formattedname != "":
+    #         tags.update({'name': formattedname})
 
     return tags
 
