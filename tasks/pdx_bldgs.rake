@@ -35,17 +35,9 @@ table :pdx_bldgs_orig  =>  shapefile("PortlandBuildings-#{bldg_date}/buildings.s
     ALTER TABLE #{t.name}
       RENAME COLUMN gid to pdx_bldg_id;
 
-    ALTER TABLE #{t.name}
-      ADD COLUMN qtr_sec text;
-
-    UPDATE #{t.name}
-    SET qtr_sec = qtr_sec.qtrsec
-    FROM qtr_sec
-    WHERE st_intersects(qtr_sec.the_geom,#{t.name}.the_geom_centroids);  
   }
   t.add_centroids
   t.add_index :state_id
-  t.add_index :qtrsec
 end
 
 desc "Generate final format building footprint data"
@@ -78,7 +70,6 @@ table :pdx_bldgs => [:pdx_bldgs_orig, :pdx_addrs, :osm_buildings] do |t|
     b.num_story as levels,
     round(b.surf_elev::numeric * 0.3048,2) as ele,
     round(b.max_height::numeric * 0.3048,2) as height,
-    b.bldg_name as name,
     CASE b.bldg_type
       WHEN 'Townhouse' THEN 'house'
       WHEN 'House' THEN 'detached'
@@ -122,10 +113,7 @@ table :pdx_bldgs => [:pdx_bldgs_orig, :pdx_addrs, :osm_buildings] do |t|
     address_id =NULL
     WHERE bldg_type='Garage'
     AND state_id in (SELECT state_id FROM house_and_garage);
- 
-  UPDATE #{t.name}
-    SET name = btrim(initcap(name))
-    WHERE name is not NULL;
+
 
   UPDATE #{t.name}
     SET qtrsec = conslidated_qtr_secs.qtrsec
