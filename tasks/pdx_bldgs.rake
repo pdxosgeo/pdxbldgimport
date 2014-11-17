@@ -101,7 +101,12 @@ table :pdx_bldgs => [:pdx_bldgs_orig, :pdx_addrs, :osm_buildings] do |t|
   OR b.state_id IN (SELECT state_id FROM house_and_garage);
   
   UPDATE #{t.name}
-    SET address_id=NULL, housenumber=NULL,street=NULL 
+    SET address_id=NULL, 
+    housenumber=NULL,
+    street=NULL,
+    city = NULL,
+    postcode = NULL,
+    state = NULL
     WHERE bldg_type ILIKE 'garage' 
     AND address_id IS NOT NULL;
   }
@@ -120,7 +125,10 @@ table :pdx_bldgs => [:pdx_bldgs_orig, :pdx_addrs, :osm_buildings] do |t|
     UPDATE #{t.name}
     SET housenumber = NULL,
     street = NULL,
-    address_id =NULL
+    address_id =NULL,
+    city = NULL,
+    postcode = NULL,
+    state = NULL
     WHERE bldg_type ILIKE 'garage'
     AND state_id in (SELECT state_id FROM house_and_garage);
 
