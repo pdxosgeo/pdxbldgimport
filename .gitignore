@@ -5,3 +5,11 @@ vendor/*
 bin/*
 osm/*
 osm2pgsql
+*.pyc
+shps/*
+.DS_Store
+PortlandAddrs-*
+*.sublime-project
+*.sublime-workspace
+qtr_sec
+*.swp
