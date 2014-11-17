@@ -98,6 +98,7 @@ if DB.tables.include?(:conslidated_qtr_secs)
     end
 
     file "shps/#{qtrsec}.osm" => "shps/#{qtrsec}.shp" do
+      sh %Q{ if [[ -f shps/#{qtrsec}.osm ]]; then rm shps/#{qtrsec}.osm; fi}
       sh %Q{python #{__dir__}/../../ogr2osm/ogr2osm.py "shps/#{qtrsec}.shp" \
       -o shps/#{qtrsec}.osm \
       -t #{__dir__}/../scripts/pdx_bldg_translate.py}
