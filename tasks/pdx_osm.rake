@@ -55,6 +55,7 @@ table :osm_buildings do |t|
   t.run %Q{
   create table #{t.name} as
   select 
+  id as way_id,
   tags -> 'access' as access,
   tags -> 'addr:housename' as addr_housename,
   tags -> 'addr:housenumber' as addr_housenumber,
