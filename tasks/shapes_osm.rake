@@ -74,7 +74,7 @@ if DB.tables.include?(:conslidated_qtr_secs)
   @qtr_secs=DB[:conslidated_qtr_secs].map(:qtrsec).uniq
 
   @qtr_secs.each do |qtrsec|
-    file "shps/#{qtrsec}.shp" do
+    file "shps/#{qtrsec}.shp" => :pdx_bldgs do
       sh %Q{ogr2ogr -f "ESRI Shapefile" shps/#{qtrsec}.shp PG:"" \
       -sql "SELECT state_id,
               bldg_id,
