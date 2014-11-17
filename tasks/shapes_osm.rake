@@ -88,7 +88,7 @@ if DB.tables.include?(:conslidated_qtr_secs)
               country,
               levels,
               ele,
-              height,
+              NULLIF(height,0) as height,
               bldg_type,
               no_addrs,
               the_geom,

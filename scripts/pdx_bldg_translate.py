@@ -36,16 +36,11 @@ def filterTags(attrs):
     if attrs['bldg_type']:
         tags.update({'building': attrs['bldg_type'].strip(' ')}) 
 
-    if attrs['ele'] and isinstance(attrs['ele'], float):
-        tags.update({'ele': round(attrs['ele'], 2)})
+    if attrs['ele']: 
+        tags.update({'ele': '%s' % round(float(attrs['ele']), 2)})
 
-    if attrs['height'] and isinstance(attrs['height'], float):
-        height = 0
-        height = round(attrs['height'], 2)
-        if height == 0.00:
-            pass
-        else:
-            tags.update({'height': attrs['height']}) 
+    if attrs['height']: 
+        tags.update({'height': '%s' % round(float(attrs['height']), 2)})
 
     return tags
 
