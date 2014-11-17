@@ -22,12 +22,22 @@ table :pdx_bldgs_orig  =>  shapefile("PortlandBuildings-#{bldg_date}/buildings.s
   t.drop_table
   t.load_shapefile(t.prerequisites.first, :append => false)
   t.run %Q{
-    --ALTER TABLE #{t.name} ALTER the_geom type geometry(MultiPolygon,4326) using st_multi(the_geom);
-    DELETE FROM #{t.name} WHERE NOT st_isvalid(the_geom);
 
---    UPDATE #{t.name}
---      SET the_geom=st_makevalid(the_geom) 
---      WHERE not st_isvalid(the_geom);
+    CREATE TEMP TABLE pdx_bldgs_orig_bad_geom as 
+      SELECT gid,st_makevalid(the_geom) as the_geom
+      FROM pdx_bldgs_orig 
+      WHERE NOT st_isvalid(the_geom);
+
+    DELETE FROM #{t.name}
+      WHERE gid IN (
+        SELECT gid FROM pdx_bldgs_orig_bad_geom
+        WHERE ST_GeometryType(the_geom)='ST_MultiPolygon'
+        );
+    
+    UPDATE #{t.name} o
+      SET the_geom=f.the_geom
+      FROM pdx_bldgs_orig_bad_geom f
+      WHERE o.gid=f.gid;
 
     UPDATE  #{t.name} 
       SET state_id=regexp_replace(state_id, E'(\s|-0*)','','g');
@@ -50,9 +60,9 @@ table :pdx_bldgs => [:pdx_bldgs_orig, :pdx_addrs, :osm_buildings] do |t|
     JOIN pdx_bldgs_orig b on (a.state_id=b.state_id)
     WHERE a.state_id in (select state_id from pdx_bldgs_orig group by state_id having count(1)=2)
     AND (
-      (a.bldg_type='House' and b.bldg_type='Garage')
+      (a.bldg_type ilike 'House' and b.bldg_type ilike 'Garage')
       OR
-      (b.bldg_type='House' and a.bldg_type='Garage')
+      (b.bldg_type ilike 'House' and a.bldg_type like 'Garage')
     );
     
   CREATE table pdx_bldgs as 
@@ -92,7 +102,7 @@ table :pdx_bldgs => [:pdx_bldgs_orig, :pdx_addrs, :osm_buildings] do |t|
   
   UPDATE #{t.name}
     SET address_id=NULL, housenumber=NULL,street=NULL 
-    WHERE bldg_type='Garage' 
+    WHERE bldg_type ILIKE 'garage' 
     AND address_id IS NOT NULL;
   }
 
@@ -111,7 +121,7 @@ table :pdx_bldgs => [:pdx_bldgs_orig, :pdx_addrs, :osm_buildings] do |t|
     SET housenumber = NULL,
     street = NULL,
     address_id =NULL
-    WHERE bldg_type='Garage'
+    WHERE bldg_type ILIKE 'garage'
     AND state_id in (SELECT state_id FROM house_and_garage);
 
 
