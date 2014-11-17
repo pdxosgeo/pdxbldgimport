@@ -13,5 +13,4 @@ gem 'sequel-postgis', :git => 'git@github.com:darrell/sequel-postgis.git'
 gem 'pry'
 #gem 'postgistable', :path => '/Users/darrell/postgis/postgistable'
 #gem 'sequel-postgis', :path => '/Users/darrell/postgis/sequel-postgis'
-
-
+gem 'rosemary', :git => 'git://github.com/sozialhelden/rosemary'

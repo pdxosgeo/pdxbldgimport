@@ -1,4 +1,15 @@
 GIT
+  remote: git://github.com/sozialhelden/rosemary
+  revision: 5a01e85ad796f511c3f740ab496d192089bd548c
+  specs:
+    rosemary (0.4.2)
+      activemodel (>= 3.0.20)
+      builder (>= 2.1.2)
+      httparty (~> 0.10.0)
+      libxml-ruby (>= 2.4.0)
+      oauth (>= 0.4.7)
+
+GIT
   remote: git@github.com:darrell/postgistable.git
   revision: deb962f51b170bb3625d4dc12f775324f6702378
   branch: master
@@ -18,8 +29,28 @@ GIT
 GEM
   remote: http://rubygems.org/
   specs:
+    activemodel (4.1.7)
+      activesupport (= 4.1.7)
+      builder (~> 3.1)
+    activesupport (4.1.7)
+      i18n (~> 0.6, >= 0.6.9)
+      json (~> 1.7, >= 1.7.7)
+      minitest (~> 5.1)
+      thread_safe (~> 0.1)
+      tzinfo (~> 1.1)
+    builder (3.2.2)
     coderay (1.0.9)
+    httparty (0.10.2)
+      multi_json (~> 1.0)
+      multi_xml (>= 0.5.2)
+    i18n (0.6.11)
+    json (1.8.1)
+    libxml-ruby (2.7.0)
     method_source (0.8.1)
+    minitest (5.4.3)
+    multi_json (1.10.1)
+    multi_xml (0.5.5)
+    oauth (0.4.7)
     pg (0.15.1)
     pry (0.9.12.2)
       coderay (~> 1.0.5)
@@ -28,6 +59,9 @@ GEM
     rake (10.1.0)
     sequel (4.0.0)
     slop (3.4.5)
+    thread_safe (0.3.4)
+    tzinfo (1.2.2)
+      thread_safe (~> 0.1)
 
 PLATFORMS
   ruby
@@ -37,5 +71,6 @@ DEPENDENCIES
   pg
   postgistable!
   pry
+  rosemary!
   sequel
   sequel-postgis!
