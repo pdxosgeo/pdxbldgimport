@@ -78,8 +78,13 @@ table :master_address => shapefile("PortlandAddrs-#{addr_date}/master_address.sh
         ELSE ftype
         END;
     UPDATE #{t.name}
+      SET fname=regexp_replace(fname,'Hwy', 'Highway') 
+      WHERE fname ~* E'(^|\s+)hwy ';
+
+    UPDATE #{t.name}
       SET fulladd=array_to_string(ARRAY[fdpre,fname,ftype,fdsuf], ' ')
   }
+  t.add_update_column
 end
 
 desc "Generate final address table"
