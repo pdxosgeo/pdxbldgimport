@@ -75,7 +75,7 @@ if DB.tables.include?(:conslidated_qtr_secs)
 
   @qtr_secs.each do |qtrsec|
     file "shps/#{qtrsec}.shp" => :pdx_bldgs do
-      sh %Q{ogr2ogr -f "ESRI Shapefile" shps/#{qtrsec}.shp PG:"" \
+      sh %Q{ogr2ogr -overwrite -f "ESRI Shapefile" shps/#{qtrsec}.shp PG:"" \
       -sql "SELECT state_id,
               bldg_id,
               pdx_bldg_id as pdx_bldg_i,
