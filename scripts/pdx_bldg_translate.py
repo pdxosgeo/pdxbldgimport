@@ -19,29 +19,35 @@ def filterTags(attrs):
     #     tags.update({'pdxbldgs:id':attrs['BLDG_ID'].strip(' ')})
 
     if 'housenum' in attrs:
-        tags.update({'addr:housenumber':attrs['housenum'].strip(' ')})
+        if attrs['housenum']:
+            tags.update({'addr:housenumber':attrs['housenum'].strip(' ')})
 
     if 'street' in attrs:
-        tags.update({'addr:street':attrs['street'].strip(' ')})
+        if attrs['street']:
+            tags.update({'addr:street':attrs['street'].strip(' ')})
 
     if 'postcode' in attrs:
-        tags.update({'addr:postcode': attrs['postcode'].strip(' ')})
+        if attrs['postcode']:
+            tags.update({'addr:postcode': attrs['postcode'].strip(' ')})
 
     if 'city' in attrs:
-        tags.update({'addr:city': attrs['city'].strip(' ')})
+        if attrs['city']:
+            tags.update({'addr:city': attrs['city'].strip(' ')})
 
     if 'levels' in attrs:
-        tags.update({'building:levels': attrs['levels']})
+        if attrs['levels']:
+            tags.update({'building:levels': attrs['levels']})
 
     if 'bldg_type' in attrs:
-        tags.update({'building': attrs['bldg_type'].strip(' ')}) 
+        if attrs['bldg_type']:
+            tags.update({'building': attrs['bldg_type'].strip(' ')}) 
 
     if 'ele' in attrs:
-        if not attrs['ele']=='':
+        if attrs['ele']:
             tags.update({'ele': '%s' % round(float(attrs['ele']), 2)})
 
     if 'height' in attrs:
-        if not attrs['height']=='':
+        if attrs['height']:
             tags.update({'height': '%s' % round(float(attrs['height']), 2)})
 
     return tags
