@@ -74,36 +74,61 @@ if DB.tables.include?(:conslidated_qtr_secs)
   @qtr_secs=DB[:conslidated_qtr_secs].map(:qtrsec).uniq
 
   @qtr_secs.each do |qtrsec|
-    file "shps/#{qtrsec}.shp" => :pdx_bldgs do
-      sh %Q{ogr2ogr -overwrite -f "ESRI Shapefile" shps/#{qtrsec}.shp PG:"" \
-      -sql "SELECT state_id,
-              bldg_id,
-              pdx_bldg_id as pdx_bldg_i,
-              address_id,
-              housenumber as housenum,
-              street,
-              postcode,
-              city,
-              state,
-              country,
-              levels,
-              ele,
-              NULLIF(height,0) as height,
-              bldg_type,
-              no_addrs,
-              the_geom,
-              qtrsec 
-              FROM pdx_bldgs WHERE qtrsec='#{qtrsec}'"
-          }
-    end
+    ['','_multi_addr'].each do |type|
+      shp_fn="shps/#{qtrsec}#{type}.shp"
+      osm_fn="shps/#{qtrsec}#{type}.osm"
 
-    file "shps/#{qtrsec}.osm" => "shps/#{qtrsec}.shp" do
-      sh %Q{ if [[ -f shps/#{qtrsec}.osm ]]; then rm shps/#{qtrsec}.osm; fi}
-      sh %Q{python #{__dir__}/../../ogr2osm/ogr2osm.py "shps/#{qtrsec}.shp" \
-      -o shps/#{qtrsec}.osm \
-      -t #{__dir__}/../scripts/pdx_bldg_translate.py}
-    end
-  end  
+      # yes, this is ugly. I'm sorry.
+      if type == '' 
+        sql = %Q{
+          SELECT state_id,
+                bldg_id,
+                pdx_bldg_id as pdx_bldg_i,
+                address_id,
+                housenumber as housenum,
+                street,
+                postcode,
+                city,
+                state,
+                country,
+                levels,
+                ele,
+                NULLIF(height,0) as height,
+                bldg_type,
+                no_addrs,
+                the_geom,
+                qtrsec 
+                FROM pdx_bldgs WHERE qtrsec='#{qtrsec}'
+        }
+      else 
+        sql = %Q{
+          SELECT state_id,
+                pdx_bldg_id as pdx_bldg_i,
+                housenumber as housenum,
+                street,
+                postcode,
+                city,
+                state,
+                the_geom,
+                qtrsec 
+                FROM pdx_bldgs_multi_addrs WHERE qtrsec='#{qtrsec}'
+        }
+      end #if multi
+
+      file shp_fn => :pdx_bldgs do
+        sh %Q{ogr2ogr -overwrite -f "ESRI Shapefile" #{shp_fn} PG:"" \
+        -sql "#{sql}"
+            }
+      end #file shp_fn
+
+      file osm_fn => shp_fn do
+        sh %Q{ if [[ -f "#{osm_fn}" ]]; then rm "#{osm_fn}"; fi}
+        sh %Q{python #{__dir__}/../../ogr2osm/ogr2osm.py "#{shp_fn}" \
+        -o "#{osm_fn}" \
+        -t #{__dir__}/../scripts/pdx_bldg_translate.py}
+      end #file osm_fn
+    end #type
+  end #qtr_sec
 end
 
 desc "Generate all OSM file chunks"

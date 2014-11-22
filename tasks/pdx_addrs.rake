@@ -18,8 +18,10 @@ table :master_address => shapefile("PortlandAddrs-#{addr_date}/master_address.sh
   t.drop_table
   t.load_shapefile(t.prerequisites.first, :append => false)
   t.run %Q{
+    ALTER TABLE #{t.name}  ADD COLUMN state_id text;
     UPDATE #{t.name}
       SET 
+      state_id=regexp_replace(tlid, E'(\s|-0*)','','g'),
       fname=initcap(regexp_replace(fname, E'"','','g')),
       fdpre=CASE fdpre
         WHEN 'N' THEN 'North'
@@ -85,6 +87,8 @@ table :master_address => shapefile("PortlandAddrs-#{addr_date}/master_address.sh
       SET fulladd=array_to_string(ARRAY[fdpre,fname,ftype,fdsuf], ' ')
   }
   t.add_update_column
+  t.add_index :state_id
+  t.add_index :tlid
 end
 
 desc "Generate final address table"
@@ -92,8 +96,8 @@ table :pdx_addrs => [:master_address] do |t|
  t.drop_table
  t.run %Q{
   CREATE TABLE pdx_addrs AS
-   SELECT distinct
-    regexp_replace(tlid, E'(\s+|-0*)','','g') as state_id,
+   SELECT distinct  
+    state_id,
     house as housenumber,
     fulladd as street,
     a.zip as postcode,
@@ -101,7 +105,8 @@ table :pdx_addrs => [:master_address] do |t|
     'OR'::varchar(2) as state,
     'US'::varchar(2) as country,
     a.the_geom
-  FROM master_address a;
+  FROM master_address a
+  WHERE unit_no IS NULL;
 
   ALTER table #{t.name}
     ADD COLUMN address_id serial ;
