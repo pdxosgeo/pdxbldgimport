@@ -52,6 +52,7 @@ until ways.empty? do
     x.tags["addr:street"]=way[:street]
     x.tags["addr:postcode"]=way[:postcode]
     api.save(x, changeset)
+    count+=1
   end
   api.close_changeset(changeset)
   sleep 60
