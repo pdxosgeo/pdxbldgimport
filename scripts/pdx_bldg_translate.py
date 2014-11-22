@@ -18,29 +18,31 @@ def filterTags(attrs):
     # if attrs['BLDG_ID']:
     #     tags.update({'pdxbldgs:id':attrs['BLDG_ID'].strip(' ')})
 
-    if attrs['housenum']:
+    if 'housenum' in attrs:
         tags.update({'addr:housenumber':attrs['housenum'].strip(' ')})
 
-    if attrs['street']:
+    if 'street' in attrs:
         tags.update({'addr:street':attrs['street'].strip(' ')})
 
-    if attrs['postcode']:
+    if 'postcode' in attrs:
         tags.update({'addr:postcode': attrs['postcode'].strip(' ')})
 
-    if attrs['city']:
+    if 'city' in attrs:
         tags.update({'addr:city': attrs['city'].strip(' ')})
 
-    if attrs['levels']:
+    if 'levels' in attrs:
         tags.update({'building:levels': attrs['levels']})
 
-    if attrs['bldg_type']:
+    if 'bldg_type' in attrs:
         tags.update({'building': attrs['bldg_type'].strip(' ')}) 
 
-    if attrs['ele']: 
-        tags.update({'ele': '%s' % round(float(attrs['ele']), 2)})
+    if 'ele' in attrs:
+        if not attrs['ele']=='':
+            tags.update({'ele': '%s' % round(float(attrs['ele']), 2)})
 
-    if attrs['height']: 
-        tags.update({'height': '%s' % round(float(attrs['height']), 2)})
+    if 'height' in attrs:
+        if not attrs['height']=='':
+            tags.update({'height': '%s' % round(float(attrs['height']), 2)})
 
     return tags
 
