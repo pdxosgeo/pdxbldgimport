@@ -99,6 +99,7 @@ if DB.tables.include?(:conslidated_qtr_secs)
                 the_geom,
                 qtrsec 
                 FROM pdx_bldgs WHERE qtrsec='#{qtrsec}'
+                ORDER BY qtrsec,6,5
         }
       else 
         sql = %Q{
@@ -112,6 +113,7 @@ if DB.tables.include?(:conslidated_qtr_secs)
                 the_geom,
                 qtrsec 
                 FROM pdx_bldgs_multi_addrs WHERE qtrsec='#{qtrsec}'
+                ORDER BY qtrsec,4,3
         }
       end #if multi
 
