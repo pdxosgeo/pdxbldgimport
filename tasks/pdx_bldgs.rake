@@ -113,7 +113,6 @@ table :pdx_bldgs => [:pdx_bldgs_orig, :pdx_addrs, :osm_buildings, :addr_bldg_cou
     round(b.surf_elev::numeric * 0.3048,2) as ele,
     round(b.max_height::numeric * 0.3048,2) as height,
     CASE b.bldg_type
-      WHEN 'Townhouse' THEN 'house'
       WHEN 'House' THEN 'detached'
       WHEN 'Garage' THEN 'garage'
       WHEN 'RES' THEN 'residential'
