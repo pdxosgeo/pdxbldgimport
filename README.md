@@ -49,3 +49,23 @@ Loading the data
 There are a number of rake tasks that will build the datasets.
 You can see them with 'rake -T'
 
+## General instructions
+
+The tasks to download the data are not automatic, you will have to run them manually.
+
+There are a number of intermediate tables that get built and modified. The tasks to build these are in the tasks/*.rake files.
+
+### fetch the data
+
+```
+bundle exec rake osm/bldgs.osm.bz2 pdx_bldg_download pdx_addr_download
+cd osm && bunzip2 -k -d bldgs.osm.bz2
+```
+
+## load the data and generate all osm files
+```
+bundle exec rake gall_osm_files
+```
+
+
+
