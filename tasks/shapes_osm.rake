@@ -22,7 +22,7 @@ table :qtr_sec  =>  [shapefile("qtr_sec/qtr_sec.shp")] do |t|
   t.add_update_column
 end
 
-table :conslidated_qtr_secs => [:qtr_sec] do |t|
+table :conslidated_qtr_secs => [:qtr_sec,:pdx_bldgs_multi_addrs] do |t|
   t.drop_table
 
   t.run %Q{
@@ -117,7 +117,7 @@ if DB.tables.include?(:conslidated_qtr_secs)
         }
       end #if multi
 
-      file shp_fn => :pdx_bldgs do
+      file shp_fn => [:pdx_bldgs,:pdx_bldgs_multi_addrs] do
         sh %Q{ogr2ogr -overwrite -f "ESRI Shapefile" #{shp_fn} PG:"" \
         -sql "#{sql}"
             }

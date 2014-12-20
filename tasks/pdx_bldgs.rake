@@ -215,7 +215,7 @@ table :pdx_bldgs => [:pdx_bldgs_orig, :pdx_addrs, :osm_buildings, :addr_bldg_cou
   t.add_update_column
 end
 
-table :pdx_bldgs_multi_addrs => :pdx_bldgs do |t|
+table :pdx_bldgs_multi_addrs => [:pdx_bldgs, :pdx_addrs] do |t|
   t.drop_table
   t.run %Q{
     -- if the addresses are contained entirely inside the 
@@ -285,4 +285,6 @@ table :pdx_bldgs_multi_addrs => :pdx_bldgs do |t|
     WHERE state_id NOT IN (SELECT state_id FROM #{t.name});
   }
   t.add_spatial_index :the_geom
+  t.add_update_column
+
 end
