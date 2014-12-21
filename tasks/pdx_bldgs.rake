@@ -247,6 +247,22 @@ end
 table :pdx_bldgs_multi_addrs => [:pdx_bldgs, :pdx_addrs] do |t|
   t.drop_table
   t.run %Q{
+
+    CREATE or REPLACE FUNCTION perturb_point(pt geometry) returns geometry AS $$
+      DECLARE
+        srid integer;
+        offset_x double precision;
+        offset_y double precision;
+      BEGIN
+        offset_y:=random()*0.00001;
+        offset_x:=random()*0.00001;
+        srid:=st_srid(pt);
+        pt:=st_setsrid(st_makepoint(st_x(pt)+offset_x, st_y(pt)+offset_y), srid);
+        RETURN pt;
+      END;
+    $$ language plpgsql;
+
+
     -- if the addresses are contained entirely inside the 
     -- building, just use the points from the city
     CREATE TABLE #{t.name} AS
@@ -312,7 +328,11 @@ table :pdx_bldgs_multi_addrs => [:pdx_bldgs, :pdx_addrs] do |t|
       b.the_geom
     FROM a NATURAL JOIN b
     WHERE state_id NOT IN (SELECT state_id FROM #{t.name});
+
+    UPDATE #{t.name}
+      SET the_geom = perturb_point(the_geom);
   }
+  
   t.add_spatial_index :the_geom
   t.add_update_column
 
