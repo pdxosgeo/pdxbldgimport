@@ -308,7 +308,7 @@ table :pdx_bldgs_multi_addrs => [:pdx_bldgs, :pdx_addrs] do |t|
       , qtrsec
       , state_id
       , pdx_bldg_id
-      , RandomPointsInPolygon(the_geom, no_addrs::integer) as the_geom
+      , st_centroid(the_geom) as the_geom
       from pdx_bldgs 
       where no_addrs>1
       -- make sure we don't duplicate
