@@ -211,6 +211,35 @@ table :pdx_bldgs => [:pdx_bldgs_orig, :pdx_addrs, :osm_buildings, :addr_bldg_cou
     WHERE st_intersects(conslidated_qtr_secs.the_geom,pdx_bldgs.the_geom_centroids);
 
   }
+  t.run %Q{
+    ALTER TABLE #{t.name} ADD column area numeric;
+
+    UPDATE #{t.name} SET area=st_area(st_transform(the_geom, 2913));
+
+    WITH max_area as (
+      SELECT max(area) as area, state_id
+      FROM #{t.name} 
+        WHERE state_id in (
+        SELECT state_id 
+        FROM pdx_bldgs
+          WHERE street IS NOT NULL
+          AND no_addrs = 1
+          GROUP by state_id
+          HAVING count(1)>1
+        )
+      GROUP BY state_id
+    )
+    UPDATE #{t.name}  a
+    SET housenumber = NULL,
+        street = NULL,
+        address_id =NULL,
+        city = NULL,
+        postcode = NULL,
+        state = NULL
+    FROM max_area
+    WHERE a.state_id=max_area.state_id
+    AND a.area<>max_area.area;
+  }
 
   t.add_update_column
 end
