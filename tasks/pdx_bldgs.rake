@@ -110,8 +110,8 @@ table :pdx_bldgs => [:pdx_bldgs_orig, :pdx_addrs, :osm_buildings, :addr_bldg_cou
     a.country,
     ''::text as qtrsec,
     b.num_story as levels,
-    round(b.surf_elev::numeric * 0.3048,2) as ele,
-    round(b.max_height::numeric * 0.3048,2) as height,
+    round(b.surf_elev::numeric * 0.3048,1) as ele,
+    round(b.max_height::numeric * 0.3048,1) as height,
     CASE b.bldg_type
       WHEN 'House' THEN 'detached'
       WHEN 'Garage' THEN 'garage'
