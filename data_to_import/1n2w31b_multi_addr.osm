@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.527508525" lon="-122.989390373" visible="true"><tag k="addr:housenumber" v="490"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="North 1st Avenue"/></node>
+<node id="-2" lat="45.527640964" lon="-122.9893809" visible="true"><tag k="addr:housenumber" v="496"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="North 1st Avenue"/></node>
+<node id="-3" lat="45.528464303" lon="-122.989876293" visible="true"><tag k="addr:housenumber" v="603"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="North 1st Avenue"/></node>
+<node id="-4" lat="45.528583628" lon="-122.989889657" visible="true"><tag k="addr:housenumber" v="611"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="North 1st Avenue"/></node>
+<node id="-5" lat="45.529008336" lon="-122.989905002" visible="true"><tag k="addr:housenumber" v="671"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="North 1st Avenue"/></node>
+<node id="-6" lat="45.529124473" lon="-122.989906247" visible="true"><tag k="addr:housenumber" v="677"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="North 1st Avenue"/></node>
+<node id="-7" lat="45.528596465" lon="-122.988637469" visible="true"><tag k="addr:housenumber" v="143"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northeast Grant Street"/></node>
+<node id="-8" lat="45.528555165" lon="-122.988649542" visible="true"><tag k="addr:housenumber" v="145"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northeast Grant Street"/></node>
+</osm>

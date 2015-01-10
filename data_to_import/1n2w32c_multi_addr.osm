@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.521599911" lon="-122.969889098" visible="true"><tag k="addr:housenumber" v="1220"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="East Main Street"/></node>
+<node id="-2" lat="45.521596335" lon="-122.969720413" visible="true"><tag k="addr:housenumber" v="1250"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="East Main Street"/></node>
+<node id="-3" lat="45.523703574" lon="-122.969904777" visible="true"><tag k="addr:housenumber" v="204"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northeast 12th Avenue"/></node>
+<node id="-4" lat="45.523706407" lon="-122.969704477" visible="true"><tag k="addr:housenumber" v="206"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northeast 12th Avenue"/></node>
+<node id="-5" lat="45.524472318" lon="-122.969893768" visible="true"><tag k="addr:housenumber" v="272"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northeast 12th Avenue"/></node>
+<node id="-6" lat="45.52462624" lon="-122.969890786" visible="true"><tag k="addr:housenumber" v="276"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northeast 12th Avenue"/></node>
+<node id="-7" lat="45.524858798" lon="-122.969768769" visible="true"><tag k="addr:housenumber" v="280"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northeast 12th Avenue"/></node>
+<node id="-8" lat="45.524863662" lon="-122.969947615" visible="true"><tag k="addr:housenumber" v="282"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northeast 12th Avenue"/></node>
+<node id="-9" lat="45.525043584" lon="-122.969920617" visible="true"><tag k="addr:housenumber" v="316"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northeast 12th Avenue"/></node>
+<node id="-10" lat="45.52505696" lon="-122.969800437" visible="true"><tag k="addr:housenumber" v="318"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northeast 12th Avenue"/></node>
+<node id="-11" lat="45.525286801" lon="-122.969871418" visible="true"><tag k="addr:housenumber" v="328"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northeast 12th Avenue"/></node>
+<node id="-12" lat="45.52532048" lon="-122.969953519" visible="true"><tag k="addr:housenumber" v="330"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northeast 12th Avenue"/></node>
+<node id="-13" lat="45.524858738" lon="-122.963966312" visible="true"><tag k="addr:housenumber" v="327"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northeast 18th Avenue"/></node>
+<node id="-14" lat="45.524953444" lon="-122.963954145" visible="true"><tag k="addr:housenumber" v="337"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northeast 18th Avenue"/></node>
+<node id="-15" lat="45.523860317" lon="-122.969916804" visible="true"><tag k="addr:housenumber" v="1210"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northeast Lincoln Street"/></node>
+<node id="-16" lat="45.523867597" lon="-122.969740418" visible="true"><tag k="addr:housenumber" v="1220"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northeast Lincoln Street"/></node>
+<node id="-17" lat="45.523276069" lon="-122.968610832" visible="true"><tag k="addr:housenumber" v="1355"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northeast Lincoln Street"/></node>
+<node id="-18" lat="45.523266162" lon="-122.968444099" visible="true"><tag k="addr:housenumber" v="1365"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northeast Lincoln Street"/></node>
+</osm>

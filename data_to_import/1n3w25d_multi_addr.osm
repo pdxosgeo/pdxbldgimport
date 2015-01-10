@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.536581167" lon="-122.993176849" visible="true"><tag k="addr:housenumber" v="1702"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northeast 2nd Avenue"/></node>
+<node id="-2" lat="45.535224766" lon="-122.999836748" visible="true"><tag k="addr:housenumber" v="1459"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northwest 10th Avenue"/></node>
+<node id="-3" lat="45.535220174" lon="-122.999841595" visible="true"><tag k="addr:housenumber" v="2125"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northwest 312th Avenue"/></node>
+<node id="-4" lat="45.535928412" lon="-122.994416055" visible="true"><tag k="addr:housenumber" v="483"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northwest Celtis Lane"/></node>
+<node id="-5" lat="45.535925591" lon="-122.994417157" visible="true"><tag k="addr:housenumber" v="507"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northwest Celtis Lane"/></node>
+<node id="-6" lat="45.53657913" lon="-122.993175876" visible="true"><tag k="addr:housenumber" v="2270"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northwest Glencoe Road"/></node>
+</osm>
