@@ -1,5 +1,5 @@
 - [ ] 1n2w27a complete
-  - [ ] 1n2w27a in progress
+  - [x] 1n2w27a in progress (Darrell)
 - [ ] 1n2w29c complete
   - [ ] 1n2w29c in progress
 - [ ] 1n2w30a complete
