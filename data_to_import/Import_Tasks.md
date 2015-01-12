@@ -1,10 +1,12 @@
 To participate in the import please: 
-- select a file below that has not yet been reviewed / imported
-- update this page to indicate which quarter section file you are working on (include you name). 
+- Select a file below that has not yet been reviewed / imported
+- Update this page to indicate which quarter section file you are working on (include you name). 
 - Make sure you are using an "_imports" OSM account
-- carefully review the contents of the file against existing OSM data. 
+- Carefully review the contents of the file for conflicts with existing OSM data
+- Fix any validation errors, and correct any errors based on local knowledge
 - When you commit the changeset, please add a changeset comment something like:
-> consolidated quarter section import (1n2w27a), part of Portland OR Building Import project
+
+> "Consolidated quarter section import (1n2w27a), part of Portland OR Building Import project"
 
 When the changeset is complete, please re-edit this page to reflect the completed status and include a link to the changeset.
 
