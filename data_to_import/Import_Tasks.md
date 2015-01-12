@@ -1,5 +1,6 @@
-To participate in the import: 
-- please update this page to indicate which quarter section file you are working on (please include you name). 
+To participate in the import please: 
+- select a file below that has not yet been reviewed / imported
+- update this page to indicate which quarter section file you are working on (include you name). 
 - Make sure you are using an "_imports" OSM account
 - carefully review the contents of the file against existing OSM data. 
 - When you commit the changeset, please add a changeset comment something like:
@@ -37,7 +38,7 @@ When the changeset is complete, please re-edit this page to reflect the complete
 - [ ] 1n3w36a 
 - [ ] 1n3w36d multi-address,
 - [ ] 1n3w36d 
-- [ ] 1n4e25c multi-address,
+- [ ] 1n4e25c multi-address, In progress (Tanya)
 - [x] 1n4e25c Complete (Tanya) [changeset 28081294](http://www.openstreetmap.org/changeset/28081294)
-- [ ] 1n5e29b multi-address,
+- [ ] 1n5e29b multi-address, In progress (Tanya)
 - [x] 1n5e29b Complete (Tanya) [changeset 28080918](http://www.openstreetmap.org/changeset/28080918)
