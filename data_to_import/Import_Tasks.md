@@ -19,8 +19,8 @@ When the changeset is complete, please re-edit this page to reflect the complete
 - [ ] 1n2w29c
 - [ ] 1n2w30a multi-address,
 - [ ] 1n2w30a 
-- [ ] 1n2w30b multi-address,
-- [ ] 1n2w30b 
+- [x] 1n2w30b multi-address, complete (Darrell), no actual entries
+- [ ] 1n2w30b  In Progress (Darrell)
 - [ ] 1n2w30c multi-address,
 - [ ] 1n2w30c 
 - [ ] 1n2w30d multi-address,
