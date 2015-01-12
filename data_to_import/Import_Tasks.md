@@ -20,10 +20,10 @@ When the changeset is complete, please re-edit this page to reflect the complete
 - [ ] 1n2w30a multi-address,
 - [ ] 1n2w30a 
 - [x] 1n2w30b multi-address, complete (Darrell), no actual entries
-- [ ] 1n2w30b  In Progress (Darrell)
+- [X] 1n2w30b complete (Darrell) [changeset 28099330](https://www.openstreetmap.org/changeset/28099330)
 - [ ] 1n2w30c multi-address,
 - [ ] 1n2w30c 
-- [ ] 1n2w30d multi-address,
+- [X] 1n2w30d multi-address, complete (Darrell), no actual entries
 - [ ] 1n2w30d 
 - [ ] 1n2w31a multi-address,
 - [ ] 1n2w31a 
