@@ -29,6 +29,6 @@
 - [ ] 1n3w36d complete
   - [ ] 1n3w36d in progress
 - [ ] 1n4e25c complete
-  - [ ] 1n4e25c in progress
+  - [x] 1n4e25c in progress (Tanya)
 - [ ] 1n5e29b complete
-  - [x] 1n5e29b in progress (Tanya)
+  - [ ] 1n5e29b in complete (changeset 28080918)
