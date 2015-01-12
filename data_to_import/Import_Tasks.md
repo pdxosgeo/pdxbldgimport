@@ -1,14 +1,17 @@
+###PDX Building Import Tasks
 To participate in the import please: 
 - Select a file below that has not yet been reviewed / imported
 - Update this page to indicate which quarter section file you are working on (include you name). 
 - Make sure you are using an "_imports" OSM account
-- Carefully review the contents of the file for conflicts with existing OSM data
+- Carefully review the contents of your selected file for conflicts with existing OSM data
 - Fix any validation errors, and correct any errors based on local knowledge
 - When you commit the changeset, please add a changeset comment something like:
 
 > "Consolidated quarter section import (1n2w27a), part of Portland OR Building Import project"
 
 When the changeset is complete, please re-edit this page to reflect the completed status and include a link to the changeset.
+
+####Files for Review and Import
 
 - [x] 1n2w27a multi-address, complete (Darrell) [changeset 28052069](https://www.openstreetmap.org/changeset/28052069)
 - [x] 1n2w27a in progress (Darrell)
