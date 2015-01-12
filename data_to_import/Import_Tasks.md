@@ -29,6 +29,6 @@
 - [ ] 1n3w36d complete
   - [ ] 1n3w36d in progress
 - [ ] 1n4e25c complete
-  - [ ] 1n4e25c in complete (changeset 28081294)
+- [ ] 1n4e25c in complete [changeset 28081294](http://www.openstreetmap.org/changeset/28081294)
 - [ ] 1n5e29b complete
-  - [ ] 1n5e29b in complete (changeset 28080918)
+- [ ] 1n5e29b in complete [changeset 28080918](http://www.openstreetmap.org/changeset/28080918)
