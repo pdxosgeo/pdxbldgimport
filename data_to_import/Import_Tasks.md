@@ -41,9 +41,9 @@ When the changeset is complete, please re-edit this page to reflect the complete
 - [ ] 1n3w25d 
 - [ ] 1n3w36a multi-address,
 - [ ] 1n3w36a 
-- [ ] 1n3w36d multi-address,
-- [ ] 1n3w36d 
-- [ ] 1n4e25c multi-address, In progress (Tanya)
+- [ ] 1n3w36d multi-address, In Progress (Tanya)
+- [ ] 1n3w36d In Progress (Tanya)
+- [x] 1n4e25c multi-address, Complete (Tanya) [changeset 28093608](http://www.openstreetmap.org/changeset/28093608)
 - [x] 1n4e25c Complete (Tanya) [changeset 28081294](http://www.openstreetmap.org/changeset/28081294)
-- [ ] 1n5e29b multi-address, In progress (Tanya)
+- [x] 1n5e29b multi-address, Complete (Tanya) [changeset 28093513](http://www.openstreetmap.org/changeset/28093513)
 - [x] 1n5e29b Complete (Tanya) [changeset 28080918](http://www.openstreetmap.org/changeset/28080918)
