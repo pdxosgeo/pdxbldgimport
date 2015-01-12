@@ -30,8 +30,8 @@ When the changeset is complete, please re-edit this page to reflect the complete
 - [ ] 1n2w32b
 - [ ] 1n2w32c multi-address,
 - [ ] 1n2w32c
-- [ ] 1n3w25a multi-address,
-- [ ] 1n3w25a
+- [x] 1n3w25a multi-address, complete (Darrell) [changeset 28092155](http://www.openstreetmap.org/changeset/28092155)
+- [x] 1n3w25a complete, (Darrell) [changeset 28092155](http://www.openstreetmap.org/changeset/28092155)
 - [ ] 1n3w25d multi-address,
 - [ ] 1n3w25d 
 - [ ] 1n3w36a multi-address,
