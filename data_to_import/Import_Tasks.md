@@ -39,10 +39,10 @@ When the changeset is complete, please re-edit this page to reflect the complete
 - [x] 1n3w25a complete, (Darrell) [changeset 28092155](http://www.openstreetmap.org/changeset/28092155)
 - [ ] 1n3w25d multi-address,
 - [ ] 1n3w25d 
-- [ ] 1n3w36a multi-address,
-- [ ] 1n3w36a 
-- [ ] 1n3w36d multi-address, In Progress (Tanya)
-- [ ] 1n3w36d In Progress (Tanya)
+- [ ] 1n3w36a multi-address, In Progress (Tanya) 
+- [ ] 1n3w36a, In Progress (Tanya) 
+- [x] 1n3w36d multi-address, Complete (Tanya) [changeset 28098202] (http://www.openstreetmap.org/changeset/28098202)
+- [x] 1n3w36d Complete (Tanya) [changeset 28098029] (http://www.openstreetmap.org/changeset/28098029)
 - [x] 1n4e25c multi-address, Complete (Tanya) [changeset 28093608](http://www.openstreetmap.org/changeset/28093608)
 - [x] 1n4e25c Complete (Tanya) [changeset 28081294](http://www.openstreetmap.org/changeset/28081294)
 - [x] 1n5e29b multi-address, Complete (Tanya) [changeset 28093513](http://www.openstreetmap.org/changeset/28093513)
