@@ -14,8 +14,8 @@ When the changeset is complete, please re-edit this page to reflect the complete
 #### Files for Review and Import (need to re-visit some of these)
 - [x] 1s3w04a buildings Complete (Darrell) [changeset 28117850](https://https://www.openstreetmap.org/changeset/28117850)
 - [x] 1s3w04a multi-address Complete (Darrell)[changeset 28117850](https://https://www.openstreetmap.org/changeset/28117850)
-- [ ] 1s3w06a buildings
-- [ ] 1s3w06a multi-address
+- [x] 1s3w06a buildings Complete (Darrell) [changeset 28118238](https://https://www.openstreetmap.org/changeset/28118238)
+- [x] 1s3w06a multi-address Complete (Darrell) [changeset 28118238](https://https://www.openstreetmap.org/changeset/28118238)
 - [ ] 1s3w06b buildings
 - [ ] 1s3w06b multi-address
 - [ ] 1s4w01a buildings
