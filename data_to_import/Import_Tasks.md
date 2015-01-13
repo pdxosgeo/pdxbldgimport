@@ -12,8 +12,8 @@ To participate in the import please:
 When the changeset is complete, please re-edit this page to reflect the completed status and include a link to the changeset.
 
 #### Files for Review and Import (need to re-visit some of these)
-- [ ] 1s3w04a buildings
-- [ ] 1s3w04a multi-address
+- [x] 1s3w04a buildings In Progress (Darrell)
+- [x] 1s3w04a multi-address In Progress (Darrell)
 - [ ] 1s3w06a buildings
 - [ ] 1s3w06a multi-address
 - [ ] 1s3w06b buildings
