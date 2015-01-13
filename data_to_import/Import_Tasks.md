@@ -24,8 +24,8 @@ When the changeset is complete, please re-edit this page to reflect the complete
 - [ ] 1n3w33d multi-address
 - [ ] 1n3w32d buildings
 - [ ] 1n3w32d multi-address
-- [ ] 1n3w31d buildings
-- [ ] 1n3w31d multi-address
+- [ ] 1n3w31d buildings, In Progress (Tanya)
+- [ ] 1n3w31d multi-address, Inprogress (Tanya)
 - [x] 1s4w12d buildings Complete (Darrell) [changeset 28101642](https://www.openstreetmap.org/changeset/28101642)
 - [x] 1s4w12d multi-address Complete (Darrell)[changeset 28101642](https://www.openstreetmap.org/changeset/28101642)
 - [x] 1s3w18d buildings, Complete (Tanya) [changeset 28104107](https://www.openstreetmap.org/changeset/28104107)
