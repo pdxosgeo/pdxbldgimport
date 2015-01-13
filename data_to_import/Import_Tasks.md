@@ -26,8 +26,8 @@ When the changeset is complete, please re-edit this page to reflect the complete
 - [ ] 1n3w32d multi-address
 - [ ] 1n3w31d buildings
 - [ ] 1n3w31d multi-address
-- [ ] 1s4w12d buildings
-- [ ] 1s4w12d multi-address
+- [ ] 1s4w12d buildings In progress (Darrell)
+- [ ] 1s4w12d multi-address In progress (Darrell)
 - [ ] 1s3w18d buildings
 - [ ] 1s3w18d multi-address
 - [ ] 1n3w28c buildings
