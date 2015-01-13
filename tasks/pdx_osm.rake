@@ -13,7 +13,7 @@ w=-123.19651445735
 # s=45.5
 # w=-122.69
 desc "Download buildings in OSM"
-file 'osm/bldgs.osm.bz2' do |t|
+file 'osm/bldgs.osm' do |t|
   sh %Q{
 wget -O - 'http://overpass-api.de/api/interpreter?data=
 <osm-script>
@@ -34,23 +34,24 @@ wget -O - 'http://overpass-api.de/api/interpreter?data=
     <recurse type="down"/>
   </osm-script>
 </osm-script>
-' | bzip2 -c > #{t.name}
+' > #{t.name}
 }
-end
-
-
 # load the OSM data. Unfortunately, osm2pgsql creates
 # four tables out of each input file, so we
 # need to make sure we get update columns on them all,
 # but we only load the data once (in :portland_osm_line)
 
-desc "Create OSM ways table from raw osmosis data. Used by osm_buildings"
-task :portland_osm  do |t|
  sh %Q{osmosis --read-xml osm/bldgs.osm --truncate-pgsql database=pdx_bldgs --wp database=pdx_bldgs }
 end
 
+
+
+# desc "Create OSM ways table from raw osmosis data. Used by osm_buildings"
+# task :portland_osm  => 'osm/bldgs.osm' do |t|
+# end
+
 desc "Convert OSM ways into a buildings layer with appropriate tags"
-table :osm_buildings do |t|
+table :osm_buildings => 'osm/bldgs.osm' do |t|
   t.drop_table
   t.run %Q{
   create table #{t.name} as
@@ -89,7 +90,7 @@ table :osm_buildings do |t|
 end
 
 desc "Convert nodes into address points"
-table :osm_addrs do |t|
+table :osm_addrs => 'osm/bldgs.osm' do |t|
   t.drop_table
   t.run %Q{
     create table #{t.name} AS 
