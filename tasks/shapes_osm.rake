@@ -22,56 +22,72 @@ table :qtr_sec  =>  [shapefile("qtr_sec/qtr_sec.shp")] do |t|
   t.add_update_column
 end
 
-table :conslidated_qtr_secs => [:qtr_sec,:pdx_bldgs_multi_addrs] do |t|
+table :consolidated_qtr_secs => [:qtr_sec,:pdx_bldgs_multi_addrs] do |t|
   t.drop_table
 
   t.run %Q{
     CREATE TABLE #{t.name} (
       qs_id serial primary key,
       qtrsec text,
+      contains text[],
       the_geom geometry(MultiPolygon,4326)
     );
   }
   t.add_spatial_index :the_geom
   t.add_update_column
   t.run %Q{
-    INSERT INTO #{t.name}(qtrsec,the_geom)
-    SELECT qtrsec,st_multi(the_geom) as the_geom
+    INSERT INTO #{t.name}(qtrsec,contains,the_geom)
+    SELECT qtrsec,ARRAY[qtrsec],st_multi(the_geom) as the_geom
     FROM qtr_sec
     WHERE bldg_count>=500;
   }
 
-  qs=DB[:qtr_sec].where{bldg_count < 500}.order_by(:qtr_sec).all 
-
+  qs=DB["SELECT * FROM qtr_sec where bldg_count<500 
+      and qtrsec NOT IN (SELECT unnest(contains) from consolidated_qtr_secs)
+      AND qtrsec='3s2e30d'"].all
   current_count=0
-  to_consolidate=[]
-  i=0
   until qs.empty? do
-    to_consolidate[i]||=[]
-    while current_count < 500 and not qs.empty? do
-      q=qs.pop
-      next if q.nil?
-      current_count+=q[:bldg_count]
-      to_consolidate[i].push(q[:qtrsec])
-    end
-    i+=1
+    to_consolidate=[]
+    q=qs.pop
+    current_count+=q[:bldg_count]
+    to_consolidate.push(q[:qtrsec])
+
+    while current_count <= 500 do
+      candidates=DB["SELECT q2.qtrsec,q2.bldg_count,
+        st_distance(st_centroid(q1.the_geom),st_centroid(q2.the_geom)) FROM qtr_sec q1, qtr_sec q2
+        where q2.bldg_count<500
+        and q1.qtrsec=?
+        AND q2.qtrsec<>?
+        and q2.qtrsec NOT IN (SELECT unnest(contains) from consolidated_qtr_secs)
+          ORDER BY 3", q[:qtrsec], q[:qtrsec]].all
+
+        current_count = 500 if candidates.empty?
+        puts to_consolidate
+        candidates.each do |x|
+          next if current_count > 500
+          current_count+=x[:bldg_count]
+          to_consolidate.push(x[:qtrsec])
+        end
+      end # while
+
+      to_consolidate.map!{|x| %Q{'#{x}'}}
+      t.run %Q{
+        INSERT INTO #{t.name}(qtrsec,contains,the_geom)
+        SELECT #{to_consolidate.first}::text,array_agg(qtrsec),st_multi(ST_UNION(the_geom)) as the_geom
+        FROM qtr_sec
+        WHERE qtrsec in (#{to_consolidate.join(',')})
+      }
+      qs=DB["SELECT * FROM qtr_sec where bldg_count<500 
+              and qtrsec NOT IN (SELECT unnest(contains) from consolidated_qtr_secs)"].all
     current_count=0
   end
 
-  to_consolidate.each do |qs|
-    q=qs.map{|x| %Q{'#{x}'}}
-    t.run %Q{
-      INSERT INTO #{t.name}(qtrsec,the_geom)
-      SELECT '#{qs.first}'::text,st_multi(ST_UNION(the_geom)) as the_geom
-      FROM qtr_sec
-      WHERE qtrsec in (#{q.join(',')})
-    }
-  end
+
 end
 
-if DB.tables.include?(:conslidated_qtr_secs)
+if DB.tables.include?(:consolidated_qtr_secs)
 
-  @qtr_secs=DB[:conslidated_qtr_secs].map(:qtrsec).uniq
+  @qtr_secs=DB[:consolidated_qtr_secs].map(:qtrsec).uniq
 
   @qtr_secs.each do |qtrsec|
     ['','_multi_addr'].each do |type|

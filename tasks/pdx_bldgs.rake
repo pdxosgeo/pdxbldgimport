@@ -206,9 +206,9 @@ table :pdx_bldgs => [:pdx_bldgs_orig, :pdx_addrs, :osm_buildings, :addr_bldg_cou
 
 
   UPDATE #{t.name}
-    SET qtrsec = conslidated_qtr_secs.qtrsec
-    FROM conslidated_qtr_secs
-    WHERE st_intersects(conslidated_qtr_secs.the_geom,pdx_bldgs.the_geom_centroids);
+    SET qtrsec = consolidated_qtr_secs.qtrsec
+    FROM consolidated_qtr_secs
+    WHERE st_intersects(consolidated_qtr_secs.the_geom,pdx_bldgs.the_geom_centroids);
 
   }
   t.run %Q{
