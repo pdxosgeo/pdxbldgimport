@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.51609108" lon="-123.101968941" visible="true"><tag k="addr:housenumber" v="2521"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="17th Avenue"/></node>
+<node id="-2" lat="45.516095761" lon="-123.101969929" visible="true"><tag k="addr:housenumber" v="2523"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="17th Avenue"/></node>
+<node id="-3" lat="45.515439477" lon="-123.100436945" visible="true"><tag k="addr:housenumber" v="2616"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="17th Avenue"/></node>
+<node id="-4" lat="45.515447198" lon="-123.10043222" visible="true"><tag k="addr:housenumber" v="2618"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="17th Avenue"/></node>
+<node id="-5" lat="45.516614943" lon="-123.10017872" visible="true"><tag k="addr:housenumber" v="2625"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="17th Place"/></node>
+<node id="-6" lat="45.516613245" lon="-123.100177877" visible="true"><tag k="addr:housenumber" v="2627"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="17th Place"/></node>
+<node id="-7" lat="45.517856443" lon="-123.103426269" visible="true"><tag k="addr:housenumber" v="2432"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="19th Avenue"/></node>
+<node id="-8" lat="45.517854308" lon="-123.10341845" visible="true"><tag k="addr:housenumber" v="2432-A"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="19th Avenue"/></node>
+<node id="-9" lat="45.517852143" lon="-123.103425261" visible="true"><tag k="addr:housenumber" v="2434"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="19th Avenue"/></node>
+<node id="-10" lat="45.517849417" lon="-123.103418002" visible="true"><tag k="addr:housenumber" v="2436"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="19th Avenue"/></node>
+<node id="-11" lat="45.517849931" lon="-123.103424922" visible="true"><tag k="addr:housenumber" v="2440"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="19th Avenue"/></node>
+<node id="-12" lat="45.514116234" lon="-123.100777595" visible="true"><tag k="addr:housenumber" v="1607"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="Filbert Street"/></node>
+<node id="-13" lat="45.514120029" lon="-123.100785671" visible="true"><tag k="addr:housenumber" v="1609"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="Filbert Street"/></node>
+<node id="-14" lat="45.514226486" lon="-123.10038403" visible="true"><tag k="addr:housenumber" v="1611"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="Filbert Street"/></node>
+<node id="-15" lat="45.514227638" lon="-123.100391112" visible="true"><tag k="addr:housenumber" v="1613"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="Filbert Street"/></node>
+<node id="-16" lat="45.514341517" lon="-123.100781977" visible="true"><tag k="addr:housenumber" v="1615"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="Filbert Street"/></node>
+<node id="-17" lat="45.514340535" lon="-123.100781452" visible="true"><tag k="addr:housenumber" v="1617"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="Filbert Street"/></node>
+<node id="-18" lat="45.516380392" lon="-123.100826689" visible="true"><tag k="addr:housenumber" v="1723"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="Filbert Street"/></node>
+<node id="-19" lat="45.516376751" lon="-123.100828435" visible="true"><tag k="addr:housenumber" v="1725"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="Filbert Street"/></node>
+<node id="-20" lat="45.516587517" lon="-123.100832358" visible="true"><tag k="addr:housenumber" v="1731"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="Filbert Street"/></node>
+<node id="-21" lat="45.516587259" lon="-123.100834332" visible="true"><tag k="addr:housenumber" v="1733"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="Filbert Street"/></node>
+<node id="-22" lat="45.517799151" lon="-123.101661746" visible="true"><tag k="addr:housenumber" v="1826"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="Filbert Street"/></node>
+<node id="-23" lat="45.517799992" lon="-123.101657188" visible="true"><tag k="addr:housenumber" v="1828"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="Filbert Street"/></node>
+<node id="-24" lat="45.517794048" lon="-123.101660691" visible="true"><tag k="addr:housenumber" v="1830"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="Filbert Street"/></node>
+<node id="-25" lat="45.518605084" lon="-123.10074711" visible="true"><tag k="addr:housenumber" v="1905"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="Filbert Street"/></node>
+<node id="-26" lat="45.518609786" lon="-123.100745455" visible="true"><tag k="addr:housenumber" v="2603"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="Filbert Street"/></node>
+</osm>

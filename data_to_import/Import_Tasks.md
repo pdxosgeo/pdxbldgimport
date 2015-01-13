@@ -11,7 +11,33 @@ To participate in the import please:
 
 When the changeset is complete, please re-edit this page to reflect the completed status and include a link to the changeset.
 
-####Files for Review and Import
+#### Files for Review and Import (need to re-visit some of these)
+- [ ] 1s3w04a buildings
+- [ ] 1s3w04a multi-address
+- [ ] 1s3w06a buildings
+- [ ] 1s3w06a multi-address
+- [ ] 1s3w06b buildings
+- [ ] 1s3w06b multi-address
+- [ ] 1s4w01a buildings
+- [ ] 1s4w01a multi-address
+- [ ] 1n3w33d buildings
+- [ ] 1n3w33d multi-address
+- [ ] 1n3w32d buildings
+- [ ] 1n3w32d multi-address
+- [ ] 1n3w31d buildings
+- [ ] 1n3w31d multi-address
+- [ ] 1s4w12d buildings
+- [ ] 1s4w12d multi-address
+- [ ] 1s3w18d buildings
+- [ ] 1s3w18d multi-address
+- [ ] 1n3w28c buildings
+- [ ] 1n3w28c multi-address
+- [ ] 1n4w36c buildings
+- [ ] 1n4w36c multi-address
+- [ ] 1n4w35d buildings
+- [ ] 1n4w35d multi-address
+
+#### OLD Files for Review and Import (need to re-visit some of these)
 
 - [x] 1n2w27a multi-address, complete (Darrell) [changeset 28052069](https://www.openstreetmap.org/changeset/28052069)
 - [x] 1n2w27a in progress (Darrell)

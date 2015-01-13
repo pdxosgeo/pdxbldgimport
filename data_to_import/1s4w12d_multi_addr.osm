@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.510468239" lon="-123.105549597" visible="true"><tag k="addr:housenumber" v="2330"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="12th Avenue"/></node>
+<node id="-2" lat="45.510464852" lon="-123.105544877" visible="true"><tag k="addr:housenumber" v="2332"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="12th Avenue"/></node>
+<node id="-3" lat="45.512157836" lon="-123.105422782" visible="true"><tag k="addr:housenumber" v="2328"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="14th Avenue"/></node>
+<node id="-4" lat="45.512155122" lon="-123.105421882" visible="true"><tag k="addr:housenumber" v="2330"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="14th Avenue"/></node>
+<node id="-5" lat="45.512161026" lon="-123.105424083" visible="true"><tag k="addr:housenumber" v="2332"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="14th Avenue"/></node>
+<node id="-6" lat="45.476830789" lon="-123.127192819" visible="true"><tag k="addr:housenumber" v="5937"/><tag k="addr:postcode" v="97119"/><tag k="addr:city" v="Gaston"/><tag k="addr:street" v="Southwest Spring Hill Road"/></node>
+<node id="-7" lat="45.476826832" lon="-123.127189823" visible="true"><tag k="addr:housenumber" v="5995"/><tag k="addr:postcode" v="97119"/><tag k="addr:city" v="Gaston"/><tag k="addr:street" v="Southwest Spring Hill Road"/></node>
+</osm>

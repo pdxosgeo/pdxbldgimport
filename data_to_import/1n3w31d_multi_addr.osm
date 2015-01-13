@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.521160904" lon="-123.099828917" visible="true"><tag k="addr:housenumber" v="2623"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="21st Avenue"/></node>
+<node id="-2" lat="45.521160956" lon="-123.099825167" visible="true"><tag k="addr:housenumber" v="2635"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="21st Avenue"/></node>
+<node id="-3" lat="45.522198365" lon="-123.097496683" visible="true"><tag k="addr:housenumber" v="2740"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="22nd Avenue"/></node>
+<node id="-4" lat="45.522202832" lon="-123.097497488" visible="true"><tag k="addr:housenumber" v="2742"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="22nd Avenue"/></node>
+<node id="-5" lat="45.522197955" lon="-123.097496221" visible="true"><tag k="addr:housenumber" v="2744"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="22nd Avenue"/></node>
+<node id="-6" lat="45.531335094" lon="-123.102734072" visible="true"><tag k="addr:housenumber" v="2951"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="Alexander Street"/></node>
+<node id="-7" lat="45.531386587" lon="-123.103154069" visible="true"><tag k="addr:housenumber" v="2952"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="Alexander Street"/></node>
+<node id="-8" lat="45.531327485" lon="-123.104160799" visible="true"><tag k="addr:housenumber" v="2508"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="Bryce Avenue"/></node>
+<node id="-9" lat="45.531380373" lon="-123.103153758" visible="true"><tag k="addr:housenumber" v="2538"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="Bryce Avenue"/></node>
+<node id="-10" lat="45.531326267" lon="-123.102728815" visible="true"><tag k="addr:housenumber" v="2606"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="Bryce Avenue"/></node>
+<node id="-11" lat="45.531323467" lon="-123.104159423" visible="true"><tag k="addr:housenumber" v="2949"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="Cleo Street"/></node>
+<node id="-12" lat="45.521951703" lon="-123.097845608" visible="true"><tag k="addr:housenumber" v="2737"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="Maywood Drive"/></node>
+<node id="-13" lat="45.52194543" lon="-123.097841345" visible="true"><tag k="addr:housenumber" v="2739"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="Maywood Drive"/></node>
+</osm>
