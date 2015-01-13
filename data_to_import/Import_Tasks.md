@@ -32,10 +32,10 @@ When the changeset is complete, please re-edit this page to reflect the complete
 - [ ] 1s3w18d multi-address
 - [ ] 1n3w28c buildings
 - [ ] 1n3w28c multi-address
-- [ ] 1n4w36c buildings
-- [ ] 1n4w36c multi-address
-- [ ] 1n4w35d buildings, In Progress (Tanya)
-- [ ] 1n4w35d multi-address, In Progress (Tanya)
+- [ ] 1n4w36c buildings, In Progress (Tanya)
+- [ ] 1n4w36c multi-address, In Progress (Tanya)
+- [ ] 1n4w35d buildings, Complete (Tanya) [changeset 28102114](https://www.openstreetmap.org/changeset/28102114)
+- [ ] 1n4w35d multi-address, Complete (Tanya), no actual entries
 
 #### OLD Files for Review and Import (need to re-visit some of these)
 
