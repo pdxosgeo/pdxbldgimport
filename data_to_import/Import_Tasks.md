@@ -1,9 +1,18 @@
 ###PDX Building Import Tasks
 To participate in the import please: 
-- Select a file below that has not yet been reviewed / imported
-- Update this page to indicate which quarter section file you are working on (include you name). 
-- Make sure you are using an "_imports" OSM account
-- Carefully review the contents of your selected file for conflicts with existing OSM data
+1. Select a file below that has not yet been reviewed / imported
+1. Update this page to indicate which quarter section file you are working on (include your name). 
+1. Make sure you are using an "_imports" OSM account
+1. Load your .osm file into JOSM.
+1. Validate the .osm file
+1. Download .osm data into a separate layer and fix all errors/warnings.
+1. Make sure any multipolygons are genuinely multipolygons with holes, and not single, multi-part buildings
+1. Open a new layer and download OSM data.
+1. Merge the building import layer into the OSM data layer.
+1. Run Fix Street Addresses to flag any buildings where the addr:street tag does not match the name of the existing street in OSM.
+1. Re-run validate to make sure there are no conflicts with existing data.
+1. Upload from the merged layer.
+
 - Fix any validation errors, and correct any errors based on local knowledge
 - When you commit the changeset, please add a changeset comment something like:
 
