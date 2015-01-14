@@ -1,5 +1,6 @@
 ###PDX Building Import Tasks
-To participate in the import please: 
+To participate in the import please:
+
 1. Select a file below that has not yet been reviewed / imported
 1. Update this page to indicate which quarter section file you are working on (include your name). 
 1. Make sure you are using an "_imports" OSM account
@@ -21,14 +22,14 @@ To participate in the import please:
 When the changeset is complete, please re-edit this page to reflect the completed status and include a link to the changeset.
 
 #### Files for Review and Import (need to re-visit some of these)
-- [x] 1s3w04a buildings Complete (Darrell) [changeset 28117850](https://https://www.openstreetmap.org/changeset/28117850)
-- [x] 1s3w04a multi-address Complete (Darrell)[changeset 28117850](https://https://www.openstreetmap.org/changeset/28117850)
-- [x] 1s3w06a buildings Complete (Darrell) [changeset 28118238](https://https://www.openstreetmap.org/changeset/28118238)
-- [x] 1s3w06a multi-address Complete (Darrell) [changeset 28118238](https://https://www.openstreetmap.org/changeset/28118238)
-- [x] 1s3w06b buildings Complete (Darrell) [changeset 28118665](https://https://www.openstreetmap.org/changeset/28118665)
-- [x] 1s3w06b multi-address Complete (Darrell) [changeset 28118665](https://https://www.openstreetmap.org/changeset/28118665)
-- [ ] 1s4w01a buildings
-- [ ] 1s4w01a multi-address
+- [x] 1s3w04a buildings Complete (Darrell) [changeset 28117850](https://www.openstreetmap.org/changeset/28117850)
+- [x] 1s3w04a multi-address Complete (Darrell)[changeset 28117850](https://www.openstreetmap.org/changeset/28117850)
+- [x] 1s3w06a buildings Complete (Darrell) [changeset 28118238](https://www.openstreetmap.org/changeset/28118238)
+- [x] 1s3w06a multi-address Complete (Darrell) [changeset 28118238](https://www.openstreetmap.org/changeset/28118238)
+- [x] 1s3w06b buildings Complete (Darrell) [changeset 28118665](https://www.openstreetmap.org/changeset/28118665)
+- [x] 1s3w06b multi-address Complete (Darrell) [changeset 28118665](https://www.openstreetmap.org/changeset/28118665)
+- [ ] 1s4w01a buildings, In Progress (Peter)
+- [ ] 1s4w01a multi-address, In Progress (Peter)
 - [ ] 1n3w33d buildings, In Progress (Tanya)
 - [ ] 1n3w33d multi-address, In Progress (Tanya)
 - [x] 1n3w32d buildings, Complete (Tanya) [changeset 28124754](https://www.openstreetmap.org/changeset/28124754)
