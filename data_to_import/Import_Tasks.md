@@ -13,15 +13,52 @@ To participate in the import please:
 1. Run Fix Street Addresses to flag any buildings where the addr:street tag does not match the name of the existing street in OSM.
 1. Re-run validate to make sure there are no conflicts with existing data.
 1. Upload from the merged layer.
-
-- Fix any validation errors, and correct any errors based on local knowledge
-- When you commit the changeset, please add a changeset comment something like:
-
+1. When you commit the changeset, please add a changeset comment something like:
 > "Consolidated quarter section import (1n2w27a), part of Portland OR Building Import project"
 
 When the changeset is complete, please re-edit this page to reflect the completed status and include a link to the changeset.
 
-#### Files for Review and Import (need to re-visit some of these)
+#### Files for Import
+- [ ] 1n3w03a buildings
+- [ ] 1n3w03a multi-address
+- [ ] 1n3w05b buildings
+- [ ] 1n3w05b multi-address
+- [ ] 1n3w15c buildings
+- [ ] 1n3w15c multi-address
+- [ ] 1n3w17c buildings
+- [ ] 1n3w17c multi-address
+- [ ] 1n3w31b buildings
+- [ ] 1n3w31b multi-address
+- [ ] 1n3w34c buildings
+- [ ] 1n3w34c multi-address
+- [ ] 1n3w34d buildings
+- [ ] 1n3w34d multi-address
+- [ ] 1n4w01a buildings
+- [ ] 1n4w01a multi-address
+- [ ] 1n4w02b buildings
+- [ ] 1n4w02b multi-address
+- [ ] 1n4w13d buildings
+- [ ] 1n4w13d multi-address
+- [ ] 1n4w14c buildings
+- [ ] 1n4w14c multi-address
+- [ ] 1s3w16c buildings
+- [ ] 1s3w16c multi-address
+- [ ] 1s3w23a buildings
+- [ ] 1s3w23a multi-address
+- [ ] 1s4w14a buildings
+- [ ] 1s4w14a multi-address
+- [ ] 1s4w19a buildings
+- [ ] 1s4w19a multi-address
+- [ ] 2n5w23a buildings
+- [ ] 2n5w23a multi-address
+- [ ] 2s3w03b buildings
+- [ ] 2s3w03b multi-address
+- [ ] 2s3w07c buildings
+- [ ] 2s3w07c multi-address
+- [ ] 2s3w09c buildings
+- [ ] 2s3w09c multi-address
+- [ ] 3n3w15b buildings
+- [ ] 3n3w15b multi-address
 - [x] 1s3w04a buildings Complete (Darrell) [changeset 28117850](https://www.openstreetmap.org/changeset/28117850)
 - [x] 1s3w04a multi-address Complete (Darrell)[changeset 28117850](https://www.openstreetmap.org/changeset/28117850)
 - [x] 1s3w06a buildings Complete (Darrell) [changeset 28118238](https://www.openstreetmap.org/changeset/28118238)

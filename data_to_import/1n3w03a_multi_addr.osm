@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.598242806" lon="-122.997291875" visible="true"><tag k="addr:housenumber" v="10749"/><tag k="addr:postcode" v="97133"/><tag k="addr:city" v="North Plains"/><tag k="addr:street" v="Northwest 311th Avenue"/></node>
+<node id="-2" lat="45.598239465" lon="-122.997286768" visible="true"><tag k="addr:housenumber" v="10779"/><tag k="addr:postcode" v="97133"/><tag k="addr:city" v="North Plains"/><tag k="addr:street" v="Northwest 311th Avenue"/></node>
+<node id="-3" lat="45.624099147" lon="-123.072119944" visible="true"><tag k="addr:housenumber" v="38159"/><tag k="addr:postcode" v="97106"/><tag k="addr:city" v="Banks"/><tag k="addr:street" v="Northwest Hahn Road"/></node>
+<node id="-4" lat="45.624099913" lon="-123.072116797" visible="true"><tag k="addr:housenumber" v="38167"/><tag k="addr:postcode" v="97106"/><tag k="addr:city" v="Banks"/><tag k="addr:street" v="Northwest Hahn Road"/></node>
+<node id="-5" lat="45.624098985" lon="-123.072113731" visible="true"><tag k="addr:housenumber" v="38175"/><tag k="addr:postcode" v="97106"/><tag k="addr:city" v="Banks"/><tag k="addr:street" v="Northwest Hahn Road"/></node>
+<node id="-6" lat="45.598260991" lon="-122.997485051" visible="true"><tag k="addr:housenumber" v="31120"/><tag k="addr:postcode" v="97133"/><tag k="addr:city" v="North Plains"/><tag k="addr:street" v="Northwest Hillcrest Street"/></node>
+<node id="-7" lat="45.598256275" lon="-122.997481807" visible="true"><tag k="addr:housenumber" v="31140"/><tag k="addr:postcode" v="97133"/><tag k="addr:city" v="North Plains"/><tag k="addr:street" v="Northwest Hillcrest Street"/></node>
+<node id="-8" lat="45.598277635" lon="-122.997672724" visible="true"><tag k="addr:housenumber" v="31160"/><tag k="addr:postcode" v="97133"/><tag k="addr:city" v="North Plains"/><tag k="addr:street" v="Northwest Hillcrest Street"/></node>
+<node id="-9" lat="45.598271004" lon="-122.997672154" visible="true"><tag k="addr:housenumber" v="31180"/><tag k="addr:postcode" v="97133"/><tag k="addr:city" v="North Plains"/><tag k="addr:street" v="Northwest Hillcrest Street"/></node>
+</osm>

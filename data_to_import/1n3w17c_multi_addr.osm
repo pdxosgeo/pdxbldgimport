@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.59478492" lon="-123.075587648" visible="true"><tag k="addr:housenumber" v="38665"/><tag k="addr:postcode" v="97106"/><tag k="addr:city" v="Banks"/><tag k="addr:street" v="Northwest Harrington Road"/></node>
+<node id="-2" lat="45.594784964" lon="-123.075582275" visible="true"><tag k="addr:housenumber" v="38735"/><tag k="addr:postcode" v="97106"/><tag k="addr:city" v="Banks"/><tag k="addr:street" v="Northwest Harrington Road"/></node>
+<node id="-3" lat="45.563044984" lon="-123.106170904" visible="true"><tag k="addr:housenumber" v="5885"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="Northwest Highway 47"/></node>
+<node id="-4" lat="45.563043519" lon="-123.106169078" visible="true"><tag k="addr:housenumber" v="5891"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="Northwest Highway 47"/></node>
+<node id="-5" lat="45.549676376" lon="-123.084135679" visible="true"><tag k="addr:housenumber" v="39586"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="Northwest Verboort Road"/></node>
+<node id="-6" lat="45.549670315" lon="-123.084132379" visible="true"><tag k="addr:housenumber" v="39594"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="Northwest Verboort Road"/></node>
+</osm>

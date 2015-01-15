@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.53823763" lon="-123.128848478" visible="true"><tag k="addr:housenumber" v="1033"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="34th Place"/></node>
+<node id="-2" lat="45.538495534" lon="-123.128845241" visible="true"><tag k="addr:housenumber" v="1058"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="35th Avenue"/></node>
+<node id="-3" lat="45.538971871" lon="-123.128853119" visible="true"><tag k="addr:housenumber" v="1059"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="35th Avenue"/></node>
+<node id="-4" lat="45.538494676" lon="-123.128389002" visible="true"><tag k="addr:housenumber" v="1122"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="35th Avenue"/></node>
+<node id="-5" lat="45.538478559" lon="-123.127327694" visible="true"><tag k="addr:housenumber" v="1164"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="35th Avenue"/></node>
+<node id="-6" lat="45.538472917" lon="-123.126897232" visible="true"><tag k="addr:housenumber" v="1202"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="35th Avenue"/></node>
+<node id="-7" lat="45.538443798" lon="-123.124370464" visible="true"><tag k="addr:housenumber" v="1342"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="35th Avenue"/></node>
+<node id="-8" lat="45.539964244" lon="-123.128877144" visible="true"><tag k="addr:housenumber" v="1057"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="36th Avenue"/></node>
+<node id="-9" lat="45.539961139" lon="-123.12835875" visible="true"><tag k="addr:housenumber" v="1119"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="36th Avenue"/></node>
+<node id="-10" lat="45.538446593" lon="-123.124363855" visible="true"><tag k="addr:housenumber" v="3440"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="Brooke Street"/></node>
+<node id="-11" lat="45.538236154" lon="-123.128847596" visible="true"><tag k="addr:housenumber" v="3450"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="Doubletree Street"/></node>
+<node id="-12" lat="45.538500045" lon="-123.128850021" visible="true"><tag k="addr:housenumber" v="3458"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="Doubletree Street"/></node>
+<node id="-13" lat="45.538972868" lon="-123.128856171" visible="true"><tag k="addr:housenumber" v="3508"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="Doubletree Street"/></node>
+<node id="-14" lat="45.538494571" lon="-123.128389166" visible="true"><tag k="addr:housenumber" v="3541"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="Doubletree Street"/></node>
+<node id="-15" lat="45.539956114" lon="-123.128356954" visible="true"><tag k="addr:housenumber" v="3603"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="Doubletree Street"/></node>
+<node id="-16" lat="45.539960254" lon="-123.128874746" visible="true"><tag k="addr:housenumber" v="3604"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="Doubletree Street"/></node>
+<node id="-17" lat="45.536935196" lon="-123.130721364" visible="true"><tag k="addr:housenumber" v="942"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="Hartford Drive"/></node>
+<node id="-18" lat="45.538476346" lon="-123.126905895" visible="true"><tag k="addr:housenumber" v="3435"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="Larrabee Street"/></node>
+<node id="-19" lat="45.538479276" lon="-123.127330877" visible="true"><tag k="addr:housenumber" v="3436"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="Larrabee Street"/></node>
+<node id="-20" lat="45.536940749" lon="-123.130713645" visible="true"><tag k="addr:housenumber" v="3385"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="Oakcrest Drive"/></node>
+</osm>
