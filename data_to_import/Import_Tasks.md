@@ -23,12 +23,12 @@ When the changeset is complete, please re-edit this page to reflect the complete
 - [x] 1n3w03a multi-address Complete (Darrell) [changeset 28151265](https://www.openstreetmap.org/changeset/28151265)
 - [x] 1n3w05b buildings Complete (Darrell)[changeset 28151478](https://www.openstreetmap.org/changeset/28151478)
 - [x] 1n3w05b multi-address Complete (Darrell) (no changes)
-- [x] 1n3w15c buildings Complete (Darrell) [changeset 28151803](https://www.openstreetmap.org/changeset/28151803)
+- [x] 1n3w15c buildings Complete (Darrell)[changeset 28151803](https://www.openstreetmap.org/changeset/28151803)
 - [x] 1n3w15c multi-address Complete (Darrell) (no changes)
-- [ ] 1n3w17c buildings In Progress (Darrell)
-- [ ] 1n3w17c multi-address In Progress (Darrell)
-- [ ] 1n3w31b buildings
-- [ ] 1n3w31b multi-address
+- [x] 1n3w17c buildings In Progress (Darrell)[changeset 28152072](https://www.openstreetmap.org/changeset/28152072)
+- [x] 1n3w17c multi-address In Progress (Darrell)[changeset 28152072](https://www.openstreetmap.org/changeset/28152072)
+- [ ] 1n3w31b buildings In Progress (Darrell)
+- [ ] 1n3w31b multi-address In Progress (Darrell)
 - [ ] 1n3w34c buildings
 - [ ] 1n3w34c multi-address
 - [ ] 1n3w34d buildings
