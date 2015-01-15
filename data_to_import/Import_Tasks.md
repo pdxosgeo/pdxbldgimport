@@ -21,10 +21,10 @@ When the changeset is complete, please re-edit this page to reflect the complete
 #### Files for Import
 - [x] 1n3w03a buildings Complete (Darrell) [changeset 28151265](https://www.openstreetmap.org/changeset/28151265)
 - [x] 1n3w03a multi-address Complete (Darrell) [changeset 28151265](https://www.openstreetmap.org/changeset/28151265)
-- [ ] 1n3w05b buildings In Progress (Darrell)
-- [ ] 1n3w05b multi-address In Progress (Darrell)
-- [ ] 1n3w15c buildings
-- [ ] 1n3w15c multi-address
+- [x] 1n3w05b buildings Complete (Darrell)[changeset 28151478](https://www.openstreetmap.org/changeset/28151478)
+- [x] 1n3w05b multi-address Complete (Darrell) (no changes)
+- [ ] 1n3w15c buildings In Progress (Darrell)
+- [ ] 1n3w15c multi-address In Progress (Darrell)
 - [ ] 1n3w17c buildings
 - [ ] 1n3w17c multi-address
 - [ ] 1n3w31b buildings
