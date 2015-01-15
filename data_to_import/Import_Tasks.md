@@ -19,10 +19,10 @@ To participate in the import please:
 When the changeset is complete, please re-edit this page to reflect the completed status and include a link to the changeset.
 
 #### Files for Import
-- [ ] 1n3w03a buildings
-- [ ] 1n3w03a multi-address
-- [ ] 1n3w05b buildings
-- [ ] 1n3w05b multi-address
+- [x] 1n3w03a buildings Complete (Darrell) [changeset 28151265](https://www.openstreetmap.org/changeset/28151265)
+- [x] 1n3w03a multi-address Complete (Darrell) [changeset 28151265](https://www.openstreetmap.org/changeset/28151265)
+- [ ] 1n3w05b buildings In Progress (Darrell)
+- [ ] 1n3w05b multi-address In Progress (Darrell)
 - [ ] 1n3w15c buildings
 - [ ] 1n3w15c multi-address
 - [ ] 1n3w17c buildings
