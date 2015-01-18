@@ -33,14 +33,14 @@ When the changeset is complete, please re-edit this page to reflect the complete
 - [x] 1n3w34c multi-address, Complete (Peter) [changeset 28201703] (http://www.openstreetmap.org/changeset/28201703)
 - [x] 1n3w34d buildings, Complete (Peter) [changeset 28201856] (http://www.openstreetmap.org/changeset/28201856)
 - [x] 1n3w34d multi-address, Complete (Peter) [changeset 28201856] (http://www.openstreetmap.org/changeset/28201856)
-- [ ] 1n4w01a buildings
-- [ ] 1n4w01a multi-address
-- [ ] 1n4w02b buildings
-- [ ] 1n4w02b multi-address
-- [ ] 1n4w13d buildings
-- [ ] 1n4w13d multi-address
-- [ ] 1n4w14c buildings
-- [ ] 1n4w14c multi-address
+- [ ] 1n4w01a buildings, In Progress (Peter)
+- [ ] 1n4w01a multi-address, In Progress (Peter)
+- [ ] 1n4w02b buildings, In Progress (Peter)
+- [ ] 1n4w02b multi-address, In Progress (Peter)
+- [ ] 1n4w13d buildings, In Progress (Peter)
+- [ ] 1n4w13d multi-address, In Progress (Peter)
+- [ ] 1n4w14c buildings, In Progress (Peter)
+- [ ] 1n4w14c multi-address, In Progress (Peter)
 - [ ] 1s3w16c buildings
 - [ ] 1s3w16c multi-address
 - [ ] 1s3w23a buildings
