@@ -55,8 +55,8 @@ When the changeset is complete, please re-edit this page to reflect the complete
 - [ ] 2s3w03b multi-address
 - [ ] 2s3w07c buildings
 - [ ] 2s3w07c multi-address
-- [ ] 2s3w09c buildings
-- [ ] 2s3w09c multi-address
+- [x] 2s3w09c buildings Complete (Darrell) [changeset 28265613](https://www.openstreetmap.org/changeset/28265613)
+- [x] 2s3w09c multi-address Complete (Darrell) [changeset 28265613](https://www.openstreetmap.org/changeset/28265613)
 - [x] 3n3w15b buildings Complete (Darrell) [changeset 28265022](https://www.openstreetmap.org/changeset/28265022)
 - [x] 3n3w15b multi-address Complete (Darrell) [changeset 28265022](https://www.openstreetmap.org/changeset/28265022)
 - [x] 1s3w04a buildings Complete (Darrell) [changeset 28117850](https://www.openstreetmap.org/changeset/28117850)
