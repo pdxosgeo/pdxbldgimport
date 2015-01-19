@@ -41,8 +41,8 @@ When the changeset is complete, please re-edit this page to reflect the complete
 - [x] 1n4w13d multi-address, Complete (Peter) [changeset 28223644] (http://www.openstreetmap.org/changeset/28223644)
 - [x] 1n4w14c buildings, Complete (Peter) [changeset 28223720] (http://www.openstreetmap.org/changeset/28223720)
 - [x] 1n4w14c multi-address, Complete (Peter) [changeset 28223720] (http://www.openstreetmap.org/changeset/28223720)
-- [ ] 1s3w16c buildings
-- [ ] 1s3w16c multi-address
+- [x] 1s3w16c buildings Complete (Darrell)[changeset 28266224] (http://www.openstreetmap.org/changeset/28266224)
+- [x] 1s3w16c multi-address Complete (Darrell) contains no changes
 - [ ] 1s3w23a buildings
 - [ ] 1s3w23a multi-address
 - [ ] 1s4w14a buildings
