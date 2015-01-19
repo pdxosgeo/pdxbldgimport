@@ -51,8 +51,8 @@ When the changeset is complete, please re-edit this page to reflect the complete
 - [ ] 1s4w19a multi-address (do not do yet, contains some addresses in city of portland)
 - [x] 2n5w23a buildings Complete (Darrell) [changeset 28265869](https://www.openstreetmap.org/changeset/28265869)
 - [x] 2n5w23a multi-address Complete (Darrell) contains no changes
-- [ ] 2s3w03b buildings
-- [ ] 2s3w03b multi-address
+- [x] 2s3w03b buildings Complete (Darrell) [changeset 28265976](https://www.openstreetmap.org/changeset/28265976)
+- [x] 2s3w03b multi-address [changeset 28265976](https://www.openstreetmap.org/changeset/28265976)
 - [ ] 2s3w07c buildings
 - [ ] 2s3w07c multi-address
 - [x] 2s3w09c buildings Complete (Darrell) [changeset 28265613](https://www.openstreetmap.org/changeset/28265613)
