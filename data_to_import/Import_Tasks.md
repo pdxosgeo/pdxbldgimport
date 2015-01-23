@@ -43,10 +43,10 @@ When the changeset is complete, please re-edit this page to reflect the complete
 - [x] 1n4w14c multi-address, Complete (Peter) [changeset 28223720] (http://www.openstreetmap.org/changeset/28223720)
 - [x] 1s3w16c buildings Complete (Darrell)[changeset 28266224] (http://www.openstreetmap.org/changeset/28266224)
 - [x] 1s3w16c multi-address Complete (Darrell) contains no changes
-- [ ] 1s3w23a buildings, In Progress (Peter)
-- [ ] 1s3w23a multi-address, In Progress (Peter)
-- [ ] 1s4w14a buildings, In Progress (Peter)
-- [ ] 1s4w14a multi-address, In Progress (Peter)
+- [x] 1s3w23a buildings, Complete (Peter) [changeset 28342157] (http://www.openstreetmap.org/changeset/28342157)
+- [x] 1s3w23a multi-address, Complete (Peter) [changeset 28342157] (http://www.openstreetmap.org/changeset/28342157)
+- [x] 1s3w23a buildings, Complete (Peter) [changeset 28342260] (http://www.openstreetmap.org/changeset/28342260)
+- [x] 1s4w14a multi-address, Complete (Peter) contains no changes
 - [ ] 1s4w19a buildings (do not do yet, contains some addresses in city of portland)
 - [ ] 1s4w19a multi-address (do not do yet, contains some addresses in city of portland)
 - [x] 2n5w23a buildings Complete (Darrell) [changeset 28265869](https://www.openstreetmap.org/changeset/28265869)
