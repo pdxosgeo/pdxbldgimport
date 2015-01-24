@@ -24,9 +24,9 @@ If there is no multi_address file, then it was empty and not included here.
 
 #### Files for Import
 - [x] 1n1w17b Complete (Darrell) [changeset 28363652](http://www.openstreetmap.org/changeset/28363652)
-- [ ] 1n1w17d In Progress (Darrell)
-- [ ] 1n1w19a In Progress (Darrell)
-- [ ] 1n1w19c In Progress (Darrell)
+- [x] 1n1w17d Complete (Darrell) [changeset 28364238](http://www.openstreetmap.org/changeset/28364238)
+- [x] 1n1w19a Complete (Darrell) [changeset 28364267](http://www.openstreetmap.org/changeset/28364267)
+- [x] 1n1w19c Complete (Darrell) [changeset 28364400](http://www.openstreetmap.org/changeset/28364400)
 - [ ] 1n1w19d
 - [ ] 1n1w20a
 - [ ] 1n1w20c
