@@ -31,19 +31,19 @@ If there is no multi_address file, then it was empty and not included here.
 - [x] 1n1w20a Complete (Peter) [changeset 28365164](http://www.openstreetmap.org/changeset/28365164)
 - [x] 1n1w20c Complete (Peter) [changeset 28365266](http://www.openstreetmap.org/changeset/28365266)
 - [x] 1n1w20d Complete (Peter) [changeset 28365389](http://www.openstreetmap.org/changeset/28365389)
-- [ ] 1n1w21c In Progress (Darrell)
-- [ ] 1n1w21d In Progress (Darrell)
-- [ ] 1n1w29b In Progress (Darrell)
-- [ ] 1n1w29d In Progress (Darrell)
-- [ ] 1n1w30a In Progress (Darrell)
-- [ ] 1n1w30b In Progress (Darrell)
-- [ ] 1n1w31a
-- [ ] 1n1w31b
-- [ ] 1n1w31c
-- [ ] 1n1w32b
-- [ ] 1n1w33a
-- [ ] 1n1w33b
-- [ ] 1n1w33d
+- [x] 1n1w21c Complete (Darrell)  [changeset 28383006](http://www.openstreetmap.org/changeset/28383006)
+- [x] 1n1w21d Complete (Darrell)  [changeset 28383494](http://www.openstreetmap.org/changeset/28383494)
+- [x] 1n1w29b Complete (Darrell)  [changeset 28384151](http://www.openstreetmap.org/changeset/28384151) (has many houses without addresses, could fix) 
+- [x] 1n1w29d Complete (Darrell)  [changeset 28384753](http://www.openstreetmap.org/changeset/28384753)
+- [x] 1n1w30a Complete (Darrell)  [changeset 28385012](http://www.openstreetmap.org/changeset/28385012)
+- [x] 1n1w30b Complete (Darrell)  [changeset 28385230](http://www.openstreetmap.org/changeset/28385230)
+- [ ] 1n1w31a In Progress (Darrell)
+- [ ] 1n1w31b In Progress (Darrell)
+- [ ] 1n1w31c In Progress (Darrell)
+- [ ] 1n1w32b In Progress (Darrell)
+- [ ] 1n1w33a In Progress (Darrell)
+- [ ] 1n1w33b In Progress (Darrell)
+- [ ] 1n1w33d In Progress (Darrell)
 - [ ] 1n1w34c
 - [ ] 1n2w15d
 - [ ] 1n2w19d
