@@ -18,11 +18,13 @@ To participate in the import please:
 
 When the changeset is complete, please re-edit this page to reflect the completed status and include a link to the changeset.
 
+It is from here out assumed you will be doing both the address and the building data at the same time (no more separate todos)
+
 #### Files for Import
-- [ ] 1n1w17b
-- [ ] 1n1w17d
-- [ ] 1n1w19a
-- [ ] 1n1w19c
+- [x] 1n1w17b Complete (Darrell) [changeset 28363652](http://www.openstreetmap.org/changeset/28363652)
+- [ ] 1n1w17d In Progress (Darrell)
+- [ ] 1n1w19a In Progress (Darrell)
+- [ ] 1n1w19c In Progress (Darrell)
 - [ ] 1n1w19d
 - [ ] 1n1w20a
 - [ ] 1n1w20c
