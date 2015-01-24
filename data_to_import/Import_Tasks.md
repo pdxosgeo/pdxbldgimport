@@ -27,10 +27,10 @@ If there is no multi_address file, then it was empty and not included here.
 - [x] 1n1w17d Complete (Darrell) [changeset 28364238](http://www.openstreetmap.org/changeset/28364238)
 - [x] 1n1w19a Complete (Darrell) [changeset 28364267](http://www.openstreetmap.org/changeset/28364267)
 - [x] 1n1w19c Complete (Darrell) [changeset 28364400](http://www.openstreetmap.org/changeset/28364400)
-- [ ] 1n1w19d
-- [ ] 1n1w20a
-- [ ] 1n1w20c
-- [ ] 1n1w20d
+- [ ] 1n1w19d In Progress (Peter)
+- [ ] 1n1w20a In Progress (Peter)
+- [ ] 1n1w20c In Progress (Peter)
+- [ ] 1n1w20d In Progress (Peter)
 - [ ] 1n1w21c
 - [ ] 1n1w21d
 - [ ] 1n1w29b
