@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.419028292" lon="-122.711963895" visible="true"><tag k="addr:housenumber" v="14788"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Boones Ferry Road"/></node>
+<node id="-2" lat="45.419113011" lon="-122.711964024" visible="true"><tag k="addr:housenumber" v="14790"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Boones Ferry Road"/></node>
+<node id="-3" lat="45.431150234" lon="-122.706519177" visible="true"><tag k="addr:housenumber" v="214"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Greenridge Drive"/></node>
+<node id="-4" lat="45.431152933" lon="-122.706519907" visible="true"><tag k="addr:housenumber" v="216"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Greenridge Drive"/></node>
+<node id="-5" lat="45.431412766" lon="-122.706630317" visible="true"><tag k="addr:housenumber" v="218"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Greenridge Drive"/></node>
+<node id="-6" lat="45.431409281" lon="-122.706633985" visible="true"><tag k="addr:housenumber" v="220"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Greenridge Drive"/></node>
+</osm>

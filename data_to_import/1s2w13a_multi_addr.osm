@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.486123511" lon="-122.871706387" visible="true"><tag k="addr:housenumber" v="4640"/><tag k="addr:postcode" v="97078"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest 189th Place"/></node>
+<node id="-2" lat="45.48706878" lon="-122.872287705" visible="true"><tag k="addr:housenumber" v="18801"/><tag k="addr:postcode" v="97078"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Butternut Street"/></node>
+<node id="-3" lat="45.487073475" lon="-122.872288756" visible="true"><tag k="addr:housenumber" v="18803"/><tag k="addr:postcode" v="97078"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Butternut Street"/></node>
+<node id="-4" lat="45.486127455" lon="-122.871703036" visible="true"><tag k="addr:housenumber" v="18821"/><tag k="addr:postcode" v="97078"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Butternut Street"/></node>
+<node id="-5" lat="45.485719337" lon="-122.870396915" visible="true"><tag k="addr:housenumber" v="18848"/><tag k="addr:postcode" v="97078"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Butternut Street"/></node>
+<node id="-6" lat="45.485718623" lon="-122.870398671" visible="true"><tag k="addr:housenumber" v="18850"/><tag k="addr:postcode" v="97078"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Butternut Street"/></node>
+<node id="-7" lat="45.485508202" lon="-122.8710181" visible="true"><tag k="addr:housenumber" v="18853"/><tag k="addr:postcode" v="97078"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Butternut Street"/></node>
+<node id="-8" lat="45.485512106" lon="-122.871025872" visible="true"><tag k="addr:housenumber" v="18855"/><tag k="addr:postcode" v="97078"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Butternut Street"/></node>
+<node id="-9" lat="45.485313591" lon="-122.870431536" visible="true"><tag k="addr:housenumber" v="18856"/><tag k="addr:postcode" v="97078"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Butternut Street"/></node>
+<node id="-10" lat="45.485307597" lon="-122.870423267" visible="true"><tag k="addr:housenumber" v="18858"/><tag k="addr:postcode" v="97078"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Butternut Street"/></node>
+<node id="-11" lat="45.48799656" lon="-122.868415669" visible="true"><tag k="addr:housenumber" v="18570"/><tag k="addr:postcode" v="97078"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Vincent Street"/></node>
+<node id="-12" lat="45.487991422" lon="-122.868419575" visible="true"><tag k="addr:housenumber" v="18600"/><tag k="addr:postcode" v="97078"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Vincent Street"/></node>
+</osm>

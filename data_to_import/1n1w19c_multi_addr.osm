@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.56010671" lon="-122.86125032" visible="true"><tag k="addr:housenumber" v="5594"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest 179th Avenue"/></node>
+<node id="-2" lat="45.560111255" lon="-122.86125076" visible="true"><tag k="addr:housenumber" v="5595"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest 179th Avenue"/></node>
+<node id="-3" lat="45.560236882" lon="-122.861244048" visible="true"><tag k="addr:housenumber" v="5610"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest 179th Avenue"/></node>
+<node id="-4" lat="45.560233828" lon="-122.861246321" visible="true"><tag k="addr:housenumber" v="5611"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest 179th Avenue"/></node>
+</osm>

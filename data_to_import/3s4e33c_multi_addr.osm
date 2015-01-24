@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.269325144" lon="-122.349448978" visible="true"><tag k="addr:housenumber" v="25162"/><tag k="addr:postcode" v="97023"/><tag k="addr:city" v="Estacada"/><tag k="addr:street" v="South Dubois Creek Lane"/></node>
+<node id="-2" lat="45.269316418" lon="-122.349443706" visible="true"><tag k="addr:housenumber" v="25164"/><tag k="addr:postcode" v="97023"/><tag k="addr:city" v="Estacada"/><tag k="addr:street" v="South Dubois Creek Lane"/></node>
+<node id="-3" lat="45.269324368" lon="-122.349449714" visible="true"><tag k="addr:housenumber" v="25184"/><tag k="addr:postcode" v="97023"/><tag k="addr:city" v="Estacada"/><tag k="addr:street" v="South Dubois Creek Lane"/></node>
+<node id="-4" lat="45.282836542" lon="-122.323911315" visible="true"><tag k="addr:housenumber" v="33040"/><tag k="addr:postcode" v="97023"/><tag k="addr:city" v="Estacada"/><tag k="addr:street" v="Southeast Darrow Road"/></node>
+<node id="-5" lat="45.282843427" lon="-122.323911513" visible="true"><tag k="addr:housenumber" v="33050"/><tag k="addr:postcode" v="97023"/><tag k="addr:city" v="Estacada"/><tag k="addr:street" v="Southeast Darrow Road"/></node>
+</osm>

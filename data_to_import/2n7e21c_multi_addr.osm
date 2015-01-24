@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.51514033" lon="-122.210805521" visible="true"><tag k="addr:housenumber" v="43999"/><tag k="addr:postcode" v="97019"/><tag k="addr:city" v="Corbett"/><tag k="addr:street" v="East Larch Mountain Road"/></node>
+<node id="-2" lat="45.515136467" lon="-122.210800759" visible="true"><tag k="addr:housenumber" v="45201"/><tag k="addr:postcode" v="97019"/><tag k="addr:city" v="Corbett"/><tag k="addr:street" v="East Larch Mountain Road"/></node>
+<node id="-3" lat="45.545232631" lon="-122.178583406" visible="true"><tag k="addr:housenumber" v="2601"/><tag k="addr:postcode" v="97010"/><tag k="addr:city" v="Corbett"/><tag k="addr:street" v="Northeast Brower Road"/></node>
+<node id="-4" lat="45.545236382" lon="-122.178578382" visible="true"><tag k="addr:housenumber" v="2817"/><tag k="addr:postcode" v="97019"/><tag k="addr:city" v="Corbett"/><tag k="addr:street" v="Northeast Brower Road"/></node>
+<node id="-5" lat="45.543299709" lon="-122.175416693" visible="true"><tag k="addr:housenumber" v="2821"/><tag k="addr:postcode" v="97019"/><tag k="addr:city" v="Corbett"/><tag k="addr:street" v="Northeast Brower Road"/></node>
+<node id="-6" lat="45.543296066" lon="-122.175419889" visible="true"><tag k="addr:housenumber" v="2827"/><tag k="addr:postcode" v="97019"/><tag k="addr:city" v="Corbett"/><tag k="addr:street" v="Northeast Brower Road"/></node>
+<node id="-7" lat="45.605789839" lon="-122.041211492" visible="true"><tag k="addr:housenumber" v="60403"/><tag k="addr:postcode" v="97010"/><tag k="addr:city" v="Bridal Veil"/><tag k="addr:street" v="Northeast Bucher Lane"/></node>
+<node id="-8" lat="45.605793845" lon="-122.041211625" visible="true"><tag k="addr:housenumber" v="60403"/><tag k="addr:postcode" v="97014"/><tag k="addr:city" v="Cascade Locks"/><tag k="addr:street" v="Northeast Bucher Lane"/></node>
+<node id="-9" lat="45.606282468" lon="-122.035136266" visible="true"><tag k="addr:housenumber" v="60980"/><tag k="addr:postcode" v="97014"/><tag k="addr:city" v="Cascade Locks"/><tag k="addr:street" v="Northeast Frontage Road"/></node>
+<node id="-10" lat="45.606282844" lon="-122.035128439" visible="true"><tag k="addr:housenumber" v="60992"/><tag k="addr:postcode" v="97014"/><tag k="addr:city" v="Cascade Locks"/><tag k="addr:street" v="Northeast Frontage Road"/></node>
+<node id="-11" lat="45.610867163" lon="-122.028468035" visible="true"><tag k="addr:housenumber" v="61703"/><tag k="addr:postcode" v="97014"/><tag k="addr:city" v="Cascade Locks"/><tag k="addr:street" v="Northeast Tumalt Road"/></node>
+<node id="-12" lat="45.610873509" lon="-122.028471355" visible="true"><tag k="addr:housenumber" v="61711"/><tag k="addr:postcode" v="97014"/><tag k="addr:city" v="Cascade Locks"/><tag k="addr:street" v="Northeast Tumalt Road"/></node>
+<node id="-13" lat="45.480343781" lon="-122.21253927" visible="true"><tag k="addr:housenumber" v="43700"/><tag k="addr:postcode" v="97019"/><tag k="addr:city" v="Corbett"/><tag k="addr:street" v="Southeast Trout Creek Road"/></node>
+<node id="-14" lat="45.480350324" lon="-122.212540171" visible="true"><tag k="addr:housenumber" v="43800"/><tag k="addr:postcode" v="97019"/><tag k="addr:city" v="Corbett"/><tag k="addr:street" v="Southeast Trout Creek Road"/></node>
+<node id="-15" lat="45.480343276" lon="-122.212536956" visible="true"><tag k="addr:housenumber" v="43900"/><tag k="addr:postcode" v="97019"/><tag k="addr:city" v="Corbett"/><tag k="addr:street" v="Southeast Trout Creek Road"/></node>
+</osm>

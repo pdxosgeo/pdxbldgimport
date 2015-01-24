@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.480151531" lon="-122.39254426" visible="true"><tag k="addr:housenumber" v="3921"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast 24th Terrace"/></node>
+<node id="-2" lat="45.480146616" lon="-122.392546629" visible="true"><tag k="addr:housenumber" v="3931"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast 24th Terrace"/></node>
+<node id="-3" lat="45.480126563" lon="-122.392345043" visible="true"><tag k="addr:housenumber" v="3947"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast 24th Terrace"/></node>
+<node id="-4" lat="45.480128848" lon="-122.392338705" visible="true"><tag k="addr:housenumber" v="3957"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast 24th Terrace"/></node>
+<node id="-5" lat="45.475465108" lon="-122.403353997" visible="true"><tag k="addr:housenumber" v="2904"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast 30th Street"/></node>
+<node id="-6" lat="45.475463266" lon="-122.403353851" visible="true"><tag k="addr:housenumber" v="2906"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast 30th Street"/></node>
+<node id="-7" lat="45.479490344" lon="-122.392887742" visible="true"><tag k="addr:housenumber" v="2442"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Barnes Road"/></node>
+<node id="-8" lat="45.479488037" lon="-122.392880059" visible="true"><tag k="addr:housenumber" v="2452"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Barnes Road"/></node>
+</osm>

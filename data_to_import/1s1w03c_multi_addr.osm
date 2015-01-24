@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.508308053" lon="-122.797929188" visible="true"><tag k="addr:housenumber" v="11710"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Bowmont Lane"/></node>
+<node id="-2" lat="45.50831213" lon="-122.79793471" visible="true"><tag k="addr:housenumber" v="11720"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Bowmont Lane"/></node>
+<node id="-3" lat="45.508486901" lon="-122.797978496" visible="true"><tag k="addr:housenumber" v="11730"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Bowmont Lane"/></node>
+<node id="-4" lat="45.5084863" lon="-122.797981358" visible="true"><tag k="addr:housenumber" v="11740"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Bowmont Lane"/></node>
+<node id="-5" lat="45.508668027" lon="-122.798076255" visible="true"><tag k="addr:housenumber" v="11750"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Bowmont Lane"/></node>
+<node id="-6" lat="45.508666301" lon="-122.798075037" visible="true"><tag k="addr:housenumber" v="11760"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Bowmont Lane"/></node>
+<node id="-7" lat="45.508845348" lon="-122.798204487" visible="true"><tag k="addr:housenumber" v="11770"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Bowmont Lane"/></node>
+<node id="-8" lat="45.508849932" lon="-122.798205688" visible="true"><tag k="addr:housenumber" v="11780"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Bowmont Lane"/></node>
+<node id="-9" lat="45.509019911" lon="-122.798363449" visible="true"><tag k="addr:housenumber" v="11790"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Bowmont Lane"/></node>
+<node id="-10" lat="45.509012682" lon="-122.798362384" visible="true"><tag k="addr:housenumber" v="11800"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Bowmont Lane"/></node>
+<node id="-11" lat="45.509124579" lon="-122.795935951" visible="true"><tag k="addr:housenumber" v="11603"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Bowmont Street"/></node>
+<node id="-12" lat="45.509120234" lon="-122.795932546" visible="true"><tag k="addr:housenumber" v="11605"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Bowmont Street"/></node>
+<node id="-13" lat="45.509169316" lon="-122.796228043" visible="true"><tag k="addr:housenumber" v="11635"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Bowmont Street"/></node>
+<node id="-14" lat="45.509167513" lon="-122.796229085" visible="true"><tag k="addr:housenumber" v="11637"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Bowmont Street"/></node>
+<node id="-15" lat="45.509266093" lon="-122.79648918" visible="true"><tag k="addr:housenumber" v="11665"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Bowmont Street"/></node>
+<node id="-16" lat="45.509268848" lon="-122.796491151" visible="true"><tag k="addr:housenumber" v="11667"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Bowmont Street"/></node>
+<node id="-17" lat="45.509345836" lon="-122.796780928" visible="true"><tag k="addr:housenumber" v="11695"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Bowmont Street"/></node>
+<node id="-18" lat="45.509346834" lon="-122.796772352" visible="true"><tag k="addr:housenumber" v="11699"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Bowmont Street"/></node>
+</osm>

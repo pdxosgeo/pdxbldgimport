@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.372165763" lon="-122.780018269" visible="true"><tag k="addr:housenumber" v="9997"/><tag k="addr:postcode" v="97062"/><tag k="addr:city" v="Tualatin"/><tag k="addr:street" v="Southwest Avery Street"/></node>
+<node id="-2" lat="45.372037621" lon="-122.780013508" visible="true"><tag k="addr:housenumber" v="9999"/><tag k="addr:postcode" v="97062"/><tag k="addr:city" v="Tualatin"/><tag k="addr:street" v="Southwest Avery Street"/></node>
+<node id="-3" lat="45.374110193" lon="-122.780838211" visible="true"><tag k="addr:housenumber" v="20210"/><tag k="addr:postcode" v="97062"/><tag k="addr:city" v="Tualatin"/><tag k="addr:street" v="Southwest Teton Avenue"/></node>
+<node id="-4" lat="45.37410898" lon="-122.780656416" visible="true"><tag k="addr:housenumber" v="20220"/><tag k="addr:postcode" v="97062"/><tag k="addr:city" v="Tualatin"/><tag k="addr:street" v="Southwest Teton Avenue"/></node>
+<node id="-5" lat="45.37410127" lon="-122.781019093" visible="true"><tag k="addr:housenumber" v="20224"/><tag k="addr:postcode" v="97062"/><tag k="addr:city" v="Tualatin"/><tag k="addr:street" v="Southwest Teton Avenue"/></node>
+</osm>

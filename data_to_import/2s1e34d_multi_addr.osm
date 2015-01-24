@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.351207846" lon="-122.66355167" visible="true"><tag k="addr:housenumber" v="1239"/><tag k="addr:postcode" v="97068"/><tag k="addr:city" v="West Linn"/><tag k="addr:street" v="Blankenship Road"/></node>
+<node id="-2" lat="45.351207991" lon="-122.663545311" visible="true"><tag k="addr:housenumber" v="1241"/><tag k="addr:postcode" v="97068"/><tag k="addr:city" v="West Linn"/><tag k="addr:street" v="Blankenship Road"/></node>
+<node id="-3" lat="45.352696465" lon="-122.666801717" visible="true"><tag k="addr:housenumber" v="2420"/><tag k="addr:postcode" v="97068"/><tag k="addr:city" v="West Linn"/><tag k="addr:street" v="Michael Court"/></node>
+<node id="-4" lat="45.352699882" lon="-122.666800662" visible="true"><tag k="addr:housenumber" v="2430"/><tag k="addr:postcode" v="97068"/><tag k="addr:city" v="West Linn"/><tag k="addr:street" v="Michael Court"/></node>
+<node id="-5" lat="45.346986659" lon="-122.667206702" visible="true"><tag k="addr:housenumber" v="1980"/><tag k="addr:postcode" v="97068"/><tag k="addr:city" v="West Linn"/><tag k="addr:street" v="Ostman Road"/></node>
+<node id="-6" lat="45.347062508" lon="-122.667316787" visible="true"><tag k="addr:housenumber" v="1982"/><tag k="addr:postcode" v="97068"/><tag k="addr:city" v="West Linn"/><tag k="addr:street" v="Ostman Road"/></node>
+<node id="-7" lat="45.347153687" lon="-122.667207092" visible="true"><tag k="addr:housenumber" v="1984"/><tag k="addr:postcode" v="97068"/><tag k="addr:city" v="West Linn"/><tag k="addr:street" v="Ostman Road"/></node>
+<node id="-8" lat="45.34721951" lon="-122.667283462" visible="true"><tag k="addr:housenumber" v="1986"/><tag k="addr:postcode" v="97068"/><tag k="addr:city" v="West Linn"/><tag k="addr:street" v="Ostman Road"/></node>
+<node id="-9" lat="45.347314522" lon="-122.667203372" visible="true"><tag k="addr:housenumber" v="1988"/><tag k="addr:postcode" v="97068"/><tag k="addr:city" v="West Linn"/><tag k="addr:street" v="Ostman Road"/></node>
+<node id="-10" lat="45.347386861" lon="-122.667295649" visible="true"><tag k="addr:housenumber" v="1990"/><tag k="addr:postcode" v="97068"/><tag k="addr:city" v="West Linn"/><tag k="addr:street" v="Ostman Road"/></node>
+</osm>

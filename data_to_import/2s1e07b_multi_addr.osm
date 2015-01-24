@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.412267809" lon="-122.749429677" visible="true"><tag k="addr:housenumber" v="14915"/><tag k="addr:postcode" v="97224"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest 72nd Avenue"/></node>
+<node id="-2" lat="45.41226816" lon="-122.74943677" visible="true"><tag k="addr:housenumber" v="14935"/><tag k="addr:postcode" v="97224"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest 72nd Avenue"/></node>
+<node id="-3" lat="45.423835092" lon="-122.750086306" visible="true"><tag k="addr:housenumber" v="7100"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Fir Loop"/></node>
+<node id="-4" lat="45.422118225" lon="-122.748165674" visible="true"><tag k="addr:housenumber" v="7000"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Sandburg Street"/></node>
+<node id="-5" lat="45.421910548" lon="-122.748327948" visible="true"><tag k="addr:housenumber" v="7005"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Sandburg Street"/></node>
+<node id="-6" lat="45.424010895" lon="-122.750119765" visible="true"><tag k="addr:housenumber" v="7102"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Varns Street"/></node>
+</osm>

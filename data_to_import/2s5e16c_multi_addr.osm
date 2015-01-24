@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.393964535" lon="-122.249713829" visible="true"><tag k="addr:housenumber" v="40220"/><tag k="addr:postcode" v="97055"/><tag k="addr:city" v="Sandy"/><tag k="addr:street" v="Mccormick Court"/></node>
+<node id="-2" lat="45.39391824" lon="-122.249606259" visible="true"><tag k="addr:housenumber" v="40230"/><tag k="addr:postcode" v="97055"/><tag k="addr:city" v="Sandy"/><tag k="addr:street" v="Mccormick Court"/></node>
+<node id="-3" lat="45.4002712" lon="-122.220760319" visible="true"><tag k="addr:housenumber" v="42969"/><tag k="addr:postcode" v="97055"/><tag k="addr:city" v="Sandy"/><tag k="addr:street" v="Southeast Oral Hull Road"/></node>
+<node id="-4" lat="45.400272977" lon="-122.220766758" visible="true"><tag k="addr:housenumber" v="42975"/><tag k="addr:postcode" v="97055"/><tag k="addr:city" v="Sandy"/><tag k="addr:street" v="Southeast Oral Hull Road"/></node>
+</osm>

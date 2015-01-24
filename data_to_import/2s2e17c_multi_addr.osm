@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.393425628" lon="-122.592567707" visible="true"><tag k="addr:housenumber" v="17910"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="Oatfield Road"/></node>
+<node id="-2" lat="45.393431919" lon="-122.592505113" visible="true"><tag k="addr:housenumber" v="17912"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="Oatfield Road"/></node>
+<node id="-3" lat="45.393339867" lon="-122.592351879" visible="true"><tag k="addr:housenumber" v="17920"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="Oatfield Road"/></node>
+<node id="-4" lat="45.393336195" lon="-122.592286651" visible="true"><tag k="addr:housenumber" v="17922"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="Oatfield Road"/></node>
+<node id="-5" lat="45.391136583" lon="-122.589807858" visible="true"><tag k="addr:housenumber" v="18147"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="Oatfield Road"/></node>
+<node id="-6" lat="45.391133444" lon="-122.5898047" visible="true"><tag k="addr:housenumber" v="18149"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="Oatfield Road"/></node>
+</osm>

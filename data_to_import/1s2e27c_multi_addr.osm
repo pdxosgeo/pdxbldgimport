@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.444579772" lon="-122.556257039" visible="true"><tag k="addr:housenumber" v="10785"/><tag k="addr:postcode" v="97086"/><tag k="addr:city" v="Happy Valley"/><tag k="addr:street" v="Southeast 104th Avenue"/></node>
+<node id="-2" lat="45.444571696" lon="-122.556252235" visible="true"><tag k="addr:housenumber" v="10793"/><tag k="addr:postcode" v="97086"/><tag k="addr:city" v="Happy Valley"/><tag k="addr:street" v="Southeast 104th Avenue"/></node>
+<node id="-3" lat="45.444580001" lon="-122.556252499" visible="true"><tag k="addr:housenumber" v="10840"/><tag k="addr:postcode" v="97086"/><tag k="addr:city" v="Happy Valley"/><tag k="addr:street" v="Southeast 104th Avenue"/></node>
+</osm>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.443913552" lon="-122.380377912" visible="true"><tag k="addr:housenumber" v="27487"/><tag k="addr:postcode" v="97009"/><tag k="addr:city" v="Boring"/><tag k="addr:street" v="Southeast Haley Road"/></node>
+<node id="-2" lat="45.443912842" lon="-122.380383712" visible="true"><tag k="addr:housenumber" v="27595"/><tag k="addr:postcode" v="97009"/><tag k="addr:city" v="Boring"/><tag k="addr:street" v="Southeast Haley Road"/></node>
+<node id="-3" lat="45.443636903" lon="-122.370419636" visible="true"><tag k="addr:housenumber" v="28455"/><tag k="addr:postcode" v="97009"/><tag k="addr:city" v="Boring"/><tag k="addr:street" v="Southeast Haley Road"/></node>
+<node id="-4" lat="45.443636962" lon="-122.370426146" visible="true"><tag k="addr:housenumber" v="28465"/><tag k="addr:postcode" v="97009"/><tag k="addr:city" v="Boring"/><tag k="addr:street" v="Southeast Haley Road"/></node>
+</osm>

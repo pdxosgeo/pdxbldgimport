@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.535901904" lon="-122.814591572" visible="true"><tag k="addr:housenumber" v="2215"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest 133rd Avenue"/></node>
+<node id="-2" lat="45.53590735" lon="-122.814597835" visible="true"><tag k="addr:housenumber" v="2215"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest 133rd Place"/></node>
+<node id="-3" lat="45.510229681" lon="-122.794943014" visible="true"><tag k="addr:housenumber" v="1330"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Cedar Hills Boulevard"/></node>
+<node id="-4" lat="45.510230937" lon="-122.794950884" visible="true"><tag k="addr:housenumber" v="1340"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Cedar Hills Boulevard"/></node>
+</osm>

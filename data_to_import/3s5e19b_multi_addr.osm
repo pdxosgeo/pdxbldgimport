@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.300475044" lon="-122.281207228" visible="true"><tag k="addr:housenumber" v="37170"/><tag k="addr:postcode" v="97023"/><tag k="addr:city" v="Estacada"/><tag k="addr:street" v="Southeast Rhodes Road"/></node>
+<node id="-2" lat="45.300470127" lon="-122.281214855" visible="true"><tag k="addr:housenumber" v="37188"/><tag k="addr:postcode" v="97023"/><tag k="addr:city" v="Estacada"/><tag k="addr:street" v="Southeast Rhodes Road"/></node>
+</osm>

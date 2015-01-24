@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.469887786" lon="-122.371935906" visible="true"><tag k="addr:housenumber" v="7234"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast 282nd Avenue"/></node>
+<node id="-2" lat="45.469888783" lon="-122.371932738" visible="true"><tag k="addr:housenumber" v="7242"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast 282nd Avenue"/></node>
+<node id="-3" lat="45.470959596" lon="-122.364434502" visible="true"><tag k="addr:housenumber" v="29005"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Dodge Park Boulevard"/></node>
+<node id="-4" lat="45.470954898" lon="-122.364427387" visible="true"><tag k="addr:housenumber" v="29010"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Dodge Park Boulevard"/></node>
+<node id="-5" lat="45.470959775" lon="-122.364434265" visible="true"><tag k="addr:housenumber" v="29012"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Dodge Park Boulevard"/></node>
+<node id="-6" lat="45.468380917" lon="-122.35489056" visible="true"><tag k="addr:housenumber" v="29925"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Orient Drive"/></node>
+<node id="-7" lat="45.468379996" lon="-122.354895957" visible="true"><tag k="addr:housenumber" v="29995"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Orient Drive"/></node>
+<node id="-8" lat="45.461083068" lon="-122.369238679" visible="true"><tag k="addr:housenumber" v="28480"/><tag k="addr:postcode" v="97009"/><tag k="addr:city" v="Boring"/><tag k="addr:street" v="Southeast Stone Road"/></node>
+<node id="-9" lat="45.461090168" lon="-122.369233968" visible="true"><tag k="addr:housenumber" v="28582"/><tag k="addr:postcode" v="97009"/><tag k="addr:city" v="Boring"/><tag k="addr:street" v="Southeast Stone Road"/></node>
+</osm>

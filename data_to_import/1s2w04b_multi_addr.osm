@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.519327598" lon="-122.943284543" visible="true"><tag k="addr:housenumber" v="3818"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="East Main Street"/></node>
+<node id="-2" lat="45.51941353" lon="-122.943261487" visible="true"><tag k="addr:housenumber" v="3818-A"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="East Main Street"/></node>
+<node id="-3" lat="45.518680685" lon="-122.943542105" visible="true"><tag k="addr:housenumber" v="280"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast 37th Avenue"/></node>
+<node id="-4" lat="45.518683046" lon="-122.943540631" visible="true"><tag k="addr:housenumber" v="292"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast 37th Avenue"/></node>
+</osm>

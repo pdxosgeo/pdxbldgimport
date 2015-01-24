@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.454729101" lon="-122.414116689" visible="true"><tag k="addr:housenumber" v="24180"/><tag k="addr:postcode" v="97089"/><tag k="addr:city" v="Damascus"/><tag k="addr:street" v="Southeast Borges Road"/></node>
+<node id="-2" lat="45.454725077" lon="-122.414220238" visible="true"><tag k="addr:housenumber" v="24190"/><tag k="addr:postcode" v="97089"/><tag k="addr:city" v="Damascus"/><tag k="addr:street" v="Southeast Borges Road"/></node>
+</osm>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.46020195" lon="-122.763474318" visible="true"><tag k="addr:housenumber" v="8270"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest 85th Avenue"/></node>
+<node id="-2" lat="45.460203629" lon="-122.763469524" visible="true"><tag k="addr:housenumber" v="8280"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest 85th Avenue"/></node>
+<node id="-3" lat="45.459999098" lon="-122.763470304" visible="true"><tag k="addr:housenumber" v="8290"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest 85th Avenue"/></node>
+<node id="-4" lat="45.460000236" lon="-122.76347649" visible="true"><tag k="addr:housenumber" v="8300"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest 85th Avenue"/></node>
+<node id="-5" lat="45.45225246" lon="-122.759674717" visible="true"><tag k="addr:housenumber" v="8010"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Cedarcrest Street"/></node>
+<node id="-6" lat="45.452251318" lon="-122.759676611" visible="true"><tag k="addr:housenumber" v="8012"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Cedarcrest Street"/></node>
+<node id="-7" lat="45.452485294" lon="-122.759712234" visible="true"><tag k="addr:housenumber" v="8016"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Cedarcrest Street"/></node>
+<node id="-8" lat="45.452488456" lon="-122.759713629" visible="true"><tag k="addr:housenumber" v="8018"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Cedarcrest Street"/></node>
+</osm>

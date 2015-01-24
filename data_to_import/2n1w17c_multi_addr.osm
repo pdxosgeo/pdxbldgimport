@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.71684791" lon="-122.896572654" visible="true"><tag k="addr:housenumber" v="21530"/><tag k="addr:postcode" v="97056"/><tag k="addr:city" v="Scappoose"/><tag k="addr:street" v="Northwest Gilkison Road"/></node>
+<node id="-2" lat="45.716853714" lon="-122.896573888" visible="true"><tag k="addr:housenumber" v="21530 W"/><tag k="addr:postcode" v="97056"/><tag k="addr:city" v="Scappoose"/><tag k="addr:street" v="Northwest Gilkison Road"/></node>
+<node id="-3" lat="45.641686361" lon="-122.851242729" visible="true"><tag k="addr:housenumber" v="16430"/><tag k="addr:postcode" v="97231"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Mcnamee Road"/></node>
+<node id="-4" lat="45.647235943" lon="-122.843053609" visible="true"><tag k="addr:housenumber" v="16954"/><tag k="addr:postcode" v="97231"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest St Helens Road"/></node>
+<node id="-5" lat="45.647232247" lon="-122.843051738" visible="true"><tag k="addr:housenumber" v="16956"/><tag k="addr:postcode" v="97231"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest St Helens Road"/></node>
+<node id="-6" lat="45.641680182" lon="-122.851246249" visible="true"><tag k="addr:housenumber" v="6688"/><tag k="addr:postcode" v="97210"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest St Helens Road"/></node>
+</osm>

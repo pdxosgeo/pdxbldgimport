@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.393315501" lon="-122.742215614" visible="true"><tag k="addr:housenumber" v="6245"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Lakeview Boulevard"/></node>
+<node id="-2" lat="45.393309419" lon="-122.74256338" visible="true"><tag k="addr:housenumber" v="6265"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Lakeview Boulevard"/></node>
+<node id="-3" lat="45.393195816" lon="-122.742016622" visible="true"><tag k="addr:housenumber" v="6285"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Lakeview Boulevard"/></node>
+<node id="-4" lat="45.398154932" lon="-122.734003128" visible="true"><tag k="addr:housenumber" v="17607"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Pilkington Road"/></node>
+<node id="-5" lat="45.398006072" lon="-122.734027972" visible="true"><tag k="addr:housenumber" v="17643"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Pilkington Road"/></node>
+<node id="-6" lat="45.39780919" lon="-122.734052457" visible="true"><tag k="addr:housenumber" v="17661"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Pilkington Road"/></node>
+<node id="-7" lat="45.397752799" lon="-122.734060863" visible="true"><tag k="addr:housenumber" v="17665"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Pilkington Road"/></node>
+<node id="-8" lat="45.394949409" lon="-122.733761021" visible="true"><tag k="addr:housenumber" v="18125"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Pilkington Road"/></node>
+<node id="-9" lat="45.394956627" lon="-122.73376186" visible="true"><tag k="addr:housenumber" v="18147"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Pilkington Road"/></node>
+<node id="-10" lat="45.399622616" lon="-122.743400272" visible="true"><tag k="addr:housenumber" v="17550"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Southwest 65th Avenue"/></node>
+<node id="-11" lat="45.399624658" lon="-122.743199203" visible="true"><tag k="addr:housenumber" v="17600"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Southwest 65th Avenue"/></node>
+<node id="-12" lat="45.39962262" lon="-122.743042106" visible="true"><tag k="addr:housenumber" v="17636"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Southwest 65th Avenue"/></node>
+<node id="-13" lat="45.407851069" lon="-122.742047604" visible="true"><tag k="addr:housenumber" v="6291"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Southwest Harrington Avenue"/></node>
+<node id="-14" lat="45.407855996" lon="-122.742054815" visible="true"><tag k="addr:housenumber" v="6303"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Southwest Harrington Avenue"/></node>
+<node id="-15" lat="45.400953144" lon="-122.740667263" visible="true"><tag k="addr:housenumber" v="6305"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Southwest Rosewood Street"/></node>
+<node id="-16" lat="45.401373631" lon="-122.741318074" visible="true"><tag k="addr:housenumber" v="6355"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Southwest Rosewood Street"/></node>
+</osm>

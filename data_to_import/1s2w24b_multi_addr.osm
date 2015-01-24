@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.471825264" lon="-122.879264956" visible="true"><tag k="addr:housenumber" v="6635"/><tag k="addr:postcode" v="97078"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest 196th Avenue"/></node>
+<node id="-2" lat="45.471829534" lon="-122.879260388" visible="true"><tag k="addr:housenumber" v="6637"/><tag k="addr:postcode" v="97078"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest 196th Avenue"/></node>
+<node id="-3" lat="45.471580613" lon="-122.879353642" visible="true"><tag k="addr:housenumber" v="6675"/><tag k="addr:postcode" v="97078"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest 196th Avenue"/></node>
+<node id="-4" lat="45.471581889" lon="-122.879349315" visible="true"><tag k="addr:housenumber" v="6677"/><tag k="addr:postcode" v="97078"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest 196th Avenue"/></node>
+<node id="-5" lat="45.471371319" lon="-122.879351117" visible="true"><tag k="addr:housenumber" v="6705"/><tag k="addr:postcode" v="97078"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest 196th Avenue"/></node>
+<node id="-6" lat="45.471371964" lon="-122.879356515" visible="true"><tag k="addr:housenumber" v="6707"/><tag k="addr:postcode" v="97078"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest 196th Avenue"/></node>
+<node id="-7" lat="45.471451728" lon="-122.878716296" visible="true"><tag k="addr:housenumber" v="6710"/><tag k="addr:postcode" v="97078"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest 196th Avenue"/></node>
+<node id="-8" lat="45.471452628" lon="-122.878715463" visible="true"><tag k="addr:housenumber" v="6712"/><tag k="addr:postcode" v="97078"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest 196th Avenue"/></node>
+<node id="-9" lat="45.471125761" lon="-122.879865306" visible="true"><tag k="addr:housenumber" v="6725"/><tag k="addr:postcode" v="97078"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest 196th Avenue"/></node>
+<node id="-10" lat="45.471122216" lon="-122.879869864" visible="true"><tag k="addr:housenumber" v="6727"/><tag k="addr:postcode" v="97078"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest 196th Avenue"/></node>
+<node id="-11" lat="45.471100377" lon="-122.878722526" visible="true"><tag k="addr:housenumber" v="6740"/><tag k="addr:postcode" v="97078"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest 196th Avenue"/></node>
+<node id="-12" lat="45.471102345" lon="-122.878719761" visible="true"><tag k="addr:housenumber" v="6742"/><tag k="addr:postcode" v="97078"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest 196th Avenue"/></node>
+<node id="-13" lat="45.47086863" lon="-122.879588138" visible="true"><tag k="addr:housenumber" v="6745"/><tag k="addr:postcode" v="97078"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest 196th Avenue"/></node>
+<node id="-14" lat="45.470869336" lon="-122.879586548" visible="true"><tag k="addr:housenumber" v="6747"/><tag k="addr:postcode" v="97078"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest 196th Avenue"/></node>
+<node id="-15" lat="45.470970149" lon="-122.87926027" visible="true"><tag k="addr:housenumber" v="6765"/><tag k="addr:postcode" v="97078"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest 196th Avenue"/></node>
+<node id="-16" lat="45.470970836" lon="-122.879263773" visible="true"><tag k="addr:housenumber" v="6767"/><tag k="addr:postcode" v="97078"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest 196th Avenue"/></node>
+<node id="-17" lat="45.469859949" lon="-122.883980482" visible="true"><tag k="addr:housenumber" v="6962"/><tag k="addr:postcode" v="97078"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest 201st Avenue"/></node>
+<node id="-18" lat="45.46985983" lon="-122.883971383" visible="true"><tag k="addr:housenumber" v="6968"/><tag k="addr:postcode" v="97078"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest 201st Avenue"/></node>
+<node id="-19" lat="45.469858935" lon="-122.883977069" visible="true"><tag k="addr:housenumber" v="6974"/><tag k="addr:postcode" v="97078"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest 201st Avenue"/></node>
+<node id="-20" lat="45.473324261" lon="-122.882062543" visible="true"><tag k="addr:housenumber" v="6474"/><tag k="addr:postcode" v="97078"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Skiver Drive"/></node>
+<node id="-21" lat="45.473323916" lon="-122.882064347" visible="true"><tag k="addr:housenumber" v="6476"/><tag k="addr:postcode" v="97078"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Skiver Drive"/></node>
+</osm>

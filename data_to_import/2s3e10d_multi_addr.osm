@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.415012947" lon="-122.421037036" visible="true"><tag k="addr:housenumber" v="14972"/><tag k="addr:postcode" v="97089"/><tag k="addr:city" v="Damascus"/><tag k="addr:street" v="Southeast 232nd Drive"/></node>
+<node id="-2" lat="45.415006902" lon="-122.421045064" visible="true"><tag k="addr:housenumber" v="14992"/><tag k="addr:postcode" v="97089"/><tag k="addr:city" v="Damascus"/><tag k="addr:street" v="Southeast 232nd Drive"/></node>
+<node id="-3" lat="45.392892305" lon="-122.420122656" visible="true"><tag k="addr:housenumber" v="23636"/><tag k="addr:postcode" v="97009"/><tag k="addr:city" v="Boring"/><tag k="addr:street" v="Southeast Highway 224"/></node>
+<node id="-4" lat="45.392897771" lon="-122.42012797" visible="true"><tag k="addr:housenumber" v="23638"/><tag k="addr:postcode" v="97009"/><tag k="addr:city" v="Boring"/><tag k="addr:street" v="Southeast Highway 224"/></node>
+</osm>

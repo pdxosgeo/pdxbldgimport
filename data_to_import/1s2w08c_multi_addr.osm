@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.495873621" lon="-122.967526481" visible="true"><tag k="addr:housenumber" v="1492"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast Gerhard Drive"/></node>
+<node id="-2" lat="45.495727254" lon="-122.967175174" visible="true"><tag k="addr:housenumber" v="1518"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast Gerhard Drive"/></node>
+<node id="-3" lat="45.493036838" lon="-122.965497811" visible="true"><tag k="addr:housenumber" v="1635"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast Morgan Road"/></node>
+<node id="-4" lat="45.492637912" lon="-122.964751184" visible="true"><tag k="addr:housenumber" v="1747"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast Morgan Road"/></node>
+<node id="-5" lat="45.492676724" lon="-122.964743324" visible="true"><tag k="addr:housenumber" v="1747-A"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast Morgan Road"/></node>
+<node id="-6" lat="45.492712565" lon="-122.964755594" visible="true"><tag k="addr:housenumber" v="1747-B"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast Morgan Road"/></node>
+<node id="-7" lat="45.493037065" lon="-122.965498498" visible="true"><tag k="addr:housenumber" v="3590"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast San Marino Avenue"/></node>
+<node id="-8" lat="45.495726517" lon="-122.967179334" visible="true"><tag k="addr:housenumber" v="3300"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast Tulip Tree Avenue"/></node>
+<node id="-9" lat="45.495879523" lon="-122.967520717" visible="true"><tag k="addr:housenumber" v="3355"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast Tulip Tree Avenue"/></node>
+</osm>

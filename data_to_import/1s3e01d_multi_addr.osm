@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.518799921" lon="-122.382637359" visible="true"><tag k="addr:housenumber" v="3134"/><tag k="addr:postcode" v="97060"/><tag k="addr:city" v="Troutdale"/><tag k="addr:street" v="Southeast Stott Circle"/></node>
+<node id="-2" lat="45.51870369" lon="-122.382662473" visible="true"><tag k="addr:housenumber" v="3136"/><tag k="addr:postcode" v="97060"/><tag k="addr:city" v="Troutdale"/><tag k="addr:street" v="Southeast Stott Circle"/></node>
+<node id="-3" lat="45.518545482" lon="-122.38268847" visible="true"><tag k="addr:housenumber" v="3138"/><tag k="addr:postcode" v="97060"/><tag k="addr:city" v="Troutdale"/><tag k="addr:street" v="Southeast Stott Circle"/></node>
+<node id="-4" lat="45.518467752" lon="-122.382705863" visible="true"><tag k="addr:housenumber" v="3140"/><tag k="addr:postcode" v="97060"/><tag k="addr:city" v="Troutdale"/><tag k="addr:street" v="Southeast Stott Circle"/></node>
+<node id="-5" lat="45.518305877" lon="-122.382774557" visible="true"><tag k="addr:housenumber" v="3202"/><tag k="addr:postcode" v="97060"/><tag k="addr:city" v="Troutdale"/><tag k="addr:street" v="Southeast Stott Circle"/></node>
+<node id="-6" lat="45.518209873" lon="-122.382792212" visible="true"><tag k="addr:housenumber" v="3204"/><tag k="addr:postcode" v="97060"/><tag k="addr:city" v="Troutdale"/><tag k="addr:street" v="Southeast Stott Circle"/></node>
+<node id="-7" lat="45.51793073" lon="-122.382804202" visible="true"><tag k="addr:housenumber" v="3214"/><tag k="addr:postcode" v="97060"/><tag k="addr:city" v="Troutdale"/><tag k="addr:street" v="Southeast Stott Circle"/></node>
+<node id="-8" lat="45.51783416" lon="-122.382796281" visible="true"><tag k="addr:housenumber" v="3216"/><tag k="addr:postcode" v="97060"/><tag k="addr:city" v="Troutdale"/><tag k="addr:street" v="Southeast Stott Circle"/></node>
+<node id="-9" lat="45.517705407" lon="-122.382835762" visible="true"><tag k="addr:housenumber" v="3230"/><tag k="addr:postcode" v="97060"/><tag k="addr:city" v="Troutdale"/><tag k="addr:street" v="Southeast Stott Circle"/></node>
+<node id="-10" lat="45.517610488" lon="-122.38282555" visible="true"><tag k="addr:housenumber" v="3232"/><tag k="addr:postcode" v="97060"/><tag k="addr:city" v="Troutdale"/><tag k="addr:street" v="Southeast Stott Circle"/></node>
+<node id="-11" lat="45.517468394" lon="-122.382846588" visible="true"><tag k="addr:housenumber" v="3306"/><tag k="addr:postcode" v="97060"/><tag k="addr:city" v="Troutdale"/><tag k="addr:street" v="Southeast Stott Circle"/></node>
+<node id="-12" lat="45.517384617" lon="-122.382843539" visible="true"><tag k="addr:housenumber" v="3308"/><tag k="addr:postcode" v="97060"/><tag k="addr:city" v="Troutdale"/><tag k="addr:street" v="Southeast Stott Circle"/></node>
+<node id="-13" lat="45.517232772" lon="-122.382865855" visible="true"><tag k="addr:housenumber" v="3318"/><tag k="addr:postcode" v="97060"/><tag k="addr:city" v="Troutdale"/><tag k="addr:street" v="Southeast Stott Circle"/></node>
+<node id="-14" lat="45.517139068" lon="-122.382864671" visible="true"><tag k="addr:housenumber" v="3320"/><tag k="addr:postcode" v="97060"/><tag k="addr:city" v="Troutdale"/><tag k="addr:street" v="Southeast Stott Circle"/></node>
+<node id="-15" lat="45.51701939" lon="-122.38286564" visible="true"><tag k="addr:housenumber" v="3324"/><tag k="addr:postcode" v="97060"/><tag k="addr:city" v="Troutdale"/><tag k="addr:street" v="Southeast Stott Circle"/></node>
+<node id="-16" lat="45.516934936" lon="-122.38288321" visible="true"><tag k="addr:housenumber" v="3326"/><tag k="addr:postcode" v="97060"/><tag k="addr:city" v="Troutdale"/><tag k="addr:street" v="Southeast Stott Circle"/></node>
+</osm>

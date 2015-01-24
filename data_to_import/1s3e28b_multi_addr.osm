@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.461291882" lon="-122.449059269" visible="true"><tag k="addr:housenumber" v="8575"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Rodlun Road"/></node>
+<node id="-2" lat="45.461294844" lon="-122.449061759" visible="true"><tag k="addr:housenumber" v="8575"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southwest Rodlun Road"/></node>
+</osm>

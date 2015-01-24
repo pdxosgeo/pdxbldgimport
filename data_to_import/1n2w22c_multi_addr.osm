@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.534714315" lon="-122.925688942" visible="true"><tag k="addr:housenumber" v="1287"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northeast 56th Court"/></node>
+<node id="-2" lat="45.550688237" lon="-122.927084382" visible="true"><tag k="addr:housenumber" v="3145"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northeast Brookwood Parkway"/></node>
+<node id="-3" lat="45.550686938" lon="-122.927083108" visible="true"><tag k="addr:housenumber" v="3155"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northeast Brookwood Parkway"/></node>
+<node id="-4" lat="45.534708084" lon="-122.925691478" visible="true"><tag k="addr:housenumber" v="5540"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northeast Farmcrest Street"/></node>
+<node id="-5" lat="45.535974153" lon="-122.920232792" visible="true"><tag k="addr:housenumber" v="1487"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northeast Stile Drive"/></node>
+<node id="-6" lat="45.535929172" lon="-122.920270739" visible="true"><tag k="addr:housenumber" v="1489"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northeast Stile Drive"/></node>
+<node id="-7" lat="45.559611437" lon="-122.926047157" visible="true"><tag k="addr:housenumber" v="23605"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northwest Huffman Street"/></node>
+<node id="-8" lat="45.55961556" lon="-122.926050242" visible="true"><tag k="addr:housenumber" v="23627"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northwest Huffman Street"/></node>
+<node id="-9" lat="45.55962004" lon="-122.926051552" visible="true"><tag k="addr:housenumber" v="23633"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northwest Huffman Street"/></node>
+<node id="-10" lat="45.559611396" lon="-122.926044743" visible="true"><tag k="addr:housenumber" v="23677"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northwest Huffman Street"/></node>
+<node id="-11" lat="45.559612782" lon="-122.926048687" visible="true"><tag k="addr:housenumber" v="23765"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northwest Huffman Street"/></node>
+<node id="-12" lat="45.559619667" lon="-122.926050134" visible="true"><tag k="addr:housenumber" v="23821"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northwest Huffman Street"/></node>
+<node id="-13" lat="45.559620173" lon="-122.926047078" visible="true"><tag k="addr:housenumber" v="23957"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northwest Huffman Street"/></node>
+<node id="-14" lat="45.5596144" lon="-122.926043687" visible="true"><tag k="addr:housenumber" v="23979"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northwest Huffman Street"/></node>
+</osm>

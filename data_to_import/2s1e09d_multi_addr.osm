@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.408602041" lon="-122.694353555" visible="true"><tag k="addr:housenumber" v="1485"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Oak Terrace"/></node>
+<node id="-2" lat="45.40860859" lon="-122.69435269" visible="true"><tag k="addr:housenumber" v="1495"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Oak Terrace"/></node>
+<node id="-3" lat="45.411335237" lon="-122.683303877" visible="true"><tag k="addr:housenumber" v="1927"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Palisades Terrace"/></node>
+<node id="-4" lat="45.41133573" lon="-122.683302132" visible="true"><tag k="addr:housenumber" v="689"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Terrace Drive"/></node>
+</osm>

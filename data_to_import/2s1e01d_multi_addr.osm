@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.420625481" lon="-122.635314241" visible="true"><tag k="addr:housenumber" v="2717"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Chestnut Street"/></node>
+<node id="-2" lat="45.420693866" lon="-122.635315041" visible="true"><tag k="addr:housenumber" v="2719"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Chestnut Street"/></node>
+<node id="-3" lat="45.42062156" lon="-122.635211736" visible="true"><tag k="addr:housenumber" v="2721"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Chestnut Street"/></node>
+<node id="-4" lat="45.42068516" lon="-122.635220264" visible="true"><tag k="addr:housenumber" v="2723"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Chestnut Street"/></node>
+<node id="-5" lat="45.420684378" lon="-122.634762193" visible="true"><tag k="addr:housenumber" v="2745"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Chestnut Street"/></node>
+<node id="-6" lat="45.420639052" lon="-122.634757117" visible="true"><tag k="addr:housenumber" v="2748"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Chestnut Street"/></node>
+<node id="-7" lat="45.420634279" lon="-122.634684799" visible="true"><tag k="addr:housenumber" v="2749"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Chestnut Street"/></node>
+<node id="-8" lat="45.420680913" lon="-122.634692981" visible="true"><tag k="addr:housenumber" v="2751"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Chestnut Street"/></node>
+<node id="-9" lat="45.421910093" lon="-122.630466776" visible="true"><tag k="addr:housenumber" v="13911"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Oatfield Road"/></node>
+<node id="-10" lat="45.421911506" lon="-122.630404205" visible="true"><tag k="addr:housenumber" v="13915"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Oatfield Road"/></node>
+<node id="-11" lat="45.421914112" lon="-122.63034517" visible="true"><tag k="addr:housenumber" v="13917"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Oatfield Road"/></node>
+<node id="-12" lat="45.421919394" lon="-122.630281776" visible="true"><tag k="addr:housenumber" v="13921"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Oatfield Road"/></node>
+</osm>

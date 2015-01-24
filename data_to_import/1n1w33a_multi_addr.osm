@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.52698482" lon="-122.813312215" visible="true"><tag k="addr:housenumber" v="1040"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Murray Road"/></node>
+<node id="-2" lat="45.526990997" lon="-122.813314807" visible="true"><tag k="addr:housenumber" v="1050"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Murray Road"/></node>
+<node id="-3" lat="45.528264809" lon="-122.812587282" visible="true"><tag k="addr:housenumber" v="1170"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Murray Road"/></node>
+<node id="-4" lat="45.528267997" lon="-122.812591414" visible="true"><tag k="addr:housenumber" v="1174"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Murray Road"/></node>
+<node id="-5" lat="45.52826689" lon="-122.812593409" visible="true"><tag k="addr:housenumber" v="1180"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Murray Road"/></node>
+<node id="-6" lat="45.528553641" lon="-122.812624806" visible="true"><tag k="addr:housenumber" v="1220"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Murray Road"/></node>
+<node id="-7" lat="45.528546577" lon="-122.812633741" visible="true"><tag k="addr:housenumber" v="1222"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Murray Road"/></node>
+<node id="-8" lat="45.528973179" lon="-122.813152249" visible="true"><tag k="addr:housenumber" v="13235"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Westlawn Terrace"/></node>
+<node id="-9" lat="45.528965091" lon="-122.813156038" visible="true"><tag k="addr:housenumber" v="13237"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Westlawn Terrace"/></node>
+<node id="-10" lat="45.528965236" lon="-122.814135727" visible="true"><tag k="addr:housenumber" v="13345"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Westlawn Terrace"/></node>
+<node id="-11" lat="45.528960595" lon="-122.814135285" visible="true"><tag k="addr:housenumber" v="13349"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Westlawn Terrace"/></node>
+<node id="-12" lat="45.528972424" lon="-122.814517635" visible="true"><tag k="addr:housenumber" v="13385"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Westlawn Terrace"/></node>
+<node id="-13" lat="45.528968018" lon="-122.814520461" visible="true"><tag k="addr:housenumber" v="13395"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Westlawn Terrace"/></node>
+<node id="-14" lat="45.528997084" lon="-122.815401089" visible="true"><tag k="addr:housenumber" v="13465"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Westlawn Terrace"/></node>
+<node id="-15" lat="45.529000075" lon="-122.815407483" visible="true"><tag k="addr:housenumber" v="13467"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Westlawn Terrace"/></node>
+<node id="-16" lat="45.528992648" lon="-122.815792157" visible="true"><tag k="addr:housenumber" v="13495"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Westlawn Terrace"/></node>
+<node id="-17" lat="45.528998943" lon="-122.815792421" visible="true"><tag k="addr:housenumber" v="13497"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Westlawn Terrace"/></node>
+</osm>

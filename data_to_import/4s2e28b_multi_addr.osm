@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.222660524" lon="-122.571791147" visible="true"><tag k="addr:housenumber" v="14370"/><tag k="addr:postcode" v="97042"/><tag k="addr:city" v="Mulino"/><tag k="addr:street" v="South Graves Road"/></node>
+<node id="-2" lat="45.222660138" lon="-122.571600555" visible="true"><tag k="addr:housenumber" v="14372"/><tag k="addr:postcode" v="97042"/><tag k="addr:city" v="Mulino"/><tag k="addr:street" v="South Graves Road"/></node>
+<node id="-3" lat="45.203005895" lon="-122.595559083" visible="true"><tag k="addr:housenumber" v="13310"/><tag k="addr:postcode" v="97013"/><tag k="addr:city" v="Canby"/><tag k="addr:street" v="South Macksburg Road"/></node>
+<node id="-4" lat="45.203003214" lon="-122.595564948" visible="true"><tag k="addr:housenumber" v="13320"/><tag k="addr:postcode" v="97013"/><tag k="addr:city" v="Canby"/><tag k="addr:street" v="South Macksburg Road"/></node>
+</osm>

@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.407363648" lon="-122.67668875" visible="true"><tag k="addr:housenumber" v="1110"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Mcvey Avenue"/></node>
+<node id="-2" lat="45.407283909" lon="-122.676700496" visible="true"><tag k="addr:housenumber" v="1120"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Mcvey Avenue"/></node>
+<node id="-3" lat="45.408087259" lon="-122.675035267" visible="true"><tag k="addr:housenumber" v="1500"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Oak Street"/></node>
+<node id="-4" lat="45.408080801" lon="-122.675142117" visible="true"><tag k="addr:housenumber" v="1504"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Oak Street"/></node>
+<node id="-5" lat="45.40800921" lon="-122.67515371" visible="true"><tag k="addr:housenumber" v="1508"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Oak Street"/></node>
+<node id="-6" lat="45.408071543" lon="-122.675384074" visible="true"><tag k="addr:housenumber" v="1524"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Oak Street"/></node>
+<node id="-7" lat="45.407938755" lon="-122.675387892" visible="true"><tag k="addr:housenumber" v="1528"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Oak Street"/></node>
+<node id="-8" lat="45.40807852" lon="-122.675562793" visible="true"><tag k="addr:housenumber" v="1544"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Oak Street"/></node>
+<node id="-9" lat="45.407946459" lon="-122.675554183" visible="true"><tag k="addr:housenumber" v="1548"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Oak Street"/></node>
+<node id="-10" lat="45.408077" lon="-122.675759825" visible="true"><tag k="addr:housenumber" v="1564"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Oak Street"/></node>
+<node id="-11" lat="45.407944008" lon="-122.675770873" visible="true"><tag k="addr:housenumber" v="1568"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Oak Street"/></node>
+<node id="-12" lat="45.40809216" lon="-122.67597332" visible="true"><tag k="addr:housenumber" v="1584"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Oak Street"/></node>
+<node id="-13" lat="45.40795082" lon="-122.675966084" visible="true"><tag k="addr:housenumber" v="1588"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Oak Street"/></node>
+<node id="-14" lat="45.406058518" lon="-122.676494434" visible="true"><tag k="addr:housenumber" v="1300"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Parrish Street"/></node>
+<node id="-15" lat="45.406003191" lon="-122.676490805" visible="true"><tag k="addr:housenumber" v="1310"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Parrish Street"/></node>
+<node id="-16" lat="45.405901398" lon="-122.676601333" visible="true"><tag k="addr:housenumber" v="1330"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Parrish Street"/></node>
+<node id="-17" lat="45.405865428" lon="-122.676613595" visible="true"><tag k="addr:housenumber" v="1350"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Parrish Street"/></node>
+<node id="-18" lat="45.405724709" lon="-122.67654666" visible="true"><tag k="addr:housenumber" v="1360"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Parrish Street"/></node>
+<node id="-19" lat="45.405679351" lon="-122.676541192" visible="true"><tag k="addr:housenumber" v="1370"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Parrish Street"/></node>
+<node id="-20" lat="45.405582272" lon="-122.676601717" visible="true"><tag k="addr:housenumber" v="1380"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Parrish Street"/></node>
+<node id="-21" lat="45.405535575" lon="-122.67659973" visible="true"><tag k="addr:housenumber" v="1390"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Parrish Street"/></node>
+<node id="-22" lat="45.407003601" lon="-122.677812739" visible="true"><tag k="addr:housenumber" v="1671"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="South Shore Boulevard"/></node>
+<node id="-23" lat="45.406961505" lon="-122.677799314" visible="true"><tag k="addr:housenumber" v="1675"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="South Shore Boulevard"/></node>
+<node id="-24" lat="45.406960163" lon="-122.677907873" visible="true"><tag k="addr:housenumber" v="1679"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="South Shore Boulevard"/></node>
+<node id="-25" lat="45.407004225" lon="-122.67790988" visible="true"><tag k="addr:housenumber" v="1681"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="South Shore Boulevard"/></node>
+</osm>

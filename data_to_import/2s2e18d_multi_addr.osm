@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.388993776" lon="-122.601654077" visible="true"><tag k="addr:housenumber" v="5840"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="Glen Echo Avenue"/></node>
+<node id="-2" lat="45.389002504" lon="-122.601574853" visible="true"><tag k="addr:housenumber" v="5842"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="Glen Echo Avenue"/></node>
+<node id="-3" lat="45.389049724" lon="-122.60145892" visible="true"><tag k="addr:housenumber" v="5850"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="Glen Echo Avenue"/></node>
+<node id="-4" lat="45.389075309" lon="-122.601388638" visible="true"><tag k="addr:housenumber" v="5852"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="Glen Echo Avenue"/></node>
+<node id="-5" lat="45.389003099" lon="-122.600090376" visible="true"><tag k="addr:housenumber" v="6125"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="Glen Echo Avenue"/></node>
+<node id="-6" lat="45.388997367" lon="-122.600092764" visible="true"><tag k="addr:housenumber" v="6135"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="Glen Echo Avenue"/></node>
+<node id="-7" lat="45.389125041" lon="-122.600771281" visible="true"><tag k="addr:housenumber" v="18309"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="Portland Avenue"/></node>
+<node id="-8" lat="45.389081178" lon="-122.600753984" visible="true"><tag k="addr:housenumber" v="18311"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="Portland Avenue"/></node>
+<node id="-9" lat="45.390388302" lon="-122.608784368" visible="true"><tag k="addr:housenumber" v="18317"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Addie Street"/></node>
+<node id="-10" lat="45.389226584" lon="-122.607396736" visible="true"><tag k="addr:housenumber" v="18465"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Addie Street"/></node>
+<node id="-11" lat="45.389222205" lon="-122.607390298" visible="true"><tag k="addr:housenumber" v="18501"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Addie Street"/></node>
+<node id="-12" lat="45.38969252" lon="-122.609113404" visible="true"><tag k="addr:housenumber" v="5218"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Hull Avenue"/></node>
+<node id="-13" lat="45.389700507" lon="-122.609071451" visible="true"><tag k="addr:housenumber" v="5220"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Hull Avenue"/></node>
+<node id="-14" lat="45.389782703" lon="-122.608852567" visible="true"><tag k="addr:housenumber" v="5228"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Hull Avenue"/></node>
+<node id="-15" lat="45.389797737" lon="-122.608798287" visible="true"><tag k="addr:housenumber" v="5230"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Hull Avenue"/></node>
+<node id="-16" lat="45.390386637" lon="-122.608791649" visible="true"><tag k="addr:housenumber" v="5239"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Hull Avenue"/></node>
+<node id="-17" lat="45.392720919" lon="-122.608312448" visible="true"><tag k="addr:housenumber" v="5314"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Jennings Avenue"/></node>
+<node id="-18" lat="45.392719523" lon="-122.608313096" visible="true"><tag k="addr:housenumber" v="18068"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Matthew Evan Lane"/></node>
+<node id="-19" lat="45.392722409" lon="-122.60831468" visible="true"><tag k="addr:housenumber" v="18074"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Matthew Evan Lane"/></node>
+<node id="-20" lat="45.39272365" lon="-122.60831417" visible="true"><tag k="addr:housenumber" v="18080"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Matthew Evan Lane"/></node>
+</osm>

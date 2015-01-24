@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.44541098" lon="-122.580195542" visible="true"><tag k="addr:housenumber" v="10723"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Fuller Road"/></node>
+<node id="-2" lat="45.445363884" lon="-122.58022808" visible="true"><tag k="addr:housenumber" v="10725"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Fuller Road"/></node>
+<node id="-3" lat="45.445322911" lon="-122.580255852" visible="true"><tag k="addr:housenumber" v="10727"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Fuller Road"/></node>
+<node id="-4" lat="45.445273857" lon="-122.580273338" visible="true"><tag k="addr:housenumber" v="10729"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Fuller Road"/></node>
+<node id="-5" lat="45.445193771" lon="-122.580313451" visible="true"><tag k="addr:housenumber" v="10735"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Fuller Road"/></node>
+<node id="-6" lat="45.445145695" lon="-122.580335893" visible="true"><tag k="addr:housenumber" v="10737"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Fuller Road"/></node>
+<node id="-7" lat="45.445105099" lon="-122.580357722" visible="true"><tag k="addr:housenumber" v="10739"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Fuller Road"/></node>
+<node id="-8" lat="45.44505933" lon="-122.580389623" visible="true"><tag k="addr:housenumber" v="10741"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Fuller Road"/></node>
+<node id="-9" lat="45.444974113" lon="-122.580455573" visible="true"><tag k="addr:housenumber" v="10747"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Fuller Road"/></node>
+<node id="-10" lat="45.444920277" lon="-122.580472945" visible="true"><tag k="addr:housenumber" v="10749"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Fuller Road"/></node>
+<node id="-11" lat="45.444881156" lon="-122.580499701" visible="true"><tag k="addr:housenumber" v="10751"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Fuller Road"/></node>
+<node id="-12" lat="45.444832951" lon="-122.58052379" visible="true"><tag k="addr:housenumber" v="10753"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Fuller Road"/></node>
+<node id="-13" lat="45.451702801" lon="-122.576340169" visible="true"><tag k="addr:housenumber" v="9872"/><tag k="addr:postcode" v="97086"/><tag k="addr:city" v="Happy Valley"/><tag k="addr:street" v="Southeast Fuller Road"/></node>
+<node id="-14" lat="45.451587338" lon="-122.576335788" visible="true"><tag k="addr:housenumber" v="9878"/><tag k="addr:postcode" v="97086"/><tag k="addr:city" v="Happy Valley"/><tag k="addr:street" v="Southeast Fuller Road"/></node>
+<node id="-15" lat="45.440547004" lon="-122.585724008" visible="true"><tag k="addr:housenumber" v="11387"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Vivian Lane"/></node>
+<node id="-16" lat="45.440491459" lon="-122.585729063" visible="true"><tag k="addr:housenumber" v="11389"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Vivian Lane"/></node>
+</osm>

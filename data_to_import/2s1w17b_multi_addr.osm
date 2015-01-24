@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.412512659" lon="-122.84518628" visible="true"><tag k="addr:housenumber" v="14835"/><tag k="addr:postcode" v="97224"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest 163rd Avenue"/></node>
+<node id="-2" lat="45.411953951" lon="-122.836718008" visible="true"><tag k="addr:housenumber" v="14930"/><tag k="addr:postcode" v="97224"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Brooklet Place"/></node>
+<node id="-3" lat="45.411954826" lon="-122.836720182" visible="true"><tag k="addr:housenumber" v="14940"/><tag k="addr:postcode" v="97224"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Brooklet Place"/></node>
+<node id="-4" lat="45.411447276" lon="-122.836692913" visible="true"><tag k="addr:housenumber" v="14960"/><tag k="addr:postcode" v="97224"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Brooklet Place"/></node>
+<node id="-5" lat="45.411462671" lon="-122.837158004" visible="true"><tag k="addr:housenumber" v="14965"/><tag k="addr:postcode" v="97224"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Brooklet Place"/></node>
+<node id="-6" lat="45.411449368" lon="-122.836688268" visible="true"><tag k="addr:housenumber" v="14970"/><tag k="addr:postcode" v="97224"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Brooklet Place"/></node>
+<node id="-7" lat="45.411469232" lon="-122.837162173" visible="true"><tag k="addr:housenumber" v="14975"/><tag k="addr:postcode" v="97224"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Brooklet Place"/></node>
+<node id="-8" lat="45.412506477" lon="-122.84519095" visible="true"><tag k="addr:housenumber" v="16376"/><tag k="addr:postcode" v="97224"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Dekalb Street"/></node>
+</osm>

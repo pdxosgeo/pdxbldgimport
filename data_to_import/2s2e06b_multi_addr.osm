@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.438465287" lon="-122.613453894" visible="true"><tag k="addr:housenumber" v="11757"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast 48th Avenue"/></node>
+<node id="-2" lat="45.438423179" lon="-122.613472805" visible="true"><tag k="addr:housenumber" v="11759"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast 48th Avenue"/></node>
+<node id="-3" lat="45.438284244" lon="-122.613418343" visible="true"><tag k="addr:housenumber" v="11781"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast 48th Avenue"/></node>
+<node id="-4" lat="45.438253116" lon="-122.613420039" visible="true"><tag k="addr:housenumber" v="11783"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast 48th Avenue"/></node>
+<node id="-5" lat="45.424129988" lon="-122.616405176" visible="true"><tag k="addr:housenumber" v="4560"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Aldercrest Road"/></node>
+<node id="-6" lat="45.424082755" lon="-122.616200998" visible="true"><tag k="addr:housenumber" v="4566"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Aldercrest Road"/></node>
+<node id="-7" lat="45.437896281" lon="-122.612210066" visible="true"><tag k="addr:housenumber" v="11803"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Home Avenue"/></node>
+<node id="-8" lat="45.437853509" lon="-122.612208098" visible="true"><tag k="addr:housenumber" v="11805"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Home Avenue"/></node>
+<node id="-9" lat="45.434936821" lon="-122.615970851" visible="true"><tag k="addr:housenumber" v="4620"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast International Way"/></node>
+<node id="-10" lat="45.4349388" lon="-122.615976581" visible="true"><tag k="addr:housenumber" v="4630"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast International Way"/></node>
+<node id="-11" lat="45.432638203" lon="-122.617731636" visible="true"><tag k="addr:housenumber" v="4391"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Lake Road"/></node>
+<node id="-12" lat="45.432618595" lon="-122.617664135" visible="true"><tag k="addr:housenumber" v="4393"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Lake Road"/></node>
+<node id="-13" lat="45.43259204" lon="-122.617592268" visible="true"><tag k="addr:housenumber" v="4411"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Lake Road"/></node>
+</osm>

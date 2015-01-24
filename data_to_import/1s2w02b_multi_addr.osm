@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.51806644" lon="-122.906372936" visible="true"><tag k="addr:housenumber" v="153"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northeast 72nd Avenue"/></node>
+<node id="-2" lat="45.518210008" lon="-122.900196934" visible="true"><tag k="addr:housenumber" v="7544"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northeast Catherine Court"/></node>
+<node id="-3" lat="45.518528345" lon="-122.907246229" visible="true"><tag k="addr:housenumber" v="7087"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northeast Ridge Drive"/></node>
+<node id="-4" lat="45.518144719" lon="-122.906766845" visible="true"><tag k="addr:housenumber" v="7130"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northeast Ridge Drive"/></node>
+<node id="-5" lat="45.518136977" lon="-122.906765702" visible="true"><tag k="addr:housenumber" v="7151"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northeast Ridge Drive"/></node>
+<node id="-6" lat="45.517382288" lon="-122.907641248" visible="true"><tag k="addr:housenumber" v="384"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast 70th Avenue"/></node>
+<node id="-7" lat="45.517387539" lon="-122.907639974" visible="true"><tag k="addr:housenumber" v="350"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southwest 225th Avenue"/></node>
+<node id="-8" lat="45.518214611" lon="-122.90020142" visible="true"><tag k="addr:housenumber" v="215"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southwest Cornelius Pass Road"/></node>
+<node id="-9" lat="45.518061834" lon="-122.906371134" visible="true"><tag k="addr:housenumber" v="22305"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="West Baseline Road"/></node>
+<node id="-10" lat="45.518524176" lon="-122.90723775" visible="true"><tag k="addr:housenumber" v="22375"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="West Baseline Road"/></node>
+</osm>

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.418903702" lon="-122.641901069" visible="true"><tag k="addr:housenumber" v="14597"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Arista Drive"/></node>
+<node id="-2" lat="45.41884607" lon="-122.641900749" visible="true"><tag k="addr:housenumber" v="14599"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Arista Drive"/></node>
+<node id="-3" lat="45.422356493" lon="-122.641998344" visible="true"><tag k="addr:housenumber" v="2115"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Arista Lane"/></node>
+<node id="-4" lat="45.422346076" lon="-122.641884628" visible="true"><tag k="addr:housenumber" v="2119"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Arista Lane"/></node>
+<node id="-5" lat="45.421994236" lon="-122.641983672" visible="true"><tag k="addr:housenumber" v="2120"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Arista Lane"/></node>
+<node id="-6" lat="45.421989183" lon="-122.641873772" visible="true"><tag k="addr:housenumber" v="2130"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Arista Lane"/></node>
+<node id="-7" lat="45.419139114" lon="-122.643749168" visible="true"><tag k="addr:housenumber" v="14330"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Cedar Avenue"/></node>
+<node id="-8" lat="45.419136603" lon="-122.643748834" visible="true"><tag k="addr:housenumber" v="14332"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Cedar Avenue"/></node>
+<node id="-9" lat="45.419141296" lon="-122.643753789" visible="true"><tag k="addr:housenumber" v="14334"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Cedar Avenue"/></node>
+<node id="-10" lat="45.419142806" lon="-122.643758339" visible="true"><tag k="addr:housenumber" v="14336"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Cedar Avenue"/></node>
+<node id="-11" lat="45.422143796" lon="-122.650898542" visible="true"><tag k="addr:housenumber" v="13909"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Fairoaks Avenue"/></node>
+<node id="-12" lat="45.422167536" lon="-122.650982323" visible="true"><tag k="addr:housenumber" v="13911"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Fairoaks Avenue"/></node>
+<node id="-13" lat="45.422133099" lon="-122.651042369" visible="true"><tag k="addr:housenumber" v="13915"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Fairoaks Avenue"/></node>
+<node id="-14" lat="45.419448686" lon="-122.642449766" visible="true"><tag k="addr:housenumber" v="14300"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Lee Avenue"/></node>
+<node id="-15" lat="45.419410341" lon="-122.642349585" visible="true"><tag k="addr:housenumber" v="14310"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Lee Avenue"/></node>
+<node id="-16" lat="45.419323197" lon="-122.642358325" visible="true"><tag k="addr:housenumber" v="14320"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Lee Avenue"/></node>
+<node id="-17" lat="45.419268865" lon="-122.642442418" visible="true"><tag k="addr:housenumber" v="14330"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Lee Avenue"/></node>
+</osm>

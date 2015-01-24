@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.426229134" lon="-122.825098889" visible="true"><tag k="addr:housenumber" v="14450"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Fern Street"/></node>
+<node id="-2" lat="45.426135993" lon="-122.825095291" visible="true"><tag k="addr:housenumber" v="14452"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Fern Street"/></node>
+<node id="-3" lat="45.425949163" lon="-122.825094228" visible="true"><tag k="addr:housenumber" v="14456"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Fern Street"/></node>
+<node id="-4" lat="45.425859528" lon="-122.825103569" visible="true"><tag k="addr:housenumber" v="14458"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Fern Street"/></node>
+</osm>

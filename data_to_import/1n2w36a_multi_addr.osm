@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.523245149" lon="-122.870979412" visible="true"><tag k="addr:housenumber" v="505"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Northwest 185th Avenue"/></node>
+<node id="-2" lat="45.523252078" lon="-122.870974962" visible="true"><tag k="addr:housenumber" v="505"/><tag k="addr:postcode" v="97006"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Northwest 185th Avenue"/></node>
+<node id="-3" lat="45.533638813" lon="-122.873938481" visible="true"><tag k="addr:housenumber" v="1950"/><tag k="addr:postcode" v="97006"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Northwest 192nd Avenue"/></node>
+<node id="-4" lat="45.533636629" lon="-122.873933139" visible="true"><tag k="addr:housenumber" v="1960"/><tag k="addr:postcode" v="97006"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Northwest 192nd Avenue"/></node>
+<node id="-5" lat="45.533630671" lon="-122.873934481" visible="true"><tag k="addr:housenumber" v="1970"/><tag k="addr:postcode" v="97006"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Northwest 192nd Avenue"/></node>
+<node id="-6" lat="45.533638566" lon="-122.873939049" visible="true"><tag k="addr:housenumber" v="1980"/><tag k="addr:postcode" v="97006"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Northwest 192nd Avenue"/></node>
+<node id="-7" lat="45.533637343" lon="-122.873930999" visible="true"><tag k="addr:housenumber" v="1990"/><tag k="addr:postcode" v="97006"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Northwest 192nd Avenue"/></node>
+<node id="-8" lat="45.533630658" lon="-122.873931592" visible="true"><tag k="addr:housenumber" v="18990"/><tag k="addr:postcode" v="97006"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Northwest Cornell Road"/></node>
+<node id="-9" lat="45.533632454" lon="-122.873933225" visible="true"><tag k="addr:housenumber" v="19020"/><tag k="addr:postcode" v="97006"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Northwest Cornell Road"/></node>
+<node id="-10" lat="45.53363871" lon="-122.873932641" visible="true"><tag k="addr:housenumber" v="19130"/><tag k="addr:postcode" v="97006"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Northwest Cornell Road"/></node>
+<node id="-11" lat="45.521865584" lon="-122.870111019" visible="true"><tag k="addr:housenumber" v="342"/><tag k="addr:postcode" v="97006"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Northwest Edgeway Drive"/></node>
+<node id="-12" lat="45.521882259" lon="-122.870075378" visible="true"><tag k="addr:housenumber" v="358"/><tag k="addr:postcode" v="97006"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Northwest Edgeway Drive"/></node>
+</osm>

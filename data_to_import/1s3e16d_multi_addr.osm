@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.471076536" lon="-122.431526637" visible="true"><tag k="addr:housenumber" v="3655"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Deer Creek Way"/></node>
+<node id="-2" lat="45.469829789" lon="-122.428890863" visible="true"><tag k="addr:housenumber" v="3880"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Deer Creek Way"/></node>
+<node id="-3" lat="45.469836801" lon="-122.428885934" visible="true"><tag k="addr:housenumber" v="3898"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Deer Creek Way"/></node>
+<node id="-4" lat="45.471076091" lon="-122.431526702" visible="true"><tag k="addr:housenumber" v="3650"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Regner Road"/></node>
+</osm>

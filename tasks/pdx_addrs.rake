@@ -148,4 +148,9 @@ table :pdx_addrs => [:master_address] do |t|
 
 end
 
+table :cities => shapefile("cty_fill.shp") do |t|
+  t.drop_table
+  t.load_shapefile(t.prerequisites.first, :append => false)
+  t.add_update_column
+end
 

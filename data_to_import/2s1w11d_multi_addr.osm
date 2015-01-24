@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.404742647" lon="-122.765061738" visible="true"><tag k="addr:housenumber" v="15917"/><tag k="addr:postcode" v="97224"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Hall Boulevard"/></node>
+<node id="-2" lat="45.404744634" lon="-122.76506365" visible="true"><tag k="addr:housenumber" v="15943"/><tag k="addr:postcode" v="97224"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Hall Boulevard"/></node>
+<node id="-3" lat="45.404745925" lon="-122.765057672" visible="true"><tag k="addr:housenumber" v="15981"/><tag k="addr:postcode" v="97224"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Hall Boulevard"/></node>
+<node id="-4" lat="45.404741826" lon="-122.765061755" visible="true"><tag k="addr:housenumber" v="15995"/><tag k="addr:postcode" v="97224"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Hall Boulevard"/></node>
+<node id="-5" lat="45.404870742" lon="-122.77019946" visible="true"><tag k="addr:housenumber" v="15835"/><tag k="addr:postcode" v="97224"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Stratford Loop"/></node>
+<node id="-6" lat="45.404791124" lon="-122.770179964" visible="true"><tag k="addr:housenumber" v="15837"/><tag k="addr:postcode" v="97224"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Stratford Loop"/></node>
+</osm>

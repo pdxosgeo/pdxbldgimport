@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.298682997" lon="-122.409929161" visible="true"><tag k="addr:housenumber" v="22323"/><tag k="addr:postcode" v="97023"/><tag k="addr:city" v="Estacada"/><tag k="addr:street" v="South Redland Road"/></node>
+<node id="-2" lat="45.314012051" lon="-122.392344685" visible="true"><tag k="addr:housenumber" v="20179"/><tag k="addr:postcode" v="97023"/><tag k="addr:city" v="Estacada"/><tag k="addr:street" v="South Springwater Road"/></node>
+<node id="-3" lat="45.313821469" lon="-122.392341231" visible="true"><tag k="addr:housenumber" v="20189"/><tag k="addr:postcode" v="97023"/><tag k="addr:city" v="Estacada"/><tag k="addr:street" v="South Springwater Road"/></node>
+<node id="-4" lat="45.298679387" lon="-122.409925488" visible="true"><tag k="addr:housenumber" v="22313"/><tag k="addr:postcode" v="97023"/><tag k="addr:city" v="Estacada"/><tag k="addr:street" v="Southeast Redland Road"/></node>
+<node id="-5" lat="45.320638063" lon="-122.381766509" visible="true"><tag k="addr:housenumber" v="27927"/><tag k="addr:postcode" v="97022"/><tag k="addr:city" v="Eagle Creek"/><tag k="addr:street" v="Southeast Starr Road"/></node>
+<node id="-6" lat="45.32063645" lon="-122.381765025" visible="true"><tag k="addr:housenumber" v="27975"/><tag k="addr:postcode" v="97022"/><tag k="addr:city" v="Eagle Creek"/><tag k="addr:street" v="Southeast Starr Road"/></node>
+<node id="-7" lat="45.314473579" lon="-122.380624204" visible="true"><tag k="addr:housenumber" v="28795"/><tag k="addr:postcode" v="97022"/><tag k="addr:city" v="Eagle Creek"/><tag k="addr:street" v="Southeast Woods Road"/></node>
+<node id="-8" lat="45.314471886" lon="-122.38062432" visible="true"><tag k="addr:housenumber" v="28799"/><tag k="addr:postcode" v="97022"/><tag k="addr:city" v="Eagle Creek"/><tag k="addr:street" v="Southeast Woods Road"/></node>
+</osm>

@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.41467136" lon="-122.32303613" visible="true"><tag k="addr:housenumber" v="14900"/><tag k="addr:postcode" v="97009"/><tag k="addr:city" v="Boring"/><tag k="addr:street" v="Southeast 329th Avenue"/></node>
+<node id="-2" lat="45.414672003" lon="-122.323035255" visible="true"><tag k="addr:housenumber" v="15020"/><tag k="addr:postcode" v="97009"/><tag k="addr:city" v="Boring"/><tag k="addr:street" v="Southeast 329th Avenue"/></node>
+</osm>

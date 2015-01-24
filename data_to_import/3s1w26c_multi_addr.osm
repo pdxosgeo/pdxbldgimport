@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.275596607" lon="-122.792787524" visible="true"><tag k="addr:housenumber" v="13114"/><tag k="addr:postcode" v="97002"/><tag k="addr:city" v="Aurora"/><tag k="addr:street" v="Northeast Denbrook Road"/></node>
+<node id="-2" lat="45.275604048" lon="-122.792672027" visible="true"><tag k="addr:housenumber" v="13116"/><tag k="addr:postcode" v="97002"/><tag k="addr:city" v="Aurora"/><tag k="addr:street" v="Northeast Denbrook Road"/></node>
+<node id="-3" lat="45.304379621" lon="-122.781886719" visible="true"><tag k="addr:housenumber" v="29805"/><tag k="addr:postcode" v="97070"/><tag k="addr:city" v="Wilsonville"/><tag k="addr:street" v="Southwest Montebello Drive"/></node>
+<node id="-4" lat="45.304306727" lon="-122.781889416" visible="true"><tag k="addr:housenumber" v="29815"/><tag k="addr:postcode" v="97070"/><tag k="addr:city" v="Wilsonville"/><tag k="addr:street" v="Southwest Montebello Drive"/></node>
+<node id="-5" lat="45.304180443" lon="-122.781892068" visible="true"><tag k="addr:housenumber" v="29825"/><tag k="addr:postcode" v="97070"/><tag k="addr:city" v="Wilsonville"/><tag k="addr:street" v="Southwest Montebello Drive"/></node>
+<node id="-6" lat="45.304127193" lon="-122.781891144" visible="true"><tag k="addr:housenumber" v="29835"/><tag k="addr:postcode" v="97070"/><tag k="addr:city" v="Wilsonville"/><tag k="addr:street" v="Southwest Montebello Drive"/></node>
+<node id="-7" lat="45.30403141" lon="-122.781882156" visible="true"><tag k="addr:housenumber" v="29855"/><tag k="addr:postcode" v="97070"/><tag k="addr:city" v="Wilsonville"/><tag k="addr:street" v="Southwest Montebello Drive"/></node>
+<node id="-8" lat="45.303965543" lon="-122.78188226" visible="true"><tag k="addr:housenumber" v="29865"/><tag k="addr:postcode" v="97070"/><tag k="addr:city" v="Wilsonville"/><tag k="addr:street" v="Southwest Montebello Drive"/></node>
+<node id="-9" lat="45.303841671" lon="-122.781891838" visible="true"><tag k="addr:housenumber" v="29875"/><tag k="addr:postcode" v="97070"/><tag k="addr:city" v="Wilsonville"/><tag k="addr:street" v="Southwest Montebello Drive"/></node>
+<node id="-10" lat="45.303784642" lon="-122.781889657" visible="true"><tag k="addr:housenumber" v="29885"/><tag k="addr:postcode" v="97070"/><tag k="addr:city" v="Wilsonville"/><tag k="addr:street" v="Southwest Montebello Drive"/></node>
+<node id="-11" lat="45.303687291" lon="-122.781884893" visible="true"><tag k="addr:housenumber" v="29905"/><tag k="addr:postcode" v="97070"/><tag k="addr:city" v="Wilsonville"/><tag k="addr:street" v="Southwest Montebello Drive"/></node>
+<node id="-12" lat="45.303622449" lon="-122.78188237" visible="true"><tag k="addr:housenumber" v="29925"/><tag k="addr:postcode" v="97070"/><tag k="addr:city" v="Wilsonville"/><tag k="addr:street" v="Southwest Montebello Drive"/></node>
+<node id="-13" lat="45.30350173" lon="-122.781878059" visible="true"><tag k="addr:housenumber" v="29935"/><tag k="addr:postcode" v="97070"/><tag k="addr:city" v="Wilsonville"/><tag k="addr:street" v="Southwest Montebello Drive"/></node>
+<node id="-14" lat="45.303446252" lon="-122.781874226" visible="true"><tag k="addr:housenumber" v="29945"/><tag k="addr:postcode" v="97070"/><tag k="addr:city" v="Wilsonville"/><tag k="addr:street" v="Southwest Montebello Drive"/></node>
+<node id="-15" lat="45.303340526" lon="-122.781880196" visible="true"><tag k="addr:housenumber" v="29955"/><tag k="addr:postcode" v="97070"/><tag k="addr:city" v="Wilsonville"/><tag k="addr:street" v="Southwest Montebello Drive"/></node>
+<node id="-16" lat="45.303288107" lon="-122.781881873" visible="true"><tag k="addr:housenumber" v="29965"/><tag k="addr:postcode" v="97070"/><tag k="addr:city" v="Wilsonville"/><tag k="addr:street" v="Southwest Montebello Drive"/></node>
+</osm>

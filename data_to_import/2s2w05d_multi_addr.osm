@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.414418661" lon="-122.959851832" visible="true"><tag k="addr:housenumber" v="14620"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southwest Hillsboro Highway"/></node>
+<node id="-2" lat="45.414423082" lon="-122.959858254" visible="true"><tag k="addr:housenumber" v="14700"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southwest Hillsboro Highway"/></node>
+<node id="-3" lat="45.418493608" lon="-122.990199449" visible="true"><tag k="addr:housenumber" v="30366"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southwest Laurel Road"/></node>
+<node id="-4" lat="45.418485836" lon="-122.990205048" visible="true"><tag k="addr:housenumber" v="30418"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southwest Laurel Road"/></node>
+<node id="-5" lat="45.41848843" lon="-122.990200203" visible="true"><tag k="addr:housenumber" v="30430"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southwest Laurel Road"/></node>
+<node id="-6" lat="45.418486073" lon="-122.99019695" visible="true"><tag k="addr:housenumber" v="30442"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southwest Laurel Road"/></node>
+</osm>

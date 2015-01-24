@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.423609239" lon="-122.369655754" visible="true"><tag k="addr:housenumber" v="28530"/><tag k="addr:postcode" v="97009"/><tag k="addr:city" v="Boring"/><tag k="addr:street" v="Southeast Church Road"/></node>
+<node id="-2" lat="45.423615705" lon="-122.369759451" visible="true"><tag k="addr:housenumber" v="28532"/><tag k="addr:postcode" v="97009"/><tag k="addr:city" v="Boring"/><tag k="addr:street" v="Southeast Church Road"/></node>
+<node id="-3" lat="45.423612016" lon="-122.369861377" visible="true"><tag k="addr:housenumber" v="28534"/><tag k="addr:postcode" v="97009"/><tag k="addr:city" v="Boring"/><tag k="addr:street" v="Southeast Church Road"/></node>
+<node id="-4" lat="45.423606352" lon="-122.369963184" visible="true"><tag k="addr:housenumber" v="28536"/><tag k="addr:postcode" v="97009"/><tag k="addr:city" v="Boring"/><tag k="addr:street" v="Southeast Church Road"/></node>
+</osm>

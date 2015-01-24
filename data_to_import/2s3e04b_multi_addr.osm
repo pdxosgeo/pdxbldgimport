@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.420738896" lon="-122.449230431" visible="true"><tag k="addr:housenumber" v="14081"/><tag k="addr:postcode" v="97089"/><tag k="addr:city" v="Damascus"/><tag k="addr:street" v="Southeast Rust Way"/></node>
+<node id="-2" lat="45.420681041" lon="-122.449271508" visible="true"><tag k="addr:housenumber" v="14083"/><tag k="addr:postcode" v="97089"/><tag k="addr:city" v="Damascus"/><tag k="addr:street" v="Southeast Rust Way"/></node>
+</osm>

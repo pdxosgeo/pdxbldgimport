@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.514925776" lon="-122.888472171" visible="true"><tag k="addr:housenumber" v="700"/><tag k="addr:postcode" v="97003"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest 206th Place"/></node>
+<node id="-2" lat="45.514922182" lon="-122.888466816" visible="true"><tag k="addr:housenumber" v="702"/><tag k="addr:postcode" v="97003"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest 206th Place"/></node>
+<node id="-3" lat="45.514922566" lon="-122.888475364" visible="true"><tag k="addr:housenumber" v="704"/><tag k="addr:postcode" v="97003"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest 206th Place"/></node>
+<node id="-4" lat="45.514928569" lon="-122.888466963" visible="true"><tag k="addr:housenumber" v="706"/><tag k="addr:postcode" v="97003"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest 206th Place"/></node>
+</osm>

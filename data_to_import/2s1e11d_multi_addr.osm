@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.417027897" lon="-122.641825719" visible="true"><tag k="addr:housenumber" v="14621"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Arista Drive"/></node>
+<node id="-2" lat="45.416956526" lon="-122.641765845" visible="true"><tag k="addr:housenumber" v="14623"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Arista Drive"/></node>
+<node id="-3" lat="45.416016144" lon="-122.642061332" visible="true"><tag k="addr:housenumber" v="14811"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Arista Drive"/></node>
+<node id="-4" lat="45.416016958" lon="-122.641919342" visible="true"><tag k="addr:housenumber" v="14813"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Arista Drive"/></node>
+<node id="-5" lat="45.412851683" lon="-122.641882794" visible="true"><tag k="addr:housenumber" v="15213"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Arista Drive"/></node>
+<node id="-6" lat="45.412845164" lon="-122.64197973" visible="true"><tag k="addr:housenumber" v="15215"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Arista Drive"/></node>
+<node id="-7" lat="45.416970487" lon="-122.644650939" visible="true"><tag k="addr:housenumber" v="1851"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Oak Grove Boulevard"/></node>
+<node id="-8" lat="45.41696901" lon="-122.644534416" visible="true"><tag k="addr:housenumber" v="1853"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Oak Grove Boulevard"/></node>
+<node id="-9" lat="45.416466119" lon="-122.643382676" visible="true"><tag k="addr:housenumber" v="1910"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Oak Grove Boulevard"/></node>
+<node id="-10" lat="45.416462094" lon="-122.643272773" visible="true"><tag k="addr:housenumber" v="1912"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Oak Grove Boulevard"/></node>
+<node id="-11" lat="45.416973209" lon="-122.641916927" visible="true"><tag k="addr:housenumber" v="2095"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Oak Grove Boulevard"/></node>
+<node id="-12" lat="45.416895605" lon="-122.641838586" visible="true"><tag k="addr:housenumber" v="2099"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Oak Grove Boulevard"/></node>
+<node id="-13" lat="45.404774947" lon="-122.643860108" visible="true"><tag k="addr:housenumber" v="1672"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Oak Shore Lane"/></node>
+<node id="-14" lat="45.404774226" lon="-122.643859082" visible="true"><tag k="addr:housenumber" v="1821"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Risley Avenue"/></node>
+<node id="-15" lat="45.413132619" lon="-122.641208957" visible="true"><tag k="addr:housenumber" v="15151"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Rupert Drive"/></node>
+<node id="-16" lat="45.413131441" lon="-122.641212145" visible="true"><tag k="addr:housenumber" v="15200"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Rupert Drive"/></node>
+</osm>

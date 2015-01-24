@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.427804373" lon="-122.598551173" visible="true"><tag k="addr:housenumber" v="6400"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Lake Road"/></node>
+<node id="-2" lat="45.427953426" lon="-122.598147044" visible="true"><tag k="addr:housenumber" v="6416"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Lake Road"/></node>
+<node id="-3" lat="45.439918366" lon="-122.598964326" visible="true"><tag k="addr:housenumber" v="11526"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Linwood Avenue"/></node>
+<node id="-4" lat="45.439823888" lon="-122.598964788" visible="true"><tag k="addr:housenumber" v="11530"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Linwood Avenue"/></node>
+</osm>

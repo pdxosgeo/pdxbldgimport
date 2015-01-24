@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.26400733" lon="-122.703506861" visible="true"><tag k="addr:housenumber" v="563"/><tag k="addr:postcode" v="97013"/><tag k="addr:city" v="Canby"/><tag k="addr:street" v="North Cedar Street"/></node>
+<node id="-2" lat="45.263938154" lon="-122.703709582" visible="true"><tag k="addr:housenumber" v="565"/><tag k="addr:postcode" v="97013"/><tag k="addr:city" v="Canby"/><tag k="addr:street" v="North Cedar Street"/></node>
+<node id="-3" lat="45.26405906" lon="-122.703816898" visible="true"><tag k="addr:housenumber" v="567"/><tag k="addr:postcode" v="97013"/><tag k="addr:city" v="Canby"/><tag k="addr:street" v="North Cedar Street"/></node>
+<node id="-4" lat="45.264138168" lon="-122.703603277" visible="true"><tag k="addr:housenumber" v="569"/><tag k="addr:postcode" v="97013"/><tag k="addr:city" v="Canby"/><tag k="addr:street" v="North Cedar Street"/></node>
+<node id="-5" lat="45.264509282" lon="-122.703840176" visible="true"><tag k="addr:housenumber" v="583"/><tag k="addr:postcode" v="97013"/><tag k="addr:city" v="Canby"/><tag k="addr:street" v="North Cedar Street"/></node>
+<node id="-6" lat="45.264466245" lon="-122.70395973" visible="true"><tag k="addr:housenumber" v="585"/><tag k="addr:postcode" v="97013"/><tag k="addr:city" v="Canby"/><tag k="addr:street" v="North Cedar Street"/></node>
+<node id="-7" lat="45.26442777" lon="-122.704091388" visible="true"><tag k="addr:housenumber" v="587"/><tag k="addr:postcode" v="97013"/><tag k="addr:city" v="Canby"/><tag k="addr:street" v="North Cedar Street"/></node>
+<node id="-8" lat="45.264489791" lon="-122.704147094" visible="true"><tag k="addr:housenumber" v="589"/><tag k="addr:postcode" v="97013"/><tag k="addr:city" v="Canby"/><tag k="addr:street" v="North Cedar Street"/></node>
+<node id="-9" lat="45.258086027" lon="-122.695410817" visible="true"><tag k="addr:housenumber" v="400"/><tag k="addr:postcode" v="97013"/><tag k="addr:city" v="Canby"/><tag k="addr:street" v="South Elm Street"/></node>
+<node id="-10" lat="45.258034765" lon="-122.695377411" visible="true"><tag k="addr:housenumber" v="404"/><tag k="addr:postcode" v="97013"/><tag k="addr:city" v="Canby"/><tag k="addr:street" v="South Elm Street"/></node>
+<node id="-11" lat="45.258827664" lon="-122.69436263" visible="true"><tag k="addr:housenumber" v="426"/><tag k="addr:postcode" v="97013"/><tag k="addr:city" v="Canby"/><tag k="addr:street" v="Southwest 4th Avenue"/></node>
+<node id="-12" lat="45.258816324" lon="-122.694411528" visible="true"><tag k="addr:housenumber" v="428"/><tag k="addr:postcode" v="97013"/><tag k="addr:city" v="Canby"/><tag k="addr:street" v="Southwest 4th Avenue"/></node>
+</osm>

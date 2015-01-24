@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.406455968" lon="-122.945409216" visible="true"><tag k="addr:housenumber" v="15625"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southwest Hillsboro Highway"/></node>
+<node id="-2" lat="45.406459571" lon="-122.945409323" visible="true"><tag k="addr:housenumber" v="15627"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southwest Hillsboro Highway"/></node>
+<node id="-3" lat="45.408014824" lon="-122.922855208" visible="true"><tag k="addr:housenumber" v="23905"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southwest Scholls Ferry Road"/></node>
+<node id="-4" lat="45.408012226" lon="-122.922857211" visible="true"><tag k="addr:housenumber" v="23915"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southwest Scholls Ferry Road"/></node>
+<node id="-5" lat="45.399806534" lon="-122.930435462" visible="true"><tag k="addr:housenumber" v="24485"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southwest Scholls Ferry Road"/></node>
+<node id="-6" lat="45.399804932" lon="-122.930436077" visible="true"><tag k="addr:housenumber" v="24495"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southwest Scholls Ferry Road"/></node>
+</osm>

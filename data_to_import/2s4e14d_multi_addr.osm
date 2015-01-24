@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.39292619" lon="-122.270809815" visible="true"><tag k="addr:housenumber" v="18055"/><tag k="addr:postcode" v="97055"/><tag k="addr:city" v="Sandy"/><tag k="addr:street" v="Bluff Road"/></node>
+<node id="-2" lat="45.392881184" lon="-122.27081298" visible="true"><tag k="addr:housenumber" v="18065"/><tag k="addr:postcode" v="97055"/><tag k="addr:city" v="Sandy"/><tag k="addr:street" v="Bluff Road"/></node>
+<node id="-3" lat="45.392795985" lon="-122.270876324" visible="true"><tag k="addr:housenumber" v="18075"/><tag k="addr:postcode" v="97055"/><tag k="addr:city" v="Sandy"/><tag k="addr:street" v="Bluff Road"/></node>
+<node id="-4" lat="45.392763554" lon="-122.270875233" visible="true"><tag k="addr:housenumber" v="18085"/><tag k="addr:postcode" v="97055"/><tag k="addr:city" v="Sandy"/><tag k="addr:street" v="Bluff Road"/></node>
+<node id="-5" lat="45.393854142" lon="-122.278539127" visible="true"><tag k="addr:housenumber" v="37420"/><tag k="addr:postcode" v="97055"/><tag k="addr:city" v="Sandy"/><tag k="addr:street" v="Dubarko Road"/></node>
+<node id="-6" lat="45.393783084" lon="-122.27846057" visible="true"><tag k="addr:housenumber" v="37565"/><tag k="addr:postcode" v="97055"/><tag k="addr:city" v="Sandy"/><tag k="addr:street" v="Dubarko Road"/></node>
+<node id="-7" lat="45.394792371" lon="-122.272172703" visible="true"><tag k="addr:housenumber" v="37975"/><tag k="addr:postcode" v="97055"/><tag k="addr:city" v="Sandy"/><tag k="addr:street" v="Nettie Connett Drive"/></node>
+<node id="-8" lat="45.394783586" lon="-122.272080195" visible="true"><tag k="addr:housenumber" v="37977"/><tag k="addr:postcode" v="97055"/><tag k="addr:city" v="Sandy"/><tag k="addr:street" v="Nettie Connett Drive"/></node>
+<node id="-9" lat="45.394475236" lon="-122.272116637" visible="true"><tag k="addr:housenumber" v="37980"/><tag k="addr:postcode" v="97055"/><tag k="addr:city" v="Sandy"/><tag k="addr:street" v="Nettie Connett Drive"/></node>
+<node id="-10" lat="45.394472958" lon="-122.271955972" visible="true"><tag k="addr:housenumber" v="37982"/><tag k="addr:postcode" v="97055"/><tag k="addr:city" v="Sandy"/><tag k="addr:street" v="Nettie Connett Drive"/></node>
+<node id="-11" lat="45.394824315" lon="-122.271925389" visible="true"><tag k="addr:housenumber" v="37997"/><tag k="addr:postcode" v="97055"/><tag k="addr:city" v="Sandy"/><tag k="addr:street" v="Nettie Connett Drive"/></node>
+<node id="-12" lat="45.394813496" lon="-122.271856475" visible="true"><tag k="addr:housenumber" v="37999"/><tag k="addr:postcode" v="97055"/><tag k="addr:city" v="Sandy"/><tag k="addr:street" v="Nettie Connett Drive"/></node>
+<node id="-13" lat="45.393537011" lon="-122.277438655" visible="true"><tag k="addr:housenumber" v="37519"/><tag k="addr:postcode" v="97055"/><tag k="addr:city" v="Sandy"/><tag k="addr:street" v="Reich Court"/></node>
+<node id="-14" lat="45.393532149" lon="-122.277354355" visible="true"><tag k="addr:housenumber" v="37521"/><tag k="addr:postcode" v="97055"/><tag k="addr:city" v="Sandy"/><tag k="addr:street" v="Reich Court"/></node>
+<node id="-15" lat="45.395880151" lon="-122.278759676" visible="true"><tag k="addr:housenumber" v="37395"/><tag k="addr:postcode" v="97055"/><tag k="addr:city" v="Sandy"/><tag k="addr:street" v="Sandy Heights Street"/></node>
+<node id="-16" lat="45.395846803" lon="-122.278611217" visible="true"><tag k="addr:housenumber" v="37405"/><tag k="addr:postcode" v="97055"/><tag k="addr:city" v="Sandy"/><tag k="addr:street" v="Sandy Heights Street"/></node>
+<node id="-17" lat="45.393501628" lon="-122.272465883" visible="true"><tag k="addr:housenumber" v="37965"/><tag k="addr:postcode" v="97055"/><tag k="addr:city" v="Sandy"/><tag k="addr:street" v="Sandy Heights Street"/></node>
+<node id="-18" lat="45.393508532" lon="-122.272378215" visible="true"><tag k="addr:housenumber" v="37975"/><tag k="addr:postcode" v="97055"/><tag k="addr:city" v="Sandy"/><tag k="addr:street" v="Sandy Heights Street"/></node>
+<node id="-19" lat="45.393006644" lon="-122.271255898" visible="true"><tag k="addr:housenumber" v="38100"/><tag k="addr:postcode" v="97055"/><tag k="addr:city" v="Sandy"/><tag k="addr:street" v="Sandy Heights Street"/></node>
+<node id="-20" lat="45.392999739" lon="-122.271262708" visible="true"><tag k="addr:housenumber" v="38172"/><tag k="addr:postcode" v="97055"/><tag k="addr:city" v="Sandy"/><tag k="addr:street" v="Sandy Heights Street"/></node>
+<node id="-21" lat="45.39482798" lon="-122.271681867" visible="true"><tag k="addr:housenumber" v="38059"/><tag k="addr:postcode" v="97055"/><tag k="addr:city" v="Sandy"/><tag k="addr:street" v="Trimble Lane"/></node>
+<node id="-22" lat="45.394825665" lon="-122.271599059" visible="true"><tag k="addr:housenumber" v="38061"/><tag k="addr:postcode" v="97055"/><tag k="addr:city" v="Sandy"/><tag k="addr:street" v="Trimble Lane"/></node>
+<node id="-23" lat="45.394564754" lon="-122.271560163" visible="true"><tag k="addr:housenumber" v="38090"/><tag k="addr:postcode" v="97055"/><tag k="addr:city" v="Sandy"/><tag k="addr:street" v="Trimble Lane"/></node>
+<node id="-24" lat="45.39456465" lon="-122.271452024" visible="true"><tag k="addr:housenumber" v="38092"/><tag k="addr:postcode" v="97055"/><tag k="addr:city" v="Sandy"/><tag k="addr:street" v="Trimble Lane"/></node>
+<node id="-25" lat="45.394837791" lon="-122.271455776" visible="true"><tag k="addr:housenumber" v="38111"/><tag k="addr:postcode" v="97055"/><tag k="addr:city" v="Sandy"/><tag k="addr:street" v="Trimble Lane"/></node>
+<node id="-26" lat="45.394831544" lon="-122.271365631" visible="true"><tag k="addr:housenumber" v="38113"/><tag k="addr:postcode" v="97055"/><tag k="addr:city" v="Sandy"/><tag k="addr:street" v="Trimble Lane"/></node>
+<node id="-27" lat="45.394569701" lon="-122.271267424" visible="true"><tag k="addr:housenumber" v="38132"/><tag k="addr:postcode" v="97055"/><tag k="addr:city" v="Sandy"/><tag k="addr:street" v="Trimble Lane"/></node>
+<node id="-28" lat="45.394569721" lon="-122.271191382" visible="true"><tag k="addr:housenumber" v="38134"/><tag k="addr:postcode" v="97055"/><tag k="addr:city" v="Sandy"/><tag k="addr:street" v="Trimble Lane"/></node>
+<node id="-29" lat="45.394831448" lon="-122.271242974" visible="true"><tag k="addr:housenumber" v="38153"/><tag k="addr:postcode" v="97055"/><tag k="addr:city" v="Sandy"/><tag k="addr:street" v="Trimble Lane"/></node>
+<node id="-30" lat="45.394830722" lon="-122.271178645" visible="true"><tag k="addr:housenumber" v="38155"/><tag k="addr:postcode" v="97055"/><tag k="addr:city" v="Sandy"/><tag k="addr:street" v="Trimble Lane"/></node>
+</osm>

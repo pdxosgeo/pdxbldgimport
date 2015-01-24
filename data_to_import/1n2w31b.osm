@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-3" lat="45.53236939" lon="-122.98646589" visible="true"/>
+<node id="-4" lat="45.532369362" lon="-122.986228692" visible="true"/>
+<node id="-5" lat="45.532195509" lon="-122.986228734" visible="true"/>
+<node id="-6" lat="45.532195526" lon="-122.986364275" visible="true"/>
+<node id="-7" lat="45.532107409" lon="-122.986364297" visible="true"/>
+<node id="-8" lat="45.53210742" lon="-122.986462564" visible="true"/>
+<node id="-9" lat="45.532174103" lon="-122.986462548" visible="true"/>
+<node id="-10" lat="45.532174096" lon="-122.986401555" visible="true"/>
+<node id="-11" lat="45.532195529" lon="-122.98640155" visible="true"/>
+<node id="-12" lat="45.532195537" lon="-122.986465931" visible="true"/>
+<node id="-13" lat="45.532216971" lon="-122.986465926" visible="true"/>
+<node id="-14" lat="45.532216981" lon="-122.986547251" visible="true"/>
+<node id="-15" lat="45.532364636" lon="-122.986547216" visible="true"/>
+<node id="-16" lat="45.532364627" lon="-122.98646589" visible="true"/>
+<node id="-18" lat="45.532259837" lon="-122.98645575" visible="true"/>
+<node id="-19" lat="45.532259825" lon="-122.986347317" visible="true"/>
+<node id="-20" lat="45.532300311" lon="-122.986347307" visible="true"/>
+<node id="-21" lat="45.532300324" lon="-122.986455741" visible="true"/>
+<node id="-24" lat="45.531856153" lon="-122.981552789" visible="true"/>
+<node id="-25" lat="45.531758239" lon="-122.981588775" visible="true"/>
+<node id="-26" lat="45.531746075" lon="-122.981521778" visible="true"/>
+<node id="-27" lat="45.531696342" lon="-122.981540055" visible="true"/>
+<node id="-28" lat="45.531744779" lon="-122.981806853" visible="true"/>
+<node id="-29" lat="45.531892426" lon="-122.981752588" visible="true"/>
+<node id="-31" lat="45.531797157" lon="-122.981708568" visible="true"/>
+<node id="-32" lat="45.531787621" lon="-122.981647579" visible="true"/>
+<node id="-33" lat="45.531840633" lon="-122.981630799" visible="true"/>
+<node id="-34" lat="45.531850168" lon="-122.981691789" visible="true"/>
+<way id="-2" visible="true"><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-3"/></way>
+<way id="-17" visible="true"><nd ref="-18"/><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-18"/></way>
+<way id="-23" visible="true"><nd ref="-24"/><nd ref="-25"/><nd ref="-26"/><nd ref="-27"/><nd ref="-28"/><nd ref="-29"/><nd ref="-24"/></way>
+<way id="-30" visible="true"><nd ref="-31"/><nd ref="-32"/><nd ref="-33"/><nd ref="-34"/><nd ref="-31"/></way>
+<relation id="-1" visible="true"><member ref="-2" role="outer" type="way"/><member ref="-17" role="inner" type="way"/><tag k="type" v="multipolygon"/><tag k="addr:housenumber" v="1049"/><tag k="building" v="yes"/><tag k="height" v="5.0"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:postcode" v="97124"/><tag k="ele" v="56.4"/><tag k="addr:street" v="Northeast 3rd Avenue"/></relation>
+<relation id="-22" visible="true"><member ref="-23" role="outer" type="way"/><member ref="-30" role="inner" type="way"/><tag k="type" v="multipolygon"/><tag k="addr:housenumber" v="978"/><tag k="building" v="yes"/><tag k="height" v="5.6"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:postcode" v="97124"/><tag k="ele" v="54.4"/><tag k="addr:street" v="Northeast 6th Avenue Drive"/></relation>
+</osm>

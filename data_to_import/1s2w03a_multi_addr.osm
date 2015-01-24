@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.515536797" lon="-122.912187942" visible="true"><tag k="addr:housenumber" v="600"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast 66th Avenue"/></node>
+<node id="-2" lat="45.515529296" lon="-122.912194959" visible="true"><tag k="addr:housenumber" v="602"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast 66th Avenue"/></node>
+<node id="-3" lat="45.513065259" lon="-122.911409938" visible="true"><tag k="addr:housenumber" v="835"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast 67th Avenue"/></node>
+<node id="-4" lat="45.513021834" lon="-122.911401945" visible="true"><tag k="addr:housenumber" v="837"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast 67th Avenue"/></node>
+<node id="-5" lat="45.513990349" lon="-122.912052308" visible="true"><tag k="addr:housenumber" v="6618"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast Ariel Street"/></node>
+<node id="-6" lat="45.513992697" lon="-122.911992741" visible="true"><tag k="addr:housenumber" v="6620"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast Ariel Street"/></node>
+<node id="-7" lat="45.514375612" lon="-122.911929944" visible="true"><tag k="addr:housenumber" v="6623"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast Ariel Street"/></node>
+<node id="-8" lat="45.514378248" lon="-122.911865934" visible="true"><tag k="addr:housenumber" v="6625"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast Ariel Street"/></node>
+<node id="-9" lat="45.513997284" lon="-122.911824782" visible="true"><tag k="addr:housenumber" v="6640"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast Ariel Street"/></node>
+<node id="-10" lat="45.513990973" lon="-122.91176241" visible="true"><tag k="addr:housenumber" v="6642"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast Ariel Street"/></node>
+<node id="-11" lat="45.513680579" lon="-122.910694582" visible="true"><tag k="addr:housenumber" v="6741"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast Wrenfield Street"/></node>
+<node id="-12" lat="45.513679512" lon="-122.910622226" visible="true"><tag k="addr:housenumber" v="6743"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast Wrenfield Street"/></node>
+<node id="-13" lat="45.513654711" lon="-122.910489907" visible="true"><tag k="addr:housenumber" v="6773"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast Wrenfield Street"/></node>
+<node id="-14" lat="45.513656217" lon="-122.910418145" visible="true"><tag k="addr:housenumber" v="6775"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast Wrenfield Street"/></node>
+<node id="-15" lat="45.513660998" lon="-122.910263634" visible="true"><tag k="addr:housenumber" v="6805"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast Wrenfield Street"/></node>
+<node id="-16" lat="45.513654639" lon="-122.910187364" visible="true"><tag k="addr:housenumber" v="6807"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast Wrenfield Street"/></node>
+<node id="-17" lat="45.513657101" lon="-122.910048418" visible="true"><tag k="addr:housenumber" v="6837"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast Wrenfield Street"/></node>
+<node id="-18" lat="45.513658533" lon="-122.909979586" visible="true"><tag k="addr:housenumber" v="6839"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast Wrenfield Street"/></node>
+</osm>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.457421323" lon="-122.30405432" visible="true"><tag k="addr:housenumber" v="34755"/><tag k="addr:postcode" v="97009"/><tag k="addr:city" v="Boring"/><tag k="addr:street" v="Southeast Bluff Road"/></node>
+<node id="-2" lat="45.457423647" lon="-122.304054707" visible="true"><tag k="addr:housenumber" v="34851"/><tag k="addr:postcode" v="97009"/><tag k="addr:city" v="Boring"/><tag k="addr:street" v="Southeast Bluff Road"/></node>
+<node id="-3" lat="45.428839089" lon="-122.319507264" visible="true"><tag k="addr:housenumber" v="13040"/><tag k="addr:postcode" v="97009"/><tag k="addr:city" v="Boring"/><tag k="addr:street" v="Southeast Bobby Bruce Lane"/></node>
+<node id="-4" lat="45.428835616" lon="-122.319301092" visible="true"><tag k="addr:housenumber" v="13050"/><tag k="addr:postcode" v="97009"/><tag k="addr:city" v="Boring"/><tag k="addr:street" v="Southeast Bobby Bruce Lane"/></node>
+</osm>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.355079381" lon="-122.589085546" visible="true"><tag k="addr:housenumber" v="1901"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="13th Street"/></node>
+<node id="-2" lat="45.355050083" lon="-122.589025956" visible="true"><tag k="addr:housenumber" v="1903"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="13th Street"/></node>
+<node id="-3" lat="45.355034881" lon="-122.589000396" visible="true"><tag k="addr:housenumber" v="1905"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="13th Street"/></node>
+<node id="-4" lat="45.355019941" lon="-122.588962455" visible="true"><tag k="addr:housenumber" v="1907"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="13th Street"/></node>
+<node id="-5" lat="45.355061661" lon="-122.589062921" visible="true"><tag k="addr:housenumber" v="1909"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="13th Street"/></node>
+<node id="-6" lat="45.363934749" lon="-122.586129741" visible="true"><tag k="addr:housenumber" v="13541"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Redland Road"/></node>
+<node id="-7" lat="45.363930847" lon="-122.586133193" visible="true"><tag k="addr:housenumber" v="13547"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Redland Road"/></node>
+<node id="-8" lat="45.363927213" lon="-122.586128117" visible="true"><tag k="addr:housenumber" v="13553"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Redland Road"/></node>
+<node id="-9" lat="45.36393124" lon="-122.586133045" visible="true"><tag k="addr:housenumber" v="13559"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Redland Road"/></node>
+<node id="-10" lat="45.362205284" lon="-122.598878633" visible="true"><tag k="addr:housenumber" v="1500"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Washington Street"/></node>
+<node id="-11" lat="45.362254099" lon="-122.59882687" visible="true"><tag k="addr:housenumber" v="1502"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Washington Street"/></node>
+<node id="-12" lat="45.362292691" lon="-122.598768932" visible="true"><tag k="addr:housenumber" v="1506"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Washington Street"/></node>
+<node id="-13" lat="45.362340664" lon="-122.598733804" visible="true"><tag k="addr:housenumber" v="1508"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Washington Street"/></node>
+<node id="-14" lat="45.362395462" lon="-122.598675385" visible="true"><tag k="addr:housenumber" v="1512"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Washington Street"/></node>
+</osm>

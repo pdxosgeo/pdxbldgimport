@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.273103324" lon="-122.292405375" visible="true"><tag k="addr:housenumber" v="36310"/><tag k="addr:postcode" v="97023"/><tag k="addr:city" v="Estacada"/><tag k="addr:street" v="Southeast Tumala Mountain Road"/></node>
+<node id="-2" lat="45.27310461" lon="-122.292405794" visible="true"><tag k="addr:housenumber" v="36312"/><tag k="addr:postcode" v="97023"/><tag k="addr:city" v="Estacada"/><tag k="addr:street" v="Southeast Tumala Mountain Road"/></node>
+<node id="-3" lat="45.263092984" lon="-122.275501989" visible="true"><tag k="addr:housenumber" v="37769"/><tag k="addr:postcode" v="97023"/><tag k="addr:city" v="Estacada"/><tag k="addr:street" v="Southeast Tumala Mountain Road"/></node>
+<node id="-4" lat="45.263180301" lon="-122.275478894" visible="true"><tag k="addr:housenumber" v="37771"/><tag k="addr:postcode" v="97023"/><tag k="addr:city" v="Estacada"/><tag k="addr:street" v="Southeast Tumala Mountain Road"/></node>
+<node id="-5" lat="45.261873736" lon="-122.265336331" visible="true"><tag k="addr:housenumber" v="38750"/><tag k="addr:postcode" v="97023"/><tag k="addr:city" v="Estacada"/><tag k="addr:street" v="Southeast Tumala Mountain Road"/></node>
+<node id="-6" lat="45.261871919" lon="-122.26543201" visible="true"><tag k="addr:housenumber" v="38754"/><tag k="addr:postcode" v="97023"/><tag k="addr:city" v="Estacada"/><tag k="addr:street" v="Southeast Tumala Mountain Road"/></node>
+</osm>

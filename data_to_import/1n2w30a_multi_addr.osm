@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.545117571" lon="-122.971725314" visible="true"><tag k="addr:housenumber" v="1031"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northeast Creeksedge Drive"/></node>
-<node id="-2" lat="45.545113979" lon="-122.971717733" visible="true"><tag k="addr:housenumber" v="1033"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northeast Creeksedge Drive"/></node>
-<node id="-3" lat="45.548588876" lon="-122.977615095" visible="true"><tag k="addr:housenumber" v="3402"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northeast Dunbar Court"/></node>
-<node id="-4" lat="45.548606575" lon="-122.977560388" visible="true"><tag k="addr:housenumber" v="3408"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northeast Dunbar Court"/></node>
+<node id="-1" lat="45.545111011" lon="-122.971716663" visible="true"><tag k="addr:housenumber" v="1031"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northeast Creeksedge Drive"/></node>
+<node id="-2" lat="45.545108496" lon="-122.971714834" visible="true"><tag k="addr:housenumber" v="1033"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northeast Creeksedge Drive"/></node>
+<node id="-3" lat="45.548594059" lon="-122.977615939" visible="true"><tag k="addr:housenumber" v="3402"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northeast Dunbar Court"/></node>
+<node id="-4" lat="45.548612545" lon="-122.977560699" visible="true"><tag k="addr:housenumber" v="3408"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northeast Dunbar Court"/></node>
 </osm>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.43162615" lon="-122.604220513" visible="true"><tag k="addr:housenumber" v="5771"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast International Way"/></node>
+<node id="-2" lat="45.431627904" lon="-122.604222147" visible="true"><tag k="addr:housenumber" v="5773"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast International Way"/></node>
+<node id="-3" lat="45.431620448" lon="-122.604226984" visible="true"><tag k="addr:housenumber" v="5775"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast International Way"/></node>
+<node id="-4" lat="45.431620429" lon="-122.604224277" visible="true"><tag k="addr:housenumber" v="5777"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast International Way"/></node>
+<node id="-5" lat="45.436471181" lon="-122.602452529" visible="true"><tag k="addr:housenumber" v="11900"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Stanley Avenue"/></node>
+<node id="-6" lat="45.436376943" lon="-122.602450394" visible="true"><tag k="addr:housenumber" v="11958"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Stanley Avenue"/></node>
+</osm>

@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.250086629" lon="-122.448907682" visible="true"><tag k="addr:housenumber" v="20221"/><tag k="addr:postcode" v="97004"/><tag k="addr:city" v="Beavercreek"/><tag k="addr:street" v="South Upper Highland Road"/></node>
+<node id="-2" lat="45.250084148" lon="-122.448910085" visible="true"><tag k="addr:housenumber" v="20343"/><tag k="addr:postcode" v="97004"/><tag k="addr:city" v="Beavercreek"/><tag k="addr:street" v="South Upper Highland Road"/></node>
+</osm>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.269316254" lon="-122.720129557" visible="true"><tag k="addr:housenumber" v="23470"/><tag k="addr:postcode" v="97013"/><tag k="addr:city" v="Canby"/><tag k="addr:street" v="South Barlow Road"/></node>
+<node id="-2" lat="45.269317751" lon="-122.720129335" visible="true"><tag k="addr:housenumber" v="7143"/><tag k="addr:postcode" v="97013"/><tag k="addr:city" v="Canby"/><tag k="addr:street" v="South Knights Bridge Road"/></node>
+<node id="-3" lat="45.26931138" lon="-122.720124017" visible="true"><tag k="addr:housenumber" v="7145"/><tag k="addr:postcode" v="97013"/><tag k="addr:city" v="Canby"/><tag k="addr:street" v="South Knights Bridge Road"/></node>
+<node id="-4" lat="45.266995301" lon="-122.714763392" visible="true"><tag k="addr:housenumber" v="7381"/><tag k="addr:postcode" v="97013"/><tag k="addr:city" v="Canby"/><tag k="addr:street" v="South Knights Bridge Road"/></node>
+<node id="-5" lat="45.266993217" lon="-122.714759667" visible="true"><tag k="addr:housenumber" v="7405"/><tag k="addr:postcode" v="97013"/><tag k="addr:city" v="Canby"/><tag k="addr:street" v="South Knights Bridge Road"/></node>
+<node id="-6" lat="45.26699501" lon="-122.714763966" visible="true"><tag k="addr:housenumber" v="7417"/><tag k="addr:postcode" v="97013"/><tag k="addr:city" v="Canby"/><tag k="addr:street" v="South Knights Bridge Road"/></node>
+<node id="-7" lat="45.266998428" lon="-122.714762525" visible="true"><tag k="addr:housenumber" v="7425"/><tag k="addr:postcode" v="97013"/><tag k="addr:city" v="Canby"/><tag k="addr:street" v="South Knights Bridge Road"/></node>
+</osm>

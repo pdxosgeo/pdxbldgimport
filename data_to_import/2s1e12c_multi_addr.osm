@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.4062399" lon="-122.634530358" visible="true"><tag k="addr:housenumber" v="2722"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Concord Road"/></node>
+<node id="-2" lat="45.416332753" lon="-122.632512029" visible="true"><tag k="addr:housenumber" v="14617"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Mcloughlin Boulevard"/></node>
+<node id="-3" lat="45.416338535" lon="-122.632517116" visible="true"><tag k="addr:housenumber" v="14715"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Mcloughlin Boulevard"/></node>
+<node id="-4" lat="45.410780042" lon="-122.630637686" visible="true"><tag k="addr:housenumber" v="3245"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Risley Avenue"/></node>
+<node id="-5" lat="45.410780539" lon="-122.630632349" visible="true"><tag k="addr:housenumber" v="3247"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Risley Avenue"/></node>
+<node id="-6" lat="45.410778252" lon="-122.630636512" visible="true"><tag k="addr:housenumber" v="3249"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Risley Avenue"/></node>
+<node id="-7" lat="45.410776137" lon="-122.63063583" visible="true"><tag k="addr:housenumber" v="3251"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Risley Avenue"/></node>
+<node id="-8" lat="45.417414298" lon="-122.639983148" visible="true"><tag k="addr:housenumber" v="14702"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Rupert Drive"/></node>
+<node id="-9" lat="45.417424344" lon="-122.639509607" visible="true"><tag k="addr:housenumber" v="14704"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Rupert Drive"/></node>
+<node id="-10" lat="45.406236756" lon="-122.634533553" visible="true"><tag k="addr:housenumber" v="16500"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Sterling Circle"/></node>
+<node id="-11" lat="45.417367632" lon="-122.634776456" visible="true"><tag k="addr:housenumber" v="14610"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Woodland Way"/></node>
+<node id="-12" lat="45.417272522" lon="-122.634778788" visible="true"><tag k="addr:housenumber" v="14612"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Woodland Way"/></node>
+<node id="-13" lat="45.416171795" lon="-122.639965534" visible="true"><tag k="addr:housenumber" v="14815"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Summerland Court"/></node>
+<node id="-14" lat="45.416094548" lon="-122.639958797" visible="true"><tag k="addr:housenumber" v="14817"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Summerland Court"/></node>
+<node id="-15" lat="45.41601007" lon="-122.639951828" visible="true"><tag k="addr:housenumber" v="14819"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Summerland Court"/></node>
+</osm>

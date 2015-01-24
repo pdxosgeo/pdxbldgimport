@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.407427085" lon="-122.613698559" visible="true"><tag k="addr:housenumber" v="4839"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Naef Road"/></node>
+<node id="-2" lat="45.407420312" lon="-122.613691844" visible="true"><tag k="addr:housenumber" v="4861"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Naef Road"/></node>
+<node id="-3" lat="45.407418654" lon="-122.61369841" visible="true"><tag k="addr:housenumber" v="4883"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Naef Road"/></node>
+<node id="-4" lat="45.414708432" lon="-122.619889932" visible="true"><tag k="addr:housenumber" v="4205"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast View Acres Road"/></node>
+<node id="-5" lat="45.414743028" lon="-122.619836835" visible="true"><tag k="addr:housenumber" v="4207"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast View Acres Road"/></node>
+<node id="-6" lat="45.414782275" lon="-122.619779846" visible="true"><tag k="addr:housenumber" v="4211"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast View Acres Road"/></node>
+</osm>

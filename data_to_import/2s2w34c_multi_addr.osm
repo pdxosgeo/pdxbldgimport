@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.321907706" lon="-122.906128215" visible="true"><tag k="addr:housenumber" v="21505"/><tag k="addr:postcode" v="97140"/><tag k="addr:city" v="Sherwood"/><tag k="addr:street" v="Southwest Nicholas View Drive"/></node>
+<node id="-2" lat="45.321905055" lon="-122.906131071" visible="true"><tag k="addr:housenumber" v="22222"/><tag k="addr:postcode" v="97140"/><tag k="addr:city" v="Sherwood"/><tag k="addr:street" v="Southwest Nicholas View Drive"/></node>
+</osm>

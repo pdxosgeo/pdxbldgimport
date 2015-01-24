@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.468502724" lon="-122.264853795" visible="true"><tag k="addr:housenumber" v="38050"/><tag k="addr:postcode" v="97019"/><tag k="addr:city" v="Corbett"/><tag k="addr:street" v="Southeast Gordon Creek Road"/></node>
+<node id="-2" lat="45.468501627" lon="-122.264854523" visible="true"><tag k="addr:housenumber" v="39050"/><tag k="addr:postcode" v="97019"/><tag k="addr:city" v="Corbett"/><tag k="addr:street" v="Southeast Gordon Creek Road"/></node>
+<node id="-3" lat="45.469495926" lon="-122.244450566" visible="true"><tag k="addr:housenumber" v="40750"/><tag k="addr:postcode" v="97019"/><tag k="addr:city" v="Corbett"/><tag k="addr:street" v="Southeast Gordon Creek Road"/></node>
+<node id="-4" lat="45.469496905" lon="-122.244445308" visible="true"><tag k="addr:housenumber" v="40755"/><tag k="addr:postcode" v="97019"/><tag k="addr:city" v="Corbett"/><tag k="addr:street" v="Southeast Gordon Creek Road"/></node>
+<node id="-5" lat="45.487246166" lon="-122.243095752" visible="true"><tag k="addr:housenumber" v="40565"/><tag k="addr:postcode" v="97019"/><tag k="addr:city" v="Corbett"/><tag k="addr:street" v="Southeast Trout Creek Road"/></node>
+<node id="-6" lat="45.487238439" lon="-122.243093864" visible="true"><tag k="addr:housenumber" v="40575"/><tag k="addr:postcode" v="97019"/><tag k="addr:city" v="Corbett"/><tag k="addr:street" v="Southeast Trout Creek Road"/></node>
+</osm>

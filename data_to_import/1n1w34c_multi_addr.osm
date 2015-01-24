@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.516674339" lon="-122.803563921" visible="true"><tag k="addr:housenumber" v="371"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 121st Place"/></node>
+<node id="-2" lat="45.516674038" lon="-122.803563237" visible="true"><tag k="addr:housenumber" v="373"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 121st Place"/></node>
+<node id="-3" lat="45.516368829" lon="-122.803570651" visible="true"><tag k="addr:housenumber" v="385"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 121st Place"/></node>
+<node id="-4" lat="45.516362348" lon="-122.803571464" visible="true"><tag k="addr:housenumber" v="387"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 121st Place"/></node>
+<node id="-5" lat="45.516975858" lon="-122.803279622" visible="true"><tag k="addr:housenumber" v="390"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 121st Place"/></node>
+<node id="-6" lat="45.516970917" lon="-122.803284061" visible="true"><tag k="addr:housenumber" v="392"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 121st Place"/></node>
+<node id="-7" lat="45.516311577" lon="-122.803242536" visible="true"><tag k="addr:housenumber" v="399"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 121st Place"/></node>
+<node id="-8" lat="45.51631546" lon="-122.803249813" visible="true"><tag k="addr:housenumber" v="401"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 121st Place"/></node>
+<node id="-9" lat="45.516895531" lon="-122.802926858" visible="true"><tag k="addr:housenumber" v="404"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 121st Place"/></node>
+<node id="-10" lat="45.516893159" lon="-122.8029289" visible="true"><tag k="addr:housenumber" v="406"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 121st Place"/></node>
+<node id="-11" lat="45.516266319" lon="-122.802903365" visible="true"><tag k="addr:housenumber" v="413"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 121st Place"/></node>
+<node id="-12" lat="45.516262672" lon="-122.80290899" visible="true"><tag k="addr:housenumber" v="415"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 121st Place"/></node>
+<node id="-13" lat="45.516743069" lon="-122.802644177" visible="true"><tag k="addr:housenumber" v="418"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 121st Place"/></node>
+<node id="-14" lat="45.516745779" lon="-122.80263948" visible="true"><tag k="addr:housenumber" v="420"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 121st Place"/></node>
+<node id="-15" lat="45.516230736" lon="-122.802563833" visible="true"><tag k="addr:housenumber" v="427"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 121st Place"/></node>
+<node id="-16" lat="45.516225226" lon="-122.802560629" visible="true"><tag k="addr:housenumber" v="429"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 121st Place"/></node>
+<node id="-17" lat="45.516678794" lon="-122.802287113" visible="true"><tag k="addr:housenumber" v="432"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 121st Place"/></node>
+<node id="-18" lat="45.516678339" lon="-122.802292706" visible="true"><tag k="addr:housenumber" v="434"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 121st Place"/></node>
+<node id="-19" lat="45.516198749" lon="-122.802190421" visible="true"><tag k="addr:housenumber" v="445"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 121st Place"/></node>
+<node id="-20" lat="45.516201265" lon="-122.802183589" visible="true"><tag k="addr:housenumber" v="447"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 121st Place"/></node>
+<node id="-21" lat="45.516147525" lon="-122.801460394" visible="true"><tag k="addr:housenumber" v="488"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 121st Place"/></node>
+<node id="-22" lat="45.516152346" lon="-122.801456348" visible="true"><tag k="addr:housenumber" v="490"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 121st Place"/></node>
+</osm>

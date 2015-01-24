@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.468367635" lon="-122.888873244" visible="true"><tag k="addr:housenumber" v="20500"/><tag k="addr:postcode" v="97078"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Castle Drive"/></node>
+<node id="-2" lat="45.468369638" lon="-122.888866325" visible="true"><tag k="addr:housenumber" v="20502"/><tag k="addr:postcode" v="97078"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Castle Drive"/></node>
+<node id="-3" lat="45.468502988" lon="-122.888284526" visible="true"><tag k="addr:housenumber" v="20505"/><tag k="addr:postcode" v="97078"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Castle Drive"/></node>
+<node id="-4" lat="45.468500891" lon="-122.888285604" visible="true"><tag k="addr:housenumber" v="20507"/><tag k="addr:postcode" v="97078"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Castle Drive"/></node>
+<node id="-5" lat="45.468360291" lon="-122.889203091" visible="true"><tag k="addr:housenumber" v="20628"/><tag k="addr:postcode" v="97078"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Castle Drive"/></node>
+<node id="-6" lat="45.468352101" lon="-122.889204164" visible="true"><tag k="addr:housenumber" v="20630"/><tag k="addr:postcode" v="97078"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Castle Drive"/></node>
+<node id="-7" lat="45.468294199" lon="-122.889510812" visible="true"><tag k="addr:housenumber" v="20636"/><tag k="addr:postcode" v="97078"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Castle Drive"/></node>
+<node id="-8" lat="45.468293924" lon="-122.889507378" visible="true"><tag k="addr:housenumber" v="20638"/><tag k="addr:postcode" v="97078"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Castle Drive"/></node>
+<node id="-9" lat="45.468670477" lon="-122.890657848" visible="true"><tag k="addr:housenumber" v="20688"/><tag k="addr:postcode" v="97078"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Castle Drive"/></node>
+<node id="-10" lat="45.468663964" lon="-122.890658543" visible="true"><tag k="addr:housenumber" v="20690"/><tag k="addr:postcode" v="97078"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Castle Drive"/></node>
+</osm>

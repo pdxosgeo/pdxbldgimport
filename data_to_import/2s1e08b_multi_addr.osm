@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.417236034" lon="-122.713567661" visible="true"><tag k="addr:housenumber" v="14970"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Boones Way"/></node>
+<node id="-2" lat="45.417302466" lon="-122.713100264" visible="true"><tag k="addr:housenumber" v="14973"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Boones Way"/></node>
+<node id="-3" lat="45.417182169" lon="-122.713632736" visible="true"><tag k="addr:housenumber" v="14976"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Boones Way"/></node>
+<node id="-4" lat="45.417233192" lon="-122.713067716" visible="true"><tag k="addr:housenumber" v="14979"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Boones Way"/></node>
+<node id="-5" lat="45.417110427" lon="-122.713001831" visible="true"><tag k="addr:housenumber" v="15001"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Boones Way"/></node>
+<node id="-6" lat="45.417066259" lon="-122.712991445" visible="true"><tag k="addr:housenumber" v="15007"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Boones Way"/></node>
+<node id="-7" lat="45.416982511" lon="-122.713662291" visible="true"><tag k="addr:housenumber" v="15026"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Boones Way"/></node>
+<node id="-8" lat="45.416914764" lon="-122.713064239" visible="true"><tag k="addr:housenumber" v="15029"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Boones Way"/></node>
+<node id="-9" lat="45.416934493" lon="-122.713648899" visible="true"><tag k="addr:housenumber" v="15032"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Boones Way"/></node>
+<node id="-10" lat="45.41687738" lon="-122.713055563" visible="true"><tag k="addr:housenumber" v="15035"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Boones Way"/></node>
+<node id="-11" lat="45.416820347" lon="-122.713672708" visible="true"><tag k="addr:housenumber" v="15052"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Boones Way"/></node>
+<node id="-12" lat="45.416745294" lon="-122.713060371" visible="true"><tag k="addr:housenumber" v="15057"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Boones Way"/></node>
+<node id="-13" lat="45.416775657" lon="-122.713668061" visible="true"><tag k="addr:housenumber" v="15058"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Boones Way"/></node>
+<node id="-14" lat="45.416704608" lon="-122.713053611" visible="true"><tag k="addr:housenumber" v="15063"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Boones Way"/></node>
+<node id="-15" lat="45.416643781" lon="-122.713603592" visible="true"><tag k="addr:housenumber" v="15080"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Boones Way"/></node>
+<node id="-16" lat="45.416583024" lon="-122.713096019" visible="true"><tag k="addr:housenumber" v="15085"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Boones Way"/></node>
+<node id="-17" lat="45.416534259" lon="-122.713088173" visible="true"><tag k="addr:housenumber" v="15091"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Boones Way"/></node>
+<node id="-18" lat="45.415145055" lon="-122.715088961" visible="true"><tag k="addr:housenumber" v="15292"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Boones Way"/></node>
+<node id="-19" lat="45.415090855" lon="-122.715160643" visible="true"><tag k="addr:housenumber" v="15294"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Boones Way"/></node>
+<node id="-20" lat="45.416668673" lon="-122.713745483" visible="true"><tag k="addr:housenumber" v="3589"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Spring Lane"/></node>
+</osm>

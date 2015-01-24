@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.360260922" lon="-122.631088171" visible="true"><tag k="addr:housenumber" v="2743"/><tag k="addr:postcode" v="97068"/><tag k="addr:city" v="West Linn"/><tag k="addr:street" v="Lancaster Street"/></node>
+<node id="-2" lat="45.360261114" lon="-122.631085264" visible="true"><tag k="addr:housenumber" v="2745"/><tag k="addr:postcode" v="97068"/><tag k="addr:city" v="West Linn"/><tag k="addr:street" v="Lancaster Street"/></node>
+<node id="-3" lat="45.360254796" lon="-122.631084927" visible="true"><tag k="addr:housenumber" v="2747"/><tag k="addr:postcode" v="97068"/><tag k="addr:city" v="West Linn"/><tag k="addr:street" v="Lancaster Street"/></node>
+<node id="-4" lat="45.360262539" lon="-122.631085771" visible="true"><tag k="addr:housenumber" v="2749"/><tag k="addr:postcode" v="97068"/><tag k="addr:city" v="West Linn"/><tag k="addr:street" v="Lancaster Street"/></node>
+</osm>

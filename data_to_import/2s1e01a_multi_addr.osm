@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.429935664" lon="-122.630008821" visible="true"><tag k="addr:housenumber" v="3212"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Park Avenue"/></node>
+<node id="-2" lat="45.429942151" lon="-122.629878948" visible="true"><tag k="addr:housenumber" v="3214"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Park Avenue"/></node>
+<node id="-3" lat="45.428030729" lon="-122.628991373" visible="true"><tag k="addr:housenumber" v="3301"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Silver Springs Road"/></node>
+<node id="-4" lat="45.427900112" lon="-122.628949367" visible="true"><tag k="addr:housenumber" v="3303"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Silver Springs Road"/></node>
+</osm>

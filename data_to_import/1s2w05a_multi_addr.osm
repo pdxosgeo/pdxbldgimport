@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.514153227" lon="-122.958554182" visible="true"><tag k="addr:housenumber" v="739"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast 24th Avenue"/></node>
+<node id="-2" lat="45.514156833" lon="-122.958548661" visible="true"><tag k="addr:housenumber" v="745"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast 24th Avenue"/></node>
+<node id="-3" lat="45.517491828" lon="-122.95604442" visible="true"><tag k="addr:housenumber" v="485"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast 26th Avenue"/></node>
+<node id="-4" lat="45.517451511" lon="-122.956022151" visible="true"><tag k="addr:housenumber" v="487"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast 26th Avenue"/></node>
+<node id="-5" lat="45.519552228" lon="-122.954239366" visible="true"><tag k="addr:housenumber" v="264"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast 28th Avenue"/></node>
+<node id="-6" lat="45.519517449" lon="-122.954217858" visible="true"><tag k="addr:housenumber" v="270"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast 28th Avenue"/></node>
+<node id="-7" lat="45.519869283" lon="-122.953227843" visible="true"><tag k="addr:housenumber" v="206"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast 29th Avenue"/></node>
+<node id="-8" lat="45.519790876" lon="-122.953224206" visible="true"><tag k="addr:housenumber" v="208"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast 29th Avenue"/></node>
+<node id="-9" lat="45.519709564" lon="-122.95382143" visible="true"><tag k="addr:housenumber" v="221"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast 29th Avenue"/></node>
+<node id="-10" lat="45.519627545" lon="-122.953819899" visible="true"><tag k="addr:housenumber" v="223"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast 29th Avenue"/></node>
+<node id="-11" lat="45.519681017" lon="-122.95323719" visible="true"><tag k="addr:housenumber" v="234"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast 29th Avenue"/></node>
+<node id="-12" lat="45.519600701" lon="-122.953239185" visible="true"><tag k="addr:housenumber" v="236"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast 29th Avenue"/></node>
+<node id="-13" lat="45.519516657" lon="-122.953819373" visible="true"><tag k="addr:housenumber" v="267"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast 29th Avenue"/></node>
+<node id="-14" lat="45.519465541" lon="-122.953819443" visible="true"><tag k="addr:housenumber" v="269"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast 29th Avenue"/></node>
+<node id="-15" lat="45.519501959" lon="-122.953232879" visible="true"><tag k="addr:housenumber" v="272"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast 29th Avenue"/></node>
+<node id="-16" lat="45.519415356" lon="-122.953233392" visible="true"><tag k="addr:housenumber" v="274"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast 29th Avenue"/></node>
+<node id="-17" lat="45.512820091" lon="-122.950007275" visible="true"><tag k="addr:housenumber" v="853"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast 32nd Avenue"/></node>
+<node id="-18" lat="45.512869464" lon="-122.949998466" visible="true"><tag k="addr:housenumber" v="857"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast 32nd Avenue"/></node>
+</osm>

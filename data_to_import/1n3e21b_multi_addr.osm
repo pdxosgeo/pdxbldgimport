@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.548207125" lon="-122.451347802" visible="true"><tag k="addr:housenumber" v="2738"/><tag k="addr:postcode" v="97024"/><tag k="addr:city" v="Fairview"/><tag k="addr:street" v="Northeast 205th Avenue"/></node>
+<node id="-2" lat="45.548198053" lon="-122.451345223" visible="true"><tag k="addr:housenumber" v="3808"/><tag k="addr:postcode" v="97024"/><tag k="addr:city" v="Fairview"/><tag k="addr:street" v="Northeast 205th Avenue"/></node>
+<node id="-3" lat="45.545315877" lon="-122.449668316" visible="true"><tag k="addr:housenumber" v="20637"/><tag k="addr:postcode" v="97024"/><tag k="addr:city" v="Fairview"/><tag k="addr:street" v="Northeast Sandy Boulevard"/></node>
+<node id="-4" lat="45.545322154" lon="-122.449685459" visible="true"><tag k="addr:housenumber" v="20665"/><tag k="addr:postcode" v="97024"/><tag k="addr:city" v="Fairview"/><tag k="addr:street" v="Northeast Skyview Drive"/></node>
+</osm>

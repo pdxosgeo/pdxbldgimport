@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.502070582" lon="-122.916582656" visible="true"><tag k="addr:housenumber" v="2439"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast 63rd Way"/></node>
+<node id="-2" lat="45.49887625" lon="-122.911689416" visible="true"><tag k="addr:housenumber" v="2898"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast 67th Avenue"/></node>
+<node id="-3" lat="45.502066476" lon="-122.916499056" visible="true"><tag k="addr:housenumber" v="6302"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast Drake Street"/></node>
+<node id="-4" lat="45.500566968" lon="-122.910215305" visible="true"><tag k="addr:housenumber" v="6848"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast Johnson Street"/></node>
+<node id="-5" lat="45.500567109" lon="-122.910021527" visible="true"><tag k="addr:housenumber" v="6882"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast Johnson Street"/></node>
+<node id="-6" lat="45.499691303" lon="-122.917865099" visible="true"><tag k="addr:housenumber" v="6215"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast Tualatin Valley Highway"/></node>
+<node id="-7" lat="45.499685837" lon="-122.917863803" visible="true"><tag k="addr:housenumber" v="6275"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast Tualatin Valley Highway"/></node>
+<node id="-8" lat="45.500091777" lon="-122.914628" visible="true"><tag k="addr:housenumber" v="6395-T"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast Tualatin Valley Highway"/></node>
+<node id="-9" lat="45.500088031" lon="-122.91462012" visible="true"><tag k="addr:housenumber" v="6495"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast Tualatin Valley Highway"/></node>
+<node id="-10" lat="45.500088372" lon="-122.914628115" visible="true"><tag k="addr:housenumber" v="6551"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast Tualatin Valley Highway"/></node>
+<node id="-11" lat="45.500088345" lon="-122.91462406" visible="true"><tag k="addr:housenumber" v="6577"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast Tualatin Valley Highway"/></node>
+<node id="-12" lat="45.500087636" lon="-122.914620365" visible="true"><tag k="addr:housenumber" v="6589"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast Tualatin Valley Highway"/></node>
+<node id="-13" lat="45.49887349" lon="-122.911686517" visible="true"><tag k="addr:housenumber" v="2870"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southwest 229th Avenue"/></node>
+<node id="-14" lat="45.498870305" lon="-122.911691019" visible="true"><tag k="addr:housenumber" v="2900"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southwest 229th Avenue"/></node>
+<node id="-15" lat="45.500092612" lon="-122.914621293" visible="true"><tag k="addr:housenumber" v="22970"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southwest Johnson Court"/></node>
+</osm>

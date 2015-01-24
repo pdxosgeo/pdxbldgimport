@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.507213997" lon="-122.454708392" visible="true"><tag k="addr:housenumber" v="2195"/><tag k="addr:postcode" v="97030"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Northwest 14th Street"/></node>
+<node id="-2" lat="45.507217254" lon="-122.45470932" visible="true"><tag k="addr:housenumber" v="2197"/><tag k="addr:postcode" v="97030"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Northwest 14th Street"/></node>
+<node id="-3" lat="45.507875446" lon="-122.454698978" visible="true"><tag k="addr:housenumber" v="2181"/><tag k="addr:postcode" v="97030"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Northwest 15th Court"/></node>
+<node id="-4" lat="45.507482062" lon="-122.454700553" visible="true"><tag k="addr:housenumber" v="2192"/><tag k="addr:postcode" v="97030"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Northwest 15th Court"/></node>
+<node id="-5" lat="45.507480282" lon="-122.454698026" visible="true"><tag k="addr:housenumber" v="1470"/><tag k="addr:postcode" v="97030"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Northwest Birdsdale Avenue"/></node>
+<node id="-6" lat="45.507876909" lon="-122.454693958" visible="true"><tag k="addr:housenumber" v="1520"/><tag k="addr:postcode" v="97030"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Northwest Birdsdale Avenue"/></node>
+<node id="-7" lat="45.508134433" lon="-122.454693295" visible="true"><tag k="addr:housenumber" v="1522"/><tag k="addr:postcode" v="97030"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Northwest Birdsdale Avenue"/></node>
+<node id="-8" lat="45.508129716" lon="-122.454692385" visible="true"><tag k="addr:housenumber" v="1524"/><tag k="addr:postcode" v="97030"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Northwest Birdsdale Avenue"/></node>
+<node id="-9" lat="45.50471471" lon="-122.449796124" visible="true"><tag k="addr:housenumber" v="1703"/><tag k="addr:postcode" v="97030"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Northwest Division Street"/></node>
+<node id="-10" lat="45.504709226" lon="-122.449796865" visible="true"><tag k="addr:housenumber" v="1707"/><tag k="addr:postcode" v="97030"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Northwest Division Street"/></node>
+</osm>

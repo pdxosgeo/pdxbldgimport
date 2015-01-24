@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.515079659" lon="-122.819542654" visible="true"><tag k="addr:housenumber" v="590"/><tag k="addr:postcode" v="97006"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest 139th Avenue"/></node>
+<node id="-2" lat="45.515080436" lon="-122.819543315" visible="true"><tag k="addr:housenumber" v="592"/><tag k="addr:postcode" v="97006"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest 139th Avenue"/></node>
+<node id="-3" lat="45.517806723" lon="-122.817533991" visible="true"><tag k="addr:housenumber" v="13635"/><tag k="addr:postcode" v="97006"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Linda Lane"/></node>
+<node id="-4" lat="45.517806261" lon="-122.817534032" visible="true"><tag k="addr:housenumber" v="13657"/><tag k="addr:postcode" v="97006"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Linda Lane"/></node>
+</osm>

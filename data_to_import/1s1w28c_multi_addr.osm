@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.449260888" lon="-122.820505833" visible="true"><tag k="addr:housenumber" v="9995"/><tag k="addr:postcode" v="97008"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Buckskin Terrace"/></node>
+<node id="-2" lat="45.449257958" lon="-122.820615572" visible="true"><tag k="addr:housenumber" v="9999"/><tag k="addr:postcode" v="97008"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Buckskin Terrace"/></node>
+<node id="-3" lat="45.450428685" lon="-122.821156022" visible="true"><tag k="addr:housenumber" v="9615"/><tag k="addr:postcode" v="97008"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Davies Road"/></node>
+<node id="-4" lat="45.450333183" lon="-122.821151076" visible="true"><tag k="addr:housenumber" v="9619"/><tag k="addr:postcode" v="97008"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Davies Road"/></node>
+<node id="-5" lat="45.450189898" lon="-122.821257525" visible="true"><tag k="addr:housenumber" v="9645"/><tag k="addr:postcode" v="97008"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Davies Road"/></node>
+<node id="-6" lat="45.450135764" lon="-122.821194627" visible="true"><tag k="addr:housenumber" v="9649"/><tag k="addr:postcode" v="97008"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Davies Road"/></node>
+<node id="-7" lat="45.450094789" lon="-122.820607313" visible="true"><tag k="addr:housenumber" v="9660"/><tag k="addr:postcode" v="97008"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Davies Road"/></node>
+<node id="-8" lat="45.449999367" lon="-122.820613752" visible="true"><tag k="addr:housenumber" v="9664"/><tag k="addr:postcode" v="97008"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Davies Road"/></node>
+<node id="-9" lat="45.449839663" lon="-122.820552226" visible="true"><tag k="addr:housenumber" v="9710"/><tag k="addr:postcode" v="97008"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Davies Road"/></node>
+<node id="-10" lat="45.449777851" lon="-122.820542049" visible="true"><tag k="addr:housenumber" v="9714"/><tag k="addr:postcode" v="97008"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Davies Road"/></node>
+<node id="-11" lat="45.449029748" lon="-122.82114378" visible="true"><tag k="addr:housenumber" v="9815"/><tag k="addr:postcode" v="97008"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Davies Road"/></node>
+<node id="-12" lat="45.448939188" lon="-122.821154092" visible="true"><tag k="addr:housenumber" v="9819"/><tag k="addr:postcode" v="97008"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Davies Road"/></node>
+<node id="-13" lat="45.448876768" lon="-122.820544715" visible="true"><tag k="addr:housenumber" v="9830"/><tag k="addr:postcode" v="97008"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Davies Road"/></node>
+<node id="-14" lat="45.448802202" lon="-122.820550892" visible="true"><tag k="addr:housenumber" v="9834"/><tag k="addr:postcode" v="97008"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Davies Road"/></node>
+<node id="-15" lat="45.448615664" lon="-122.820610954" visible="true"><tag k="addr:housenumber" v="9860"/><tag k="addr:postcode" v="97008"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Davies Road"/></node>
+<node id="-16" lat="45.448548821" lon="-122.820607716" visible="true"><tag k="addr:housenumber" v="9864"/><tag k="addr:postcode" v="97008"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Davies Road"/></node>
+<node id="-17" lat="45.44838586" lon="-122.820561928" visible="true"><tag k="addr:housenumber" v="9910"/><tag k="addr:postcode" v="97008"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Davies Road"/></node>
+<node id="-18" lat="45.448302512" lon="-122.820577204" visible="true"><tag k="addr:housenumber" v="9914"/><tag k="addr:postcode" v="97008"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Davies Road"/></node>
+<node id="-19" lat="45.448130355" lon="-122.820561442" visible="true"><tag k="addr:housenumber" v="9940"/><tag k="addr:postcode" v="97008"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Davies Road"/></node>
+<node id="-20" lat="45.448055051" lon="-122.820556026" visible="true"><tag k="addr:housenumber" v="9944"/><tag k="addr:postcode" v="97008"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Davies Road"/></node>
+<node id="-21" lat="45.448712308" lon="-122.82116445" visible="true"><tag k="addr:housenumber" v="14035"/><tag k="addr:postcode" v="97008"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Weir Road"/></node>
+<node id="-22" lat="45.448704691" lon="-122.821303988" visible="true"><tag k="addr:housenumber" v="14039"/><tag k="addr:postcode" v="97008"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Weir Road"/></node>
+</osm>

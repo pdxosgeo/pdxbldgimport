@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.396155836" lon="-122.722775953" visible="true"><tag k="addr:housenumber" v="18121"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Deerbrush Avenue"/></node>
+<node id="-2" lat="45.396038028" lon="-122.722796584" visible="true"><tag k="addr:housenumber" v="18123"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Deerbrush Avenue"/></node>
+<node id="-3" lat="45.395876365" lon="-122.722817287" visible="true"><tag k="addr:housenumber" v="18131"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Deerbrush Avenue"/></node>
+<node id="-4" lat="45.395773396" lon="-122.722804446" visible="true"><tag k="addr:housenumber" v="18133"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Deerbrush Avenue"/></node>
+<node id="-5" lat="45.395598561" lon="-122.722802271" visible="true"><tag k="addr:housenumber" v="18141"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Deerbrush Avenue"/></node>
+<node id="-6" lat="45.395513315" lon="-122.722804462" visible="true"><tag k="addr:housenumber" v="18143"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Deerbrush Avenue"/></node>
+<node id="-7" lat="45.39532079" lon="-122.722815821" visible="true"><tag k="addr:housenumber" v="18151"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Deerbrush Avenue"/></node>
+<node id="-8" lat="45.395217156" lon="-122.722809641" visible="true"><tag k="addr:housenumber" v="18153"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Deerbrush Avenue"/></node>
+<node id="-9" lat="45.395015729" lon="-122.722813781" visible="true"><tag k="addr:housenumber" v="18161"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Deerbrush Avenue"/></node>
+<node id="-10" lat="45.394906432" lon="-122.722861548" visible="true"><tag k="addr:housenumber" v="18163"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Deerbrush Avenue"/></node>
+<node id="-11" lat="45.394737076" lon="-122.722743508" visible="true"><tag k="addr:housenumber" v="18171"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Deerbrush Avenue"/></node>
+<node id="-12" lat="45.394636535" lon="-122.722754781" visible="true"><tag k="addr:housenumber" v="18173"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Deerbrush Avenue"/></node>
+<node id="-13" lat="45.39445145" lon="-122.722724637" visible="true"><tag k="addr:housenumber" v="18181"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Deerbrush Avenue"/></node>
+<node id="-14" lat="45.394355314" lon="-122.722748508" visible="true"><tag k="addr:housenumber" v="18183"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Deerbrush Avenue"/></node>
+</osm>

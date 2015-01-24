@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.507961744" lon="-122.907532213" visible="true"><tag k="addr:housenumber" v="1582"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast 72nd Way"/></node>
+<node id="-2" lat="45.51208873" lon="-122.90728612" visible="true"><tag k="addr:housenumber" v="7176"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast Lois Street"/></node>
+<node id="-3" lat="45.512090874" lon="-122.907199382" visible="true"><tag k="addr:housenumber" v="7178"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast Lois Street"/></node>
+<node id="-4" lat="45.506687228" lon="-122.902762667" visible="true"><tag k="addr:housenumber" v="1831"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southwest Cornelius Pass Road"/></node>
+<node id="-5" lat="45.506605024" lon="-122.902761586" visible="true"><tag k="addr:housenumber" v="1833"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southwest Cornelius Pass Road"/></node>
+<node id="-6" lat="45.5062821" lon="-122.902670227" visible="true"><tag k="addr:housenumber" v="1875"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southwest Cornelius Pass Road"/></node>
+<node id="-7" lat="45.506218216" lon="-122.902663175" visible="true"><tag k="addr:housenumber" v="1877"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southwest Cornelius Pass Road"/></node>
+<node id="-8" lat="45.507964463" lon="-122.90752956" visible="true"><tag k="addr:housenumber" v="22450"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southwest Frances Street"/></node>
+</osm>

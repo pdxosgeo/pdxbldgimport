@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.499333555" lon="-122.760778567" visible="true"><tag k="addr:housenumber" v="8210"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Canyon Lane"/></node>
+<node id="-2" lat="45.499288002" lon="-122.760992269" visible="true"><tag k="addr:housenumber" v="8220"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Canyon Lane"/></node>
+</osm>

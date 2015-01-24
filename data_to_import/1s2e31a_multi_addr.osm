@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.445300915" lon="-122.606412994" visible="true"><tag k="addr:housenumber" v="5510"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Jackson Street"/></node>
+<node id="-2" lat="45.445304113" lon="-122.606327394" visible="true"><tag k="addr:housenumber" v="5520"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Jackson Street"/></node>
+<node id="-3" lat="45.445302307" lon="-122.606065027" visible="true"><tag k="addr:housenumber" v="5530"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Jackson Street"/></node>
+<node id="-4" lat="45.445674824" lon="-122.605912987" visible="true"><tag k="addr:housenumber" v="5535"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Jackson Street"/></node>
+<node id="-5" lat="45.445304256" lon="-122.605971959" visible="true"><tag k="addr:housenumber" v="5540"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Jackson Street"/></node>
+<node id="-6" lat="45.44567285" lon="-122.605810589" visible="true"><tag k="addr:housenumber" v="5545"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Jackson Street"/></node>
+<node id="-7" lat="45.445303811" lon="-122.605693081" visible="true"><tag k="addr:housenumber" v="5550"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Jackson Street"/></node>
+<node id="-8" lat="45.44530514" lon="-122.605602575" visible="true"><tag k="addr:housenumber" v="5560"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Jackson Street"/></node>
+<node id="-9" lat="45.445493967" lon="-122.605538241" visible="true"><tag k="addr:housenumber" v="5570"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Jackson Street"/></node>
+<node id="-10" lat="45.445560336" lon="-122.605533751" visible="true"><tag k="addr:housenumber" v="5580"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Jackson Street"/></node>
+</osm>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.412262323" lon="-122.804380004" visible="true"><tag k="addr:housenumber" v="12445"/><tag k="addr:postcode" v="97224"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Aspen Ridge Drive"/></node>
+<node id="-2" lat="45.413205166" lon="-122.801178801" visible="true"><tag k="addr:housenumber" v="12040"/><tag k="addr:postcode" v="97224"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Bull Mountain Road"/></node>
+<node id="-3" lat="45.413205185" lon="-122.80117121" visible="true"><tag k="addr:housenumber" v="12048"/><tag k="addr:postcode" v="97224"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Caffall Lane"/></node>
+<node id="-4" lat="45.412360522" lon="-122.804381826" visible="true"><tag k="addr:housenumber" v="12390"/><tag k="addr:postcode" v="97224"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Thornwood Drive"/></node>
+</osm>

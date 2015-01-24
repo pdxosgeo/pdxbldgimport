@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.537787416" lon="-122.377938432" visible="true"><tag k="addr:housenumber" v="1120"/><tag k="addr:postcode" v="97060"/><tag k="addr:city" v="Troutdale"/><tag k="addr:street" v="East Historic Columbia River Highway"/></node>
+<node id="-2" lat="45.537786836" lon="-122.377941167" visible="true"><tag k="addr:housenumber" v="1208"/><tag k="addr:postcode" v="97060"/><tag k="addr:city" v="Troutdale"/><tag k="addr:street" v="East Historic Columbia River Highway"/></node>
+<node id="-3" lat="45.538155954" lon="-122.381698107" visible="true"><tag k="addr:housenumber" v="729"/><tag k="addr:postcode" v="97060"/><tag k="addr:city" v="Troutdale"/><tag k="addr:street" v="East Historic Columbia River Highway"/></node>
+<node id="-4" lat="45.53802779" lon="-122.381555721" visible="true"><tag k="addr:housenumber" v="739"/><tag k="addr:postcode" v="97060"/><tag k="addr:city" v="Troutdale"/><tag k="addr:street" v="East Historic Columbia River Highway"/></node>
+<node id="-5" lat="45.537885512" lon="-122.381326756" visible="true"><tag k="addr:housenumber" v="741"/><tag k="addr:postcode" v="97060"/><tag k="addr:city" v="Troutdale"/><tag k="addr:street" v="East Historic Columbia River Highway"/></node>
+<node id="-6" lat="45.537861642" lon="-122.38129804" visible="true"><tag k="addr:housenumber" v="745"/><tag k="addr:postcode" v="97060"/><tag k="addr:city" v="Troutdale"/><tag k="addr:street" v="East Historic Columbia River Highway"/></node>
+<node id="-7" lat="45.522259918" lon="-122.370388277" visible="true"><tag k="addr:housenumber" v="24"/><tag k="addr:postcode" v="97060"/><tag k="addr:city" v="Troutdale"/><tag k="addr:street" v="Southeast Sandy Dell Road"/></node>
+<node id="-8" lat="45.522254337" lon="-122.370386838" visible="true"><tag k="addr:housenumber" v="26"/><tag k="addr:postcode" v="97060"/><tag k="addr:city" v="Troutdale"/><tag k="addr:street" v="Southeast Sandy Dell Road"/></node>
+</osm>

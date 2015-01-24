@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.289815866" lon="-122.333636412" visible="true"><tag k="addr:housenumber" v="219"/><tag k="addr:postcode" v="97023"/><tag k="addr:city" v="Estacada"/><tag k="addr:street" v="East 1st Avenue"/></node>
+<node id="-2" lat="45.290061681" lon="-122.335405673" visible="true"><tag k="addr:housenumber" v="121"/><tag k="addr:postcode" v="97023"/><tag k="addr:city" v="Estacada"/><tag k="addr:street" v="North Broadway Street"/></node>
+<node id="-3" lat="45.290108297" lon="-122.335409178" visible="true"><tag k="addr:housenumber" v="143"/><tag k="addr:postcode" v="97023"/><tag k="addr:city" v="Estacada"/><tag k="addr:street" v="North Broadway Street"/></node>
+<node id="-4" lat="45.293321887" lon="-122.334674996" visible="true"><tag k="addr:housenumber" v="460"/><tag k="addr:postcode" v="97023"/><tag k="addr:city" v="Estacada"/><tag k="addr:street" v="North Broadway Street"/></node>
+<node id="-5" lat="45.293376601" lon="-122.334680954" visible="true"><tag k="addr:housenumber" v="470"/><tag k="addr:postcode" v="97023"/><tag k="addr:city" v="Estacada"/><tag k="addr:street" v="North Broadway Street"/></node>
+<node id="-6" lat="45.29343034" lon="-122.334678758" visible="true"><tag k="addr:housenumber" v="480"/><tag k="addr:postcode" v="97023"/><tag k="addr:city" v="Estacada"/><tag k="addr:street" v="North Broadway Street"/></node>
+<node id="-7" lat="45.293483123" lon="-122.334675946" visible="true"><tag k="addr:housenumber" v="490"/><tag k="addr:postcode" v="97023"/><tag k="addr:city" v="Estacada"/><tag k="addr:street" v="North Broadway Street"/></node>
+<node id="-8" lat="45.289819079" lon="-122.333636788" visible="true"><tag k="addr:housenumber" v="102"/><tag k="addr:postcode" v="97023"/><tag k="addr:city" v="Estacada"/><tag k="addr:street" v="Northeast Main Street"/></node>
+<node id="-9" lat="45.291324105" lon="-122.337466792" visible="true"><tag k="addr:housenumber" v="289"/><tag k="addr:postcode" v="97023"/><tag k="addr:city" v="Estacada"/><tag k="addr:street" v="Northwest Wade Street"/></node>
+<node id="-10" lat="45.291441779" lon="-122.337470295" visible="true"><tag k="addr:housenumber" v="291"/><tag k="addr:postcode" v="97023"/><tag k="addr:city" v="Estacada"/><tag k="addr:street" v="Northwest Wade Street"/></node>
+<node id="-11" lat="45.296837626" lon="-122.338631092" visible="true"><tag k="addr:housenumber" v="819"/><tag k="addr:postcode" v="97023"/><tag k="addr:city" v="Estacada"/><tag k="addr:street" v="Northwest Wade Street"/></node>
+<node id="-12" lat="45.297023062" lon="-122.338653806" visible="true"><tag k="addr:housenumber" v="825"/><tag k="addr:postcode" v="97023"/><tag k="addr:city" v="Estacada"/><tag k="addr:street" v="Northwest Wade Street"/></node>
+<node id="-13" lat="45.30759621" lon="-122.338548214" visible="true"><tag k="addr:housenumber" v="29844"/><tag k="addr:postcode" v="97023"/><tag k="addr:city" v="Estacada"/><tag k="addr:street" v="Southeast Eagle Creek Road"/></node>
+<node id="-14" lat="45.307601342" lon="-122.338552697" visible="true"><tag k="addr:housenumber" v="29850"/><tag k="addr:postcode" v="97023"/><tag k="addr:city" v="Estacada"/><tag k="addr:street" v="Southeast Eagle Creek Road"/></node>
+<node id="-15" lat="45.302821911" lon="-122.340480337" visible="true"><tag k="addr:housenumber" v="31390"/><tag k="addr:postcode" v="97023"/><tag k="addr:city" v="Estacada"/><tag k="addr:street" v="Southeast Strubhar Lane"/></node>
+<node id="-16" lat="45.30282325" lon="-122.340487828" visible="true"><tag k="addr:housenumber" v="31418"/><tag k="addr:postcode" v="97023"/><tag k="addr:city" v="Estacada"/><tag k="addr:street" v="Southeast Strubhar Lane"/></node>
+</osm>

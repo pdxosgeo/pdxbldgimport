@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.432011368" lon="-122.786486497" visible="true"><tag k="addr:housenumber" v="12230"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest 106th Drive"/></node>
+<node id="-2" lat="45.431938515" lon="-122.786487711" visible="true"><tag k="addr:housenumber" v="12232"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest 106th Drive"/></node>
+<node id="-3" lat="45.431639731" lon="-122.786426631" visible="true"><tag k="addr:housenumber" v="12233"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest 106th Drive"/></node>
+<node id="-4" lat="45.431636418" lon="-122.786433261" visible="true"><tag k="addr:housenumber" v="12235"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest 106th Drive"/></node>
+<node id="-5" lat="45.436108361" lon="-122.794169146" visible="true"><tag k="addr:housenumber" v="11630"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest 114th Place"/></node>
+<node id="-6" lat="45.436010959" lon="-122.794171131" visible="true"><tag k="addr:housenumber" v="11632"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest 114th Place"/></node>
+<node id="-7" lat="45.427796806" lon="-122.794466024" visible="true"><tag k="addr:housenumber" v="11443"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Fonner Street"/></node>
+<node id="-8" lat="45.427842132" lon="-122.794447292" visible="true"><tag k="addr:housenumber" v="11445"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Fonner Street"/></node>
+<node id="-9" lat="45.43418865" lon="-122.785059874" visible="true"><tag k="addr:housenumber" v="11825"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Tiedeman Avenue"/></node>
+<node id="-10" lat="45.434092167" lon="-122.785141254" visible="true"><tag k="addr:housenumber" v="11835"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Tiedeman Avenue"/></node>
+</osm>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.452600001" lon="-122.770208379" visible="true"><tag k="addr:housenumber" v="9330"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest 91st Avenue"/></node>
+<node id="-2" lat="45.452598156" lon="-122.770210981" visible="true"><tag k="addr:housenumber" v="9332"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest 91st Avenue"/></node>
+<node id="-3" lat="45.454847764" lon="-122.767651804" visible="true"><tag k="addr:housenumber" v="8713"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Bomar Court"/></node>
+<node id="-4" lat="45.454847275" lon="-122.767658361" visible="true"><tag k="addr:housenumber" v="8715"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Bomar Court"/></node>
+<node id="-5" lat="45.454757973" lon="-122.767067273" visible="true"><tag k="addr:housenumber" v="8718"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Bomar Court"/></node>
+<node id="-6" lat="45.454762659" lon="-122.767072673" visible="true"><tag k="addr:housenumber" v="8720"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Bomar Court"/></node>
+<node id="-7" lat="45.451105709" lon="-122.766373" visible="true"><tag k="addr:housenumber" v="8730"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Case Court"/></node>
+<node id="-8" lat="45.451101508" lon="-122.766375268" visible="true"><tag k="addr:housenumber" v="8732"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Case Court"/></node>
+<node id="-9" lat="45.453177145" lon="-122.770127634" visible="true"><tag k="addr:housenumber" v="9055"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Cedarcrest Street"/></node>
+<node id="-10" lat="45.453173401" lon="-122.770126391" visible="true"><tag k="addr:housenumber" v="9057"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Cedarcrest Street"/></node>
+<node id="-11" lat="45.452799866" lon="-122.770205379" visible="true"><tag k="addr:housenumber" v="9070"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Cedarcrest Street"/></node>
+<node id="-12" lat="45.452797323" lon="-122.770209423" visible="true"><tag k="addr:housenumber" v="9072"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Cedarcrest Street"/></node>
+<node id="-13" lat="45.453177831" lon="-122.770437484" visible="true"><tag k="addr:housenumber" v="9085"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Cedarcrest Street"/></node>
+<node id="-14" lat="45.453179047" lon="-122.770440946" visible="true"><tag k="addr:housenumber" v="9087"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Cedarcrest Street"/></node>
+<node id="-15" lat="45.453210821" lon="-122.770842134" visible="true"><tag k="addr:housenumber" v="9105"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Cedarcrest Street"/></node>
+<node id="-16" lat="45.453210655" lon="-122.770846785" visible="true"><tag k="addr:housenumber" v="9107"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Cedarcrest Street"/></node>
+<node id="-17" lat="45.450767264" lon="-122.767684749" visible="true"><tag k="addr:housenumber" v="9541"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Hall Boulevard"/></node>
+<node id="-18" lat="45.450761455" lon="-122.767681743" visible="true"><tag k="addr:housenumber" v="9543"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Hall Boulevard"/></node>
+<node id="-19" lat="45.450809086" lon="-122.767220822" visible="true"><tag k="addr:housenumber" v="9547"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Hall Boulevard"/></node>
+<node id="-20" lat="45.450808409" lon="-122.76721945" visible="true"><tag k="addr:housenumber" v="9549"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Hall Boulevard"/></node>
+</osm>

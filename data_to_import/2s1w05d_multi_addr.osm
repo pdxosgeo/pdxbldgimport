@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.425085059" lon="-122.836154793" visible="true"><tag k="addr:housenumber" v="13117"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest 154th Avenue"/></node>
+<node id="-2" lat="45.425090313" lon="-122.836154563" visible="true"><tag k="addr:housenumber" v="13119"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest 154th Avenue"/></node>
+<node id="-3" lat="45.4258872" lon="-122.835093951" visible="true"><tag k="addr:housenumber" v="15346"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Roundtree Drive"/></node>
+<node id="-4" lat="45.425890692" lon="-122.835099168" visible="true"><tag k="addr:housenumber" v="15348"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Roundtree Drive"/></node>
+</osm>

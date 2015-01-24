@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.477515013" lon="-122.372470514" visible="true"><tag k="addr:housenumber" v="6011"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast 28th Street"/></node>
+<node id="-2" lat="45.477513137" lon="-122.372470374" visible="true"><tag k="addr:housenumber" v="6013"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast 28th Street"/></node>
+<node id="-3" lat="45.475867337" lon="-122.373109752" visible="true"><tag k="addr:housenumber" v="2982"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Night Heron Avenue"/></node>
+<node id="-4" lat="45.475860872" lon="-122.373115442" visible="true"><tag k="addr:housenumber" v="5949"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Welch Road"/></node>
+</osm>

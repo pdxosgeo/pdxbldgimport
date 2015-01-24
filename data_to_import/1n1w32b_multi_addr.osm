@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.527604571" lon="-122.838900057" visible="true"><tag k="addr:housenumber" v="1096"/><tag k="addr:postcode" v="97006"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Northwest 158th Avenue"/></node>
+<node id="-2" lat="45.52760846" lon="-122.838901396" visible="true"><tag k="addr:housenumber" v="1098"/><tag k="addr:postcode" v="97006"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Northwest 158th Avenue"/></node>
+<node id="-3" lat="45.527612775" lon="-122.838903867" visible="true"><tag k="addr:housenumber" v="1250"/><tag k="addr:postcode" v="97006"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Northwest Waterhouse Avenue"/></node>
+</osm>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.398475094" lon="-122.627891222" visible="true"><tag k="addr:housenumber" v="17263"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Boardman Creek Court"/></node>
+<node id="-2" lat="45.398471078" lon="-122.627885303" visible="true"><tag k="addr:housenumber" v="17271"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Boardman Creek Court"/></node>
+<node id="-3" lat="45.398475987" lon="-122.627893208" visible="true"><tag k="addr:housenumber" v="17280"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Boardman Creek Court"/></node>
+<node id="-4" lat="45.402070993" lon="-122.625720733" visible="true"><tag k="addr:housenumber" v="16750"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Kens Court"/></node>
+<node id="-5" lat="45.404016229" lon="-122.621872794" visible="true"><tag k="addr:housenumber" v="16550"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Mcloughlin Boulevard"/></node>
+<node id="-6" lat="45.404020836" lon="-122.621874722" visible="true"><tag k="addr:housenumber" v="16552"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Mcloughlin Boulevard"/></node>
+<node id="-7" lat="45.404017225" lon="-122.621873395" visible="true"><tag k="addr:housenumber" v="16570"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Mcloughlin Boulevard"/></node>
+<node id="-8" lat="45.403825323" lon="-122.620465751" visible="true"><tag k="addr:housenumber" v="16404"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Moon Avenue"/></node>
+<node id="-9" lat="45.403853797" lon="-122.6204381" visible="true"><tag k="addr:housenumber" v="16406"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Moon Avenue"/></node>
+<node id="-10" lat="45.403894334" lon="-122.620372232" visible="true"><tag k="addr:housenumber" v="16408"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Moon Avenue"/></node>
+<node id="-11" lat="45.403929815" lon="-122.620306773" visible="true"><tag k="addr:housenumber" v="16410"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Moon Avenue"/></node>
+<node id="-12" lat="45.403695746" lon="-122.620218463" visible="true"><tag k="addr:housenumber" v="16416"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Moon Avenue"/></node>
+<node id="-13" lat="45.403736049" lon="-122.620150192" visible="true"><tag k="addr:housenumber" v="16418"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Moon Avenue"/></node>
+<node id="-14" lat="45.403774928" lon="-122.620078621" visible="true"><tag k="addr:housenumber" v="16420"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Moon Avenue"/></node>
+<node id="-15" lat="45.403665482" lon="-122.620238101" visible="true"><tag k="addr:housenumber" v="16430"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Moon Avenue"/></node>
+<node id="-16" lat="45.401946146" lon="-122.62595915" visible="true"><tag k="addr:housenumber" v="3755"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Naef Road"/></node>
+<node id="-17" lat="45.397252907" lon="-122.622447719" visible="true"><tag k="addr:housenumber" v="3969"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Roethe Road"/></node>
+<node id="-18" lat="45.397256277" lon="-122.622447225" visible="true"><tag k="addr:housenumber" v="3973"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Roethe Road"/></node>
+<node id="-19" lat="45.397360541" lon="-122.622222398" visible="true"><tag k="addr:housenumber" v="3975"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Roethe Road"/></node>
+<node id="-20" lat="45.397362443" lon="-122.622224352" visible="true"><tag k="addr:housenumber" v="3977"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Roethe Road"/></node>
+</osm>

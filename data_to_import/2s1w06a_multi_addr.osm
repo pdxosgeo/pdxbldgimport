@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.426188319" lon="-122.84904773" visible="true"><tag k="addr:housenumber" v="16705"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Friendly Lane"/></node>
+<node id="-2" lat="45.426194328" lon="-122.849054372" visible="true"><tag k="addr:housenumber" v="16744"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Scholls Ferry Road"/></node>
+</osm>

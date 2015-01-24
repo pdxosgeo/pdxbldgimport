@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.429317799" lon="-122.382759573" visible="true"><tag k="addr:housenumber" v="12940"/><tag k="addr:postcode" v="97009"/><tag k="addr:city" v="Boring"/><tag k="addr:street" v="Southeast 272nd Avenue"/></node>
+<node id="-2" lat="45.429214802" lon="-122.382763451" visible="true"><tag k="addr:housenumber" v="12950"/><tag k="addr:postcode" v="97009"/><tag k="addr:city" v="Boring"/><tag k="addr:street" v="Southeast 272nd Avenue"/></node>
+<node id="-3" lat="45.430615734" lon="-122.375732035" visible="true"><tag k="addr:housenumber" v="12790"/><tag k="addr:postcode" v="97009"/><tag k="addr:city" v="Boring"/><tag k="addr:street" v="Southeast 279th Avenue"/></node>
+<node id="-4" lat="45.427427056" lon="-122.381085848" visible="true"><tag k="addr:housenumber" v="27390"/><tag k="addr:postcode" v="97009"/><tag k="addr:city" v="Boring"/><tag k="addr:street" v="Southeast Highway 212"/></node>
+<node id="-5" lat="45.427473262" lon="-122.380981898" visible="true"><tag k="addr:housenumber" v="27400"/><tag k="addr:postcode" v="97009"/><tag k="addr:city" v="Boring"/><tag k="addr:street" v="Southeast Highway 212"/></node>
+<node id="-6" lat="45.431612784" lon="-122.373543147" visible="true"><tag k="addr:housenumber" v="28161"/><tag k="addr:postcode" v="97009"/><tag k="addr:city" v="Boring"/><tag k="addr:street" v="Southeast Highway 212"/></node>
+<node id="-7" lat="45.431563205" lon="-122.373539575" visible="true"><tag k="addr:housenumber" v="28163"/><tag k="addr:postcode" v="97009"/><tag k="addr:city" v="Boring"/><tag k="addr:street" v="Southeast Highway 212"/></node>
+<node id="-8" lat="45.430485224" lon="-122.375743935" visible="true"><tag k="addr:housenumber" v="27901"/><tag k="addr:postcode" v="97009"/><tag k="addr:city" v="Boring"/><tag k="addr:street" v="Southeast Wally Road"/></node>
+</osm>

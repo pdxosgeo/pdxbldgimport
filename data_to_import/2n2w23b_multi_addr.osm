@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.668224164" lon="-122.874319169" visible="true"><tag k="addr:housenumber" v="20115"/><tag k="addr:postcode" v="97231"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Clark Avenue"/></node>
+<node id="-2" lat="45.668219641" lon="-122.87432203" visible="true"><tag k="addr:housenumber" v="20115"/><tag k="addr:postcode" v="97231"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Clark Road"/></node>
+<node id="-3" lat="45.667348772" lon="-122.877334019" visible="true"><tag k="addr:housenumber" v="19430"/><tag k="addr:postcode" v="97231"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Cleetwood Avenue"/></node>
+<node id="-4" lat="45.667343789" lon="-122.877331563" visible="true"><tag k="addr:housenumber" v="14952"/><tag k="addr:postcode" v="97231"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Mill Road"/></node>
+<node id="-5" lat="45.666054964" lon="-122.874707469" visible="true"><tag k="addr:housenumber" v="19136"/><tag k="addr:postcode" v="97231"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Morgan Road"/></node>
+<node id="-6" lat="45.666048436" lon="-122.874704917" visible="true"><tag k="addr:housenumber" v="19138"/><tag k="addr:postcode" v="97231"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Morgan Road"/></node>
+</osm>
