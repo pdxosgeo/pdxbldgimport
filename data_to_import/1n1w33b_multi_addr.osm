@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.529290541" lon="-122.81677015" visible="true"><tag k="addr:housenumber" v="1330"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Trail Avenue"/></node>
-<node id="-2" lat="45.529005742" lon="-122.816190526" visible="true"><tag k="addr:housenumber" v="13545"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Westlawn Terrace"/></node>
-<node id="-3" lat="45.528999976" lon="-122.816193268" visible="true"><tag k="addr:housenumber" v="13547"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Westlawn Terrace"/></node>
-<node id="-4" lat="45.529172468" lon="-122.816500221" visible="true"><tag k="addr:housenumber" v="13595"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Westlawn Terrace"/></node>
-<node id="-5" lat="45.529175182" lon="-122.816504057" visible="true"><tag k="addr:housenumber" v="13597"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Westlawn Terrace"/></node>
-<node id="-6" lat="45.529288968" lon="-122.816771683" visible="true"><tag k="addr:housenumber" v="13625"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Westlawn Terrace"/></node>
-</osm>

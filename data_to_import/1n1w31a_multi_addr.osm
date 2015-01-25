@@ -1,6 +1,0 @@
-<?xml version="1.0"?>
-<osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.533984408" lon="-122.853408707" visible="true"><tag k="addr:housenumber" v="1885"/><tag k="addr:postcode" v="97006"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Northwest 169th Place"/></node>
-<node id="-2" lat="45.533747502" lon="-122.852962958" visible="true"><tag k="addr:housenumber" v="1889"/><tag k="addr:postcode" v="97006"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Northwest 169th Place"/></node>
-<node id="-3" lat="45.533939165" lon="-122.852852273" visible="true"><tag k="addr:housenumber" v="1895"/><tag k="addr:postcode" v="97006"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Northwest 169th Place"/></node>
-</osm>

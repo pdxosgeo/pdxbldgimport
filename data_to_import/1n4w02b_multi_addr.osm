@@ -1,5 +1,0 @@
-<?xml version="1.0"?>
-<osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.537140828" lon="-123.176205285" visible="true"><tag k="addr:housenumber" v="48465"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="Northwest Oppenlander Lane"/></node>
-<node id="-2" lat="45.5371445" lon="-123.176199399" visible="true"><tag k="addr:housenumber" v="48565"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="Northwest Oppenlander Lane"/></node>
-</osm>

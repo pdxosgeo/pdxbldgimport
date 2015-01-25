@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.437829216" lon="-123.024214484" visible="true"><tag k="addr:housenumber" v="33616"/><tag k="addr:postcode" v="97113"/><tag k="addr:city" v="Cornelius"/><tag k="addr:street" v="Southwest Firdale Road"/></node>
-<node id="-2" lat="45.437831803" lon="-123.024215604" visible="true"><tag k="addr:housenumber" v="33620"/><tag k="addr:postcode" v="97113"/><tag k="addr:city" v="Cornelius"/><tag k="addr:street" v="Southwest Firdale Road"/></node>
-<node id="-3" lat="45.416611576" lon="-123.055559416" visible="true"><tag k="addr:housenumber" v="36739"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southwest Laurelwood Road"/></node>
-<node id="-4" lat="45.416613141" lon="-123.055558873" visible="true"><tag k="addr:housenumber" v="36745"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southwest Laurelwood Road"/></node>
-</osm>

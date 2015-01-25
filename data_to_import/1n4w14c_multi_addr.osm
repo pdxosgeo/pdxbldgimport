@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.541666931" lon="-123.147602887" visible="true"><tag k="addr:housenumber" v="3639"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="Forest Gale Drive"/></node>
-<node id="-2" lat="45.542329446" lon="-123.14659956" visible="true"><tag k="addr:housenumber" v="3664"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="Forest Gale Drive"/></node>
-<node id="-3" lat="45.540373" lon="-123.147391174" visible="true"><tag k="addr:housenumber" v="3524"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="Hoodview Drive"/></node>
-<node id="-4" lat="45.541669114" lon="-123.147599713" visible="true"><tag k="addr:housenumber" v="3639"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="Hoodview Drive"/></node>
-<node id="-5" lat="45.542335115" lon="-123.146597511" visible="true"><tag k="addr:housenumber" v="3703"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="Huntsman Way"/></node>
-<node id="-6" lat="45.540372002" lon="-123.147390383" visible="true"><tag k="addr:housenumber" v="3529"/><tag k="addr:postcode" v="97116"/><tag k="addr:city" v="Forest Grove"/><tag k="addr:street" v="Lavina Drive"/></node>
-</osm>

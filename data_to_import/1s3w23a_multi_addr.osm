@@ -1,5 +1,0 @@
-<?xml version="1.0"?>
-<osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.461626928" lon="-123.048926465" visible="true"><tag k="addr:housenumber" v="8015"/><tag k="addr:postcode" v="97113"/><tag k="addr:city" v="Cornelius"/><tag k="addr:street" v="Southwest Iowa Hill Road"/></node>
-<node id="-2" lat="45.461631977" lon="-123.048933348" visible="true"><tag k="addr:housenumber" v="8265"/><tag k="addr:postcode" v="97113"/><tag k="addr:city" v="Cornelius"/><tag k="addr:street" v="Southwest Iowa Hill Road"/></node>
-</osm>

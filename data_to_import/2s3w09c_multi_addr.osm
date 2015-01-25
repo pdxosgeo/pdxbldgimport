@@ -1,6 +1,0 @@
-<?xml version="1.0"?>
-<osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.424336121" lon="-123.082785658" visible="true"><tag k="addr:housenumber" v="39383"/><tag k="addr:postcode" v="97119"/><tag k="addr:city" v="Gaston"/><tag k="addr:street" v="Southwest Laurelwood Road"/></node>
-<node id="-2" lat="45.42434078" lon="-123.082792127" visible="true"><tag k="addr:housenumber" v="39391"/><tag k="addr:postcode" v="97119"/><tag k="addr:city" v="Gaston"/><tag k="addr:street" v="Southwest Laurelwood Road"/></node>
-<node id="-3" lat="45.424335568" lon="-123.08278758" visible="true"><tag k="addr:housenumber" v="39399"/><tag k="addr:postcode" v="97119"/><tag k="addr:city" v="Gaston"/><tag k="addr:street" v="Southwest Laurelwood Road"/></node>
-</osm>

@@ -18,46 +18,48 @@ Rake::TableTask::Config.dbhost=ENV['PGHOST']
 # merged into postgistable someday.
 DB=Sequel.connect Rake::TableTask::Config.sequel_connect_string
 
-ways=DB.fetch %Q{
-SELECT o.way_id,
-  a.housenumber,
-  a.street,
-  a.postcode,
-  a.city
-FROM osm_buildings o
-JOIN pdx_addrs a on (ST_Intersects(o.the_geom,a.the_geom))
-where o.addr_street IS NULL
-AND way_id IN (
-  SELECT way_id
-  FROM osm_buildings o
-  JOIN pdx_addrs a on (ST_Intersects(o.the_geom,a.the_geom))
-  GROUP BY way_id
-  HAVING count(1)=1
-)
-ORDER BY postcode,street,housenumber;
-}
-
 # Rosemary::Api.base_uri 'http://api06.dev.openstreetmap.org/'
-client = Rosemary::BasicAuthClient.new('USERNAME', 'PASSWORD')
+client = Rosemary::BasicAuthClient.new('Darrell_pdxbuildings', '4cdcU2qgYKiATjU')
 api = Rosemary::Api.new(client)
 
-changeset = api.create_changeset()
 
-until ways.empty? do 
-  count=0
-  while count < 50 do 
-    way=ways.pop
+[97209,
+  97210,97211,97212,97213,97214,97215,97216,97217,97218,97219,97220,
+  97221,97222,97223,97224,97225,97227,97230,97232,97236,97239,
+  97266,97267].each do |zip|
+
+  ways=DB.fetch %Q{
+  select *
+  from osm_addrs_to_add
+  where postcode='#{zip}'
+  order by street,housenumber
+  }
+
+  begin
+  changeset = api.create_changeset("Add missing addresses to ~#{ways.count} buildings in #{zip}")
+
+  puts "Starting zip #{zip} with #{ways.count} addresses to add"
+  ways.each do |way|
+    # puts way
     x=api.find_way(way[:way_id])
-    x.tags["addr:housenumber"]=way[:housenumber].to_s
-    x.tags["addr:street"]=way[:street]
-    x.tags["addr:postcode"]=way[:postcode]
+    next if x.tags["building"].nil?
+    x.tags["addr:housenumber"]||=way[:housenumber].to_s
+    x.tags["addr:street"]||=way[:street]
+    x.tags["addr:city"]||=way[:city]
+    x.tags["addr:postcode"]||=way[:postcode]
     api.save(x, changeset)
-    count+=1
+    puts "    " + way[:way_id].to_s + ':  ' + x.tags.to_s
   end
   api.close_changeset(changeset)
-  sleep 60
-  changeset = api.create_changeset()
-
+  puts "Closing changeset"
+  puts "=========================="
+  puts ""
+  sleep 15
+rescue
+    puts "caught error, exiting"
+    api.close_changeset(changeset)
+    exit(1)
+  end
 end
 
 
