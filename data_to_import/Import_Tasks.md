@@ -515,18 +515,18 @@ If there is no multi_address file, then it was empty and not included here.
 - [ ] 3s4e22a
 - [ ] 3s4e33c
 - [ ] 3s5e19b
-- [ ] 4s1e03d
-- [ ] 4s1e04a
-- [ ] 4s1e04d
-- [ ] 4s1e05a
-- [ ] 4s1e05b
-- [ ] 4s1e06b
-- [ ] 4s2e01c In Progress (Darrell)
-- [ ] 4s2e03a In Progress (Darrell)
-- [ ] 4s2e09c In Progress (Darrell)
-- [ ] 4s2e19d In Progress (Darrell)
-- [ ] 4s2e28b In Progress (Darrell)
-- [ ] 4s5e06c In Progress (Darrell)
+- [ ] 4s1e03d In Progress (Darrell)
+- [ ] 4s1e04a In Progress (Darrell)
+- [ ] 4s1e04d In Progress (Darrell)
+- [ ] 4s1e05a In Progress (Darrell)
+- [ ] 4s1e05b In Progress (Darrell)
+- [ ] 4s1e06b In Progress (Darrell)
+- [x] 4s2e01c 28401912
+- [x] 4s2e03a 28401315
+- [x] 4s2e09c 28388680
+- [x] 4s2e19d 28388638
+- [x] 4s2e28b 28388494
+- [x] 4s5e06c 28388361
 - [x] 1n3w03a buildings Complete (Darrell) [changeset 28151265](https://www.openstreetmap.org/changeset/28151265)
 - [x] 1n3w03a multi-address Complete (Darrell) [changeset 28151265](https://www.openstreetmap.org/changeset/28151265)
 - [x] 1n3w05b buildings Complete (Darrell)[changeset 28151478](https://www.openstreetmap.org/changeset/28151478)
