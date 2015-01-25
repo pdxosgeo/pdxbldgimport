@@ -33,17 +33,17 @@ If there is no multi_address file, then it was empty and not included here.
 - [x] 1n1w20d Complete (Peter) [changeset 28365389](http://www.openstreetmap.org/changeset/28365389)
 - [x] 1n1w21c Complete (Darrell)  [changeset 28383006](http://www.openstreetmap.org/changeset/28383006)
 - [x] 1n1w21d Complete (Darrell)  [changeset 28383494](http://www.openstreetmap.org/changeset/28383494)
-- [x] 1n1w29b Complete (Darrell)  [changeset 28384151](http://www.openstreetmap.org/changeset/28384151) (has many houses without addresses, could fix) 
+- [x] 1n1w29b Complete (Darrell)  [changeset 28384151](http://www.openstreetmap.org/changeset/28384151)
 - [x] 1n1w29d Complete (Darrell)  [changeset 28384753](http://www.openstreetmap.org/changeset/28384753)
 - [x] 1n1w30a Complete (Darrell)  [changeset 28385012](http://www.openstreetmap.org/changeset/28385012)
 - [x] 1n1w30b Complete (Darrell)  [changeset 28385230](http://www.openstreetmap.org/changeset/28385230)
-- [ ] 1n1w31a In Progress (Darrell)
-- [ ] 1n1w31b In Progress (Darrell)
-- [ ] 1n1w31c In Progress (Darrell)
-- [ ] 1n1w32b In Progress (Darrell)
-- [ ] 1n1w33a In Progress (Darrell)
-- [ ] 1n1w33b In Progress (Darrell)
-- [ ] 1n1w33d In Progress (Darrell)
+- [x] 1n1w31a Complete (Darrell)  [changeset 28385623](http://www.openstreetmap.org/changeset/28385623)
+- [x] 1n1w31b Complete (Darrell)  [changeset 28386190](http://www.openstreetmap.org/changeset/28386190)
+- [x] 1n1w31c Complete (Darrell)  [changeset 28386111](http://www.openstreetmap.org/changeset/28386111)
+- [x] 1n1w32b Complete (Darrell)  [changeset 28386461](http://www.openstreetmap.org/changeset/28386461)
+- [x] 1n1w33a Complete (Darrell)  [changeset 28386650](http://www.openstreetmap.org/changeset/28386650)
+- [x] 1n1w33b Complete (Darrell)  [changeset 28386889](http://www.openstreetmap.org/changeset/28386889)
+- [x] 1n1w33d Complete (Darrell)  [changeset 28387896](http://www.openstreetmap.org/changeset/28387896)
 - [ ] 1n1w34c
 - [ ] 1n2w15d
 - [ ] 1n2w19d
@@ -521,12 +521,12 @@ If there is no multi_address file, then it was empty and not included here.
 - [ ] 4s1e05a
 - [ ] 4s1e05b
 - [ ] 4s1e06b
-- [ ] 4s2e01c
-- [ ] 4s2e03a
-- [ ] 4s2e09c
-- [ ] 4s2e19d
-- [ ] 4s2e28b
-- [ ] 4s5e06c
+- [ ] 4s2e01c In Progress (Darrell)
+- [ ] 4s2e03a In Progress (Darrell)
+- [ ] 4s2e09c In Progress (Darrell)
+- [ ] 4s2e19d In Progress (Darrell)
+- [ ] 4s2e28b In Progress (Darrell)
+- [ ] 4s5e06c In Progress (Darrell)
 - [x] 1n3w03a buildings Complete (Darrell) [changeset 28151265](https://www.openstreetmap.org/changeset/28151265)
 - [x] 1n3w03a multi-address Complete (Darrell) [changeset 28151265](https://www.openstreetmap.org/changeset/28151265)
 - [x] 1n3w05b buildings Complete (Darrell)[changeset 28151478](https://www.openstreetmap.org/changeset/28151478)
