@@ -1,5 +1,0 @@
-<?xml version="1.0"?>
-<osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.259257956" lon="-122.691181688" visible="true"><tag k="addr:housenumber" v="443"/><tag k="addr:postcode" v="97013"/><tag k="addr:city" v="Canby"/><tag k="addr:street" v="South Ivy Street"/></node>
-<node id="-2" lat="45.259293755" lon="-122.691043818" visible="true"><tag k="addr:housenumber" v="445"/><tag k="addr:postcode" v="97013"/><tag k="addr:city" v="Canby"/><tag k="addr:street" v="South Ivy Street"/></node>
-</osm>

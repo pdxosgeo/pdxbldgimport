@@ -514,13 +514,13 @@ If there is no multi_address file, then it was empty and not included here.
 - [ ] 3s4e21a
 - [ ] 3s4e22a
 - [ ] 3s4e33c
-- [ ] 3s5e19b
-- [ ] 4s1e03d In Progress (Darrell)
-- [ ] 4s1e04a In Progress (Darrell)
-- [ ] 4s1e04d In Progress (Darrell)
-- [ ] 4s1e05a In Progress (Darrell)
-- [ ] 4s1e05b In Progress (Darrell)
-- [ ] 4s1e06b In Progress (Darrell)
+- [x] 3s5e19b 28404221
+- [x] 4s1e03d 28403876
+- [x] 4s1e04a 28403666
+- [x] 4s1e04d 28403351
+- [x] 4s1e05a 28403065
+- [x] 4s1e05b 28402816
+- [x] 4s1e06b 28402553
 - [x] 4s2e01c 28401912
 - [x] 4s2e03a 28401315
 - [x] 4s2e09c 28388680
