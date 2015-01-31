@@ -114,12 +114,12 @@ If there is no multi_address file, then it was empty and not included here.
 - [ ] 1s1w07c
 - [ ] 1s1w07d
 - [ ] 1s1w08a
-- [ ] 1s1w09b
-- [ ] 1s1w10a
-- [ ] 1s1w10b
-- [ ] 1s1w10c
-- [ ] 1s1w11a
-- [ ] 1s1w11b
+- [ ] 1s1w09b In Progress (Peter)
+- [ ] 1s1w10a In Progress (Peter)
+- [ ] 1s1w10b In Progress (Peter)
+- [ ] 1s1w10c In Progress (Peter)
+- [ ] 1s1w11a In Progress (Peter)
+- [ ] 1s1w11b In Progress (Peter)
 - [ ] 1s1w12b
 - [ ] 1s1w13b
 - [ ] 1s1w13c
