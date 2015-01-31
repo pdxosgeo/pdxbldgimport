@@ -114,7 +114,7 @@ If there is no multi_address file, then it was empty and not included here.
 - [ ] 1s1w07c
 - [ ] 1s1w07d
 - [ ] 1s1w08a
-- [ ] 1s1w09b In Progress (Peter)
+- [x] 1s1w09b Complete (Peter) [changeset 28517050](http://www.openstreetmap.org/changeset/28517050)
 - [ ] 1s1w10a In Progress (Peter)
 - [ ] 1s1w10b In Progress (Peter)
 - [ ] 1s1w10c In Progress (Peter)
