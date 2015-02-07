@@ -463,7 +463,7 @@ If there is no multi_address file, then it was empty and not included here.
 - [ ] 3s1e23d
 - [ ] 3s1e33c
 - [X] 3s1e34c 28406592
-- [ ] 3s1e36c
+- [ ] 3s1e36c In Progress (Darrell)
 - [ ] 3s1w01d
 - [ ] 3s1w07b
 - [ ] 3s1w08d
@@ -506,7 +506,7 @@ If there is no multi_address file, then it was empty and not included here.
 - [ ] 3s3e22a
 - [ ] 3s3e24b
 - [ ] 3s3e32c
-- [ ] 3s3e36c
+- [x] 3s3e36c 28693671
 - [x] 3s4e08b 28692355
 - [x] 3s4e10a 28691674
 - [x] 3s4e19a 28405770
