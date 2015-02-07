@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.344556722" lon="-122.310771482" visible="true"><tag k="addr:housenumber" v="34265"/><tag k="addr:postcode" v="97022"/><tag k="addr:city" v="Eagle Creek"/><tag k="addr:street" v="Southeast Wildcat Mountain Drive"/></node>
-<node id="-2" lat="45.344555282" lon="-122.310770569" visible="true"><tag k="addr:housenumber" v="34267"/><tag k="addr:postcode" v="97022"/><tag k="addr:city" v="Eagle Creek"/><tag k="addr:street" v="Southeast Wildcat Mountain Drive"/></node>
-<node id="-3" lat="45.34368256" lon="-122.309348269" visible="true"><tag k="addr:housenumber" v="34433"/><tag k="addr:postcode" v="97022"/><tag k="addr:city" v="Eagle Creek"/><tag k="addr:street" v="Southeast Wildcat Mountain Drive"/></node>
-<node id="-4" lat="45.343685074" lon="-122.309346829" visible="true"><tag k="addr:housenumber" v="34443"/><tag k="addr:postcode" v="97022"/><tag k="addr:city" v="Eagle Creek"/><tag k="addr:street" v="Southeast Wildcat Mountain Drive"/></node>
-</osm>
