@@ -105,9 +105,9 @@ If there is no multi_address file, then it was empty and not included here.
 - [ ] 1s1e35d
 - [ ] 1s1w03a Complete (Peter) [changeset 28499821](http://www.openstreetmap.org/changeset/28499821)
 - [ ] 1s1w03c Complete (Peter) [changeset 28499913](http://www.openstreetmap.org/changeset/28499913)
-- [ ] 1s1w04a
-- [ ] 1s1w04b
-- [ ] 1s1w04d
+- [ ] 1s1w04a In Progress (Peter)
+- [ ] 1s1w04b In Progress (Peter)
+- [ ] 1s1w04d In Progress (Peter)
 - [ ] 1s1w05b
 - [ ] 1s1w06a
 - [ ] 1s1w06c
