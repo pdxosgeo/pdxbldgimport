@@ -103,12 +103,12 @@ If there is no multi_address file, then it was empty and not included here.
 - [ ] 1n4e29c
 - [ ] 1s1e25d
 - [ ] 1s1e35d
-- [ ] 1s1w03a Complete (Peter) [changeset 28499821](http://www.openstreetmap.org/changeset/28499821)
-- [ ] 1s1w03c Complete (Peter) [changeset 28499913](http://www.openstreetmap.org/changeset/28499913)
-- [ ] 1s1w04a In Progress (Peter)
-- [ ] 1s1w04b In Progress (Peter)
-- [ ] 1s1w04d In Progress (Peter)
-- [ ] 1s1w05b
+- [x] 1s1w03a Complete (Peter) [changeset 28499821](http://www.openstreetmap.org/changeset/28499821)
+- [x] 1s1w03c Complete (Peter) [changeset 28499913](http://www.openstreetmap.org/changeset/28499913)
+- [x] 1s1w04a Complete (Peter) [changeset 28695818](http://www.openstreetmap.org/changeset/28695818)
+- [x] 1s1w04b Complete (Peter) [changeset 28695864](http://www.openstreetmap.org/changeset/28695864)
+- [x] 1s1w04d Complete (Peter) [changeset 28695914](http://www.openstreetmap.org/changeset/28695914)
+- [x] 1s1w05b Complete (Peter) [changeset 28696090](http://www.openstreetmap.org/changeset/28696090)
 - [ ] 1s1w06a
 - [ ] 1s1w06c
 - [ ] 1s1w07c
