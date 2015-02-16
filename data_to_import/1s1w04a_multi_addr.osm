@@ -1,5 +1,0 @@
-<?xml version="1.0"?>
-<osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.513334229" lon="-122.806331734" visible="true"><tag k="addr:housenumber" v="12590"/><tag k="addr:postcode" v="97005"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Butner Road"/></node>
-<node id="-2" lat="45.513353936" lon="-122.806408639" visible="true"><tag k="addr:housenumber" v="12594"/><tag k="addr:postcode" v="97005"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Butner Road"/></node>
-</osm>

@@ -1,5 +1,0 @@
-<?xml version="1.0"?>
-<osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.291966475" lon="-122.322781683" visible="true"><tag k="addr:housenumber" v="33155"/><tag k="addr:postcode" v="97023"/><tag k="addr:city" v="Estacada"/><tag k="addr:street" v="Southeast Coupland Road"/></node>
-<node id="-2" lat="45.291966753" lon="-122.322783551" visible="true"><tag k="addr:housenumber" v="33165"/><tag k="addr:postcode" v="97023"/><tag k="addr:city" v="Estacada"/><tag k="addr:street" v="Southeast Coupland Road"/></node>
-</osm>

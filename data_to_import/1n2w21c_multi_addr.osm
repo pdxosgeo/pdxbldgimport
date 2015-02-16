@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.531156564" lon="-122.920785719" visible="true"><tag k="addr:housenumber" v="6100"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northeast Cherry Drive"/></node>
-<node id="-2" lat="45.531294235" lon="-122.920778955" visible="true"><tag k="addr:housenumber" v="6110"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northeast Cherry Drive"/></node>
-<node id="-3" lat="45.54977189" lon="-122.969156413" visible="true"><tag k="addr:housenumber" v="1315"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northeast Zachary Street"/></node>
-<node id="-4" lat="45.549769343" lon="-122.96915185" visible="true"><tag k="addr:housenumber" v="1314"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northwest Evergreen Road"/></node>
-</osm>

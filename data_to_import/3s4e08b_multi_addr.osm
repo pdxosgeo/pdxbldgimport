@@ -1,5 +1,0 @@
-<?xml version="1.0"?>
-<osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.275063162" lon="-122.306282024" visible="true"><tag k="addr:housenumber" v="34210"/><tag k="addr:postcode" v="97023"/><tag k="addr:city" v="Estacada"/><tag k="addr:street" v="Southeast Moss Hill Road"/></node>
-<node id="-2" lat="45.275068346" lon="-122.306279623" visible="true"><tag k="addr:housenumber" v="34288"/><tag k="addr:postcode" v="97023"/><tag k="addr:city" v="Estacada"/><tag k="addr:street" v="Southeast Moss Hill Road"/></node>
-</osm>

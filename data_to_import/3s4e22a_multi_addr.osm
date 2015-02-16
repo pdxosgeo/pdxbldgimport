@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.290701056" lon="-122.288469178" visible="true"><tag k="addr:housenumber" v="36450"/><tag k="addr:postcode" v="97023"/><tag k="addr:city" v="Estacada"/><tag k="addr:street" v="Southeast Coupland Road"/></node>
-<node id="-2" lat="45.290699802" lon="-122.288475735" visible="true"><tag k="addr:housenumber" v="36452"/><tag k="addr:postcode" v="97023"/><tag k="addr:city" v="Estacada"/><tag k="addr:street" v="Southeast Coupland Road"/></node>
-<node id="-3" lat="45.29747872" lon="-122.302830308" visible="true"><tag k="addr:housenumber" v="31250"/><tag k="addr:postcode" v="97023"/><tag k="addr:city" v="Estacada"/><tag k="addr:street" v="Southeast Currin Road"/></node>
-<node id="-4" lat="45.297480821" lon="-122.302827637" visible="true"><tag k="addr:housenumber" v="31285"/><tag k="addr:postcode" v="97023"/><tag k="addr:city" v="Estacada"/><tag k="addr:street" v="Southeast Currin Road"/></node>
-</osm>
