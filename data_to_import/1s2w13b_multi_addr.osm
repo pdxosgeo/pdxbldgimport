@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.487541437" lon="-122.879137916" visible="true"><tag k="addr:housenumber" v="4437"/><tag k="addr:postcode" v="97078"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest 196th Avenue"/></node>
-<node id="-2" lat="45.48754817" lon="-122.879136219" visible="true"><tag k="addr:housenumber" v="4439"/><tag k="addr:postcode" v="97078"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest 196th Avenue"/></node>
-<node id="-3" lat="45.487048147" lon="-122.883235951" visible="true"><tag k="addr:housenumber" v="20017"/><tag k="addr:postcode" v="97078"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Southview Street"/></node>
-<node id="-4" lat="45.487056662" lon="-122.883227486" visible="true"><tag k="addr:housenumber" v="20019"/><tag k="addr:postcode" v="97078"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Southview Street"/></node>
-<node id="-5" lat="45.487070009" lon="-122.883559659" visible="true"><tag k="addr:housenumber" v="20041"/><tag k="addr:postcode" v="97078"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Southview Street"/></node>
-<node id="-6" lat="45.487073374" lon="-122.883559387" visible="true"><tag k="addr:housenumber" v="20043"/><tag k="addr:postcode" v="97078"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Southview Street"/></node>
+<node id="-1" lat="45.487541263" lon="-122.879132913" visible="true"><tag k="addr:housenumber" v="4437"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest 196th Avenue"/></node>
+<node id="-2" lat="45.487542417" lon="-122.879132101" visible="true"><tag k="addr:housenumber" v="4439"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest 196th Avenue"/></node>
+<node id="-3" lat="45.487054655" lon="-122.883235519" visible="true"><tag k="addr:housenumber" v="20017"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Southview Street"/></node>
+<node id="-4" lat="45.487056437" lon="-122.883234194" visible="true"><tag k="addr:housenumber" v="20019"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Southview Street"/></node>
+<node id="-5" lat="45.48707168" lon="-122.883560487" visible="true"><tag k="addr:housenumber" v="20041"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Southview Street"/></node>
+<node id="-6" lat="45.487073447" lon="-122.883561405" visible="true"><tag k="addr:housenumber" v="20043"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Southview Street"/></node>
 </osm>

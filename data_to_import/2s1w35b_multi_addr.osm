@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.355707863" lon="-122.775752047" visible="true"><tag k="addr:housenumber" v="22680"/><tag k="addr:postcode" v="97062"/><tag k="addr:city" v="Tualatin"/><tag k="addr:street" v="Southwest 96th Drive"/></node>
-<node id="-2" lat="45.356521277" lon="-122.777656661" visible="true"><tag k="addr:housenumber" v="22540"/><tag k="addr:postcode" v="97062"/><tag k="addr:city" v="Tualatin"/><tag k="addr:street" v="Southwest Chilkat Terrace"/></node>
-<node id="-3" lat="45.356517059" lon="-122.777653213" visible="true"><tag k="addr:housenumber" v="10377"/><tag k="addr:postcode" v="97062"/><tag k="addr:city" v="Tualatin"/><tag k="addr:street" v="Southwest Helenius Street"/></node>
-<node id="-4" lat="45.355711219" lon="-122.775753565" visible="true"><tag k="addr:housenumber" v="9587"/><tag k="addr:postcode" v="97062"/><tag k="addr:city" v="Tualatin"/><tag k="addr:street" v="Southwest Iowa Drive"/></node>
+<node id="-1" lat="45.355707053" lon="-122.775753337" visible="true"><tag k="addr:housenumber" v="22680"/><tag k="addr:postcode" v="97062"/><tag k="addr:city" v="Tualatin"/><tag k="addr:street" v="Southwest 96th Drive"/></node>
+<node id="-2" lat="45.355711138" lon="-122.775753902" visible="true"><tag k="addr:housenumber" v="9587"/><tag k="addr:postcode" v="97062"/><tag k="addr:city" v="Tualatin"/><tag k="addr:street" v="Southwest Iowa Drive"/></node>
+<node id="-3" lat="45.367413186" lon="-122.77522495" visible="true"><tag k="addr:housenumber" v="9545"/><tag k="addr:postcode" v="97062"/><tag k="addr:city" v="Tualatin"/><tag k="addr:street" v="Southwest Killarney Lane"/></node>
+<node id="-4" lat="45.367413064" lon="-122.775230036" visible="true"><tag k="addr:housenumber" v="9575"/><tag k="addr:postcode" v="97062"/><tag k="addr:city" v="Tualatin"/><tag k="addr:street" v="Southwest Killarney Lane"/></node>
 </osm>

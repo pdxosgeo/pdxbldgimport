@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.443840343" lon="-122.800625196" visible="true"><tag k="addr:housenumber" v="12100"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Scholls Ferry Road"/></node>
-<node id="-2" lat="45.443674209" lon="-122.800608201" visible="true"><tag k="addr:housenumber" v="12120"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Scholls Ferry Road"/></node>
-<node id="-3" lat="45.443590356" lon="-122.800599526" visible="true"><tag k="addr:housenumber" v="12122"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Scholls Ferry Road"/></node>
+<node id="-1" lat="45.443835178" lon="-122.800622657" visible="true"><tag k="addr:housenumber" v="12100"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Scholls Ferry Road"/></node>
+<node id="-2" lat="45.44367489" lon="-122.800612214" visible="true"><tag k="addr:housenumber" v="12120"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Scholls Ferry Road"/></node>
+<node id="-3" lat="45.443593834" lon="-122.800595817" visible="true"><tag k="addr:housenumber" v="12122"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Scholls Ferry Road"/></node>
 </osm>

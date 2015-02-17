@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.368840904" lon="-122.350718762" visible="true"><tag k="addr:housenumber" v="21391"/><tag k="addr:postcode" v="97022"/><tag k="addr:city" v="Eagle Creek"/><tag k="addr:street" v="Southeast Coop Road"/></node>
-<node id="-2" lat="45.368836066" lon="-122.350721671" visible="true"><tag k="addr:housenumber" v="21451"/><tag k="addr:postcode" v="97022"/><tag k="addr:city" v="Eagle Creek"/><tag k="addr:street" v="Southeast Coop Road"/></node>
-<node id="-3" lat="45.349489704" lon="-122.348482686" visible="true"><tag k="addr:housenumber" v="24040"/><tag k="addr:postcode" v="97022"/><tag k="addr:city" v="Eagle Creek"/><tag k="addr:street" v="Southeast Eagle Creek Road"/></node>
-<node id="-4" lat="45.349344723" lon="-122.348408033" visible="true"><tag k="addr:housenumber" v="24044"/><tag k="addr:postcode" v="97022"/><tag k="addr:city" v="Eagle Creek"/><tag k="addr:street" v="Southeast Eagle Creek Road"/></node>
+<node id="-1" lat="45.368838217" lon="-122.350721675" visible="true"><tag k="addr:housenumber" v="21391"/><tag k="addr:postcode" v="97022"/><tag k="addr:city" v="Eagle Creek"/><tag k="addr:street" v="Southeast Coop Road"/></node>
+<node id="-2" lat="45.368838998" lon="-122.350714088" visible="true"><tag k="addr:housenumber" v="21451"/><tag k="addr:postcode" v="97022"/><tag k="addr:city" v="Eagle Creek"/><tag k="addr:street" v="Southeast Coop Road"/></node>
+<node id="-3" lat="45.349487831" lon="-122.348477506" visible="true"><tag k="addr:housenumber" v="24040"/><tag k="addr:postcode" v="97022"/><tag k="addr:city" v="Eagle Creek"/><tag k="addr:street" v="Southeast Eagle Creek Road"/></node>
+<node id="-4" lat="45.349342045" lon="-122.348403696" visible="true"><tag k="addr:housenumber" v="24044"/><tag k="addr:postcode" v="97022"/><tag k="addr:city" v="Eagle Creek"/><tag k="addr:street" v="Southeast Eagle Creek Road"/></node>
 </osm>

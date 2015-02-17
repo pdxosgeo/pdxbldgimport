@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.450787111" lon="-122.580508531" visible="true"><tag k="addr:housenumber" v="9993"/><tag k="addr:postcode" v="97086"/><tag k="addr:city" v="Happy Valley"/><tag k="addr:street" v="Southeast 82nd Avenue"/></node>
-<node id="-2" lat="45.450785713" lon="-122.580508834" visible="true"><tag k="addr:housenumber" v="9995"/><tag k="addr:postcode" v="97086"/><tag k="addr:city" v="Happy Valley"/><tag k="addr:street" v="Southeast 82nd Avenue"/></node>
-<node id="-3" lat="45.450783125" lon="-122.580500243" visible="true"><tag k="addr:housenumber" v="9997"/><tag k="addr:postcode" v="97086"/><tag k="addr:city" v="Happy Valley"/><tag k="addr:street" v="Southeast 82nd Avenue"/></node>
-<node id="-4" lat="45.450785149" lon="-122.580501614" visible="true"><tag k="addr:housenumber" v="9999"/><tag k="addr:postcode" v="97086"/><tag k="addr:city" v="Happy Valley"/><tag k="addr:street" v="Southeast 82nd Avenue"/></node>
+<node id="-1" lat="45.45078593" lon="-122.580505347" visible="true"><tag k="addr:housenumber" v="9993"/><tag k="addr:postcode" v="97086"/><tag k="addr:city" v="Happy Valley"/><tag k="addr:street" v="Southeast 82nd Avenue"/></node>
+<node id="-2" lat="45.450784054" lon="-122.580502568" visible="true"><tag k="addr:housenumber" v="9995"/><tag k="addr:postcode" v="97086"/><tag k="addr:city" v="Happy Valley"/><tag k="addr:street" v="Southeast 82nd Avenue"/></node>
+<node id="-3" lat="45.450780114" lon="-122.580502276" visible="true"><tag k="addr:housenumber" v="9997"/><tag k="addr:postcode" v="97086"/><tag k="addr:city" v="Happy Valley"/><tag k="addr:street" v="Southeast 82nd Avenue"/></node>
+<node id="-4" lat="45.45078794" lon="-122.580503455" visible="true"><tag k="addr:housenumber" v="9999"/><tag k="addr:postcode" v="97086"/><tag k="addr:city" v="Happy Valley"/><tag k="addr:street" v="Southeast 82nd Avenue"/></node>
 </osm>

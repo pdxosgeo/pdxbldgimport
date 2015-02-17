@@ -1,9 +1,17 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.43162615" lon="-122.604220513" visible="true"><tag k="addr:housenumber" v="5771"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast International Way"/></node>
-<node id="-2" lat="45.431627904" lon="-122.604222147" visible="true"><tag k="addr:housenumber" v="5773"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast International Way"/></node>
-<node id="-3" lat="45.431620448" lon="-122.604226984" visible="true"><tag k="addr:housenumber" v="5775"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast International Way"/></node>
-<node id="-4" lat="45.431620429" lon="-122.604224277" visible="true"><tag k="addr:housenumber" v="5777"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast International Way"/></node>
-<node id="-5" lat="45.436471181" lon="-122.602452529" visible="true"><tag k="addr:housenumber" v="11900"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Stanley Avenue"/></node>
-<node id="-6" lat="45.436376943" lon="-122.602450394" visible="true"><tag k="addr:housenumber" v="11958"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Stanley Avenue"/></node>
+<node id="-1" lat="45.431628785" lon="-122.604227047" visible="true"><tag k="addr:housenumber" v="5771"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast International Way"/></node>
+<node id="-2" lat="45.431624232" lon="-122.60422517" visible="true"><tag k="addr:housenumber" v="5773"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast International Way"/></node>
+<node id="-3" lat="45.431627875" lon="-122.604222037" visible="true"><tag k="addr:housenumber" v="5775"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast International Way"/></node>
+<node id="-4" lat="45.431627491" lon="-122.604227536" visible="true"><tag k="addr:housenumber" v="5777"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast International Way"/></node>
+<node id="-5" lat="45.436472365" lon="-122.602448403" visible="true"><tag k="addr:housenumber" v="11900"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Stanley Avenue"/></node>
+<node id="-6" lat="45.43637583" lon="-122.60245125" visible="true"><tag k="addr:housenumber" v="11958"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Stanley Avenue"/></node>
+<node id="-7" lat="45.429653882" lon="-122.602426951" visible="true"><tag k="addr:housenumber" v="5892"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Weiko Way"/></node>
+<node id="-8" lat="45.429658582" lon="-122.602384889" visible="true"><tag k="addr:housenumber" v="5894"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Weiko Way"/></node>
+<node id="-9" lat="45.429697082" lon="-122.602199645" visible="true"><tag k="addr:housenumber" v="5916"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Weiko Way"/></node>
+<node id="-10" lat="45.429701225" lon="-122.602167799" visible="true"><tag k="addr:housenumber" v="5918"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Weiko Way"/></node>
+<node id="-11" lat="45.429711971" lon="-122.601988731" visible="true"><tag k="addr:housenumber" v="5944"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Weiko Way"/></node>
+<node id="-12" lat="45.429711072" lon="-122.601957295" visible="true"><tag k="addr:housenumber" v="5946"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Weiko Way"/></node>
+<node id="-13" lat="45.429668955" lon="-122.601770355" visible="true"><tag k="addr:housenumber" v="5980"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Weiko Way"/></node>
+<node id="-14" lat="45.429604947" lon="-122.601768877" visible="true"><tag k="addr:housenumber" v="5982"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Weiko Way"/></node>
 </osm>

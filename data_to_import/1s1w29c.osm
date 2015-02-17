@@ -5374,50 +5374,50 @@
 <node id="-5906" lat="45.447915642" lon="-122.83785223" visible="true"/>
 <node id="-5907" lat="45.447914572" lon="-122.837694309" visible="true"/>
 <node id="-5908" lat="45.447856959" lon="-122.837693889" visible="true"/>
-<node id="-5910" lat="45.453118115" lon="-122.83673678" visible="true"/>
-<node id="-5911" lat="45.453119867" lon="-122.836760243" visible="true"/>
-<node id="-5912" lat="45.453137595" lon="-122.836757073" visible="true"/>
-<node id="-5913" lat="45.453135672" lon="-122.836733603" visible="true"/>
-<node id="-5915" lat="45.453476089" lon="-122.837188135" visible="true"/>
-<node id="-5916" lat="45.453409789" lon="-122.837193207" visible="true"/>
-<node id="-5917" lat="45.453410552" lon="-122.83721468" visible="true"/>
-<node id="-5918" lat="45.453375004" lon="-122.837217117" visible="true"/>
-<node id="-5919" lat="45.45337657" lon="-122.837258116" visible="true"/>
-<node id="-5920" lat="45.453478246" lon="-122.837250601" visible="true"/>
-<node id="-5922" lat="45.452414739" lon="-122.840107363" visible="true"/>
-<node id="-5923" lat="45.452393149" lon="-122.840106474" visible="true"/>
-<node id="-5924" lat="45.452393507" lon="-122.840088946" visible="true"/>
-<node id="-5925" lat="45.452360779" lon="-122.840087599" visible="true"/>
-<node id="-5926" lat="45.452359056" lon="-122.840188889" visible="true"/>
-<node id="-5927" lat="45.452413374" lon="-122.840191125" visible="true"/>
-<node id="-5929" lat="45.452346957" lon="-122.840336534" visible="true"/>
-<node id="-5930" lat="45.452346242" lon="-122.840371591" visible="true"/>
-<node id="-5931" lat="45.452371772" lon="-122.840372642" visible="true"/>
-<node id="-5932" lat="45.452372487" lon="-122.840337585" visible="true"/>
-<node id="-5934" lat="45.45135394" lon="-122.840424301" visible="true"/>
-<node id="-5935" lat="45.451353792" lon="-122.840465229" visible="true"/>
-<node id="-5936" lat="45.451377438" lon="-122.840466202" visible="true"/>
-<node id="-5937" lat="45.451377587" lon="-122.840425275" visible="true"/>
-<node id="-5939" lat="45.452193172" lon="-122.846372675" visible="true"/>
-<node id="-5940" lat="45.452248833" lon="-122.846361875" visible="true"/>
-<node id="-5941" lat="45.452244943" lon="-122.846321399" visible="true"/>
-<node id="-5942" lat="45.452298058" lon="-122.846311094" visible="true"/>
-<node id="-5943" lat="45.452288924" lon="-122.846216062" visible="true"/>
-<node id="-5944" lat="45.452180147" lon="-122.846237167" visible="true"/>
-<node id="-5946" lat="45.447913739" lon="-122.844870861" visible="true"/>
-<node id="-5947" lat="45.44790893" lon="-122.844862866" visible="true"/>
-<node id="-5948" lat="45.447910157" lon="-122.844853172" visible="true"/>
-<node id="-5949" lat="45.447881159" lon="-122.844853925" visible="true"/>
-<node id="-5950" lat="45.447882924" lon="-122.844859845" visible="true"/>
-<node id="-5951" lat="45.447876042" lon="-122.844869306" visible="true"/>
-<node id="-5952" lat="45.447870811" lon="-122.844865192" visible="true"/>
-<node id="-5953" lat="45.447869525" lon="-122.844919714" visible="true"/>
-<node id="-5954" lat="45.447919467" lon="-122.844917876" visible="true"/>
-<node id="-5955" lat="45.44792033" lon="-122.844867235" visible="true"/>
-<node id="-5957" lat="45.448324408" lon="-122.843077071" visible="true"/>
-<node id="-5958" lat="45.448342726" lon="-122.843095368" visible="true"/>
-<node id="-5959" lat="45.448363267" lon="-122.843055283" visible="true"/>
-<node id="-5960" lat="45.448345119" lon="-122.843036993" visible="true"/>
+<node id="-5910" lat="45.449658156" lon="-122.840494828" visible="true"/>
+<node id="-5911" lat="45.449648861" lon="-122.840521733" visible="true"/>
+<node id="-5912" lat="45.449656398" lon="-122.840547383" visible="true"/>
+<node id="-5913" lat="45.449675179" lon="-122.840559851" visible="true"/>
+<node id="-5914" lat="45.449693158" lon="-122.840552794" visible="true"/>
+<node id="-5915" lat="45.449701979" lon="-122.84052392" visible="true"/>
+<node id="-5916" lat="45.44969547" lon="-122.840498313" visible="true"/>
+<node id="-5917" lat="45.449676346" lon="-122.840485831" visible="true"/>
+<node id="-5919" lat="45.447768523" lon="-122.840417035" visible="true"/>
+<node id="-5920" lat="45.447807417" lon="-122.840443974" visible="true"/>
+<node id="-5921" lat="45.447830278" lon="-122.840382544" visible="true"/>
+<node id="-5922" lat="45.447791423" lon="-122.840353657" visible="true"/>
+<node id="-5924" lat="45.449368515" lon="-122.837229775" visible="true"/>
+<node id="-5925" lat="45.449268025" lon="-122.837229542" visible="true"/>
+<node id="-5926" lat="45.449268228" lon="-122.837354295" visible="true"/>
+<node id="-5927" lat="45.449368718" lon="-122.837354529" visible="true"/>
+<node id="-5929" lat="45.451162289" lon="-122.839898415" visible="true"/>
+<node id="-5930" lat="45.451138474" lon="-122.839898482" visible="true"/>
+<node id="-5931" lat="45.451138545" lon="-122.839949236" visible="true"/>
+<node id="-5932" lat="45.451162361" lon="-122.839949169" visible="true"/>
+<node id="-5934" lat="45.450092508" lon="-122.840690085" visible="true"/>
+<node id="-5935" lat="45.450092083" lon="-122.840719305" visible="true"/>
+<node id="-5936" lat="45.450112302" lon="-122.840720138" visible="true"/>
+<node id="-5937" lat="45.450112727" lon="-122.840690917" visible="true"/>
+<node id="-5939" lat="45.450137518" lon="-122.840655995" visible="true"/>
+<node id="-5940" lat="45.450165387" lon="-122.840657142" visible="true"/>
+<node id="-5941" lat="45.450166165" lon="-122.840619014" visible="true"/>
+<node id="-5942" lat="45.450138296" lon="-122.840617867" visible="true"/>
+<node id="-5944" lat="45.452193172" lon="-122.846372675" visible="true"/>
+<node id="-5945" lat="45.452248833" lon="-122.846361875" visible="true"/>
+<node id="-5946" lat="45.452244943" lon="-122.846321399" visible="true"/>
+<node id="-5947" lat="45.452298058" lon="-122.846311094" visible="true"/>
+<node id="-5948" lat="45.452288924" lon="-122.846216062" visible="true"/>
+<node id="-5949" lat="45.452180147" lon="-122.846237167" visible="true"/>
+<node id="-5951" lat="45.447913739" lon="-122.844870861" visible="true"/>
+<node id="-5952" lat="45.44790893" lon="-122.844862866" visible="true"/>
+<node id="-5953" lat="45.447910157" lon="-122.844853172" visible="true"/>
+<node id="-5954" lat="45.447881159" lon="-122.844853925" visible="true"/>
+<node id="-5955" lat="45.447882924" lon="-122.844859845" visible="true"/>
+<node id="-5956" lat="45.447876042" lon="-122.844869306" visible="true"/>
+<node id="-5957" lat="45.447870811" lon="-122.844865192" visible="true"/>
+<node id="-5958" lat="45.447869525" lon="-122.844919714" visible="true"/>
+<node id="-5959" lat="45.447919467" lon="-122.844917876" visible="true"/>
+<node id="-5960" lat="45.44792033" lon="-122.844867235" visible="true"/>
 <node id="-5962" lat="45.448504164" lon="-122.842630334" visible="true"/>
 <node id="-5963" lat="45.448504728" lon="-122.842661543" visible="true"/>
 <node id="-5964" lat="45.4485255" lon="-122.84266045" visible="true"/>
@@ -5444,49 +5444,49 @@
 <node id="-5990" lat="45.450902913" lon="-122.841861787" visible="true"/>
 <node id="-5991" lat="45.450910797" lon="-122.841836772" visible="true"/>
 <node id="-5992" lat="45.450894033" lon="-122.841826336" visible="true"/>
-<node id="-5994" lat="45.449641336" lon="-122.838826061" visible="true"/>
-<node id="-5995" lat="45.44961752" lon="-122.83882613" visible="true"/>
-<node id="-5996" lat="45.449617587" lon="-122.8388735" visible="true"/>
-<node id="-5997" lat="45.449641403" lon="-122.838873432" visible="true"/>
-<node id="-5999" lat="45.449658156" lon="-122.840494828" visible="true"/>
-<node id="-6000" lat="45.449648861" lon="-122.840521733" visible="true"/>
-<node id="-6001" lat="45.449656398" lon="-122.840547383" visible="true"/>
-<node id="-6002" lat="45.449675179" lon="-122.840559851" visible="true"/>
-<node id="-6003" lat="45.449693158" lon="-122.840552794" visible="true"/>
-<node id="-6004" lat="45.449701979" lon="-122.84052392" visible="true"/>
-<node id="-6005" lat="45.44969547" lon="-122.840498313" visible="true"/>
-<node id="-6006" lat="45.449676346" lon="-122.840485831" visible="true"/>
-<node id="-6008" lat="45.447768523" lon="-122.840417035" visible="true"/>
-<node id="-6009" lat="45.447807417" lon="-122.840443974" visible="true"/>
-<node id="-6010" lat="45.447830278" lon="-122.840382544" visible="true"/>
-<node id="-6011" lat="45.447791423" lon="-122.840353657" visible="true"/>
-<node id="-6013" lat="45.451162289" lon="-122.839898415" visible="true"/>
-<node id="-6014" lat="45.451138474" lon="-122.839898482" visible="true"/>
-<node id="-6015" lat="45.451138545" lon="-122.839949236" visible="true"/>
-<node id="-6016" lat="45.451162361" lon="-122.839949169" visible="true"/>
-<node id="-6018" lat="45.450137518" lon="-122.840655995" visible="true"/>
-<node id="-6019" lat="45.450165387" lon="-122.840657142" visible="true"/>
-<node id="-6020" lat="45.450166165" lon="-122.840619014" visible="true"/>
-<node id="-6021" lat="45.450138296" lon="-122.840617867" visible="true"/>
-<node id="-6023" lat="45.448085326" lon="-122.846614531" visible="true"/>
-<node id="-6024" lat="45.448115682" lon="-122.846615784" visible="true"/>
-<node id="-6025" lat="45.44811627" lon="-122.846587032" visible="true"/>
-<node id="-6026" lat="45.448085913" lon="-122.846585779" visible="true"/>
-<node id="-6028" lat="45.450092508" lon="-122.840690085" visible="true"/>
-<node id="-6029" lat="45.450092083" lon="-122.840719305" visible="true"/>
-<node id="-6030" lat="45.450112302" lon="-122.840720138" visible="true"/>
-<node id="-6031" lat="45.450112727" lon="-122.840690917" visible="true"/>
-<node id="-6033" lat="45.449368515" lon="-122.837229775" visible="true"/>
-<node id="-6034" lat="45.449268025" lon="-122.837229542" visible="true"/>
-<node id="-6035" lat="45.449268228" lon="-122.837354295" visible="true"/>
-<node id="-6036" lat="45.449368718" lon="-122.837354529" visible="true"/>
-<node id="-6038" lat="45.448233669" lon="-122.840411518" visible="true"/>
-<node id="-6039" lat="45.448214677" lon="-122.840455556" visible="true"/>
-<node id="-6040" lat="45.448232841" lon="-122.840471366" visible="true"/>
-<node id="-6041" lat="45.448251833" lon="-122.840427326" visible="true"/>
+<node id="-5994" lat="45.453476089" lon="-122.837188135" visible="true"/>
+<node id="-5995" lat="45.453409789" lon="-122.837193207" visible="true"/>
+<node id="-5996" lat="45.453410552" lon="-122.83721468" visible="true"/>
+<node id="-5997" lat="45.453375004" lon="-122.837217117" visible="true"/>
+<node id="-5998" lat="45.45337657" lon="-122.837258116" visible="true"/>
+<node id="-5999" lat="45.453478246" lon="-122.837250601" visible="true"/>
+<node id="-6001" lat="45.453118115" lon="-122.83673678" visible="true"/>
+<node id="-6002" lat="45.453119867" lon="-122.836760243" visible="true"/>
+<node id="-6003" lat="45.453137595" lon="-122.836757073" visible="true"/>
+<node id="-6004" lat="45.453135672" lon="-122.836733603" visible="true"/>
+<node id="-6006" lat="45.448324408" lon="-122.843077071" visible="true"/>
+<node id="-6007" lat="45.448342726" lon="-122.843095368" visible="true"/>
+<node id="-6008" lat="45.448363267" lon="-122.843055283" visible="true"/>
+<node id="-6009" lat="45.448345119" lon="-122.843036993" visible="true"/>
+<node id="-6011" lat="45.448085326" lon="-122.846614531" visible="true"/>
+<node id="-6012" lat="45.448115682" lon="-122.846615784" visible="true"/>
+<node id="-6013" lat="45.44811627" lon="-122.846587032" visible="true"/>
+<node id="-6014" lat="45.448085913" lon="-122.846585779" visible="true"/>
+<node id="-6016" lat="45.452414739" lon="-122.840107363" visible="true"/>
+<node id="-6017" lat="45.452393149" lon="-122.840106474" visible="true"/>
+<node id="-6018" lat="45.452393507" lon="-122.840088946" visible="true"/>
+<node id="-6019" lat="45.452360779" lon="-122.840087599" visible="true"/>
+<node id="-6020" lat="45.452359056" lon="-122.840188889" visible="true"/>
+<node id="-6021" lat="45.452413374" lon="-122.840191125" visible="true"/>
+<node id="-6023" lat="45.452346957" lon="-122.840336534" visible="true"/>
+<node id="-6024" lat="45.452346242" lon="-122.840371591" visible="true"/>
+<node id="-6025" lat="45.452371772" lon="-122.840372642" visible="true"/>
+<node id="-6026" lat="45.452372487" lon="-122.840337585" visible="true"/>
+<node id="-6028" lat="45.45135394" lon="-122.840424301" visible="true"/>
+<node id="-6029" lat="45.451353792" lon="-122.840465229" visible="true"/>
+<node id="-6030" lat="45.451377438" lon="-122.840466202" visible="true"/>
+<node id="-6031" lat="45.451377587" lon="-122.840425275" visible="true"/>
+<node id="-6033" lat="45.448233669" lon="-122.840411518" visible="true"/>
+<node id="-6034" lat="45.448214677" lon="-122.840455556" visible="true"/>
+<node id="-6035" lat="45.448232841" lon="-122.840471366" visible="true"/>
+<node id="-6036" lat="45.448251833" lon="-122.840427326" visible="true"/>
+<node id="-6038" lat="45.449641336" lon="-122.838826061" visible="true"/>
+<node id="-6039" lat="45.44961752" lon="-122.83882613" visible="true"/>
+<node id="-6040" lat="45.449617587" lon="-122.8388735" visible="true"/>
+<node id="-6041" lat="45.449641403" lon="-122.838873432" visible="true"/>
 <way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-2"/><tag k="addr:housenumber" v="9021"/><tag k="building" v="yes"/><tag k="addr:city" v="Beaverton"/><tag k="addr:postcode" v="97007"/><tag k="ele" v="93.6"/><tag k="addr:street" v="Southwest 155th Avenue"/></way>
 <way id="-6" visible="true"><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-7"/><tag k="addr:housenumber" v="9061"/><tag k="building" v="yes"/><tag k="addr:city" v="Beaverton"/><tag k="addr:postcode" v="97007"/><tag k="ele" v="95.9"/><tag k="addr:street" v="Southwest 155th Avenue"/></way>
-<way id="-11" visible="true"><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-12"/><tag k="addr:housenumber" v="9190"/><tag k="building" v="yes"/><tag k="height" v="9.3"/><tag k="addr:city" v="Beaverton"/><tag k="addr:postcode" v="97007"/><tag k="ele" v="106.2"/><tag k="addr:street" v="Southwest 156th Place"/></way>
+<way id="-11" visible="true"><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-12"/><tag k="addr:housenumber" v="9190"/><tag k="building" v="yes"/><tag k="height" v="9.3"/><tag k="addr:city" v="Tigard"/><tag k="addr:postcode" v="97007"/><tag k="ele" v="106.2"/><tag k="addr:street" v="Southwest 156th Place"/></way>
 <way id="-18" visible="true"><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-22"/><nd ref="-23"/><nd ref="-24"/><nd ref="-19"/><tag k="addr:housenumber" v="9200"/><tag k="building" v="yes"/><tag k="height" v="9.0"/><tag k="addr:city" v="Beaverton"/><tag k="addr:postcode" v="97007"/><tag k="ele" v="107.2"/><tag k="addr:street" v="Southwest 156th Place"/></way>
 <way id="-25" visible="true"><nd ref="-26"/><nd ref="-27"/><nd ref="-28"/><nd ref="-29"/><nd ref="-30"/><nd ref="-31"/><nd ref="-32"/><nd ref="-33"/><nd ref="-26"/><tag k="addr:housenumber" v="9705"/><tag k="building" v="yes"/><tag k="height" v="8.6"/><tag k="addr:city" v="Beaverton"/><tag k="addr:postcode" v="97007"/><tag k="ele" v="113.8"/><tag k="addr:street" v="Southwest 156th Place"/></way>
 <way id="-34" visible="true"><nd ref="-35"/><nd ref="-36"/><nd ref="-37"/><nd ref="-38"/><nd ref="-39"/><nd ref="-40"/><nd ref="-41"/><nd ref="-42"/><nd ref="-35"/><tag k="addr:housenumber" v="9720"/><tag k="building" v="yes"/><tag k="height" v="9.2"/><tag k="addr:city" v="Beaverton"/><tag k="addr:postcode" v="97007"/><tag k="ele" v="108.8"/><tag k="addr:street" v="Southwest 156th Place"/></way>
@@ -5502,7 +5502,7 @@
 <way id="-139" visible="true"><nd ref="-140"/><nd ref="-141"/><nd ref="-142"/><nd ref="-143"/><nd ref="-140"/><tag k="addr:housenumber" v="9090"/><tag k="addr:postcode" v="97007"/><tag k="building" v="yes"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest 157th Avenue"/></way>
 <way id="-144" visible="true"><nd ref="-145"/><nd ref="-146"/><nd ref="-147"/><nd ref="-148"/><nd ref="-145"/><tag k="addr:housenumber" v="9100"/><tag k="addr:postcode" v="97007"/><tag k="building" v="yes"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest 157th Avenue"/></way>
 <way id="-149" visible="true"><nd ref="-150"/><nd ref="-151"/><nd ref="-152"/><nd ref="-153"/><nd ref="-150"/><tag k="addr:housenumber" v="9105"/><tag k="addr:postcode" v="97007"/><tag k="building" v="yes"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest 157th Avenue"/></way>
-<way id="-154" visible="true"><nd ref="-155"/><nd ref="-156"/><nd ref="-157"/><nd ref="-158"/><nd ref="-155"/><tag k="addr:housenumber" v="9115"/><tag k="addr:postcode" v="97007"/><tag k="building" v="yes"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest 157th Avenue"/></way>
+<way id="-154" visible="true"><nd ref="-155"/><nd ref="-156"/><nd ref="-157"/><nd ref="-158"/><nd ref="-155"/><tag k="addr:housenumber" v="9115"/><tag k="addr:postcode" v="97007"/><tag k="building" v="yes"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest 157th Avenue"/></way>
 <way id="-159" visible="true"><nd ref="-160"/><nd ref="-161"/><nd ref="-162"/><nd ref="-163"/><nd ref="-160"/><tag k="addr:housenumber" v="9125"/><tag k="addr:postcode" v="97007"/><tag k="building" v="yes"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest 157th Avenue"/></way>
 <way id="-164" visible="true"><nd ref="-165"/><nd ref="-166"/><nd ref="-167"/><nd ref="-168"/><nd ref="-169"/><nd ref="-170"/><nd ref="-165"/><tag k="addr:housenumber" v="9210"/><tag k="building" v="yes"/><tag k="height" v="8.5"/><tag k="addr:city" v="Beaverton"/><tag k="addr:postcode" v="97007"/><tag k="ele" v="110.6"/><tag k="addr:street" v="Southwest 158th Avenue"/></way>
 <way id="-171" visible="true"><nd ref="-172"/><nd ref="-173"/><nd ref="-174"/><nd ref="-175"/><nd ref="-176"/><nd ref="-177"/><nd ref="-178"/><nd ref="-179"/><nd ref="-180"/><nd ref="-181"/><nd ref="-172"/><tag k="addr:housenumber" v="9530"/><tag k="building" v="yes"/><tag k="height" v="8.6"/><tag k="addr:city" v="Beaverton"/><tag k="addr:postcode" v="97007"/><tag k="ele" v="128.9"/><tag k="addr:street" v="Southwest 158th Avenue"/></way>
@@ -5582,7 +5582,7 @@
 <way id="-1150" visible="true"><nd ref="-1151"/><nd ref="-1152"/><nd ref="-1153"/><nd ref="-1154"/><nd ref="-1155"/><nd ref="-1156"/><nd ref="-1151"/><tag k="addr:housenumber" v="9140"/><tag k="building" v="yes"/><tag k="height" v="12.4"/><tag k="addr:city" v="Beaverton"/><tag k="addr:postcode" v="97007"/><tag k="ele" v="108.0"/><tag k="addr:street" v="Southwest 161st Avenue"/></way>
 <way id="-1157" visible="true"><nd ref="-1158"/><nd ref="-1159"/><nd ref="-1160"/><nd ref="-1161"/><nd ref="-1162"/><nd ref="-1163"/><nd ref="-1158"/><tag k="addr:housenumber" v="9160"/><tag k="building" v="yes"/><tag k="height" v="14.2"/><tag k="addr:city" v="Beaverton"/><tag k="addr:postcode" v="97007"/><tag k="ele" v="107.6"/><tag k="addr:street" v="Southwest 161st Avenue"/></way>
 <way id="-1164" visible="true"><nd ref="-1165"/><nd ref="-1166"/><nd ref="-1167"/><nd ref="-1168"/><nd ref="-1169"/><nd ref="-1170"/><nd ref="-1165"/><tag k="addr:housenumber" v="9180"/><tag k="building" v="yes"/><tag k="height" v="13.9"/><tag k="addr:city" v="Beaverton"/><tag k="addr:postcode" v="97007"/><tag k="ele" v="108.0"/><tag k="addr:street" v="Southwest 161st Avenue"/></way>
-<way id="-1171" visible="true"><nd ref="-1172"/><nd ref="-1173"/><nd ref="-1174"/><nd ref="-1175"/><nd ref="-1176"/><nd ref="-1177"/><nd ref="-1172"/><tag k="addr:housenumber" v="9200"/><tag k="building" v="yes"/><tag k="height" v="12.4"/><tag k="addr:city" v="Beaverton"/><tag k="addr:postcode" v="97007"/><tag k="ele" v="108.8"/><tag k="addr:street" v="Southwest 161st Avenue"/></way>
+<way id="-1171" visible="true"><nd ref="-1172"/><nd ref="-1173"/><nd ref="-1174"/><nd ref="-1175"/><nd ref="-1176"/><nd ref="-1177"/><nd ref="-1172"/><tag k="addr:housenumber" v="9200"/><tag k="building" v="yes"/><tag k="height" v="12.4"/><tag k="addr:city" v="Tigard"/><tag k="addr:postcode" v="97007"/><tag k="ele" v="108.8"/><tag k="addr:street" v="Southwest 161st Avenue"/></way>
 <way id="-1178" visible="true"><nd ref="-1179"/><nd ref="-1180"/><nd ref="-1181"/><nd ref="-1182"/><nd ref="-1183"/><nd ref="-1184"/><nd ref="-1179"/><tag k="addr:housenumber" v="9210"/><tag k="building" v="yes"/><tag k="height" v="12.2"/><tag k="addr:city" v="Beaverton"/><tag k="addr:postcode" v="97007"/><tag k="ele" v="109.6"/><tag k="addr:street" v="Southwest 161st Avenue"/></way>
 <way id="-1185" visible="true"><nd ref="-1186"/><nd ref="-1187"/><nd ref="-1188"/><nd ref="-1189"/><nd ref="-1190"/><nd ref="-1191"/><nd ref="-1192"/><nd ref="-1193"/><nd ref="-1194"/><nd ref="-1195"/><nd ref="-1196"/><nd ref="-1197"/><nd ref="-1198"/><nd ref="-1199"/><nd ref="-1200"/><nd ref="-1201"/><nd ref="-1186"/><tag k="addr:housenumber" v="9645"/><tag k="building" v="yes"/><tag k="height" v="9.8"/><tag k="addr:city" v="Beaverton"/><tag k="addr:postcode" v="97007"/><tag k="ele" v="146.7"/><tag k="addr:street" v="Southwest 163rd Avenue"/></way>
 <way id="-1202" visible="true"><nd ref="-1203"/><nd ref="-1204"/><nd ref="-1205"/><nd ref="-1206"/><nd ref="-1207"/><nd ref="-1208"/><nd ref="-1209"/><nd ref="-1210"/><nd ref="-1211"/><nd ref="-1212"/><nd ref="-1213"/><nd ref="-1214"/><nd ref="-1215"/><nd ref="-1216"/><nd ref="-1217"/><nd ref="-1218"/><nd ref="-1219"/><nd ref="-1220"/><nd ref="-1221"/><nd ref="-1222"/><nd ref="-1223"/><nd ref="-1203"/><tag k="addr:housenumber" v="9665"/><tag k="building" v="yes"/><tag k="height" v="10.7"/><tag k="addr:city" v="Beaverton"/><tag k="addr:postcode" v="97007"/><tag k="ele" v="147.0"/><tag k="addr:street" v="Southwest 163rd Avenue"/></way>
@@ -5745,7 +5745,7 @@
 <way id="-3151" visible="true"><nd ref="-3152"/><nd ref="-3153"/><nd ref="-3154"/><nd ref="-3155"/><nd ref="-3156"/><nd ref="-3157"/><nd ref="-3158"/><nd ref="-3159"/><nd ref="-3160"/><nd ref="-3152"/><tag k="addr:housenumber" v="16446"/><tag k="building" v="yes"/><tag k="height" v="10.3"/><tag k="addr:city" v="Beaverton"/><tag k="addr:postcode" v="97007"/><tag k="ele" v="141.1"/><tag k="addr:street" v="Southwest Cornelian Way"/></way>
 <way id="-3161" visible="true"><nd ref="-3162"/><nd ref="-3163"/><nd ref="-3164"/><nd ref="-3165"/><nd ref="-3166"/><nd ref="-3167"/><nd ref="-3168"/><nd ref="-3169"/><nd ref="-3170"/><nd ref="-3171"/><nd ref="-3162"/><tag k="addr:housenumber" v="16453"/><tag k="building" v="yes"/><tag k="height" v="10.9"/><tag k="addr:city" v="Beaverton"/><tag k="addr:postcode" v="97007"/><tag k="ele" v="141.9"/><tag k="addr:street" v="Southwest Cornelian Way"/></way>
 <way id="-3172" visible="true"><nd ref="-3173"/><nd ref="-3174"/><nd ref="-3175"/><nd ref="-3176"/><nd ref="-3177"/><nd ref="-3178"/><nd ref="-3179"/><nd ref="-3180"/><nd ref="-3173"/><tag k="addr:housenumber" v="16454"/><tag k="building" v="yes"/><tag k="height" v="11.2"/><tag k="addr:city" v="Beaverton"/><tag k="addr:postcode" v="97007"/><tag k="ele" v="138.4"/><tag k="addr:street" v="Southwest Cornelian Way"/></way>
-<way id="-3181" visible="true"><nd ref="-3182"/><nd ref="-3183"/><nd ref="-3184"/><nd ref="-3185"/><nd ref="-3186"/><nd ref="-3187"/><nd ref="-3188"/><nd ref="-3189"/><nd ref="-3190"/><nd ref="-3191"/><nd ref="-3192"/><nd ref="-3193"/><nd ref="-3182"/><tag k="addr:housenumber" v="16465"/><tag k="building" v="yes"/><tag k="height" v="10.6"/><tag k="addr:city" v="Beaverton"/><tag k="addr:postcode" v="97007"/><tag k="ele" v="139.7"/><tag k="addr:street" v="Southwest Cornelian Way"/></way>
+<way id="-3181" visible="true"><nd ref="-3182"/><nd ref="-3183"/><nd ref="-3184"/><nd ref="-3185"/><nd ref="-3186"/><nd ref="-3187"/><nd ref="-3188"/><nd ref="-3189"/><nd ref="-3190"/><nd ref="-3191"/><nd ref="-3192"/><nd ref="-3193"/><nd ref="-3182"/><tag k="addr:housenumber" v="16465"/><tag k="building" v="yes"/><tag k="height" v="10.6"/><tag k="addr:city" v="Tigard"/><tag k="addr:postcode" v="97007"/><tag k="ele" v="139.7"/><tag k="addr:street" v="Southwest Cornelian Way"/></way>
 <way id="-3194" visible="true"><nd ref="-3195"/><nd ref="-3196"/><nd ref="-3197"/><nd ref="-3198"/><nd ref="-3199"/><nd ref="-3200"/><nd ref="-3201"/><nd ref="-3202"/><nd ref="-3203"/><nd ref="-3204"/><nd ref="-3205"/><nd ref="-3206"/><nd ref="-3195"/><tag k="addr:housenumber" v="16468"/><tag k="building" v="yes"/><tag k="height" v="10.5"/><tag k="addr:city" v="Beaverton"/><tag k="addr:postcode" v="97007"/><tag k="ele" v="135.4"/><tag k="addr:street" v="Southwest Cornelian Way"/></way>
 <way id="-3207" visible="true"><nd ref="-3208"/><nd ref="-3209"/><nd ref="-3210"/><nd ref="-3211"/><nd ref="-3212"/><nd ref="-3213"/><nd ref="-3214"/><nd ref="-3215"/><nd ref="-3216"/><nd ref="-3217"/><nd ref="-3208"/><tag k="addr:housenumber" v="16469"/><tag k="building" v="yes"/><tag k="height" v="10.5"/><tag k="addr:city" v="Beaverton"/><tag k="addr:postcode" v="97007"/><tag k="ele" v="137.2"/><tag k="addr:street" v="Southwest Cornelian Way"/></way>
 <way id="-3218" visible="true"><nd ref="-3219"/><nd ref="-3220"/><nd ref="-3221"/><nd ref="-3222"/><nd ref="-3223"/><nd ref="-3224"/><nd ref="-3225"/><nd ref="-3226"/><nd ref="-3227"/><nd ref="-3228"/><nd ref="-3229"/><nd ref="-3230"/><nd ref="-3231"/><nd ref="-3232"/><nd ref="-3233"/><nd ref="-3234"/><nd ref="-3219"/><tag k="addr:housenumber" v="16472"/><tag k="building" v="yes"/><tag k="height" v="10.4"/><tag k="addr:city" v="Beaverton"/><tag k="addr:postcode" v="97007"/><tag k="ele" v="132.7"/><tag k="addr:street" v="Southwest Cornelian Way"/></way>
@@ -5867,7 +5867,7 @@
 <way id="-4346" visible="true"><nd ref="-4347"/><nd ref="-4348"/><nd ref="-4349"/><nd ref="-4350"/><nd ref="-4347"/><tag k="addr:housenumber" v="15555"/><tag k="building" v="yes"/><tag k="addr:city" v="Beaverton"/><tag k="addr:postcode" v="97007"/><tag k="ele" v="94.5"/><tag k="addr:street" v="Southwest Ivory Street"/></way>
 <way id="-4351" visible="true"><nd ref="-4352"/><nd ref="-4353"/><nd ref="-4354"/><nd ref="-4355"/><nd ref="-4352"/><tag k="addr:housenumber" v="15560"/><tag k="building" v="yes"/><tag k="addr:city" v="Beaverton"/><tag k="addr:postcode" v="97007"/><tag k="ele" v="96.6"/><tag k="addr:street" v="Southwest Ivory Street"/></way>
 <way id="-4356" visible="true"><nd ref="-4357"/><nd ref="-4358"/><nd ref="-4359"/><nd ref="-4360"/><nd ref="-4361"/><nd ref="-4362"/><nd ref="-4363"/><nd ref="-4364"/><nd ref="-4365"/><nd ref="-4366"/><nd ref="-4367"/><nd ref="-4368"/><nd ref="-4357"/><tag k="addr:housenumber" v="15575"/><tag k="building" v="yes"/><tag k="height" v="6.7"/><tag k="addr:city" v="Beaverton"/><tag k="addr:postcode" v="97007"/><tag k="ele" v="102.8"/><tag k="addr:street" v="Southwest Nora Road"/></way>
-<way id="-4369" visible="true"><nd ref="-4370"/><nd ref="-4371"/><nd ref="-4372"/><nd ref="-4373"/><nd ref="-4374"/><nd ref="-4375"/><nd ref="-4370"/><tag k="addr:housenumber" v="15655"/><tag k="building" v="yes"/><tag k="height" v="7.4"/><tag k="addr:city" v="Beaverton"/><tag k="addr:postcode" v="97007"/><tag k="ele" v="108.6"/><tag k="addr:street" v="Southwest Nora Road"/></way>
+<way id="-4369" visible="true"><nd ref="-4370"/><nd ref="-4371"/><nd ref="-4372"/><nd ref="-4373"/><nd ref="-4374"/><nd ref="-4375"/><nd ref="-4370"/><tag k="addr:housenumber" v="15655"/><tag k="building" v="yes"/><tag k="height" v="7.4"/><tag k="addr:city" v="Tigard"/><tag k="addr:postcode" v="97007"/><tag k="ele" v="108.6"/><tag k="addr:street" v="Southwest Nora Road"/></way>
 <way id="-4376" visible="true"><nd ref="-4377"/><nd ref="-4378"/><nd ref="-4379"/><nd ref="-4380"/><nd ref="-4381"/><nd ref="-4382"/><nd ref="-4383"/><nd ref="-4384"/><nd ref="-4377"/><tag k="addr:housenumber" v="15695"/><tag k="building" v="yes"/><tag k="height" v="7.3"/><tag k="addr:city" v="Beaverton"/><tag k="addr:postcode" v="97007"/><tag k="ele" v="110.4"/><tag k="addr:street" v="Southwest Nora Road"/></way>
 <way id="-4385" visible="true"><nd ref="-4386"/><nd ref="-4387"/><nd ref="-4388"/><nd ref="-4389"/><nd ref="-4386"/><tag k="addr:housenumber" v="15705"/><tag k="building" v="yes"/><tag k="height" v="5.1"/><tag k="addr:city" v="Beaverton"/><tag k="addr:postcode" v="97007"/><tag k="ele" v="110.4"/><tag k="addr:street" v="Southwest Nora Road"/></way>
 <way id="-4390" visible="true"><nd ref="-4391"/><nd ref="-4392"/><nd ref="-4393"/><nd ref="-4394"/><nd ref="-4395"/><nd ref="-4396"/><nd ref="-4397"/><nd ref="-4398"/><nd ref="-4399"/><nd ref="-4400"/><nd ref="-4401"/><nd ref="-4402"/><nd ref="-4391"/><tag k="addr:housenumber" v="15785"/><tag k="building" v="yes"/><tag k="height" v="5.2"/><tag k="addr:city" v="Beaverton"/><tag k="addr:postcode" v="97007"/><tag k="ele" v="107.7"/><tag k="addr:street" v="Southwest Nora Road"/></way>
@@ -5924,7 +5924,7 @@
 <way id="-5024" visible="true"><nd ref="-5025"/><nd ref="-5026"/><nd ref="-5027"/><nd ref="-5028"/><nd ref="-5029"/><nd ref="-5030"/><nd ref="-5031"/><nd ref="-5032"/><nd ref="-5025"/><tag k="addr:housenumber" v="15700"/><tag k="building" v="yes"/><tag k="height" v="8.4"/><tag k="addr:city" v="Beaverton"/><tag k="addr:postcode" v="97007"/><tag k="ele" v="107.3"/><tag k="addr:street" v="Southwest Redstone Drive"/></way>
 <way id="-5033" visible="true"><nd ref="-5034"/><nd ref="-5035"/><nd ref="-5036"/><nd ref="-5037"/><nd ref="-5038"/><nd ref="-5039"/><nd ref="-5034"/><tag k="addr:housenumber" v="15703"/><tag k="building" v="yes"/><tag k="height" v="8.5"/><tag k="addr:city" v="Beaverton"/><tag k="addr:postcode" v="97007"/><tag k="ele" v="105.7"/><tag k="addr:street" v="Southwest Redstone Drive"/></way>
 <way id="-5040" visible="true"><nd ref="-5041"/><nd ref="-5042"/><nd ref="-5043"/><nd ref="-5044"/><nd ref="-5045"/><nd ref="-5046"/><nd ref="-5041"/><tag k="addr:housenumber" v="15710"/><tag k="building" v="yes"/><tag k="height" v="8.4"/><tag k="addr:city" v="Beaverton"/><tag k="addr:postcode" v="97007"/><tag k="ele" v="107.3"/><tag k="addr:street" v="Southwest Redstone Drive"/></way>
-<way id="-5047" visible="true"><nd ref="-5048"/><nd ref="-5049"/><nd ref="-5050"/><nd ref="-5051"/><nd ref="-5048"/><tag k="addr:housenumber" v="15720"/><tag k="building" v="yes"/><tag k="height" v="8.2"/><tag k="addr:city" v="Beaverton"/><tag k="addr:postcode" v="97007"/><tag k="ele" v="107.4"/><tag k="addr:street" v="Southwest Redstone Drive"/></way>
+<way id="-5047" visible="true"><nd ref="-5048"/><nd ref="-5049"/><nd ref="-5050"/><nd ref="-5051"/><nd ref="-5048"/><tag k="addr:housenumber" v="15720"/><tag k="building" v="yes"/><tag k="height" v="8.2"/><tag k="addr:city" v="Tigard"/><tag k="addr:postcode" v="97007"/><tag k="ele" v="107.4"/><tag k="addr:street" v="Southwest Redstone Drive"/></way>
 <way id="-5052" visible="true"><nd ref="-5053"/><nd ref="-5054"/><nd ref="-5055"/><nd ref="-5056"/><nd ref="-5057"/><nd ref="-5058"/><nd ref="-5053"/><tag k="addr:housenumber" v="15727"/><tag k="building" v="yes"/><tag k="height" v="9.1"/><tag k="addr:city" v="Beaverton"/><tag k="addr:postcode" v="97007"/><tag k="ele" v="105.3"/><tag k="addr:street" v="Southwest Redstone Drive"/></way>
 <way id="-5059" visible="true"><nd ref="-5060"/><nd ref="-5061"/><nd ref="-5062"/><nd ref="-5063"/><nd ref="-5064"/><nd ref="-5065"/><nd ref="-5066"/><nd ref="-5067"/><nd ref="-5068"/><nd ref="-5069"/><nd ref="-5060"/><tag k="addr:housenumber" v="15740"/><tag k="building" v="yes"/><tag k="height" v="8.1"/><tag k="addr:city" v="Beaverton"/><tag k="addr:postcode" v="97007"/><tag k="ele" v="107.3"/><tag k="addr:street" v="Southwest Redstone Drive"/></way>
 <way id="-5070" visible="true"><nd ref="-5071"/><nd ref="-5072"/><nd ref="-5073"/><nd ref="-5074"/><nd ref="-5075"/><nd ref="-5076"/><nd ref="-5077"/><nd ref="-5078"/><nd ref="-5079"/><nd ref="-5080"/><nd ref="-5071"/><tag k="addr:housenumber" v="15805"/><tag k="building" v="yes"/><tag k="height" v="8.6"/><tag k="addr:city" v="Beaverton"/><tag k="addr:postcode" v="97007"/><tag k="ele" v="104.7"/><tag k="addr:street" v="Southwest Redstone Drive"/></way>
@@ -6018,27 +6018,27 @@
 <way id="-5876" visible="true"><nd ref="-5877"/><nd ref="-5878"/><nd ref="-5879"/><nd ref="-5880"/><nd ref="-5881"/><nd ref="-5882"/><nd ref="-5883"/><nd ref="-5884"/><nd ref="-5885"/><nd ref="-5886"/><nd ref="-5887"/><nd ref="-5888"/><nd ref="-5877"/><tag k="addr:housenumber" v="15664"/><tag k="building" v="yes"/><tag k="height" v="11.5"/><tag k="addr:city" v="Beaverton"/><tag k="addr:postcode" v="97007"/><tag k="ele" v="99.5"/><tag k="addr:street" v="Southwest Talus Way"/></way>
 <way id="-5889" visible="true"><nd ref="-5890"/><nd ref="-5891"/><nd ref="-5892"/><nd ref="-5893"/><nd ref="-5894"/><nd ref="-5895"/><nd ref="-5896"/><nd ref="-5897"/><nd ref="-5890"/><tag k="addr:housenumber" v="15678"/><tag k="building" v="yes"/><tag k="height" v="12.3"/><tag k="addr:city" v="Beaverton"/><tag k="addr:postcode" v="97007"/><tag k="ele" v="100.3"/><tag k="addr:street" v="Southwest Talus Way"/></way>
 <way id="-5898" visible="true"><nd ref="-5899"/><nd ref="-5900"/><nd ref="-5901"/><nd ref="-5902"/><nd ref="-5903"/><nd ref="-5904"/><nd ref="-5905"/><nd ref="-5906"/><nd ref="-5907"/><nd ref="-5908"/><nd ref="-5899"/><tag k="addr:housenumber" v="15682"/><tag k="building" v="yes"/><tag k="height" v="12.1"/><tag k="addr:city" v="Beaverton"/><tag k="addr:postcode" v="97007"/><tag k="ele" v="101.0"/><tag k="addr:street" v="Southwest Talus Way"/></way>
-<way id="-5909" visible="true"><nd ref="-5910"/><nd ref="-5911"/><nd ref="-5912"/><nd ref="-5913"/><nd ref="-5910"/><tag k="building" v="yes"/></way>
-<way id="-5914" visible="true"><nd ref="-5915"/><nd ref="-5916"/><nd ref="-5917"/><nd ref="-5918"/><nd ref="-5919"/><nd ref="-5920"/><nd ref="-5915"/><tag k="building" v="yes"/><tag k="height" v="3.6"/><tag k="ele" v="104.5"/></way>
-<way id="-5921" visible="true"><nd ref="-5922"/><nd ref="-5923"/><nd ref="-5924"/><nd ref="-5925"/><nd ref="-5926"/><nd ref="-5927"/><nd ref="-5922"/><tag k="building" v="yes"/><tag k="height" v="3.7"/><tag k="ele" v="118.0"/></way>
-<way id="-5928" visible="true"><nd ref="-5929"/><nd ref="-5930"/><nd ref="-5931"/><nd ref="-5932"/><nd ref="-5929"/><tag k="building" v="yes"/><tag k="height" v="2.5"/><tag k="ele" v="117.7"/></way>
+<way id="-5909" visible="true"><nd ref="-5910"/><nd ref="-5911"/><nd ref="-5912"/><nd ref="-5913"/><nd ref="-5914"/><nd ref="-5915"/><nd ref="-5916"/><nd ref="-5917"/><nd ref="-5910"/><tag k="building" v="yes"/><tag k="height" v="4.0"/><tag k="ele" v="126.8"/></way>
+<way id="-5918" visible="true"><nd ref="-5919"/><nd ref="-5920"/><nd ref="-5921"/><nd ref="-5922"/><nd ref="-5919"/><tag k="building" v="yes"/></way>
+<way id="-5923" visible="true"><nd ref="-5924"/><nd ref="-5925"/><nd ref="-5926"/><nd ref="-5927"/><nd ref="-5924"/><tag k="building" v="yes"/><tag k="height" v="5.3"/><tag k="ele" v="106.0"/></way>
+<way id="-5928" visible="true"><nd ref="-5929"/><nd ref="-5930"/><nd ref="-5931"/><nd ref="-5932"/><nd ref="-5929"/><tag k="building" v="yes"/><tag k="height" v="3.0"/><tag k="ele" v="130.7"/></way>
 <way id="-5933" visible="true"><nd ref="-5934"/><nd ref="-5935"/><nd ref="-5936"/><nd ref="-5937"/><nd ref="-5934"/><tag k="building" v="yes"/></way>
-<way id="-5938" visible="true"><nd ref="-5939"/><nd ref="-5940"/><nd ref="-5941"/><nd ref="-5942"/><nd ref="-5943"/><nd ref="-5944"/><nd ref="-5939"/><tag k="building" v="yes"/><tag k="ele" v="155.3"/></way>
-<way id="-5945" visible="true"><nd ref="-5946"/><nd ref="-5947"/><nd ref="-5948"/><nd ref="-5949"/><nd ref="-5950"/><nd ref="-5951"/><nd ref="-5952"/><nd ref="-5953"/><nd ref="-5954"/><nd ref="-5955"/><nd ref="-5946"/><tag k="building" v="yes"/><tag k="height" v="4.4"/><tag k="ele" v="168.7"/></way>
-<way id="-5956" visible="true"><nd ref="-5957"/><nd ref="-5958"/><nd ref="-5959"/><nd ref="-5960"/><nd ref="-5957"/><tag k="building" v="yes"/></way>
+<way id="-5938" visible="true"><nd ref="-5939"/><nd ref="-5940"/><nd ref="-5941"/><nd ref="-5942"/><nd ref="-5939"/><tag k="building" v="yes"/></way>
+<way id="-5943" visible="true"><nd ref="-5944"/><nd ref="-5945"/><nd ref="-5946"/><nd ref="-5947"/><nd ref="-5948"/><nd ref="-5949"/><nd ref="-5944"/><tag k="building" v="yes"/><tag k="ele" v="155.3"/></way>
+<way id="-5950" visible="true"><nd ref="-5951"/><nd ref="-5952"/><nd ref="-5953"/><nd ref="-5954"/><nd ref="-5955"/><nd ref="-5956"/><nd ref="-5957"/><nd ref="-5958"/><nd ref="-5959"/><nd ref="-5960"/><nd ref="-5951"/><tag k="building" v="yes"/><tag k="height" v="4.4"/><tag k="ele" v="168.7"/></way>
 <way id="-5961" visible="true"><nd ref="-5962"/><nd ref="-5963"/><nd ref="-5964"/><nd ref="-5965"/><nd ref="-5962"/><tag k="building" v="yes"/></way>
 <way id="-5966" visible="true"><nd ref="-5967"/><nd ref="-5968"/><nd ref="-5969"/><nd ref="-5970"/><nd ref="-5967"/><tag k="building" v="yes"/></way>
 <way id="-5971" visible="true"><nd ref="-5972"/><nd ref="-5973"/><nd ref="-5974"/><nd ref="-5975"/><nd ref="-5972"/><tag k="building" v="yes"/></way>
 <way id="-5976" visible="true"><nd ref="-5977"/><nd ref="-5978"/><nd ref="-5979"/><nd ref="-5980"/><nd ref="-5977"/><tag k="building" v="yes"/><tag k="height" v="3.7"/><tag k="ele" v="160.4"/></way>
 <way id="-5981" visible="true"><nd ref="-5982"/><nd ref="-5983"/><nd ref="-5984"/><nd ref="-5985"/><nd ref="-5982"/><tag k="building" v="yes"/><tag k="height" v="4.3"/><tag k="ele" v="173.9"/></way>
 <way id="-5986" visible="true"><nd ref="-5987"/><nd ref="-5988"/><nd ref="-5989"/><nd ref="-5990"/><nd ref="-5991"/><nd ref="-5992"/><nd ref="-5987"/><tag k="building" v="yes"/></way>
-<way id="-5993" visible="true"><nd ref="-5994"/><nd ref="-5995"/><nd ref="-5996"/><nd ref="-5997"/><nd ref="-5994"/><tag k="building" v="yes"/><tag k="height" v="3.5"/><tag k="ele" v="117.7"/></way>
-<way id="-5998" visible="true"><nd ref="-5999"/><nd ref="-6000"/><nd ref="-6001"/><nd ref="-6002"/><nd ref="-6003"/><nd ref="-6004"/><nd ref="-6005"/><nd ref="-6006"/><nd ref="-5999"/><tag k="building" v="yes"/><tag k="height" v="4.0"/><tag k="ele" v="126.8"/></way>
-<way id="-6007" visible="true"><nd ref="-6008"/><nd ref="-6009"/><nd ref="-6010"/><nd ref="-6011"/><nd ref="-6008"/><tag k="building" v="yes"/></way>
-<way id="-6012" visible="true"><nd ref="-6013"/><nd ref="-6014"/><nd ref="-6015"/><nd ref="-6016"/><nd ref="-6013"/><tag k="building" v="yes"/><tag k="height" v="3.0"/><tag k="ele" v="130.7"/></way>
-<way id="-6017" visible="true"><nd ref="-6018"/><nd ref="-6019"/><nd ref="-6020"/><nd ref="-6021"/><nd ref="-6018"/><tag k="building" v="yes"/></way>
-<way id="-6022" visible="true"><nd ref="-6023"/><nd ref="-6024"/><nd ref="-6025"/><nd ref="-6026"/><nd ref="-6023"/><tag k="building" v="yes"/></way>
+<way id="-5993" visible="true"><nd ref="-5994"/><nd ref="-5995"/><nd ref="-5996"/><nd ref="-5997"/><nd ref="-5998"/><nd ref="-5999"/><nd ref="-5994"/><tag k="building" v="yes"/><tag k="height" v="3.6"/><tag k="ele" v="104.5"/></way>
+<way id="-6000" visible="true"><nd ref="-6001"/><nd ref="-6002"/><nd ref="-6003"/><nd ref="-6004"/><nd ref="-6001"/><tag k="building" v="yes"/></way>
+<way id="-6005" visible="true"><nd ref="-6006"/><nd ref="-6007"/><nd ref="-6008"/><nd ref="-6009"/><nd ref="-6006"/><tag k="building" v="yes"/></way>
+<way id="-6010" visible="true"><nd ref="-6011"/><nd ref="-6012"/><nd ref="-6013"/><nd ref="-6014"/><nd ref="-6011"/><tag k="building" v="yes"/></way>
+<way id="-6015" visible="true"><nd ref="-6016"/><nd ref="-6017"/><nd ref="-6018"/><nd ref="-6019"/><nd ref="-6020"/><nd ref="-6021"/><nd ref="-6016"/><tag k="building" v="yes"/><tag k="height" v="3.7"/><tag k="ele" v="118.0"/></way>
+<way id="-6022" visible="true"><nd ref="-6023"/><nd ref="-6024"/><nd ref="-6025"/><nd ref="-6026"/><nd ref="-6023"/><tag k="building" v="yes"/><tag k="height" v="2.5"/><tag k="ele" v="117.7"/></way>
 <way id="-6027" visible="true"><nd ref="-6028"/><nd ref="-6029"/><nd ref="-6030"/><nd ref="-6031"/><nd ref="-6028"/><tag k="building" v="yes"/></way>
-<way id="-6032" visible="true"><nd ref="-6033"/><nd ref="-6034"/><nd ref="-6035"/><nd ref="-6036"/><nd ref="-6033"/><tag k="building" v="yes"/><tag k="height" v="5.3"/><tag k="ele" v="106.0"/></way>
-<way id="-6037" visible="true"><nd ref="-6038"/><nd ref="-6039"/><nd ref="-6040"/><nd ref="-6041"/><nd ref="-6038"/><tag k="building" v="yes"/><tag k="height" v="3.6"/><tag k="ele" v="127.1"/></way>
+<way id="-6032" visible="true"><nd ref="-6033"/><nd ref="-6034"/><nd ref="-6035"/><nd ref="-6036"/><nd ref="-6033"/><tag k="building" v="yes"/><tag k="height" v="3.6"/><tag k="ele" v="127.1"/></way>
+<way id="-6037" visible="true"><nd ref="-6038"/><nd ref="-6039"/><nd ref="-6040"/><nd ref="-6041"/><nd ref="-6038"/><tag k="building" v="yes"/><tag k="height" v="3.5"/><tag k="ele" v="117.7"/></way>
 </osm>

@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.41013024" lon="-122.719351317" visible="true"><tag k="addr:housenumber" v="15910"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Boones Ferry Road"/></node>
-<node id="-2" lat="45.410132301" lon="-122.719343868" visible="true"><tag k="addr:housenumber" v="15932"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Boones Ferry Road"/></node>
-<node id="-3" lat="45.410127784" lon="-122.719349148" visible="true"><tag k="addr:housenumber" v="15942"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Boones Ferry Road"/></node>
-<node id="-4" lat="45.409831299" lon="-122.720939262" visible="true"><tag k="addr:housenumber" v="16035"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Boones Ferry Road"/></node>
-<node id="-5" lat="45.409832612" lon="-122.720945432" visible="true"><tag k="addr:housenumber" v="16045"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Boones Ferry Road"/></node>
-<node id="-6" lat="45.407631429" lon="-122.722645666" visible="true"><tag k="addr:housenumber" v="16320"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Bryant Road"/></node>
-<node id="-7" lat="45.407630021" lon="-122.722637061" visible="true"><tag k="addr:housenumber" v="16322"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Bryant Road"/></node>
-<node id="-8" lat="45.407630366" lon="-122.722644715" visible="true"><tag k="addr:housenumber" v="16324"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Bryant Road"/></node>
-<node id="-9" lat="45.407247778" lon="-122.722774066" visible="true"><tag k="addr:housenumber" v="16400"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Bryant Road"/></node>
-<node id="-10" lat="45.407288632" lon="-122.722649801" visible="true"><tag k="addr:housenumber" v="4411"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Sunset Drive"/></node>
-<node id="-11" lat="45.406882426" lon="-122.721595789" visible="true"><tag k="addr:housenumber" v="4315"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Upper Drive"/></node>
-<node id="-12" lat="45.406774718" lon="-122.721512486" visible="true"><tag k="addr:housenumber" v="4317"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Upper Drive"/></node>
+<node id="-1" lat="45.410124959" lon="-122.719345299" visible="true"><tag k="addr:housenumber" v="15910"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Boones Ferry Road"/></node>
+<node id="-2" lat="45.410129121" lon="-122.719344902" visible="true"><tag k="addr:housenumber" v="15932"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Boones Ferry Road"/></node>
+<node id="-3" lat="45.410129118" lon="-122.719344699" visible="true"><tag k="addr:housenumber" v="15942"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Boones Ferry Road"/></node>
+<node id="-4" lat="45.40983183" lon="-122.720943503" visible="true"><tag k="addr:housenumber" v="16035"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Boones Ferry Road"/></node>
+<node id="-5" lat="45.40983879" lon="-122.720946688" visible="true"><tag k="addr:housenumber" v="16045"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Boones Ferry Road"/></node>
+<node id="-6" lat="45.407625639" lon="-122.72263766" visible="true"><tag k="addr:housenumber" v="16320"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Bryant Road"/></node>
+<node id="-7" lat="45.407630927" lon="-122.722642502" visible="true"><tag k="addr:housenumber" v="16322"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Bryant Road"/></node>
+<node id="-8" lat="45.407623413" lon="-122.722638598" visible="true"><tag k="addr:housenumber" v="16324"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Bryant Road"/></node>
+<node id="-9" lat="45.407248335" lon="-122.722779777" visible="true"><tag k="addr:housenumber" v="16400"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Bryant Road"/></node>
+<node id="-10" lat="45.407284527" lon="-122.722658527" visible="true"><tag k="addr:housenumber" v="4411"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Sunset Drive"/></node>
+<node id="-11" lat="45.406884705" lon="-122.721602126" visible="true"><tag k="addr:housenumber" v="4315"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Upper Drive"/></node>
+<node id="-12" lat="45.406777431" lon="-122.721518488" visible="true"><tag k="addr:housenumber" v="4317"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Upper Drive"/></node>
 </osm>

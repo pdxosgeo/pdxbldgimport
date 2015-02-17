@@ -3578,14 +3578,14 @@
 <node id="-4117" lat="45.351401171" lon="-122.86639738" visible="true"/>
 <node id="-4118" lat="45.351435477" lon="-122.866261581" visible="true"/>
 <node id="-4119" lat="45.3514313" lon="-122.866259459" visible="true"/>
-<node id="-4121" lat="45.349524502" lon="-122.858205321" visible="true"/>
-<node id="-4122" lat="45.349492112" lon="-122.858205402" visible="true"/>
-<node id="-4123" lat="45.349492179" lon="-122.858259442" visible="true"/>
-<node id="-4124" lat="45.349524569" lon="-122.858259362" visible="true"/>
-<node id="-4126" lat="45.349944817" lon="-122.865456729" visible="true"/>
-<node id="-4127" lat="45.349878132" lon="-122.865456887" visible="true"/>
-<node id="-4128" lat="45.349878326" lon="-122.865621715" visible="true"/>
-<node id="-4129" lat="45.349945011" lon="-122.865621558" visible="true"/>
+<node id="-4121" lat="45.349944817" lon="-122.865456729" visible="true"/>
+<node id="-4122" lat="45.349878132" lon="-122.865456887" visible="true"/>
+<node id="-4123" lat="45.349878326" lon="-122.865621715" visible="true"/>
+<node id="-4124" lat="45.349945011" lon="-122.865621558" visible="true"/>
+<node id="-4126" lat="45.349524502" lon="-122.858205321" visible="true"/>
+<node id="-4127" lat="45.349492112" lon="-122.858205402" visible="true"/>
+<node id="-4128" lat="45.349492179" lon="-122.858259442" visible="true"/>
+<node id="-4129" lat="45.349524569" lon="-122.858259362" visible="true"/>
 <way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-2"/><tag k="addr:housenumber" v="23708"/><tag k="building" v="yes"/><tag k="height" v="9.1"/><tag k="addr:city" v="Sherwood"/><tag k="addr:postcode" v="97140"/><tag k="ele" v="82.9"/><tag k="addr:street" v="Southwest Aspen Lakes Drive"/></way>
 <way id="-6" visible="true"><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-7"/><tag k="addr:housenumber" v="23719"/><tag k="building" v="yes"/><tag k="height" v="9.2"/><tag k="addr:city" v="Sherwood"/><tag k="addr:postcode" v="97140"/><tag k="ele" v="83.4"/><tag k="addr:street" v="Southwest Aspen Lakes Drive"/></way>
 <way id="-15" visible="true"><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-16"/><tag k="addr:housenumber" v="23724"/><tag k="building" v="yes"/><tag k="height" v="9.5"/><tag k="addr:city" v="Sherwood"/><tag k="addr:postcode" v="97140"/><tag k="ele" v="83.7"/><tag k="addr:street" v="Southwest Aspen Lakes Drive"/></way>
@@ -4127,6 +4127,6 @@
 <way id="-4093" visible="true"><nd ref="-4094"/><nd ref="-4095"/><nd ref="-4096"/><nd ref="-4097"/><nd ref="-4098"/><nd ref="-4099"/><nd ref="-4094"/><tag k="addr:housenumber" v="18318"/><tag k="building" v="yes"/><tag k="height" v="6.7"/><tag k="addr:city" v="Sherwood"/><tag k="addr:postcode" v="97140"/><tag k="ele" v="84.4"/><tag k="addr:street" v="Southwest Woodhaven Drive"/></way>
 <way id="-4100" visible="true"><nd ref="-4101"/><nd ref="-4102"/><nd ref="-4103"/><nd ref="-4104"/><nd ref="-4105"/><nd ref="-4106"/><nd ref="-4107"/><nd ref="-4108"/><nd ref="-4109"/><nd ref="-4110"/><nd ref="-4101"/><tag k="addr:housenumber" v="18325"/><tag k="building" v="yes"/><tag k="height" v="7.1"/><tag k="addr:city" v="Sherwood"/><tag k="addr:postcode" v="97140"/><tag k="ele" v="86.7"/><tag k="addr:street" v="Southwest Woodhaven Drive"/></way>
 <way id="-4111" visible="true"><nd ref="-4112"/><nd ref="-4113"/><nd ref="-4114"/><nd ref="-4115"/><nd ref="-4116"/><nd ref="-4117"/><nd ref="-4118"/><nd ref="-4119"/><nd ref="-4112"/><tag k="addr:housenumber" v="18356"/><tag k="building" v="yes"/><tag k="height" v="6.2"/><tag k="addr:city" v="Sherwood"/><tag k="addr:postcode" v="97140"/><tag k="ele" v="85.6"/><tag k="addr:street" v="Southwest Woodhaven Drive"/></way>
-<way id="-4120" visible="true"><nd ref="-4121"/><nd ref="-4122"/><nd ref="-4123"/><nd ref="-4124"/><nd ref="-4121"/><tag k="building" v="yes"/><tag k="height" v="3.3"/><tag k="ele" v="75.1"/></way>
-<way id="-4125" visible="true"><nd ref="-4126"/><nd ref="-4127"/><nd ref="-4128"/><nd ref="-4129"/><nd ref="-4126"/><tag k="building" v="yes"/><tag k="height" v="5.7"/><tag k="ele" v="82.2"/></way>
+<way id="-4120" visible="true"><nd ref="-4121"/><nd ref="-4122"/><nd ref="-4123"/><nd ref="-4124"/><nd ref="-4121"/><tag k="building" v="yes"/><tag k="height" v="5.7"/><tag k="ele" v="82.2"/></way>
+<way id="-4125" visible="true"><nd ref="-4126"/><nd ref="-4127"/><nd ref="-4128"/><nd ref="-4129"/><nd ref="-4126"/><tag k="building" v="yes"/><tag k="height" v="3.3"/><tag k="ele" v="75.1"/></way>
 </osm>

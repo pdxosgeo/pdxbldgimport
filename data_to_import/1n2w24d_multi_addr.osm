@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.54319969" lon="-122.868236479" visible="true"><tag k="addr:housenumber" v="3351"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest 185th Avenue"/></node>
-<node id="-2" lat="45.543202159" lon="-122.868237131" visible="true"><tag k="addr:housenumber" v="3355"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest 185th Avenue"/></node>
-<node id="-3" lat="45.545953403" lon="-122.871928405" visible="true"><tag k="addr:housenumber" v="3620"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Columbia Avenue"/></node>
-<node id="-4" lat="45.545956811" lon="-122.871929022" visible="true"><tag k="addr:housenumber" v="3622"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Columbia Avenue"/></node>
+<node id="-1" lat="45.543200026" lon="-122.868242137" visible="true"><tag k="addr:housenumber" v="3351"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest 185th Avenue"/></node>
+<node id="-2" lat="45.543198014" lon="-122.868239403" visible="true"><tag k="addr:housenumber" v="3355"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest 185th Avenue"/></node>
+<node id="-3" lat="45.545957118" lon="-122.871937105" visible="true"><tag k="addr:housenumber" v="3620"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Columbia Avenue"/></node>
+<node id="-4" lat="45.545948616" lon="-122.871932626" visible="true"><tag k="addr:housenumber" v="3622"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Columbia Avenue"/></node>
 </osm>

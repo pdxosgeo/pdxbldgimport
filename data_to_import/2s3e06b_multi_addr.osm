@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.426622173" lon="-122.497453661" visible="true"><tag k="addr:housenumber" v="13169"/><tag k="addr:postcode" v="97015"/><tag k="addr:city" v="Clackamas"/><tag k="addr:street" v="Southeast 162nd Avenue"/></node>
-<node id="-2" lat="45.426620275" lon="-122.497450804" visible="true"><tag k="addr:housenumber" v="16180"/><tag k="addr:postcode" v="97015"/><tag k="addr:city" v="Clackamas"/><tag k="addr:street" v="Southeast Sunnyside Road"/></node>
+<node id="-1" lat="45.426617421" lon="-122.497458035" visible="true"><tag k="addr:housenumber" v="13169"/><tag k="addr:postcode" v="97015"/><tag k="addr:city" v="Clackamas"/><tag k="addr:street" v="Southeast 162nd Avenue"/></node>
+<node id="-2" lat="45.426625848" lon="-122.497459279" visible="true"><tag k="addr:housenumber" v="16180"/><tag k="addr:postcode" v="97015"/><tag k="addr:city" v="Clackamas"/><tag k="addr:street" v="Southeast Sunnyside Road"/></node>
 </osm>

@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.420027319" lon="-122.790322106" visible="true"><tag k="addr:housenumber" v="13812"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest 110th Avenue"/></node>
-<node id="-2" lat="45.419958992" lon="-122.79031755" visible="true"><tag k="addr:housenumber" v="13814"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest 110th Avenue"/></node>
-<node id="-3" lat="45.414957825" lon="-122.786567083" visible="true"><tag k="addr:housenumber" v="10645"/><tag k="addr:postcode" v="97224"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Canterbury Lane"/></node>
-<node id="-4" lat="45.414959476" lon="-122.786791833" visible="true"><tag k="addr:housenumber" v="10665"/><tag k="addr:postcode" v="97224"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Canterbury Lane"/></node>
-<node id="-5" lat="45.414967979" lon="-122.787012162" visible="true"><tag k="addr:housenumber" v="10685"/><tag k="addr:postcode" v="97224"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Canterbury Lane"/></node>
-<node id="-6" lat="45.414968206" lon="-122.787758975" visible="true"><tag k="addr:housenumber" v="10791"/><tag k="addr:postcode" v="97224"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Murdock Court"/></node>
-<node id="-7" lat="45.414962855" lon="-122.787951355" visible="true"><tag k="addr:housenumber" v="10793"/><tag k="addr:postcode" v="97224"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Murdock Court"/></node>
-<node id="-8" lat="45.414959801" lon="-122.788170021" visible="true"><tag k="addr:housenumber" v="10795"/><tag k="addr:postcode" v="97224"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Murdock Court"/></node>
-<node id="-9" lat="45.41494912" lon="-122.788391919" visible="true"><tag k="addr:housenumber" v="10797"/><tag k="addr:postcode" v="97224"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Murdock Court"/></node>
-<node id="-10" lat="45.417406381" lon="-122.787437959" visible="true"><tag k="addr:housenumber" v="14170"/><tag k="addr:postcode" v="97224"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Pacific Highway"/></node>
-<node id="-11" lat="45.417687952" lon="-122.787174761" visible="true"><tag k="addr:housenumber" v="14220"/><tag k="addr:postcode" v="97224"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Pacific Highway"/></node>
+<node id="-1" lat="45.420029332" lon="-122.790323293" visible="true"><tag k="addr:housenumber" v="13812"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest 110th Avenue"/></node>
+<node id="-2" lat="45.419968463" lon="-122.79031731" visible="true"><tag k="addr:housenumber" v="13814"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest 110th Avenue"/></node>
+<node id="-3" lat="45.414954193" lon="-122.786561294" visible="true"><tag k="addr:housenumber" v="10645"/><tag k="addr:postcode" v="97224"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Canterbury Lane"/></node>
+<node id="-4" lat="45.414965174" lon="-122.786795353" visible="true"><tag k="addr:housenumber" v="10665"/><tag k="addr:postcode" v="97224"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Canterbury Lane"/></node>
+<node id="-5" lat="45.4149703" lon="-122.787020012" visible="true"><tag k="addr:housenumber" v="10685"/><tag k="addr:postcode" v="97224"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Canterbury Lane"/></node>
+<node id="-6" lat="45.414970298" lon="-122.787758853" visible="true"><tag k="addr:housenumber" v="10791"/><tag k="addr:postcode" v="97224"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Murdock Court"/></node>
+<node id="-7" lat="45.414961579" lon="-122.78795357" visible="true"><tag k="addr:housenumber" v="10793"/><tag k="addr:postcode" v="97224"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Murdock Court"/></node>
+<node id="-8" lat="45.414962324" lon="-122.788173772" visible="true"><tag k="addr:housenumber" v="10795"/><tag k="addr:postcode" v="97224"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Murdock Court"/></node>
+<node id="-9" lat="45.41494866" lon="-122.788390982" visible="true"><tag k="addr:housenumber" v="10797"/><tag k="addr:postcode" v="97224"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Murdock Court"/></node>
+<node id="-10" lat="45.41740612" lon="-122.787437923" visible="true"><tag k="addr:housenumber" v="14170"/><tag k="addr:postcode" v="97224"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Pacific Highway"/></node>
+<node id="-11" lat="45.41768818" lon="-122.787169727" visible="true"><tag k="addr:housenumber" v="14220"/><tag k="addr:postcode" v="97224"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Pacific Highway"/></node>
 </osm>

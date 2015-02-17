@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.477438903" lon="-122.766635749" visible="true"><tag k="addr:housenumber" v="8705"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Hill View Terrace"/></node>
-<node id="-2" lat="45.477437483" lon="-122.766638163" visible="true"><tag k="addr:housenumber" v="8705"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Hillview Terrace"/></node>
-<node id="-3" lat="45.483262554" lon="-122.774445092" visible="true"><tag k="addr:housenumber" v="9450"/><tag k="addr:postcode" v="97005"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Pinehurst Drive"/></node>
-<node id="-4" lat="45.483191133" lon="-122.774471857" visible="true"><tag k="addr:housenumber" v="9454"/><tag k="addr:postcode" v="97005"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Pinehurst Drive"/></node>
+<node id="-1" lat="45.477445259" lon="-122.766638644" visible="true"><tag k="addr:housenumber" v="8705"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Hill View Terrace"/></node>
+<node id="-2" lat="45.477439537" lon="-122.766642227" visible="true"><tag k="addr:housenumber" v="8705"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Hillview Terrace"/></node>
+<node id="-3" lat="45.48231218" lon="-122.817835741" visible="true"><tag k="addr:housenumber" v="9450"/><tag k="addr:postcode" v="97005"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Pinehurst Drive"/></node>
+<node id="-4" lat="45.482477133" lon="-122.804410972" visible="true"><tag k="addr:housenumber" v="9454"/><tag k="addr:postcode" v="97005"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Pinehurst Drive"/></node>
 </osm>

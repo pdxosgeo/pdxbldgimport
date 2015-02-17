@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.315748483" lon="-122.567950946" visible="true"><tag k="addr:housenumber" v="14355"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Brittany Terrace"/></node>
-<node id="-2" lat="45.315753766" lon="-122.567865794" visible="true"><tag k="addr:housenumber" v="14359"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Brittany Terrace"/></node>
-<node id="-3" lat="45.330748102" lon="-122.578202815" visible="true"><tag k="addr:housenumber" v="14181"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Fir Street"/></node>
-<node id="-4" lat="45.330738548" lon="-122.578517105" visible="true"><tag k="addr:housenumber" v="14189"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Fir Street"/></node>
-<node id="-5" lat="45.315771266" lon="-122.567267087" visible="true"><tag k="addr:housenumber" v="20027"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Mossy Meadows Avenue"/></node>
-<node id="-6" lat="45.315846423" lon="-122.567280236" visible="true"><tag k="addr:housenumber" v="20029"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Mossy Meadows Avenue"/></node>
-<node id="-7" lat="45.315269917" lon="-122.56837147" visible="true"><tag k="addr:housenumber" v="20073"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Tad Place"/></node>
-<node id="-8" lat="45.315338839" lon="-122.568359597" visible="true"><tag k="addr:housenumber" v="20077"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Tad Place"/></node>
+<node id="-1" lat="45.315746322" lon="-122.567950656" visible="true"><tag k="addr:housenumber" v="14355"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Brittany Terrace"/></node>
+<node id="-2" lat="45.315752468" lon="-122.567865316" visible="true"><tag k="addr:housenumber" v="14359"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Brittany Terrace"/></node>
+<node id="-3" lat="45.330753969" lon="-122.578196754" visible="true"><tag k="addr:housenumber" v="14181"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Fir Street"/></node>
+<node id="-4" lat="45.330743103" lon="-122.578511507" visible="true"><tag k="addr:housenumber" v="14189"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Fir Street"/></node>
+<node id="-5" lat="45.315769245" lon="-122.567262509" visible="true"><tag k="addr:housenumber" v="20027"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Mossy Meadows Avenue"/></node>
+<node id="-6" lat="45.315840439" lon="-122.567273504" visible="true"><tag k="addr:housenumber" v="20029"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Mossy Meadows Avenue"/></node>
+<node id="-7" lat="45.315267792" lon="-122.568372002" visible="true"><tag k="addr:housenumber" v="20073"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Tad Place"/></node>
+<node id="-8" lat="45.31533871" lon="-122.568357258" visible="true"><tag k="addr:housenumber" v="20077"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Tad Place"/></node>
 </osm>

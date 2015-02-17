@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.50558213" lon="-122.951762706" visible="true"><tag k="addr:housenumber" v="1871"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast 30th Avenue"/></node>
-<node id="-2" lat="45.505587886" lon="-122.951762882" visible="true"><tag k="addr:housenumber" v="1873"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast 30th Avenue"/></node>
-<node id="-3" lat="45.505957664" lon="-122.949595304" visible="true"><tag k="addr:housenumber" v="1798"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast 32nd Avenue"/></node>
-<node id="-4" lat="45.505960088" lon="-122.949597546" visible="true"><tag k="addr:housenumber" v="1806"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast 32nd Avenue"/></node>
+<node id="-1" lat="45.505580129" lon="-122.951760145" visible="true"><tag k="addr:housenumber" v="1871"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast 30th Avenue"/></node>
+<node id="-2" lat="45.505580483" lon="-122.951753841" visible="true"><tag k="addr:housenumber" v="1873"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast 30th Avenue"/></node>
+<node id="-3" lat="45.505953532" lon="-122.94959552" visible="true"><tag k="addr:housenumber" v="1798"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast 32nd Avenue"/></node>
+<node id="-4" lat="45.50595354" lon="-122.949591622" visible="true"><tag k="addr:housenumber" v="1806"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast 32nd Avenue"/></node>
 </osm>

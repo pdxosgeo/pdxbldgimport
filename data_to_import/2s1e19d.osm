@@ -4232,36 +4232,36 @@
 <node id="-4728" lat="45.376425197" lon="-122.728652479" visible="true"/>
 <node id="-4729" lat="45.376424933" lon="-122.728541618" visible="true"/>
 <node id="-4730" lat="45.376312763" lon="-122.728542155" visible="true"/>
-<node id="-4732" lat="45.381194628" lon="-122.729111349" visible="true"/>
-<node id="-4733" lat="45.381194966" lon="-122.729254053" visible="true"/>
-<node id="-4734" lat="45.381251696" lon="-122.729253782" visible="true"/>
-<node id="-4735" lat="45.381341646" lon="-122.729126015" visible="true"/>
-<node id="-4736" lat="45.381290274" lon="-122.729053191" visible="true"/>
-<node id="-4737" lat="45.381249514" lon="-122.729111086" visible="true"/>
-<node id="-4739" lat="45.375643133" lon="-122.729354211" visible="true"/>
-<node id="-4740" lat="45.375664675" lon="-122.729540258" visible="true"/>
-<node id="-4741" lat="45.375773625" lon="-122.729517747" visible="true"/>
-<node id="-4742" lat="45.375750424" lon="-122.7293361" visible="true"/>
-<node id="-4744" lat="45.377840007" lon="-122.733008875" visible="true"/>
-<node id="-4745" lat="45.377837535" lon="-122.733135734" visible="true"/>
-<node id="-4746" lat="45.378009645" lon="-122.733142486" visible="true"/>
-<node id="-4747" lat="45.378012116" lon="-122.733015625" visible="true"/>
-<node id="-4749" lat="45.376959177" lon="-122.731508132" visible="true"/>
-<node id="-4750" lat="45.376957504" lon="-122.731594065" visible="true"/>
-<node id="-4751" lat="45.377010255" lon="-122.731596133" visible="true"/>
-<node id="-4752" lat="45.377011928" lon="-122.7315102" visible="true"/>
-<node id="-4754" lat="45.37716185" lon="-122.731550453" visible="true"/>
-<node id="-4755" lat="45.37716031" lon="-122.731629512" visible="true"/>
-<node id="-4756" lat="45.377212366" lon="-122.731628914" visible="true"/>
-<node id="-4757" lat="45.377213854" lon="-122.731552493" visible="true"/>
-<node id="-4759" lat="45.380284016" lon="-122.72771755" visible="true"/>
-<node id="-4760" lat="45.380362406" lon="-122.727717173" visible="true"/>
-<node id="-4761" lat="45.380362184" lon="-122.727624235" visible="true"/>
-<node id="-4762" lat="45.380283794" lon="-122.727624612" visible="true"/>
-<node id="-4764" lat="45.37706917" lon="-122.731823732" visible="true"/>
-<node id="-4765" lat="45.377067765" lon="-122.731705002" visible="true"/>
-<node id="-4766" lat="45.376995282" lon="-122.731704796" visible="true"/>
-<node id="-4767" lat="45.376998439" lon="-122.731828872" visible="true"/>
+<node id="-4732" lat="45.376959177" lon="-122.731508132" visible="true"/>
+<node id="-4733" lat="45.376957504" lon="-122.731594065" visible="true"/>
+<node id="-4734" lat="45.377010255" lon="-122.731596133" visible="true"/>
+<node id="-4735" lat="45.377011928" lon="-122.7315102" visible="true"/>
+<node id="-4737" lat="45.377840007" lon="-122.733008875" visible="true"/>
+<node id="-4738" lat="45.377837535" lon="-122.733135734" visible="true"/>
+<node id="-4739" lat="45.378009645" lon="-122.733142486" visible="true"/>
+<node id="-4740" lat="45.378012116" lon="-122.733015625" visible="true"/>
+<node id="-4742" lat="45.37706917" lon="-122.731823732" visible="true"/>
+<node id="-4743" lat="45.377067765" lon="-122.731705002" visible="true"/>
+<node id="-4744" lat="45.376995282" lon="-122.731704796" visible="true"/>
+<node id="-4745" lat="45.376998439" lon="-122.731828872" visible="true"/>
+<node id="-4747" lat="45.37716185" lon="-122.731550453" visible="true"/>
+<node id="-4748" lat="45.37716031" lon="-122.731629512" visible="true"/>
+<node id="-4749" lat="45.377212366" lon="-122.731628914" visible="true"/>
+<node id="-4750" lat="45.377213854" lon="-122.731552493" visible="true"/>
+<node id="-4752" lat="45.375643133" lon="-122.729354211" visible="true"/>
+<node id="-4753" lat="45.375664675" lon="-122.729540258" visible="true"/>
+<node id="-4754" lat="45.375773625" lon="-122.729517747" visible="true"/>
+<node id="-4755" lat="45.375750424" lon="-122.7293361" visible="true"/>
+<node id="-4757" lat="45.380284016" lon="-122.72771755" visible="true"/>
+<node id="-4758" lat="45.380362406" lon="-122.727717173" visible="true"/>
+<node id="-4759" lat="45.380362184" lon="-122.727624235" visible="true"/>
+<node id="-4760" lat="45.380283794" lon="-122.727624612" visible="true"/>
+<node id="-4762" lat="45.381194628" lon="-122.729111349" visible="true"/>
+<node id="-4763" lat="45.381194966" lon="-122.729254053" visible="true"/>
+<node id="-4764" lat="45.381251696" lon="-122.729253782" visible="true"/>
+<node id="-4765" lat="45.381341646" lon="-122.729126015" visible="true"/>
+<node id="-4766" lat="45.381290274" lon="-122.729053191" visible="true"/>
+<node id="-4767" lat="45.381249514" lon="-122.729111086" visible="true"/>
 <way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-2"/><tag k="addr:housenumber" v="19150"/><tag k="building" v="yes"/><tag k="addr:city" v="Tualatin"/><tag k="addr:postcode" v="97062"/><tag k="ele" v="56.7"/><tag k="addr:street" v="Southwest 46th Avenue"/></way>
 <way id="-12" visible="true"><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-13"/><tag k="addr:housenumber" v="19180"/><tag k="building" v="yes"/><tag k="addr:city" v="Tualatin"/><tag k="addr:postcode" v="97062"/><tag k="ele" v="57.2"/><tag k="addr:street" v="Southwest 46th Avenue"/></way>
 <way id="-17" visible="true"><nd ref="-18"/><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-22"/><nd ref="-23"/><nd ref="-24"/><nd ref="-25"/><nd ref="-26"/><nd ref="-27"/><nd ref="-28"/><nd ref="-29"/><nd ref="-18"/><tag k="addr:housenumber" v="19200"/><tag k="building" v="yes"/><tag k="addr:city" v="Tualatin"/><tag k="addr:postcode" v="97062"/><tag k="ele" v="58.5"/><tag k="addr:street" v="Southwest 46th Avenue"/></way>
@@ -4759,12 +4759,12 @@
 <way id="-4704" visible="true"><nd ref="-4705"/><nd ref="-4706"/><nd ref="-4707"/><nd ref="-4708"/><nd ref="-4709"/><nd ref="-4710"/><nd ref="-4711"/><nd ref="-4712"/><nd ref="-4713"/><nd ref="-4714"/><nd ref="-4705"/><tag k="addr:housenumber" v="5426"/><tag k="building" v="yes"/><tag k="height" v="8.5"/><tag k="addr:city" v="Tualatin"/><tag k="addr:postcode" v="97062"/><tag k="ele" v="63.4"/><tag k="addr:street" v="Southwest Wichita Street"/></way>
 <way id="-4715" visible="true"><nd ref="-4716"/><nd ref="-4717"/><nd ref="-4718"/><nd ref="-4719"/><nd ref="-4716"/><tag k="addr:housenumber" v="5437"/><tag k="building" v="yes"/><tag k="height" v="10.0"/><tag k="addr:city" v="Tualatin"/><tag k="addr:postcode" v="97062"/><tag k="ele" v="60.7"/><tag k="addr:street" v="Southwest Wichita Street"/></way>
 <way id="-4720" visible="true"><nd ref="-4721"/><nd ref="-4722"/><nd ref="-4723"/><nd ref="-4724"/><nd ref="-4725"/><nd ref="-4726"/><nd ref="-4727"/><nd ref="-4728"/><nd ref="-4729"/><nd ref="-4730"/><nd ref="-4721"/><tag k="addr:housenumber" v="5070"/><tag k="building" v="yes"/><tag k="addr:city" v="Tualatin"/><tag k="addr:postcode" v="97062"/><tag k="ele" v="65.9"/><tag k="addr:street" v="Southwest Wilke Road"/></way>
-<way id="-4731" visible="true"><nd ref="-4732"/><nd ref="-4733"/><nd ref="-4734"/><nd ref="-4735"/><nd ref="-4736"/><nd ref="-4737"/><nd ref="-4732"/><tag k="building" v="yes"/><tag k="height" v="5.4"/><tag k="ele" v="62.2"/></way>
-<way id="-4738" visible="true"><nd ref="-4739"/><nd ref="-4740"/><nd ref="-4741"/><nd ref="-4742"/><nd ref="-4739"/><tag k="building" v="yes"/><tag k="ele" v="56.1"/></way>
-<way id="-4743" visible="true"><nd ref="-4744"/><nd ref="-4745"/><nd ref="-4746"/><nd ref="-4747"/><nd ref="-4744"/><tag k="building" v="yes"/><tag k="ele" v="65.4"/></way>
-<way id="-4748" visible="true"><nd ref="-4749"/><nd ref="-4750"/><nd ref="-4751"/><nd ref="-4752"/><nd ref="-4749"/><tag k="building" v="yes"/><tag k="ele" v="65.9"/></way>
-<way id="-4753" visible="true"><nd ref="-4754"/><nd ref="-4755"/><nd ref="-4756"/><nd ref="-4757"/><nd ref="-4754"/><tag k="building" v="yes"/><tag k="ele" v="65.4"/></way>
-<way id="-4758" visible="true"><nd ref="-4759"/><nd ref="-4760"/><nd ref="-4761"/><nd ref="-4762"/><nd ref="-4759"/><tag k="building" v="yes"/><tag k="ele" v="67.7"/></way>
-<way id="-4763" visible="true"><nd ref="-4764"/><nd ref="-4765"/><nd ref="-4766"/><nd ref="-4767"/><nd ref="-4764"/><tag k="building" v="yes"/><tag k="ele" v="65.3"/></way>
+<way id="-4731" visible="true"><nd ref="-4732"/><nd ref="-4733"/><nd ref="-4734"/><nd ref="-4735"/><nd ref="-4732"/><tag k="building" v="yes"/><tag k="ele" v="65.9"/></way>
+<way id="-4736" visible="true"><nd ref="-4737"/><nd ref="-4738"/><nd ref="-4739"/><nd ref="-4740"/><nd ref="-4737"/><tag k="building" v="yes"/><tag k="ele" v="65.4"/></way>
+<way id="-4741" visible="true"><nd ref="-4742"/><nd ref="-4743"/><nd ref="-4744"/><nd ref="-4745"/><nd ref="-4742"/><tag k="building" v="yes"/><tag k="ele" v="65.3"/></way>
+<way id="-4746" visible="true"><nd ref="-4747"/><nd ref="-4748"/><nd ref="-4749"/><nd ref="-4750"/><nd ref="-4747"/><tag k="building" v="yes"/><tag k="ele" v="65.4"/></way>
+<way id="-4751" visible="true"><nd ref="-4752"/><nd ref="-4753"/><nd ref="-4754"/><nd ref="-4755"/><nd ref="-4752"/><tag k="building" v="yes"/><tag k="ele" v="56.1"/></way>
+<way id="-4756" visible="true"><nd ref="-4757"/><nd ref="-4758"/><nd ref="-4759"/><nd ref="-4760"/><nd ref="-4757"/><tag k="building" v="yes"/><tag k="ele" v="67.7"/></way>
+<way id="-4761" visible="true"><nd ref="-4762"/><nd ref="-4763"/><nd ref="-4764"/><nd ref="-4765"/><nd ref="-4766"/><nd ref="-4767"/><nd ref="-4762"/><tag k="building" v="yes"/><tag k="height" v="5.4"/><tag k="ele" v="62.2"/></way>
 <relation id="-2624" visible="true"><member ref="-2625" role="outer" type="way"/><member ref="-2642" role="inner" type="way"/><tag k="type" v="multipolygon"/><tag k="addr:housenumber" v="5364"/><tag k="building" v="yes"/><tag k="addr:city" v="Tualatin"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="97062"/><tag k="ele" v="53.9"/><tag k="addr:street" v="Southwest Joshua Street"/></relation>
 </osm>

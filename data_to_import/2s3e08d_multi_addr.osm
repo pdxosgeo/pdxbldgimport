@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.414473786" lon="-122.463619567" visible="true"><tag k="addr:housenumber" v="19428"/><tag k="addr:postcode" v="97089"/><tag k="addr:city" v="Damascus"/><tag k="addr:street" v="Southeast Chitwood Road"/></node>
-<node id="-2" lat="45.416289558" lon="-122.459678757" visible="true"><tag k="addr:housenumber" v="19761"/><tag k="addr:postcode" v="97089"/><tag k="addr:city" v="Damascus"/><tag k="addr:street" v="Southeast Chitwood Road"/></node>
-<node id="-3" lat="45.414471352" lon="-122.46361463" visible="true"><tag k="addr:housenumber" v="19390"/><tag k="addr:postcode" v="97089"/><tag k="addr:city" v="Damascus"/><tag k="addr:street" v="Southeast Highway 212"/></node>
-<node id="-4" lat="45.416294249" lon="-122.459671967" visible="true"><tag k="addr:housenumber" v="19690"/><tag k="addr:postcode" v="97089"/><tag k="addr:city" v="Damascus"/><tag k="addr:street" v="Southeast Highway 212"/></node>
+<node id="-1" lat="45.41447199" lon="-122.463616707" visible="true"><tag k="addr:housenumber" v="19428"/><tag k="addr:postcode" v="97089"/><tag k="addr:city" v="Damascus"/><tag k="addr:street" v="Southeast Chitwood Road"/></node>
+<node id="-2" lat="45.41629" lon="-122.459674991" visible="true"><tag k="addr:housenumber" v="19761"/><tag k="addr:postcode" v="97089"/><tag k="addr:city" v="Damascus"/><tag k="addr:street" v="Southeast Chitwood Road"/></node>
+<node id="-3" lat="45.414464435" lon="-122.4636153" visible="true"><tag k="addr:housenumber" v="19390"/><tag k="addr:postcode" v="97089"/><tag k="addr:city" v="Damascus"/><tag k="addr:street" v="Southeast Highway 212"/></node>
+<node id="-4" lat="45.416291943" lon="-122.459677757" visible="true"><tag k="addr:housenumber" v="19690"/><tag k="addr:postcode" v="97089"/><tag k="addr:city" v="Damascus"/><tag k="addr:street" v="Southeast Highway 212"/></node>
 </osm>

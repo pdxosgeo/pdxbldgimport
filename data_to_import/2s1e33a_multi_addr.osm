@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.352192776" lon="-122.708980881" visible="true"><tag k="addr:housenumber" v="3060"/><tag k="addr:postcode" v="97068"/><tag k="addr:city" v="West Linn"/><tag k="addr:street" v="Southwest Schaeffer Road"/></node>
-<node id="-2" lat="45.352193306" lon="-122.708988451" visible="true"><tag k="addr:housenumber" v="3100"/><tag k="addr:postcode" v="97068"/><tag k="addr:city" v="West Linn"/><tag k="addr:street" v="Southwest Schaeffer Road"/></node>
+<node id="-1" lat="45.352188863" lon="-122.708983516" visible="true"><tag k="addr:housenumber" v="3060"/><tag k="addr:postcode" v="97068"/><tag k="addr:city" v="West Linn"/><tag k="addr:street" v="Southwest Schaeffer Road"/></node>
+<node id="-2" lat="45.352194052" lon="-122.70898199" visible="true"><tag k="addr:housenumber" v="3100"/><tag k="addr:postcode" v="97068"/><tag k="addr:city" v="West Linn"/><tag k="addr:street" v="Southwest Schaeffer Road"/></node>
 </osm>

@@ -1,7 +1,9 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.408602041" lon="-122.694353555" visible="true"><tag k="addr:housenumber" v="1485"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Oak Terrace"/></node>
-<node id="-2" lat="45.40860859" lon="-122.69435269" visible="true"><tag k="addr:housenumber" v="1495"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Oak Terrace"/></node>
-<node id="-3" lat="45.411335237" lon="-122.683303877" visible="true"><tag k="addr:housenumber" v="1927"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Palisades Terrace"/></node>
-<node id="-4" lat="45.41133573" lon="-122.683302132" visible="true"><tag k="addr:housenumber" v="689"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Terrace Drive"/></node>
+<node id="-1" lat="45.408602166" lon="-122.694354122" visible="true"><tag k="addr:housenumber" v="1485"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Oak Terrace"/></node>
+<node id="-2" lat="45.408600026" lon="-122.69436077" visible="true"><tag k="addr:housenumber" v="1495"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Oak Terrace"/></node>
+<node id="-3" lat="45.411342572" lon="-122.683298027" visible="true"><tag k="addr:housenumber" v="1927"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Palisades Terrace"/></node>
+<node id="-4" lat="45.411339732" lon="-122.683298523" visible="true"><tag k="addr:housenumber" v="689"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Terrace Drive"/></node>
+<node id="-5" lat="45.41130345" lon="-122.69399884" visible="true"><tag k="addr:housenumber" v="1900"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Twin Points Road"/></node>
+<node id="-6" lat="45.411300681" lon="-122.694002606" visible="true"><tag k="addr:housenumber" v="1902"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Twin Points Road"/></node>
 </osm>

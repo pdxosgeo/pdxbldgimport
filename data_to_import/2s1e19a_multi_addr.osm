@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.385678438" lon="-122.731338768" visible="true"><tag k="addr:housenumber" v="5290"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Southwest Childs Road"/></node>
-<node id="-2" lat="45.385673404" lon="-122.731184784" visible="true"><tag k="addr:housenumber" v="5292"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Southwest Childs Road"/></node>
+<node id="-1" lat="45.385677796" lon="-122.73134168" visible="true"><tag k="addr:housenumber" v="5290"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Southwest Childs Road"/></node>
+<node id="-2" lat="45.385673367" lon="-122.731181036" visible="true"><tag k="addr:housenumber" v="5292"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Southwest Childs Road"/></node>
 </osm>

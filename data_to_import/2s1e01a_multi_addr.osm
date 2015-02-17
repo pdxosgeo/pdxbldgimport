@@ -1,7 +1,9 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.429935664" lon="-122.630008821" visible="true"><tag k="addr:housenumber" v="3212"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Park Avenue"/></node>
-<node id="-2" lat="45.429942151" lon="-122.629878948" visible="true"><tag k="addr:housenumber" v="3214"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Park Avenue"/></node>
-<node id="-3" lat="45.428030729" lon="-122.628991373" visible="true"><tag k="addr:housenumber" v="3301"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Silver Springs Road"/></node>
-<node id="-4" lat="45.427900112" lon="-122.628949367" visible="true"><tag k="addr:housenumber" v="3303"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Silver Springs Road"/></node>
+<node id="-1" lat="45.429937494" lon="-122.630009693" visible="true"><tag k="addr:housenumber" v="3212"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Park Avenue"/></node>
+<node id="-2" lat="45.429946587" lon="-122.629877737" visible="true"><tag k="addr:housenumber" v="3214"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Park Avenue"/></node>
+<node id="-3" lat="45.433302729" lon="-122.624535911" visible="true"><tag k="addr:housenumber" v="12472"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Shell Lane"/></node>
+<node id="-4" lat="45.433297364" lon="-122.624506324" visible="true"><tag k="addr:housenumber" v="12474"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Shell Lane"/></node>
+<node id="-5" lat="45.428025601" lon="-122.628995363" visible="true"><tag k="addr:housenumber" v="3301"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Silver Springs Road"/></node>
+<node id="-6" lat="45.427901168" lon="-122.628948859" visible="true"><tag k="addr:housenumber" v="3303"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Silver Springs Road"/></node>
 </osm>

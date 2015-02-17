@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.39109594" lon="-122.610243773" visible="true"><tag k="addr:housenumber" v="18251"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Addie Street"/></node>
-<node id="-2" lat="45.391082648" lon="-122.610306543" visible="true"><tag k="addr:housenumber" v="18253"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Addie Street"/></node>
-<node id="-3" lat="45.391064055" lon="-122.610376899" visible="true"><tag k="addr:housenumber" v="18255"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Addie Street"/></node>
-<node id="-4" lat="45.391048577" lon="-122.610446027" visible="true"><tag k="addr:housenumber" v="18257"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Addie Street"/></node>
-<node id="-5" lat="45.390825301" lon="-122.618921196" visible="true"><tag k="addr:housenumber" v="18265"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast River Road"/></node>
-<node id="-6" lat="45.390766693" lon="-122.618876074" visible="true"><tag k="addr:housenumber" v="18269"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast River Road"/></node>
+<node id="-1" lat="45.39109663" lon="-122.610246313" visible="true"><tag k="addr:housenumber" v="18251"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Addie Street"/></node>
+<node id="-2" lat="45.391079236" lon="-122.610306538" visible="true"><tag k="addr:housenumber" v="18253"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Addie Street"/></node>
+<node id="-3" lat="45.391062145" lon="-122.6103766" visible="true"><tag k="addr:housenumber" v="18255"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Addie Street"/></node>
+<node id="-4" lat="45.39104565" lon="-122.610449011" visible="true"><tag k="addr:housenumber" v="18257"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Addie Street"/></node>
+<node id="-5" lat="45.390832598" lon="-122.618915438" visible="true"><tag k="addr:housenumber" v="18265"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast River Road"/></node>
+<node id="-6" lat="45.390770306" lon="-122.618880542" visible="true"><tag k="addr:housenumber" v="18269"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast River Road"/></node>
 </osm>

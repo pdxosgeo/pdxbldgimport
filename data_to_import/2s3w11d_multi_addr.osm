@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.450943774" lon="-122.996918303" visible="true"><tag k="addr:housenumber" v="31060"/><tag k="addr:postcode" v="97113"/><tag k="addr:city" v="Cornelius"/><tag k="addr:street" v="Southwest Unger Road"/></node>
-<node id="-2" lat="45.450940179" lon="-122.996915698" visible="true"><tag k="addr:housenumber" v="31070"/><tag k="addr:postcode" v="97113"/><tag k="addr:city" v="Cornelius"/><tag k="addr:street" v="Southwest Unger Road"/></node>
+<node id="-1" lat="45.450944214" lon="-122.996919296" visible="true"><tag k="addr:housenumber" v="31060"/><tag k="addr:postcode" v="97113"/><tag k="addr:city" v="Cornelius"/><tag k="addr:street" v="Southwest Unger Road"/></node>
+<node id="-2" lat="45.450942067" lon="-122.996920324" visible="true"><tag k="addr:housenumber" v="31070"/><tag k="addr:postcode" v="97113"/><tag k="addr:city" v="Cornelius"/><tag k="addr:street" v="Southwest Unger Road"/></node>
 </osm>

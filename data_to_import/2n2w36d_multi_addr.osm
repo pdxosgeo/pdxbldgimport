@@ -1,9 +1,7 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.591830701" lon="-122.87295439" visible="true"><tag k="addr:housenumber" v="10000"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northwest Old Cornelius Pass Road"/></node>
-<node id="-2" lat="45.591835966" lon="-122.872945849" visible="true"><tag k="addr:housenumber" v="10012"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northwest Old Cornelius Pass Road"/></node>
-<node id="-3" lat="45.590283212" lon="-122.88607141" visible="true"><tag k="addr:housenumber" v="20360"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northwest Phillips Road"/></node>
-<node id="-4" lat="45.590279802" lon="-122.886070211" visible="true"><tag k="addr:housenumber" v="20368"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northwest Phillips Road"/></node>
-<node id="-5" lat="45.607808434" lon="-122.881150175" visible="true"><tag k="addr:housenumber" v="11635"/><tag k="addr:postcode" v="97231"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Rock Creek Road"/></node>
-<node id="-6" lat="45.607808342" lon="-122.881144813" visible="true"><tag k="addr:housenumber" v="11745"/><tag k="addr:postcode" v="97231"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Rock Creek Road"/></node>
+<node id="-1" lat="45.591834242" lon="-122.872952028" visible="true"><tag k="addr:housenumber" v="10000"/><tag k="addr:postcode" v="97231"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northwest Old Cornelius Pass Road"/></node>
+<node id="-2" lat="45.591829629" lon="-122.872948622" visible="true"><tag k="addr:housenumber" v="10012"/><tag k="addr:postcode" v="97231"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northwest Old Cornelius Pass Road"/></node>
+<node id="-3" lat="45.590281915" lon="-122.886068122" visible="true"><tag k="addr:housenumber" v="20360"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northwest Phillips Road"/></node>
+<node id="-4" lat="45.590278321" lon="-122.886072421" visible="true"><tag k="addr:housenumber" v="20368"/><tag k="addr:postcode" v="97124"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Northwest Phillips Road"/></node>
 </osm>

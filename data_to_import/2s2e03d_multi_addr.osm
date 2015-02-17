@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.418761174" lon="-122.542644427" visible="true"><tag k="addr:housenumber" v="14391"/><tag k="addr:postcode" v="97015"/><tag k="addr:city" v="Clackamas"/><tag k="addr:street" v="Southeast 118th Drive"/></node>
-<node id="-2" lat="45.418759474" lon="-122.542645159" visible="true"><tag k="addr:housenumber" v="11734"/><tag k="addr:postcode" v="97015"/><tag k="addr:city" v="Clackamas"/><tag k="addr:street" v="Southeast Cheyenne Lane"/></node>
+<node id="-1" lat="45.418756428" lon="-122.542650984" visible="true"><tag k="addr:housenumber" v="14391"/><tag k="addr:postcode" v="97015"/><tag k="addr:city" v="Clackamas"/><tag k="addr:street" v="Southeast 118th Drive"/></node>
+<node id="-2" lat="45.418756967" lon="-122.542649438" visible="true"><tag k="addr:housenumber" v="11734"/><tag k="addr:postcode" v="97015"/><tag k="addr:city" v="Clackamas"/><tag k="addr:street" v="Southeast Cheyenne Lane"/></node>
 </osm>

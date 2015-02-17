@@ -5587,34 +5587,34 @@
 <node id="-6385" lat="45.425574589" lon="-122.83834772" visible="true"/>
 <node id="-6386" lat="45.425575568" lon="-122.838299708" visible="true"/>
 <node id="-6387" lat="45.425538003" lon="-122.838298163" visible="true"/>
-<node id="-6389" lat="45.425066092" lon="-122.840469004" visible="true"/>
-<node id="-6390" lat="45.425100595" lon="-122.840470424" visible="true"/>
-<node id="-6391" lat="45.425101652" lon="-122.840418598" visible="true"/>
-<node id="-6392" lat="45.425067149" lon="-122.840417178" visible="true"/>
-<node id="-6394" lat="45.424852181" lon="-122.836956647" visible="true"/>
-<node id="-6395" lat="45.424798436" lon="-122.836956802" visible="true"/>
-<node id="-6396" lat="45.424798519" lon="-122.837014561" visible="true"/>
-<node id="-6397" lat="45.424852264" lon="-122.837014407" visible="true"/>
-<node id="-6399" lat="45.424467667" lon="-122.840699788" visible="true"/>
-<node id="-6400" lat="45.424436751" lon="-122.840678778" visible="true"/>
-<node id="-6401" lat="45.424415409" lon="-122.840739211" visible="true"/>
-<node id="-6402" lat="45.424445692" lon="-122.840762295" visible="true"/>
-<node id="-6404" lat="45.422650994" lon="-122.839567037" visible="true"/>
-<node id="-6405" lat="45.422574784" lon="-122.839567253" visible="true"/>
-<node id="-6406" lat="45.422574855" lon="-122.839617981" visible="true"/>
-<node id="-6407" lat="45.422651066" lon="-122.839617766" visible="true"/>
-<node id="-6409" lat="45.422867665" lon="-122.838159562" visible="true"/>
-<node id="-6410" lat="45.422808698" lon="-122.838159731" visible="true"/>
-<node id="-6411" lat="45.422808766" lon="-122.838207579" visible="true"/>
-<node id="-6412" lat="45.422867733" lon="-122.838207411" visible="true"/>
-<node id="-6414" lat="45.423406596" lon="-122.839082945" visible="true"/>
-<node id="-6415" lat="45.423406016" lon="-122.839032985" visible="true"/>
-<node id="-6416" lat="45.423371802" lon="-122.839033394" visible="true"/>
-<node id="-6417" lat="45.423373029" lon="-122.839082927" visible="true"/>
-<node id="-6419" lat="45.419846671" lon="-122.838665965" visible="true"/>
-<node id="-6420" lat="45.419760933" lon="-122.838666208" visible="true"/>
-<node id="-6421" lat="45.419761038" lon="-122.838740609" visible="true"/>
-<node id="-6422" lat="45.419846776" lon="-122.838740364" visible="true"/>
+<node id="-6389" lat="45.424852181" lon="-122.836956647" visible="true"/>
+<node id="-6390" lat="45.424798436" lon="-122.836956802" visible="true"/>
+<node id="-6391" lat="45.424798519" lon="-122.837014561" visible="true"/>
+<node id="-6392" lat="45.424852264" lon="-122.837014407" visible="true"/>
+<node id="-6394" lat="45.422867665" lon="-122.838159562" visible="true"/>
+<node id="-6395" lat="45.422808698" lon="-122.838159731" visible="true"/>
+<node id="-6396" lat="45.422808766" lon="-122.838207579" visible="true"/>
+<node id="-6397" lat="45.422867733" lon="-122.838207411" visible="true"/>
+<node id="-6399" lat="45.419846671" lon="-122.838665965" visible="true"/>
+<node id="-6400" lat="45.419760933" lon="-122.838666208" visible="true"/>
+<node id="-6401" lat="45.419761038" lon="-122.838740609" visible="true"/>
+<node id="-6402" lat="45.419846776" lon="-122.838740364" visible="true"/>
+<node id="-6404" lat="45.425066092" lon="-122.840469004" visible="true"/>
+<node id="-6405" lat="45.425100595" lon="-122.840470424" visible="true"/>
+<node id="-6406" lat="45.425101652" lon="-122.840418598" visible="true"/>
+<node id="-6407" lat="45.425067149" lon="-122.840417178" visible="true"/>
+<node id="-6409" lat="45.424467667" lon="-122.840699788" visible="true"/>
+<node id="-6410" lat="45.424436751" lon="-122.840678778" visible="true"/>
+<node id="-6411" lat="45.424415409" lon="-122.840739211" visible="true"/>
+<node id="-6412" lat="45.424445692" lon="-122.840762295" visible="true"/>
+<node id="-6414" lat="45.422650994" lon="-122.839567037" visible="true"/>
+<node id="-6415" lat="45.422574784" lon="-122.839567253" visible="true"/>
+<node id="-6416" lat="45.422574855" lon="-122.839617981" visible="true"/>
+<node id="-6417" lat="45.422651066" lon="-122.839617766" visible="true"/>
+<node id="-6419" lat="45.423406596" lon="-122.839082945" visible="true"/>
+<node id="-6420" lat="45.423406016" lon="-122.839032985" visible="true"/>
+<node id="-6421" lat="45.423371802" lon="-122.839033394" visible="true"/>
+<node id="-6422" lat="45.423373029" lon="-122.839082927" visible="true"/>
 <way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-2"/><tag k="addr:housenumber" v="13209"/><tag k="building" v="yes"/><tag k="height" v="8.2"/><tag k="addr:city" v="Tigard"/><tag k="addr:postcode" v="97223"/><tag k="ele" v="88.8"/><tag k="addr:street" v="Southwest 157th Avenue"/></way>
 <way id="-6" visible="true"><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-7"/><tag k="addr:housenumber" v="13214"/><tag k="building" v="yes"/><tag k="height" v="5.2"/><tag k="addr:city" v="Tigard"/><tag k="addr:postcode" v="97223"/><tag k="ele" v="89.4"/><tag k="addr:street" v="Southwest 157th Avenue"/></way>
 <way id="-13" visible="true"><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-14"/><tag k="addr:housenumber" v="13231"/><tag k="building" v="yes"/><tag k="height" v="6.8"/><tag k="addr:city" v="Tigard"/><tag k="addr:postcode" v="97223"/><tag k="ele" v="89.7"/><tag k="addr:street" v="Southwest 157th Avenue"/></way>
@@ -6111,10 +6111,10 @@
 <way id="-3926" visible="true"><nd ref="-3927"/><nd ref="-3928"/><nd ref="-3929"/><nd ref="-3930"/><nd ref="-3931"/><nd ref="-3932"/><nd ref="-3933"/><nd ref="-3934"/><nd ref="-3927"/><tag k="addr:housenumber" v="13330"/><tag k="building" v="yes"/><tag k="height" v="10.0"/><tag k="addr:city" v="Tigard"/><tag k="addr:postcode" v="97223"/><tag k="ele" v="85.1"/><tag k="addr:street" v="Southwest Roshak Road"/></way>
 <way id="-3935" visible="true"><nd ref="-3936"/><nd ref="-3937"/><nd ref="-3938"/><nd ref="-3939"/><nd ref="-3940"/><nd ref="-3941"/><nd ref="-3942"/><nd ref="-3943"/><nd ref="-3936"/><tag k="addr:housenumber" v="13380"/><tag k="building" v="yes"/><tag k="height" v="8.9"/><tag k="addr:city" v="Tigard"/><tag k="addr:postcode" v="97223"/><tag k="ele" v="85.4"/><tag k="addr:street" v="Southwest Roshak Road"/></way>
 <way id="-3944" visible="true"><nd ref="-3945"/><nd ref="-3946"/><nd ref="-3947"/><nd ref="-3948"/><nd ref="-3949"/><nd ref="-3950"/><nd ref="-3945"/><tag k="addr:housenumber" v="13532"/><tag k="building" v="yes"/><tag k="height" v="8.6"/><tag k="addr:city" v="Tigard"/><tag k="addr:postcode" v="97223"/><tag k="ele" v="95.0"/><tag k="addr:street" v="Southwest Roshak Road"/></way>
-<way id="-3951" visible="true"><nd ref="-3952"/><nd ref="-3953"/><nd ref="-3954"/><nd ref="-3955"/><nd ref="-3956"/><nd ref="-3957"/><nd ref="-3958"/><nd ref="-3959"/><nd ref="-3960"/><nd ref="-3961"/><nd ref="-3952"/><tag k="addr:housenumber" v="15905"/><tag k="building" v="yes"/><tag k="height" v="5.6"/><tag k="addr:city" v="Tigard"/><tag k="addr:postcode" v="97224"/><tag k="ele" v="137.0"/><tag k="addr:street" v="Southwest Roshak Road"/></way>
-<way id="-3962" visible="true"><nd ref="-3963"/><nd ref="-3964"/><nd ref="-3965"/><nd ref="-3966"/><nd ref="-3967"/><nd ref="-3968"/><nd ref="-3963"/><tag k="addr:housenumber" v="15919"/><tag k="building" v="yes"/><tag k="height" v="9.6"/><tag k="addr:city" v="Tigard"/><tag k="addr:postcode" v="97224"/><tag k="ele" v="133.8"/><tag k="addr:street" v="Southwest Roshak Road"/></way>
-<way id="-3969" visible="true"><nd ref="-3970"/><nd ref="-3971"/><nd ref="-3972"/><nd ref="-3973"/><nd ref="-3974"/><nd ref="-3975"/><nd ref="-3976"/><nd ref="-3977"/><nd ref="-3970"/><tag k="addr:housenumber" v="15960"/><tag k="building" v="yes"/><tag k="height" v="5.3"/><tag k="addr:city" v="Tigard"/><tag k="addr:postcode" v="97224"/><tag k="ele" v="125.8"/><tag k="addr:street" v="Southwest Roshak Road"/></way>
-<way id="-3978" visible="true"><nd ref="-3979"/><nd ref="-3980"/><nd ref="-3981"/><nd ref="-3982"/><nd ref="-3983"/><nd ref="-3984"/><nd ref="-3979"/><tag k="addr:housenumber" v="15995"/><tag k="building" v="yes"/><tag k="height" v="6.6"/><tag k="addr:city" v="Tigard"/><tag k="addr:postcode" v="97224"/><tag k="ele" v="125.9"/><tag k="addr:street" v="Southwest Roshak Road"/></way>
+<way id="-3951" visible="true"><nd ref="-3952"/><nd ref="-3953"/><nd ref="-3954"/><nd ref="-3955"/><nd ref="-3956"/><nd ref="-3957"/><nd ref="-3958"/><nd ref="-3959"/><nd ref="-3960"/><nd ref="-3961"/><nd ref="-3952"/><tag k="addr:housenumber" v="15905"/><tag k="building" v="yes"/><tag k="height" v="5.6"/><tag k="addr:city" v="Tigard"/><tag k="addr:postcode" v="97223"/><tag k="ele" v="137.0"/><tag k="addr:street" v="Southwest Roshak Road"/></way>
+<way id="-3962" visible="true"><nd ref="-3963"/><nd ref="-3964"/><nd ref="-3965"/><nd ref="-3966"/><nd ref="-3967"/><nd ref="-3968"/><nd ref="-3963"/><tag k="addr:housenumber" v="15919"/><tag k="building" v="yes"/><tag k="height" v="9.6"/><tag k="addr:city" v="Tigard"/><tag k="addr:postcode" v="97223"/><tag k="ele" v="133.8"/><tag k="addr:street" v="Southwest Roshak Road"/></way>
+<way id="-3969" visible="true"><nd ref="-3970"/><nd ref="-3971"/><nd ref="-3972"/><nd ref="-3973"/><nd ref="-3974"/><nd ref="-3975"/><nd ref="-3976"/><nd ref="-3977"/><nd ref="-3970"/><tag k="addr:housenumber" v="15960"/><tag k="building" v="yes"/><tag k="height" v="5.3"/><tag k="addr:city" v="Tigard"/><tag k="addr:postcode" v="97223"/><tag k="ele" v="125.8"/><tag k="addr:street" v="Southwest Roshak Road"/></way>
+<way id="-3978" visible="true"><nd ref="-3979"/><nd ref="-3980"/><nd ref="-3981"/><nd ref="-3982"/><nd ref="-3983"/><nd ref="-3984"/><nd ref="-3979"/><tag k="addr:housenumber" v="15995"/><tag k="building" v="yes"/><tag k="height" v="6.6"/><tag k="addr:city" v="Tigard"/><tag k="addr:postcode" v="97223"/><tag k="ele" v="125.9"/><tag k="addr:street" v="Southwest Roshak Road"/></way>
 <way id="-3985" visible="true"><nd ref="-3986"/><nd ref="-3987"/><nd ref="-3988"/><nd ref="-3989"/><nd ref="-3990"/><nd ref="-3991"/><nd ref="-3992"/><nd ref="-3993"/><nd ref="-3986"/><tag k="addr:housenumber" v="16139"/><tag k="building" v="yes"/><tag k="height" v="8.1"/><tag k="addr:city" v="Tigard"/><tag k="addr:postcode" v="97223"/><tag k="ele" v="115.9"/><tag k="addr:street" v="Southwest Roshak Road"/></way>
 <way id="-3994" visible="true"><nd ref="-3995"/><nd ref="-3996"/><nd ref="-3997"/><nd ref="-3998"/><nd ref="-3995"/><tag k="addr:housenumber" v="16146"/><tag k="building" v="yes"/><tag k="height" v="7.9"/><tag k="addr:city" v="Tigard"/><tag k="addr:postcode" v="97223"/><tag k="ele" v="115.0"/><tag k="addr:street" v="Southwest Roshak Road"/></way>
 <way id="-3999" visible="true"><nd ref="-4000"/><nd ref="-4001"/><nd ref="-4002"/><nd ref="-4003"/><nd ref="-4004"/><nd ref="-4005"/><nd ref="-4006"/><nd ref="-4007"/><nd ref="-4008"/><nd ref="-4009"/><nd ref="-4010"/><nd ref="-4011"/><nd ref="-4000"/><tag k="addr:housenumber" v="16161"/><tag k="building" v="yes"/><tag k="height" v="7.5"/><tag k="addr:city" v="Tigard"/><tag k="addr:postcode" v="97223"/><tag k="ele" v="114.6"/><tag k="addr:street" v="Southwest Roshak Road"/></way>
@@ -6232,14 +6232,14 @@
 <way id="-4960" visible="true"><nd ref="-4961"/><nd ref="-4962"/><nd ref="-4963"/><nd ref="-4964"/><nd ref="-4965"/><nd ref="-4966"/><nd ref="-4967"/><nd ref="-4968"/><nd ref="-4969"/><nd ref="-4970"/><nd ref="-4971"/><nd ref="-4972"/><nd ref="-4961"/><tag k="addr:housenumber" v="13083"/><tag k="building" v="yes"/><tag k="height" v="7.8"/><tag k="addr:city" v="Tigard"/><tag k="addr:postcode" v="97223"/><tag k="ele" v="86.2"/><tag k="addr:street" v="Southwest Tearose Way"/></way>
 <way id="-4973" visible="true"><nd ref="-4974"/><nd ref="-4975"/><nd ref="-4976"/><nd ref="-4977"/><nd ref="-4978"/><nd ref="-4979"/><nd ref="-4974"/><tag k="addr:housenumber" v="13086"/><tag k="building" v="yes"/><tag k="height" v="5.7"/><tag k="addr:city" v="Tigard"/><tag k="addr:postcode" v="97223"/><tag k="ele" v="85.7"/><tag k="addr:street" v="Southwest Tearose Way"/></way>
 <way id="-4980" visible="true"><nd ref="-4981"/><nd ref="-4982"/><nd ref="-4983"/><nd ref="-4984"/><nd ref="-4985"/><nd ref="-4986"/><nd ref="-4987"/><nd ref="-4988"/><nd ref="-4981"/><tag k="addr:housenumber" v="13089"/><tag k="building" v="yes"/><tag k="height" v="5.0"/><tag k="addr:city" v="Tigard"/><tag k="addr:postcode" v="97223"/><tag k="ele" v="85.7"/><tag k="addr:street" v="Southwest Tearose Way"/></way>
-<way id="-4989" visible="true"><nd ref="-4990"/><nd ref="-4991"/><nd ref="-4992"/><nd ref="-4993"/><nd ref="-4994"/><nd ref="-4995"/><nd ref="-4996"/><nd ref="-4997"/><nd ref="-4998"/><nd ref="-4999"/><nd ref="-4990"/><tag k="addr:housenumber" v="15789"/><tag k="building" v="yes"/><tag k="addr:city" v="Tigard"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="97223"/><tag k="ele" v="113.6"/><tag k="addr:street" v="Southwest Tuscany Street"/></way>
-<way id="-5000" visible="true"><nd ref="-5001"/><nd ref="-5002"/><nd ref="-5003"/><nd ref="-5004"/><nd ref="-5005"/><nd ref="-5006"/><nd ref="-5001"/><tag k="addr:housenumber" v="15803"/><tag k="building" v="yes"/><tag k="addr:city" v="Tigard"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="97223"/><tag k="ele" v="111.6"/><tag k="addr:street" v="Southwest Tuscany Street"/></way>
-<way id="-5007" visible="true"><nd ref="-5008"/><nd ref="-5009"/><nd ref="-5010"/><nd ref="-5011"/><nd ref="-5012"/><nd ref="-5013"/><nd ref="-5014"/><nd ref="-5015"/><nd ref="-5016"/><nd ref="-5017"/><nd ref="-5008"/><tag k="addr:housenumber" v="15815"/><tag k="addr:postcode" v="97223"/><tag k="building" v="yes"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Tuscany Street"/></way>
-<way id="-5018" visible="true"><nd ref="-5019"/><nd ref="-5020"/><nd ref="-5021"/><nd ref="-5022"/><nd ref="-5019"/><tag k="addr:housenumber" v="15827"/><tag k="addr:postcode" v="97223"/><tag k="building" v="yes"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Tuscany Street"/></way>
-<way id="-5023" visible="true"><nd ref="-5024"/><nd ref="-5025"/><nd ref="-5026"/><nd ref="-5027"/><nd ref="-5024"/><tag k="addr:housenumber" v="15839"/><tag k="building" v="yes"/><tag k="addr:city" v="Tigard"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="97223"/><tag k="ele" v="112.1"/><tag k="addr:street" v="Southwest Tuscany Street"/></way>
-<way id="-5028" visible="true"><nd ref="-5029"/><nd ref="-5030"/><nd ref="-5031"/><nd ref="-5032"/><nd ref="-5033"/><nd ref="-5034"/><nd ref="-5035"/><nd ref="-5036"/><nd ref="-5029"/><tag k="addr:housenumber" v="15853"/><tag k="building" v="yes"/><tag k="addr:city" v="Tigard"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="97223"/><tag k="ele" v="112.1"/><tag k="addr:street" v="Southwest Tuscany Street"/></way>
-<way id="-5037" visible="true"><nd ref="-5038"/><nd ref="-5039"/><nd ref="-5040"/><nd ref="-5041"/><nd ref="-5038"/><tag k="addr:housenumber" v="15865"/><tag k="building" v="yes"/><tag k="addr:city" v="Tigard"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="97223"/><tag k="ele" v="111.9"/><tag k="addr:street" v="Southwest Tuscany Street"/></way>
-<way id="-5042" visible="true"><nd ref="-5043"/><nd ref="-5044"/><nd ref="-5045"/><nd ref="-5046"/><nd ref="-5047"/><nd ref="-5048"/><nd ref="-5049"/><nd ref="-5050"/><nd ref="-5051"/><nd ref="-5052"/><nd ref="-5053"/><nd ref="-5054"/><nd ref="-5043"/><tag k="addr:housenumber" v="15871"/><tag k="building" v="yes"/><tag k="height" v="10.4"/><tag k="addr:city" v="Tigard"/><tag k="addr:postcode" v="97223"/><tag k="ele" v="112.3"/><tag k="addr:street" v="Southwest Tuscany Street"/></way>
+<way id="-4989" visible="true"><nd ref="-4990"/><nd ref="-4991"/><nd ref="-4992"/><nd ref="-4993"/><nd ref="-4994"/><nd ref="-4995"/><nd ref="-4996"/><nd ref="-4997"/><nd ref="-4998"/><nd ref="-4999"/><nd ref="-4990"/><tag k="addr:housenumber" v="15789"/><tag k="building" v="yes"/><tag k="addr:city" v="Tigard"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="97224"/><tag k="ele" v="113.6"/><tag k="addr:street" v="Southwest Tuscany Street"/></way>
+<way id="-5000" visible="true"><nd ref="-5001"/><nd ref="-5002"/><nd ref="-5003"/><nd ref="-5004"/><nd ref="-5005"/><nd ref="-5006"/><nd ref="-5001"/><tag k="addr:housenumber" v="15803"/><tag k="building" v="yes"/><tag k="addr:city" v="Tigard"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="97224"/><tag k="ele" v="111.6"/><tag k="addr:street" v="Southwest Tuscany Street"/></way>
+<way id="-5007" visible="true"><nd ref="-5008"/><nd ref="-5009"/><nd ref="-5010"/><nd ref="-5011"/><nd ref="-5012"/><nd ref="-5013"/><nd ref="-5014"/><nd ref="-5015"/><nd ref="-5016"/><nd ref="-5017"/><nd ref="-5008"/><tag k="addr:housenumber" v="15815"/><tag k="addr:postcode" v="97224"/><tag k="building" v="yes"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Tuscany Street"/></way>
+<way id="-5018" visible="true"><nd ref="-5019"/><nd ref="-5020"/><nd ref="-5021"/><nd ref="-5022"/><nd ref="-5019"/><tag k="addr:housenumber" v="15827"/><tag k="addr:postcode" v="97224"/><tag k="building" v="yes"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Tuscany Street"/></way>
+<way id="-5023" visible="true"><nd ref="-5024"/><nd ref="-5025"/><nd ref="-5026"/><nd ref="-5027"/><nd ref="-5024"/><tag k="addr:housenumber" v="15839"/><tag k="building" v="yes"/><tag k="addr:city" v="Tigard"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="97224"/><tag k="ele" v="112.1"/><tag k="addr:street" v="Southwest Tuscany Street"/></way>
+<way id="-5028" visible="true"><nd ref="-5029"/><nd ref="-5030"/><nd ref="-5031"/><nd ref="-5032"/><nd ref="-5033"/><nd ref="-5034"/><nd ref="-5035"/><nd ref="-5036"/><nd ref="-5029"/><tag k="addr:housenumber" v="15853"/><tag k="building" v="yes"/><tag k="addr:city" v="Tigard"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="97224"/><tag k="ele" v="112.1"/><tag k="addr:street" v="Southwest Tuscany Street"/></way>
+<way id="-5037" visible="true"><nd ref="-5038"/><nd ref="-5039"/><nd ref="-5040"/><nd ref="-5041"/><nd ref="-5038"/><tag k="addr:housenumber" v="15865"/><tag k="building" v="yes"/><tag k="addr:city" v="Tigard"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="97224"/><tag k="ele" v="111.9"/><tag k="addr:street" v="Southwest Tuscany Street"/></way>
+<way id="-5042" visible="true"><nd ref="-5043"/><nd ref="-5044"/><nd ref="-5045"/><nd ref="-5046"/><nd ref="-5047"/><nd ref="-5048"/><nd ref="-5049"/><nd ref="-5050"/><nd ref="-5051"/><nd ref="-5052"/><nd ref="-5053"/><nd ref="-5054"/><nd ref="-5043"/><tag k="addr:housenumber" v="15871"/><tag k="building" v="yes"/><tag k="height" v="10.4"/><tag k="addr:city" v="Tigard"/><tag k="addr:postcode" v="97224"/><tag k="ele" v="112.3"/><tag k="addr:street" v="Southwest Tuscany Street"/></way>
 <way id="-5055" visible="true"><nd ref="-5056"/><nd ref="-5057"/><nd ref="-5058"/><nd ref="-5059"/><nd ref="-5056"/><tag k="addr:housenumber" v="15883"/><tag k="building" v="yes"/><tag k="height" v="9.6"/><tag k="addr:city" v="Tigard"/><tag k="addr:postcode" v="97223"/><tag k="ele" v="110.9"/><tag k="addr:street" v="Southwest Tuscany Street"/></way>
 <way id="-5060" visible="true"><nd ref="-5061"/><nd ref="-5062"/><nd ref="-5063"/><nd ref="-5064"/><nd ref="-5061"/><tag k="addr:housenumber" v="15895"/><tag k="building" v="yes"/><tag k="height" v="11.6"/><tag k="addr:city" v="Tigard"/><tag k="addr:postcode" v="97223"/><tag k="ele" v="109.9"/><tag k="addr:street" v="Southwest Tuscany Street"/></way>
 <way id="-5065" visible="true"><nd ref="-5066"/><nd ref="-5067"/><nd ref="-5068"/><nd ref="-5069"/><nd ref="-5070"/><nd ref="-5071"/><nd ref="-5072"/><nd ref="-5073"/><nd ref="-5066"/><tag k="addr:housenumber" v="15901"/><tag k="building" v="yes"/><tag k="height" v="11.9"/><tag k="addr:city" v="Tigard"/><tag k="addr:postcode" v="97223"/><tag k="ele" v="108.8"/><tag k="addr:street" v="Southwest Tuscany Street"/></way>
@@ -6415,11 +6415,11 @@
 <way id="-6365" visible="true"><nd ref="-6366"/><nd ref="-6367"/><nd ref="-6368"/><nd ref="-6369"/><nd ref="-6370"/><nd ref="-6371"/><nd ref="-6372"/><nd ref="-6373"/><nd ref="-6366"/><tag k="addr:housenumber" v="13295"/><tag k="building" v="yes"/><tag k="height" v="7.1"/><tag k="addr:city" v="Tigard"/><tag k="addr:postcode" v="97223"/><tag k="ele" v="91.3"/><tag k="addr:street" v="Southwest Yarrow Way"/></way>
 <way id="-6374" visible="true"><nd ref="-6375"/><nd ref="-6376"/><nd ref="-6377"/><nd ref="-6378"/><nd ref="-6379"/><nd ref="-6380"/><nd ref="-6381"/><nd ref="-6382"/><nd ref="-6375"/><tag k="addr:housenumber" v="13298"/><tag k="building" v="yes"/><tag k="height" v="5.3"/><tag k="addr:city" v="Tigard"/><tag k="addr:postcode" v="97223"/><tag k="ele" v="92.7"/><tag k="addr:street" v="Southwest Yarrow Way"/></way>
 <way id="-6383" visible="true"><nd ref="-6384"/><nd ref="-6385"/><nd ref="-6386"/><nd ref="-6387"/><nd ref="-6384"/><tag k="building" v="yes"/></way>
-<way id="-6388" visible="true"><nd ref="-6389"/><nd ref="-6390"/><nd ref="-6391"/><nd ref="-6392"/><nd ref="-6389"/><tag k="building" v="yes"/></way>
-<way id="-6393" visible="true"><nd ref="-6394"/><nd ref="-6395"/><nd ref="-6396"/><nd ref="-6397"/><nd ref="-6394"/><tag k="building" v="yes"/><tag k="height" v="3.4"/><tag k="ele" v="89.6"/></way>
-<way id="-6398" visible="true"><nd ref="-6399"/><nd ref="-6400"/><nd ref="-6401"/><nd ref="-6402"/><nd ref="-6399"/><tag k="building" v="yes"/></way>
-<way id="-6403" visible="true"><nd ref="-6404"/><nd ref="-6405"/><nd ref="-6406"/><nd ref="-6407"/><nd ref="-6404"/><tag k="building" v="yes"/><tag k="height" v="6.7"/><tag k="ele" v="94.1"/></way>
-<way id="-6408" visible="true"><nd ref="-6409"/><nd ref="-6410"/><nd ref="-6411"/><nd ref="-6412"/><nd ref="-6409"/><tag k="building" v="yes"/><tag k="height" v="3.1"/><tag k="ele" v="96.4"/></way>
-<way id="-6413" visible="true"><nd ref="-6414"/><nd ref="-6415"/><nd ref="-6416"/><nd ref="-6417"/><nd ref="-6414"/><tag k="building" v="yes"/></way>
-<way id="-6418" visible="true"><nd ref="-6419"/><nd ref="-6420"/><nd ref="-6421"/><nd ref="-6422"/><nd ref="-6419"/><tag k="building" v="yes"/><tag k="height" v="5.0"/><tag k="ele" v="134.4"/></way>
+<way id="-6388" visible="true"><nd ref="-6389"/><nd ref="-6390"/><nd ref="-6391"/><nd ref="-6392"/><nd ref="-6389"/><tag k="building" v="yes"/><tag k="height" v="3.4"/><tag k="ele" v="89.6"/></way>
+<way id="-6393" visible="true"><nd ref="-6394"/><nd ref="-6395"/><nd ref="-6396"/><nd ref="-6397"/><nd ref="-6394"/><tag k="building" v="yes"/><tag k="height" v="3.1"/><tag k="ele" v="96.4"/></way>
+<way id="-6398" visible="true"><nd ref="-6399"/><nd ref="-6400"/><nd ref="-6401"/><nd ref="-6402"/><nd ref="-6399"/><tag k="building" v="yes"/><tag k="height" v="5.0"/><tag k="ele" v="134.4"/></way>
+<way id="-6403" visible="true"><nd ref="-6404"/><nd ref="-6405"/><nd ref="-6406"/><nd ref="-6407"/><nd ref="-6404"/><tag k="building" v="yes"/></way>
+<way id="-6408" visible="true"><nd ref="-6409"/><nd ref="-6410"/><nd ref="-6411"/><nd ref="-6412"/><nd ref="-6409"/><tag k="building" v="yes"/></way>
+<way id="-6413" visible="true"><nd ref="-6414"/><nd ref="-6415"/><nd ref="-6416"/><nd ref="-6417"/><nd ref="-6414"/><tag k="building" v="yes"/><tag k="height" v="6.7"/><tag k="ele" v="94.1"/></way>
+<way id="-6418" visible="true"><nd ref="-6419"/><nd ref="-6420"/><nd ref="-6421"/><nd ref="-6422"/><nd ref="-6419"/><tag k="building" v="yes"/></way>
 </osm>

@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.343146381" lon="-122.603870566" visible="true"><tag k="addr:housenumber" v="409"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Eastfield Drive"/></node>
-<node id="-2" lat="45.343146723" lon="-122.603739904" visible="true"><tag k="addr:housenumber" v="411"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Eastfield Drive"/></node>
-<node id="-3" lat="45.342156227" lon="-122.604349568" visible="true"><tag k="addr:housenumber" v="413"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Holmes Lane"/></node>
-<node id="-4" lat="45.342162457" lon="-122.604279037" visible="true"><tag k="addr:housenumber" v="415"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Holmes Lane"/></node>
-<node id="-5" lat="45.339989832" lon="-122.604727989" visible="true"><tag k="addr:housenumber" v="1101"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Linn Avenue"/></node>
-<node id="-6" lat="45.339980255" lon="-122.604634421" visible="true"><tag k="addr:housenumber" v="1103"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Linn Avenue"/></node>
+<node id="-1" lat="45.343139999" lon="-122.603863681" visible="true"><tag k="addr:housenumber" v="409"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Eastfield Drive"/></node>
+<node id="-2" lat="45.343146842" lon="-122.603734973" visible="true"><tag k="addr:housenumber" v="411"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Eastfield Drive"/></node>
+<node id="-3" lat="45.342156838" lon="-122.604349073" visible="true"><tag k="addr:housenumber" v="413"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Holmes Lane"/></node>
+<node id="-4" lat="45.342164926" lon="-122.604281769" visible="true"><tag k="addr:housenumber" v="415"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Holmes Lane"/></node>
+<node id="-5" lat="45.339990651" lon="-122.604730094" visible="true"><tag k="addr:housenumber" v="1101"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Linn Avenue"/></node>
+<node id="-6" lat="45.339977406" lon="-122.604636764" visible="true"><tag k="addr:housenumber" v="1103"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Linn Avenue"/></node>
 </osm>

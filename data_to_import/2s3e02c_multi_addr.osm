@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.442758409" lon="-122.40667707" visible="true"><tag k="addr:housenumber" v="25070"/><tag k="addr:postcode" v="97089"/><tag k="addr:city" v="Damascus"/><tag k="addr:street" v="Southeast Sunshine Valley Road"/></node>
-<node id="-2" lat="45.442758617" lon="-122.406674849" visible="true"><tag k="addr:housenumber" v="25080"/><tag k="addr:postcode" v="97089"/><tag k="addr:city" v="Damascus"/><tag k="addr:street" v="Southeast Sunshine Valley Road"/></node>
+<node id="-1" lat="45.442764783" lon="-122.406667923" visible="true"><tag k="addr:housenumber" v="25070"/><tag k="addr:postcode" v="97089"/><tag k="addr:city" v="Damascus"/><tag k="addr:street" v="Southeast Sunshine Valley Road"/></node>
+<node id="-2" lat="45.442764265" lon="-122.406674796" visible="true"><tag k="addr:housenumber" v="25080"/><tag k="addr:postcode" v="97089"/><tag k="addr:city" v="Damascus"/><tag k="addr:street" v="Southeast Sunshine Valley Road"/></node>
 </osm>

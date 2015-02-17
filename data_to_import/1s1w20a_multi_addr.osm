@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.469580526" lon="-122.831881262" visible="true"><tag k="addr:housenumber" v="15142"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Barcelona Way"/></node>
-<node id="-2" lat="45.469510722" lon="-122.83192555" visible="true"><tag k="addr:housenumber" v="15146"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Barcelona Way"/></node>
-<node id="-3" lat="45.469344783" lon="-122.832017389" visible="true"><tag k="addr:housenumber" v="15150"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Barcelona Way"/></node>
-<node id="-4" lat="45.4693419" lon="-122.832107261" visible="true"><tag k="addr:housenumber" v="15152"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Barcelona Way"/></node>
-<node id="-5" lat="45.47483444" lon="-122.832024672" visible="true"><tag k="addr:housenumber" v="15055"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Davis Road"/></node>
-<node id="-6" lat="45.47490587" lon="-122.832030835" visible="true"><tag k="addr:housenumber" v="15057"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Davis Road"/></node>
-<node id="-7" lat="45.475035484" lon="-122.832028383" visible="true"><tag k="addr:housenumber" v="15065"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Davis Road"/></node>
-<node id="-8" lat="45.475094624" lon="-122.832024737" visible="true"><tag k="addr:housenumber" v="15067"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Davis Road"/></node>
+<node id="-1" lat="45.537148899" lon="-122.857547176" visible="true"><tag k="addr:housenumber" v="15142"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Barcelona Way"/></node>
+<node id="-2" lat="45.470442249" lon="-122.784343752" visible="true"><tag k="addr:housenumber" v="15146"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Barcelona Way"/></node>
+<node id="-3" lat="45.46991695" lon="-122.803079121" visible="true"><tag k="addr:housenumber" v="15150"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Barcelona Way"/></node>
+<node id="-4" lat="45.5371267" lon="-122.858715461" visible="true"><tag k="addr:housenumber" v="15152"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Barcelona Way"/></node>
+<node id="-5" lat="45.47558927" lon="-122.793755923" visible="true"><tag k="addr:housenumber" v="15055"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Davis Road"/></node>
+<node id="-6" lat="45.475063729" lon="-122.823687731" visible="true"><tag k="addr:housenumber" v="15057"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Davis Road"/></node>
+<node id="-7" lat="45.475058307" lon="-122.832046907" visible="true"><tag k="addr:housenumber" v="15065"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Davis Road"/></node>
+<node id="-8" lat="45.475059462" lon="-122.83204157" visible="true"><tag k="addr:housenumber" v="15067"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Davis Road"/></node>
 </osm>

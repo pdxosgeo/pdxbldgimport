@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.337922334" lon="-122.603680768" visible="true"><tag k="addr:housenumber" v="1225"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Johnson Street"/></node>
-<node id="-2" lat="45.337920941" lon="-122.603560995" visible="true"><tag k="addr:housenumber" v="1227"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Johnson Street"/></node>
-<node id="-3" lat="45.337780479" lon="-122.603572615" visible="true"><tag k="addr:housenumber" v="1229"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Johnson Street"/></node>
-<node id="-4" lat="45.337786565" lon="-122.60367593" visible="true"><tag k="addr:housenumber" v="1231"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Johnson Street"/></node>
-<node id="-5" lat="45.337125813" lon="-122.607385365" visible="true"><tag k="addr:housenumber" v="674"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Warner Parrott Road"/></node>
-<node id="-6" lat="45.337126548" lon="-122.607233137" visible="true"><tag k="addr:housenumber" v="678"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Warner Parrott Road"/></node>
+<node id="-1" lat="45.337917714" lon="-122.603673551" visible="true"><tag k="addr:housenumber" v="1225"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Johnson Street"/></node>
+<node id="-2" lat="45.337915071" lon="-122.603562978" visible="true"><tag k="addr:housenumber" v="1227"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Johnson Street"/></node>
+<node id="-3" lat="45.33778324" lon="-122.60357469" visible="true"><tag k="addr:housenumber" v="1229"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Johnson Street"/></node>
+<node id="-4" lat="45.337780338" lon="-122.603674896" visible="true"><tag k="addr:housenumber" v="1231"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Johnson Street"/></node>
+<node id="-5" lat="45.337125612" lon="-122.607383566" visible="true"><tag k="addr:housenumber" v="674"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Warner Parrott Road"/></node>
+<node id="-6" lat="45.33713243" lon="-122.607227892" visible="true"><tag k="addr:housenumber" v="678"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Warner Parrott Road"/></node>
 </osm>

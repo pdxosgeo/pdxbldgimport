@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.400860906" lon="-122.661745555" visible="true"><tag k="addr:housenumber" v="1515"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Glenmorrie Drive"/></node>
-<node id="-2" lat="45.400795047" lon="-122.661632304" visible="true"><tag k="addr:housenumber" v="1517"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Glenmorrie Drive"/></node>
-<node id="-3" lat="45.398511069" lon="-122.635044001" visible="true"><tag k="addr:housenumber" v="2700"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Cooke Road"/></node>
-<node id="-4" lat="45.39850772" lon="-122.635044083" visible="true"><tag k="addr:housenumber" v="2726"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Cooke Road"/></node>
-<node id="-5" lat="45.403412628" lon="-122.642320632" visible="true"><tag k="addr:housenumber" v="1990"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Mulberry Drive"/></node>
-<node id="-6" lat="45.403410342" lon="-122.642323722" visible="true"><tag k="addr:housenumber" v="2000"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Mulberry Drive"/></node>
+<node id="-1" lat="45.400857476" lon="-122.661753419" visible="true"><tag k="addr:housenumber" v="1515"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Glenmorrie Drive"/></node>
+<node id="-2" lat="45.400796377" lon="-122.661627855" visible="true"><tag k="addr:housenumber" v="1517"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Glenmorrie Drive"/></node>
+<node id="-3" lat="45.398508672" lon="-122.635047247" visible="true"><tag k="addr:housenumber" v="2700"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Cooke Road"/></node>
+<node id="-4" lat="45.398510166" lon="-122.635043769" visible="true"><tag k="addr:housenumber" v="2726"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Cooke Road"/></node>
+<node id="-5" lat="45.403410912" lon="-122.642316134" visible="true"><tag k="addr:housenumber" v="1990"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Mulberry Drive"/></node>
+<node id="-6" lat="45.403412951" lon="-122.64231714" visible="true"><tag k="addr:housenumber" v="2000"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Mulberry Drive"/></node>
 </osm>
