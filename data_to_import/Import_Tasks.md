@@ -458,10 +458,10 @@ If there is no multi_address file, then it was empty and not included here.
 - [ ] 3s1e12a
 - [ ] 3s1e12b
 - [ ] 3s1e19d
-- [ ] 3s1e21c
-- [ ] 3s1e22c
+- [x] 3s1e21c 28922710
+- [x] 3s1e22c 28920947
 - [ ] 3s1e23d
-- [ ] 3s1e33c
+- [x] 3s1e33c 28921194
 - [X] 3s1e34c 28406592
 - [X] 3s1e36c 28693738
 - [X] 3s1w01d 28894253,28894412
