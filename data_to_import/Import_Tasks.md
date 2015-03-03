@@ -51,8 +51,8 @@ If there is no multi_address file, then it was empty and not included here.
 - [x] 1n2w22c Complete (Peter) [changeset 28476825](http://www.openstreetmap.org/changeset/28476825)
 - [x] 1n2w23c Complete (Peter) [changeset 28900979](http://www.openstreetmap.org/changeset/28900979)
 - [x] 1n2w23d Complete (Peter) [changeset 28901050](http://www.openstreetmap.org/changeset/28901050)
-- [ ] 1n2w24c
-- [ ] 1n2w24d
+- [ ] 1n2w24c In Progress (Peter)
+- [ ] 1n2w24d In Progress (Peter)
 - [ ] 1n2w25c
 - [ ] 1n2w29c
 - [ ] 1n2w30a
