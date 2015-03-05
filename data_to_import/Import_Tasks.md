@@ -123,9 +123,9 @@ If there is no multi_address file, then it was empty and not included here.
 - [x] 1s1w12b Complete (Peter) [changeset 29244981](http://www.openstreetmap.org/changeset/29244981)
 - [x] 1s1w13b Complete (Peter) [changeset 29245176](http://www.openstreetmap.org/changeset/29245176)
 - [x] 1s1w13c Complete (Peter) [changeset 29245367](http://www.openstreetmap.org/changeset/29245367)
-- [ ] 1s1w14a
-- [ ] 1s1w14b
-- [ ] 1s1w14d
+- [ ] 1s1w14a In Progress (Peter)
+- [ ] 1s1w14b In Progress (Peter)
+- [ ] 1s1w14d In Progress (Peter)
 - [x] 1s1w15b Complete (Peter) [changeset 28719929](http://www.openstreetmap.org/changeset/28719929)
 - [x] 1s1w15c Complete (Peter) [changeset 28720025](http://www.openstreetmap.org/changeset/28720025)
 - [ ] 1s1w16b
