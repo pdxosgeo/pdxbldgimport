@@ -133,12 +133,12 @@ If there is no multi_address file, then it was empty and not included here.
 - [ ] 1s1w16d 1s1w16d_multi_addr.osm has incorrect locations for addresses on Southwest 5th Street, Southwest Viking Court, Southwest Erickson Avenue, Southwest Hall Boulevard, Southwest Stott Avenue, and Southwest Main Avenue (See [issue #28](../../../issues/28))
 - [x] 1s1w17c Complete (Peter) [changeset 30847254](http://www.openstreetmap.org/changeset/30847254)
 - [ ] 1s1w17d 1s1w17d_multi_addr.osm has incorrect locations for addresses on Southwest 6th Street (See [issue #28](../../../issues/28))
-- [ ] 1s1w18a In Progress (Peter)
-- [ ] 1s1w18b In Progress (Peter)
-- [ ] 1s1w19a In Progress (Peter)
-- [ ] 1s1w19b In Progress (Peter)
-- [ ] 1s1w19c In Progress (Peter)
-- [ ] 1s1w19d In Progress (Peter)
+- [x] 1s1w18a Complete (Peter) [changeset 30849641](http://www.openstreetmap.org/changeset/30849641)
+- [x] 1s1w18b Complete (Peter) [changeset 30849904](http://www.openstreetmap.org/changeset/30849904)
+- [ ] 1s1w19a contains a lot of duplicate data because [OSM user emem](http://www.openstreetmap.org/user/emem) has imported part of this ad-hoc in [changeset 30242159](http://www.openstreetmap.org/changeset/30242159) 
+- [x] 1s1w19b Complete (Peter) [changeset 30850370](http://www.openstreetmap.org/changeset/30850370)
+- [x] 1s1w19c Complete (Peter) [changeset 30850648](http://www.openstreetmap.org/changeset/30850648)
+- [ ] 1s1w19d contains a lot of duplicate data because [OSM user emem](http://www.openstreetmap.org/user/emem) has imported part of this ad-hoc in [changeset 30242159](http://www.openstreetmap.org/changeset/30242159) 
 - [ ] 1s1w20a
 - [ ] 1s1w20b
 - [ ] 1s1w20c
