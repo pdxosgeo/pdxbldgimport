@@ -139,9 +139,9 @@ If there is no multi_address file, then it was empty and not included here.
 - [x] 1s1w19b Complete (Peter) [changeset 30850370](http://www.openstreetmap.org/changeset/30850370)
 - [x] 1s1w19c Complete (Peter) [changeset 30850648](http://www.openstreetmap.org/changeset/30850648)
 - [ ] 1s1w19d contains a lot of duplicate data because [OSM user emem](http://www.openstreetmap.org/user/emem) has imported part of this ad-hoc in [changeset 30242159](http://www.openstreetmap.org/changeset/30242159) 
-- [ ] 1s1w20a In Progress (Peter)
-- [ ] 1s1w20b In Progress (Peter)
-- [ ] 1s1w20c In Progress (Peter)
+- [ ] 1s1w20a 1s1w20a_multi_addr.osm has incorrect locations for addresses on Southwest Davis Road and Southwest Barcelona Way (See [issue #28](../../../issues/28))
+- [ ] 1s1w20b contains a lot of duplicate data because [OSM user emem](http://www.openstreetmap.org/user/emem) has imported part of this ad-hoc in [changeset 30242159](http://www.openstreetmap.org/changeset/30242159) 
+- [ ] 1s1w20c 1s1w20c_multi_addr.osm has incorrect locations for addresses on Southwest Misty Court (See [issue #28](../../../issues/28))
 - [ ] 1s1w21a
 - [ ] 1s1w21b
 - [ ] 1s1w21c
