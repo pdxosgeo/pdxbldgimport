@@ -146,9 +146,9 @@ If there is no multi_address file, then it was empty and not included here.
 - [ ] 1s1w21b 1s1w21b_multi_addr.osm has incorrect locations for addresses on Southwest 17th Street, Southwest Barlow Road, Southwest Daphne Street, Southwest 20th Street, Southwest Cherryhill Drive, Southwest Shannon Court, Southwest 144th Place, and Southwest 22nd Street (See [issue #28](../../../issues/28))
 - [ ] 1s1w21c 1s1w21c_multi_addr.osm has incorrect locations for addresses on Southwest Barlow Road (See [issue #28](../../../issues/28))
 - [x] 1s1w21d Complete (Peter) [changeset 30884529](http://www.openstreetmap.org/changeset/30884529)
-- [ ] 1s1w22b
-- [ ] 1s1w22c
-- [ ] 1s1w23b
+- [ ] 1s1w22b In Progress (Peter)
+- [ ] 1s1w22c In Progress (Peter)
+- [ ] 1s1w23b In Progress (Peter)
 - [ ] 1s1w25c
 - [ ] 1s1w26c
 - [ ] 1s1w26d
