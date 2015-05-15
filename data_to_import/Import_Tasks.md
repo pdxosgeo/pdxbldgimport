@@ -152,11 +152,11 @@ If there is no multi_address file, then it was empty and not included here.
 - [x] 1s1w25c Complete (Peter) [changeset 31112754](http://www.openstreetmap.org/changeset/31112754)
 - [ ] 1s1w26c 1s1w26c_multi_addr.osm has incorrect locations for addresses on Southwest Crystal Street, Southwest Bel Aire Lane, Southwest Bel Aire Drive and Southwest 103rd Avenue (See [issue #28](../../../issues/28))
 - [x] 1s1w26d Complete (Peter) [changeset 31113438](http://www.openstreetmap.org/changeset/31113438)
-- [ ] 1s1w27c
-- [ ] 1s1w28a
-- [ ] 1s1w28b
-- [ ] 1s1w28c
-- [ ] 1s1w28d
+- [ ] 1s1w27c In Progress (Peter)
+- [ ] 1s1w28a In Progress (Peter)
+- [ ] 1s1w28b In Progress (Peter)
+- [ ] 1s1w28c In Progress (Peter)
+- [ ] 1s1w28d In Progress (Peter)
 - [ ] 1s1w29b
 - [ ] 1s1w29c
 - [ ] 1s1w29d
