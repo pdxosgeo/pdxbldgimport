@@ -160,14 +160,14 @@ If there is no multi_address file, then it was empty and not included here.
 - [x] 1s1w29b Complete (Peter) [changeset 31202782](http://www.openstreetmap.org/changeset/31202782)
 - [x] 1s1w29c Complete (Peter) [changeset 31230440](http://www.openstreetmap.org/changeset/31230440)
 - [x] 1s1w29d Complete (Peter) [changeset 31230914](http://www.openstreetmap.org/changeset/31230914)
-- [ ] 1s1w30b In Progress (Peter)
-- [ ] 1s1w30d In Progress (Peter)
-- [ ] 1s1w32b In Progress (Peter)
-- [ ] 1s1w33a In Progress (Peter)
-- [ ] 1s1w33b In Progress (Peter)
-- [ ] 1s1w33d In Progress (Peter)
-- [ ] 1s1w34c In Progress (Peter)
-- [ ] 1s1w36b In Progress (Peter)
+- [x] 1s1w30b Complete (Peter) [changeset 31303863](http://www.openstreetmap.org/changeset/31303863)
+- [x] 1s1w30d Complete (Peter) [changeset 31303994](http://www.openstreetmap.org/changeset/31303994)
+- [x] 1s1w32b Complete (Peter) [changeset 31304181](http://www.openstreetmap.org/changeset/31304181)
+- [x] 1s1w33a Complete (Peter) [changeset 31304328](http://www.openstreetmap.org/changeset/31304328)
+- [x] 1s1w33b Complete (Peter) [changeset 31304496](http://www.openstreetmap.org/changeset/31304496)
+- [x] 1s1w33d Complete (Peter) [changeset 31304682](http://www.openstreetmap.org/changeset/31304682)
+- [x] 1s1w34c Complete (Peter) [changeset 31304800](http://www.openstreetmap.org/changeset/31304800)
+- [x] 1s1w36b Complete (Peter) [changeset 31304873](http://www.openstreetmap.org/changeset/31304873)
 - [ ] 1s2e26d
 - [ ] 1s2e27c
 - [ ] 1s2e29c
