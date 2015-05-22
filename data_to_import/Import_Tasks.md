@@ -180,7 +180,7 @@ If there is no multi_address file, then it was empty and not included here.
 - [x] 1s2w01a Complete (Peter) [changeset 31323488](http://www.openstreetmap.org/changeset/31323488)
 - [x] 1s2w01b Complete (Peter) [changeset 31323993](http://www.openstreetmap.org/changeset/31323993)
 - [x] 1s2w01c Complete (Peter) [changeset 31326300](http://www.openstreetmap.org/changeset/31326300)
-- [ ] 1s2w02a In Progress (Peter)
+- [x] 1s2w02a Complete (Peter) [changeset 31359967](http://www.openstreetmap.org/changeset/31359967)
 - [ ] 1s2w02b In Progress (Peter)
 - [ ] 1s2w02c In Progress (Peter)
 - [ ] 1s2w02d In Progress (Peter)
