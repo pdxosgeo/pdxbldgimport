@@ -386,9 +386,9 @@ If there is no multi_address file, then it was empty and not included here.
 - [ ] 2s2e12c
 - [ ] 2s2e12d
 - [ ] 2s2e15c
-- [ ] 2s2e17c In Progress (Peter)
-- [ ] 2s2e17d In Progress (Peter)
-- [ ] 2s2e18d In Progress (Peter)
+- [x] 2s2e17c Complete (Peter) [changeset 31510041](http://www.openstreetmap.org/changeset/31510041)
+- [x] 2s2e17d Complete (Peter) [changeset 31510534](http://www.openstreetmap.org/changeset/31510534)
+- [x] 2s2e18d Complete (Peter) [changeset 31511211](http://www.openstreetmap.org/changeset/31511211)
 - [x] 2s2e19b Complete (Peter) [changeset 31436538](http://www.openstreetmap.org/changeset/31436538)
 - [x] 2s2e19d Complete (Peter) [changeset 31436864](http://www.openstreetmap.org/changeset/31436864)
 - [x] 2s2e20b Complete (Peter) [changeset 31448229](http://www.openstreetmap.org/changeset/31448229)
