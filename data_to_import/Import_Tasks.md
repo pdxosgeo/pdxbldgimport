@@ -282,14 +282,14 @@ If there is no multi_address file, then it was empty and not included here.
 - [x] 2s1e03d Complete (Peter) [changeset 31574358](http://www.openstreetmap.org/changeset/31574358)
 - [x] 2s1e04c Complete (Peter) [changeset 31574491](http://www.openstreetmap.org/changeset/31574491)
 - [x] 2s1e05a Complete (Peter) [changeset 31574634](http://www.openstreetmap.org/changeset/31574634)
-- [ ] 2s1e07a
-- [ ] 2s1e07b
-- [ ] 2s1e07d
-- [ ] 2s1e08b
-- [ ] 2s1e08c
-- [ ] 2s1e08d
-- [ ] 2s1e09d
-- [ ] 2s1e10c
+- [ ] 2s1e07a In Progress (Peter)
+- [ ] 2s1e07b In Progress (Peter)
+- [ ] 2s1e07d In Progress (Peter)
+- [ ] 2s1e08b In Progress (Peter)
+- [ ] 2s1e08c In Progress (Peter)
+- [ ] 2s1e08d In Progress (Peter)
+- [ ] 2s1e09d In Progress (Peter)
+- [ ] 2s1e10c In Progress (Peter)
 - [ ] 2s1e11c
 - [ ] 2s1e11d
 - [ ] 2s1e12c
