@@ -282,14 +282,14 @@ If there is no multi_address file, then it was empty and not included here.
 - [x] 2s1e03d Complete (Peter) [changeset 31574358](http://www.openstreetmap.org/changeset/31574358)
 - [x] 2s1e04c Complete (Peter) [changeset 31574491](http://www.openstreetmap.org/changeset/31574491)
 - [x] 2s1e05a Complete (Peter) [changeset 31574634](http://www.openstreetmap.org/changeset/31574634)
-- [ ] 2s1e07a In Progress (Peter)
-- [ ] 2s1e07b In Progress (Peter)
-- [ ] 2s1e07d In Progress (Peter)
-- [ ] 2s1e08b In Progress (Peter)
-- [ ] 2s1e08c In Progress (Peter)
-- [ ] 2s1e08d In Progress (Peter)
-- [ ] 2s1e09d In Progress (Peter)
-- [ ] 2s1e10c In Progress (Peter)
+- [x] 2s1e07a Complete (Peter) [changeset 31576096](http://www.openstreetmap.org/changeset/31576096)
+- [x] 2s1e07b Complete (Peter) [changeset 31576228](http://www.openstreetmap.org/changeset/31576228)
+- [x] 2s1e07d Complete (Peter) [changeset 31576351](http://www.openstreetmap.org/changeset/31576351)
+- [x] 2s1e08b Complete (Peter) [changeset 31576441](http://www.openstreetmap.org/changeset/31576441)
+- [x] 2s1e08c Complete (Peter) [changeset 31576563](http://www.openstreetmap.org/changeset/31576563)
+- [x] 2s1e08d Complete (Peter) [changeset 31576653](http://www.openstreetmap.org/changeset/31576653)
+- [x] 2s1e09d Complete (Peter) [changeset 31576758](http://www.openstreetmap.org/changeset/31576758)
+- [x] 2s1e10c Complete (Peter) [changeset 31576863](http://www.openstreetmap.org/changeset/31576863)
 - [ ] 2s1e11c
 - [ ] 2s1e11d
 - [ ] 2s1e12c
