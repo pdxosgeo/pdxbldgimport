@@ -301,13 +301,13 @@ If there is no multi_address file, then it was empty and not included here.
 - [ ] 2s1e19d
 - [ ] 2s1e20a
 - [ ] 2s1e20c
-- [ ] 2s1e21a
-- [ ] 2s1e22a
-- [ ] 2s1e23a
-- [ ] 2s1e23b
-- [ ] 2s1e24a
-- [ ] 2s1e25d
-- [ ] 2s1e26d
+- [ ] 2s1e21a In Progress (Peter)
+- [ ] 2s1e22a In Progress (Peter)
+- [ ] 2s1e23a In Progress (Peter)
+- [ ] 2s1e23b In Progress (Peter)
+- [ ] 2s1e24a In Progress (Peter)
+- [ ] 2s1e25d In Progress (Peter)
+- [ ] 2s1e26d In Progress (Peter)
 - [ ] 2s1e31b
 - [ ] 2s1e32b
 - [ ] 2s1e33a
