@@ -302,10 +302,10 @@ If there is no multi_address file, then it was empty and not included here.
 - [ ] 2s1e20a
 - [ ] 2s1e20c
 - [x] 2s1e21a Complete (Peter) [changeset 31585925](http://www.openstreetmap.org/changeset/31585925)
-- [ ] 2s1e22a In Progress (Peter)
-- [ ] 2s1e23a In Progress (Peter)
-- [ ] 2s1e23b In Progress (Peter)
-- [ ] 2s1e24a In Progress (Peter)
+- [x] 2s1e22a Complete (Peter) [changeset 31594580](http://www.openstreetmap.org/changeset/31594580)
+- [x] 2s1e23a Complete (Peter) [changeset 31594826](http://www.openstreetmap.org/changeset/31594826)
+- [x] 2s1e23b Complete (Peter) [changeset 31594938](http://www.openstreetmap.org/changeset/31594938)
+- [x] 2s1e24a Complete (Peter) [changeset 31595177](http://www.openstreetmap.org/changeset/31595177)
 - [ ] 2s1e25d In Progress (Peter)
 - [ ] 2s1e26d In Progress (Peter)
 - [ ] 2s1e31b
