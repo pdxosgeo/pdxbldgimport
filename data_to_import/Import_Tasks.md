@@ -290,9 +290,9 @@ If there is no multi_address file, then it was empty and not included here.
 - [x] 2s1e08d Complete (Peter) [changeset 31576653](http://www.openstreetmap.org/changeset/31576653)
 - [x] 2s1e09d Complete (Peter) [changeset 31576758](http://www.openstreetmap.org/changeset/31576758)
 - [x] 2s1e10c Complete (Peter) [changeset 31576863](http://www.openstreetmap.org/changeset/31576863)
-- [ ] 2s1e11c In Progress (Peter)
-- [ ] 2s1e11d In Progress (Peter)
-- [ ] 2s1e12c In Progress (Peter)
+- [x] 2s1e11c Complete (Peter) [changeset 31648872](http://www.openstreetmap.org/changeset/31648872)
+- [x] 2s1e11d Complete (Peter) [changeset 31649126](http://www.openstreetmap.org/changeset/31649126)
+- [x] 2s1e12c Complete (Peter) [changeset 31649458](http://www.openstreetmap.org/changeset/31649458)
 - [ ] 2s1e12d In Progress (Peter)
 - [ ] 2s1e14d In Progress (Peter)
 - [ ] 2s1e18b
