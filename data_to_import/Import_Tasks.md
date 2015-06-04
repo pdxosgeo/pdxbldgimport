@@ -450,7 +450,7 @@ If there is no multi_address file, then it was empty and not included here.
 - [x] 2s5e16c 2896991
 - [ ] 2s5e30c
 - [x] 3s1e01b Complete (Peter) [changeset 31665866](http://www.openstreetmap.org/changeset/31665866)
-- [ ] 3s1e01d In Progress (Peter)
+- [x] 3s1e01d Complete (Peter) [changeset 31732709](http://www.openstreetmap.org/changeset/31732709)
 - [ ] 3s1e03d
 - [ ] 3s1e08c
 - [ ] 3s1e09d
