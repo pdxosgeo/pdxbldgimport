@@ -396,11 +396,11 @@ If there is no multi_address file, then it was empty and not included here.
 - [x] 2s2e20d Complete (Peter) [changeset 31448883](http://www.openstreetmap.org/changeset/31448883)
 - [x] 2s2e21d Complete (Peter) [changeset 31781891](http://www.openstreetmap.org/changeset/31781891)
 - [x] 2s2e23c Complete (Peter) [changeset 31783705](http://www.openstreetmap.org/changeset/31783705)
-- [ ] 2s2e24c In Progress (Peter)
+- [x] 2s2e24c Complete (Peter) [changeset 31783944](http://www.openstreetmap.org/changeset/31783944)
 - [x] 2s2e29b Complete (Peter) [changeset 31669892](http://www.openstreetmap.org/changeset/31669892)
-- [ ] 2s2e31a
-- [ ] 2s2e31b
-- [ ] 2s2e31d
+- [ ] 2s2e31a In Progress (Peter)
+- [ ] 2s2e31b In Progress (Peter)
+- [ ] 2s2e31d In Progress (Peter)
 - [ ] 2s2e32a
 - [ ] 2s2e32b
 - [ ] 2s2e32c
