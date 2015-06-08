@@ -2,8 +2,8 @@ file 'buildings.zip' do
   sh %Q{ wget --quiet --timestamping http://library.oregonmetro.gov/rlisdiscovery/buildings.zip }
 end 
 
-# bldg_date=File.stat('buildings.zip').mtime.strftime('%Y-%m-%d')
-bldg_date='2014-11-15'
+bldg_date=File.stat('buildings.zip').mtime.strftime('%Y-%m-%d')
+# bldg_date='2014-11-15'
 
 file "PortlandBuildings-#{bldg_date}/buildings.shp" => 'buildings.zip' do
   sh %Q{unzip -n -j buildings.zip -d PortlandBuildings-#{bldg_date};true}

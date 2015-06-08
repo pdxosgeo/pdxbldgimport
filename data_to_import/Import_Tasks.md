@@ -504,8 +504,8 @@ If there is no multi_address file, then it was empty and not included here.
 - [ ] 3s3e08b
 - [ ] 3s3e21b
 - [ ] 3s3e22a
-- [ ] 3s3e24b
-- [ ] 3s3e32c
+- [X] 3s3e24b 31827626
+- [X] 3s3e32c 31827235
 - [x] 3s3e36c 28693671
 - [x] 3s4e08b 28692355
 - [x] 3s4e10a 28691674
