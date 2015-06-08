@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.354475984" lon="-122.660964253" visible="true"><tag k="addr:housenumber" v="2365"/><tag k="addr:postcode" v="97068"/><tag k="addr:city" v="West Linn"/><tag k="addr:street" v="Debok Road"/></node>
-<node id="-2" lat="45.348825426" lon="-122.671532482" visible="true"><tag k="addr:housenumber" v="1005"/><tag k="addr:postcode" v="97068"/><tag k="addr:city" v="West Linn"/><tag k="addr:street" v="Dollar Street"/></node>
-<node id="-3" lat="45.348829484" lon="-122.671533919" visible="true"><tag k="addr:housenumber" v="945"/><tag k="addr:postcode" v="97068"/><tag k="addr:city" v="West Linn"/><tag k="addr:street" v="Dollar Street"/></node>
-<node id="-4" lat="45.354283648" lon="-122.664118506" visible="true"><tag k="addr:housenumber" v="23680"/><tag k="addr:postcode" v="97068"/><tag k="addr:city" v="West Linn"/><tag k="addr:street" v="Johnson Road"/></node>
-<node id="-5" lat="45.354285076" lon="-122.66411192" visible="true"><tag k="addr:housenumber" v="23690"/><tag k="addr:postcode" v="97068"/><tag k="addr:city" v="West Linn"/><tag k="addr:street" v="Johnson Road"/></node>
-<node id="-6" lat="45.354475297" lon="-122.660968774" visible="true"><tag k="addr:housenumber" v="1415"/><tag k="addr:postcode" v="97068"/><tag k="addr:city" v="West Linn"/><tag k="addr:street" v="Village Park Place"/></node>
-</osm>

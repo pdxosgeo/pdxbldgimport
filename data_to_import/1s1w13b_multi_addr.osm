@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.485908292" lon="-122.760285488" visible="true"><tag k="addr:housenumber" v="8100"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Beaverton Hillsdale Highway"/></node>
-<node id="-2" lat="45.48590508" lon="-122.760290745" visible="true"><tag k="addr:housenumber" v="8132"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Beaverton Hillsdale Highway"/></node>
-<node id="-3" lat="45.485907176" lon="-122.760290826" visible="true"><tag k="addr:housenumber" v="8134"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Beaverton Hillsdale Highway"/></node>
-<node id="-4" lat="45.48591113" lon="-122.760284308" visible="true"><tag k="addr:housenumber" v="8154"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Beaverton Hillsdale Highway"/></node>
-<node id="-5" lat="45.497557864" lon="-122.758993814" visible="true"><tag k="addr:housenumber" v="7975"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Canyon Drive"/></node>
-<node id="-6" lat="45.497557308" lon="-122.758996086" visible="true"><tag k="addr:housenumber" v="7977"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Canyon Drive"/></node>
-</osm>

@@ -1,5 +1,0 @@
-<?xml version="1.0"?>
-<osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.498252428" lon="-122.807133724" visible="true"><tag k="addr:housenumber" v="8210"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Canyon Lane"/></node>
-<node id="-2" lat="45.498245173" lon="-122.805523508" visible="true"><tag k="addr:housenumber" v="8220"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Canyon Lane"/></node>
-</osm>

@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.473777194" lon="-122.864294701" visible="true"><tag k="addr:housenumber" v="18250"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Deloris Lane"/></node>
-<node id="-2" lat="45.473778743" lon="-122.864300776" visible="true"><tag k="addr:housenumber" v="18260"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Deloris Lane"/></node>
-<node id="-3" lat="45.471845852" lon="-122.865111171" visible="true"><tag k="addr:housenumber" v="18275"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Monte Verdi Boulevard"/></node>
-<node id="-4" lat="45.471849777" lon="-122.865107898" visible="true"><tag k="addr:housenumber" v="18277"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Monte Verdi Boulevard"/></node>
-</osm>

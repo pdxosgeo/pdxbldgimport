@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.441417896" lon="-122.839916468" visible="true"><tag k="addr:housenumber" v="10530"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest 155th Avenue"/></node>
-<node id="-2" lat="45.441412211" lon="-122.839916424" visible="true"><tag k="addr:housenumber" v="10835"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest 155th Avenue"/></node>
-<node id="-3" lat="45.464003246" lon="-122.830383962" visible="true"><tag k="addr:housenumber" v="14925"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Carolwood Drive"/></node>
-<node id="-4" lat="45.464008129" lon="-122.830388397" visible="true"><tag k="addr:housenumber" v="7662"/><tag k="addr:postcode" v="97008"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Sorrento Road"/></node>
-</osm>

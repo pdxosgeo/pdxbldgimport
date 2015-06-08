@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.457689871" lon="-122.870967556" visible="true"><tag k="addr:housenumber" v="8680"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest 190th Avenue"/></node>
-<node id="-2" lat="45.457689176" lon="-122.870965443" visible="true"><tag k="addr:housenumber" v="18820"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Gassner Road"/></node>
-<node id="-3" lat="45.455007271" lon="-122.874020042" visible="true"><tag k="addr:housenumber" v="19258"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Heightsview Drive"/></node>
-<node id="-4" lat="45.455001838" lon="-122.874019788" visible="true"><tag k="addr:housenumber" v="8855"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Kemmer Road"/></node>
-</osm>

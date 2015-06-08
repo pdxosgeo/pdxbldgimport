@@ -1,5 +1,0 @@
-<?xml version="1.0"?>
-<osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.459267266" lon="-122.827499185" visible="true"><tag k="addr:housenumber" v="8245"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Murray Boulevard"/></node>
-<node id="-2" lat="45.459266947" lon="-122.827496418" visible="true"><tag k="addr:housenumber" v="14600"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Sexton Mountain Drive"/></node>
-</osm>

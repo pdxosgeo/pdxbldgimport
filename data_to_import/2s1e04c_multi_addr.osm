@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.425249566" lon="-122.692791691" visible="true"><tag k="addr:housenumber" v="13731"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Cameo Court"/></node>
-<node id="-2" lat="45.425263055" lon="-122.69300048" visible="true"><tag k="addr:housenumber" v="13745"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Cameo Court"/></node>
-<node id="-3" lat="45.416617878" lon="-122.703465318" visible="true"><tag k="addr:housenumber" v="15083"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Glen Eagles Place"/></node>
-<node id="-4" lat="45.416677633" lon="-122.7036156" visible="true"><tag k="addr:housenumber" v="15085"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Glen Eagles Place"/></node>
-</osm>

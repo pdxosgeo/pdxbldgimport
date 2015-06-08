@@ -1,5 +1,0 @@
-<?xml version="1.0"?>
-<osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.384100666" lon="-122.645819083" visible="true"><tag k="addr:housenumber" v="19745"/><tag k="addr:postcode" v="97068"/><tag k="addr:city" v="West Linn"/><tag k="addr:street" v="Wildwood Drive"/></node>
-<node id="-2" lat="45.384093181" lon="-122.645816974" visible="true"><tag k="addr:housenumber" v="19747"/><tag k="addr:postcode" v="97068"/><tag k="addr:city" v="West Linn"/><tag k="addr:street" v="Wildwood Drive"/></node>
-</osm>
