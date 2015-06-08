@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.469471444" lon="-122.799651785" visible="true"><tag k="addr:housenumber" v="13850"/><tag k="addr:postcode" v="97008"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Barlow Road"/></node>
-<node id="-2" lat="45.469513731" lon="-122.798196628" visible="true"><tag k="addr:housenumber" v="13870"/><tag k="addr:postcode" v="97008"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Barlow Road"/></node>
-<node id="-3" lat="45.470261456" lon="-122.772921193" visible="true"><tag k="addr:housenumber" v="14400"/><tag k="addr:postcode" v="97008"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Barlow Road"/></node>
-<node id="-4" lat="45.469986752" lon="-122.788439997" visible="true"><tag k="addr:housenumber" v="14420"/><tag k="addr:postcode" v="97008"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Barlow Road"/></node>
-<node id="-5" lat="45.468639325" lon="-122.820183645" visible="true"><tag k="addr:housenumber" v="7075"/><tag k="addr:postcode" v="97008"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Wilson Avenue"/></node>
-<node id="-6" lat="45.468636471" lon="-122.820184194" visible="true"><tag k="addr:housenumber" v="7085"/><tag k="addr:postcode" v="97008"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Wilson Avenue"/></node>
-<node id="-7" lat="45.468240161" lon="-122.820206656" visible="true"><tag k="addr:housenumber" v="7155"/><tag k="addr:postcode" v="97008"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Wilson Avenue"/></node>
-<node id="-8" lat="45.468235005" lon="-122.820203243" visible="true"><tag k="addr:housenumber" v="7165"/><tag k="addr:postcode" v="97008"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Wilson Avenue"/></node>
+<node id="-1" lat="45.469076564" lon="-122.82009493" visible="true"><tag k="addr:housenumber" v="13850"/><tag k="addr:postcode" v="97008"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Barlow Road"/></node>
+<node id="-2" lat="45.469081219" lon="-122.820327687" visible="true"><tag k="addr:housenumber" v="13870"/><tag k="addr:postcode" v="97008"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Barlow Road"/></node>
+<node id="-3" lat="45.469238841" lon="-122.825080339" visible="true"><tag k="addr:housenumber" v="14400"/><tag k="addr:postcode" v="97008"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Barlow Road"/></node>
+<node id="-4" lat="45.469270325" lon="-122.825261937" visible="true"><tag k="addr:housenumber" v="14420"/><tag k="addr:postcode" v="97008"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Barlow Road"/></node>
+<node id="-5" lat="45.468697624" lon="-122.820102365" visible="true"><tag k="addr:housenumber" v="7075"/><tag k="addr:postcode" v="97008"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Wilson Avenue"/></node>
+<node id="-6" lat="45.468566878" lon="-122.820095687" visible="true"><tag k="addr:housenumber" v="7085"/><tag k="addr:postcode" v="97008"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Wilson Avenue"/></node>
+<node id="-7" lat="45.468293627" lon="-122.82011034" visible="true"><tag k="addr:housenumber" v="7155"/><tag k="addr:postcode" v="97008"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Wilson Avenue"/></node>
+<node id="-8" lat="45.468174448" lon="-122.820115626" visible="true"><tag k="addr:housenumber" v="7165"/><tag k="addr:postcode" v="97008"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Wilson Avenue"/></node>
 </osm>

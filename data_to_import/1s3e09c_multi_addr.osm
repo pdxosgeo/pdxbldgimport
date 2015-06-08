@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.492467811" lon="-122.446815449" visible="true"><tag k="addr:housenumber" v="1518"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southwest 5th Court"/></node>
-<node id="-2" lat="45.492475057" lon="-122.446816906" visible="true"><tag k="addr:housenumber" v="1528"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southwest 5th Court"/></node>
-<node id="-3" lat="45.492254239" lon="-122.447096386" visible="true"><tag k="addr:housenumber" v="1538"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southwest 5th Court"/></node>
-<node id="-4" lat="45.492730234" lon="-122.44709485" visible="true"><tag k="addr:housenumber" v="1543"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southwest 5th Court"/></node>
-<node id="-5" lat="45.492256653" lon="-122.447094644" visible="true"><tag k="addr:housenumber" v="1548"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southwest 5th Court"/></node>
-<node id="-6" lat="45.492735422" lon="-122.447094292" visible="true"><tag k="addr:housenumber" v="1553"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southwest 5th Court"/></node>
+<node id="-1" lat="45.492465733" lon="-122.446816102" visible="true"><tag k="addr:housenumber" v="1518"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southwest 5th Court"/></node>
+<node id="-2" lat="45.492468848" lon="-122.446820884" visible="true"><tag k="addr:housenumber" v="1528"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southwest 5th Court"/></node>
+<node id="-3" lat="45.492261141" lon="-122.447088997" visible="true"><tag k="addr:housenumber" v="1538"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southwest 5th Court"/></node>
+<node id="-4" lat="45.492736165" lon="-122.447100253" visible="true"><tag k="addr:housenumber" v="1543"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southwest 5th Court"/></node>
+<node id="-5" lat="45.492255967" lon="-122.447089639" visible="true"><tag k="addr:housenumber" v="1548"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southwest 5th Court"/></node>
+<node id="-6" lat="45.492730044" lon="-122.447100679" visible="true"><tag k="addr:housenumber" v="1553"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southwest 5th Court"/></node>
 </osm>

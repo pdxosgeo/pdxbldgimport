@@ -1,13 +1,7 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.488121303" lon="-122.372438851" visible="true"><tag k="addr:housenumber" v="1196"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast 282nd Avenue"/></node>
-<node id="-2" lat="45.48812098" lon="-122.372433325" visible="true"><tag k="addr:housenumber" v="1200"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast 282nd Avenue"/></node>
-<node id="-3" lat="45.490768699" lon="-122.377102338" visible="true"><tag k="addr:housenumber" v="4627"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast 282nd Avenue"/></node>
-<node id="-4" lat="45.490768782" lon="-122.37710528" visible="true"><tag k="addr:housenumber" v="850"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Ironwood Place"/></node>
-<node id="-5" lat="45.489112699" lon="-122.365958161" visible="true"><tag k="addr:housenumber" v="28910"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast K W Anderson Road"/></node>
-<node id="-6" lat="45.486736486" lon="-122.3711355" visible="true"><tag k="addr:housenumber" v="6125"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Lusted Road"/></node>
-<node id="-7" lat="45.486741517" lon="-122.371129399" visible="true"><tag k="addr:housenumber" v="6200"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Lusted Road"/></node>
-<node id="-8" lat="45.488504366" lon="-122.374975023" visible="true"><tag k="addr:housenumber" v="1175"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Mimosa Drive"/></node>
-<node id="-9" lat="45.488510437" lon="-122.374977882" visible="true"><tag k="addr:housenumber" v="5733"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Powell Valley Road"/></node>
-<node id="-10" lat="45.489116046" lon="-122.365949331" visible="true"><tag k="addr:housenumber" v="28910"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast W K Anderson Road"/></node>
+<node id="-1" lat="45.488126951" lon="-122.372435029" visible="true"><tag k="addr:housenumber" v="1196"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast 282nd Avenue"/></node>
+<node id="-2" lat="45.488121411" lon="-122.37243949" visible="true"><tag k="addr:housenumber" v="1200"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast 282nd Avenue"/></node>
+<node id="-3" lat="45.486740546" lon="-122.371136756" visible="true"><tag k="addr:housenumber" v="6125"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Lusted Road"/></node>
+<node id="-4" lat="45.486742075" lon="-122.371133755" visible="true"><tag k="addr:housenumber" v="6200"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Lusted Road"/></node>
 </osm>

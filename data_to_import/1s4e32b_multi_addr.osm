@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.451096376" lon="-122.342264405" visible="true"><tag k="addr:housenumber" v="9965"/><tag k="addr:postcode" v="97009"/><tag k="addr:city" v="Boring"/><tag k="addr:street" v="Southeast Orient Drive"/></node>
-<node id="-2" lat="45.451094549" lon="-122.342262599" visible="true"><tag k="addr:housenumber" v="9965B"/><tag k="addr:postcode" v="97009"/><tag k="addr:city" v="Boring"/><tag k="addr:street" v="Southeast Orient Drive"/></node>
+<node id="-1" lat="45.451096296" lon="-122.342257942" visible="true"><tag k="addr:housenumber" v="9965"/><tag k="addr:postcode" v="97009"/><tag k="addr:city" v="Boring"/><tag k="addr:street" v="Southeast Orient Drive"/></node>
+<node id="-2" lat="45.451089739" lon="-122.342261875" visible="true"><tag k="addr:housenumber" v="9965B"/><tag k="addr:postcode" v="97009"/><tag k="addr:city" v="Boring"/><tag k="addr:street" v="Southeast Orient Drive"/></node>
 </osm>

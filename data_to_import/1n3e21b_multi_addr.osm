@@ -1,9 +1,3 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.548204471" lon="-122.451343532" visible="true"><tag k="addr:housenumber" v="2738"/><tag k="addr:postcode" v="97024"/><tag k="addr:city" v="Fairview"/><tag k="addr:street" v="Northeast 205th Avenue"/></node>
-<node id="-2" lat="45.548198619" lon="-122.451340438" visible="true"><tag k="addr:housenumber" v="3808"/><tag k="addr:postcode" v="97024"/><tag k="addr:city" v="Fairview"/><tag k="addr:street" v="Northeast 205th Avenue"/></node>
-<node id="-3" lat="45.542812875" lon="-122.448848681" visible="true"><tag k="addr:housenumber" v="2650"/><tag k="addr:postcode" v="97024"/><tag k="addr:city" v="Fairview"/><tag k="addr:street" v="Northeast Fairview Parkway"/></node>
-<node id="-4" lat="45.545312219" lon="-122.449667033" visible="true"><tag k="addr:housenumber" v="20637"/><tag k="addr:postcode" v="97024"/><tag k="addr:city" v="Fairview"/><tag k="addr:street" v="Northeast Sandy Boulevard"/></node>
-<node id="-5" lat="45.542815182" lon="-122.448848702" visible="true"><tag k="addr:housenumber" v="20708"/><tag k="addr:postcode" v="97024"/><tag k="addr:city" v="Fairview"/><tag k="addr:street" v="Northeast Sandy Boulevard"/></node>
-<node id="-6" lat="45.545319311" lon="-122.449687385" visible="true"><tag k="addr:housenumber" v="20665"/><tag k="addr:postcode" v="97024"/><tag k="addr:city" v="Fairview"/><tag k="addr:street" v="Northeast Skyview Drive"/></node>
 </osm>

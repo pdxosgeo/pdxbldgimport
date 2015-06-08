@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.425087842" lon="-122.836158544" visible="true"><tag k="addr:housenumber" v="13117"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest 154th Avenue"/></node>
-<node id="-2" lat="45.425093464" lon="-122.836158151" visible="true"><tag k="addr:housenumber" v="13119"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest 154th Avenue"/></node>
-<node id="-3" lat="45.425884507" lon="-122.835100727" visible="true"><tag k="addr:housenumber" v="15346"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Roundtree Drive"/></node>
-<node id="-4" lat="45.425888061" lon="-122.835091121" visible="true"><tag k="addr:housenumber" v="15348"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Roundtree Drive"/></node>
+<node id="-1" lat="45.425092974" lon="-122.836156938" visible="true"><tag k="addr:housenumber" v="13117"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest 154th Avenue"/></node>
+<node id="-2" lat="45.425090931" lon="-122.836160692" visible="true"><tag k="addr:housenumber" v="13119"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest 154th Avenue"/></node>
+<node id="-3" lat="45.425886259" lon="-122.835099659" visible="true"><tag k="addr:housenumber" v="15346"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Roundtree Drive"/></node>
+<node id="-4" lat="45.425892342" lon="-122.835095703" visible="true"><tag k="addr:housenumber" v="15348"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Roundtree Drive"/></node>
 </osm>

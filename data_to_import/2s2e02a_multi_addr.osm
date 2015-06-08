@@ -1,7 +1,11 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.423349318" lon="-122.518192623" visible="true"><tag k="addr:housenumber" v="13641"/><tag k="addr:postcode" v="97015"/><tag k="addr:city" v="Clackamas"/><tag k="addr:street" v="Southeast 142nd Avenue"/></node>
-<node id="-2" lat="45.423356263" lon="-122.518189169" visible="true"><tag k="addr:housenumber" v="13705"/><tag k="addr:postcode" v="97015"/><tag k="addr:city" v="Clackamas"/><tag k="addr:street" v="Southeast 142nd Avenue"/></node>
-<node id="-3" lat="45.423352468" lon="-122.518191826" visible="true"><tag k="addr:housenumber" v="13751"/><tag k="addr:postcode" v="97015"/><tag k="addr:city" v="Clackamas"/><tag k="addr:street" v="Southeast 142nd Avenue"/></node>
-<node id="-4" lat="45.423346912" lon="-122.518189532" visible="true"><tag k="addr:housenumber" v="14100"/><tag k="addr:postcode" v="97015"/><tag k="addr:city" v="Clackamas"/><tag k="addr:street" v="Southeast Sunnyside Road"/></node>
+<node id="-1" lat="45.419621814" lon="-122.52186725" visible="true"><tag k="addr:housenumber" v="14225"/><tag k="addr:postcode" v="97015"/><tag k="addr:city" v="Clackamas"/><tag k="addr:street" v="Southeast 139th Avenue"/></node>
+<node id="-2" lat="45.419617314" lon="-122.521874177" visible="true"><tag k="addr:housenumber" v="14313"/><tag k="addr:postcode" v="97015"/><tag k="addr:city" v="Clackamas"/><tag k="addr:street" v="Southeast 139th Avenue"/></node>
+<node id="-3" lat="45.419614756" lon="-122.521875065" visible="true"><tag k="addr:housenumber" v="14343"/><tag k="addr:postcode" v="97015"/><tag k="addr:city" v="Clackamas"/><tag k="addr:street" v="Southeast 139th Avenue"/></node>
+<node id="-4" lat="45.41961479" lon="-122.521876432" visible="true"><tag k="addr:housenumber" v="14373"/><tag k="addr:postcode" v="97015"/><tag k="addr:city" v="Clackamas"/><tag k="addr:street" v="Southeast 139th Avenue"/></node>
+<node id="-5" lat="45.423349703" lon="-122.518193109" visible="true"><tag k="addr:housenumber" v="13641"/><tag k="addr:postcode" v="97015"/><tag k="addr:city" v="Clackamas"/><tag k="addr:street" v="Southeast 142nd Avenue"/></node>
+<node id="-6" lat="45.423355343" lon="-122.518187758" visible="true"><tag k="addr:housenumber" v="13705"/><tag k="addr:postcode" v="97015"/><tag k="addr:city" v="Clackamas"/><tag k="addr:street" v="Southeast 142nd Avenue"/></node>
+<node id="-7" lat="45.423349375" lon="-122.518191605" visible="true"><tag k="addr:housenumber" v="13751"/><tag k="addr:postcode" v="97015"/><tag k="addr:city" v="Clackamas"/><tag k="addr:street" v="Southeast 142nd Avenue"/></node>
+<node id="-8" lat="45.423350661" lon="-122.518188847" visible="true"><tag k="addr:housenumber" v="14100"/><tag k="addr:postcode" v="97015"/><tag k="addr:city" v="Clackamas"/><tag k="addr:street" v="Southeast Sunnyside Road"/></node>
 </osm>

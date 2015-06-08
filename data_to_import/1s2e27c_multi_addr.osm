@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.444574147" lon="-122.556255348" visible="true"><tag k="addr:housenumber" v="10785"/><tag k="addr:postcode" v="97086"/><tag k="addr:city" v="Happy Valley"/><tag k="addr:street" v="Southeast 104th Avenue"/></node>
-<node id="-2" lat="45.444579839" lon="-122.55625067" visible="true"><tag k="addr:housenumber" v="10793"/><tag k="addr:postcode" v="97086"/><tag k="addr:city" v="Happy Valley"/><tag k="addr:street" v="Southeast 104th Avenue"/></node>
-<node id="-3" lat="45.444575033" lon="-122.556257584" visible="true"><tag k="addr:housenumber" v="10840"/><tag k="addr:postcode" v="97086"/><tag k="addr:city" v="Happy Valley"/><tag k="addr:street" v="Southeast 104th Avenue"/></node>
-<node id="-4" lat="45.446191311" lon="-122.543437486" visible="true"><tag k="addr:housenumber" v="11806"/><tag k="addr:postcode" v="97086"/><tag k="addr:city" v="Happy Valley"/><tag k="addr:street" v="Southeast Solomon Court"/></node>
-<node id="-5" lat="45.446077366" lon="-122.543454774" visible="true"><tag k="addr:housenumber" v="11810"/><tag k="addr:postcode" v="97086"/><tag k="addr:city" v="Happy Valley"/><tag k="addr:street" v="Southeast Solomon Court"/></node>
+<node id="-1" lat="45.444578291" lon="-122.55625239" visible="true"><tag k="addr:housenumber" v="10785"/><tag k="addr:postcode" v="97086"/><tag k="addr:city" v="Happy Valley"/><tag k="addr:street" v="Southeast 104th Avenue"/></node>
+<node id="-2" lat="45.444575486" lon="-122.556251052" visible="true"><tag k="addr:housenumber" v="10793"/><tag k="addr:postcode" v="97086"/><tag k="addr:city" v="Happy Valley"/><tag k="addr:street" v="Southeast 104th Avenue"/></node>
+<node id="-3" lat="45.444574283" lon="-122.556253698" visible="true"><tag k="addr:housenumber" v="10840"/><tag k="addr:postcode" v="97086"/><tag k="addr:city" v="Happy Valley"/><tag k="addr:street" v="Southeast 104th Avenue"/></node>
+<node id="-4" lat="45.446187187" lon="-122.543434043" visible="true"><tag k="addr:housenumber" v="11806"/><tag k="addr:postcode" v="97086"/><tag k="addr:city" v="Happy Valley"/><tag k="addr:street" v="Southeast Solomon Court"/></node>
+<node id="-5" lat="45.446080167" lon="-122.543458545" visible="true"><tag k="addr:housenumber" v="11810"/><tag k="addr:postcode" v="97086"/><tag k="addr:city" v="Happy Valley"/><tag k="addr:street" v="Southeast Solomon Court"/></node>
 </osm>

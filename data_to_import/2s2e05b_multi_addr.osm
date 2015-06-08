@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.427803832" lon="-122.598552206" visible="true"><tag k="addr:housenumber" v="6400"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Lake Road"/></node>
-<node id="-2" lat="45.427958672" lon="-122.598144019" visible="true"><tag k="addr:housenumber" v="6416"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Lake Road"/></node>
-<node id="-3" lat="45.439914366" lon="-122.59897285" visible="true"><tag k="addr:housenumber" v="11526"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Linwood Avenue"/></node>
-<node id="-4" lat="45.439816187" lon="-122.598963652" visible="true"><tag k="addr:housenumber" v="11530"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Linwood Avenue"/></node>
+<node id="-1" lat="45.428087167" lon="-122.597914113" visible="true"><tag k="addr:housenumber" v="6400"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Lake Road"/></node>
+<node id="-2" lat="45.427773784" lon="-122.59848028" visible="true"><tag k="addr:housenumber" v="6416"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Lake Road"/></node>
+<node id="-3" lat="45.43991683" lon="-122.59897273" visible="true"><tag k="addr:housenumber" v="11526"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Linwood Avenue"/></node>
+<node id="-4" lat="45.439817354" lon="-122.598967884" visible="true"><tag k="addr:housenumber" v="11530"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Linwood Avenue"/></node>
 </osm>

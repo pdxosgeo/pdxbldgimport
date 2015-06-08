@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.427686023" lon="-122.290261105" visible="true"><tag k="addr:housenumber" v="13200"/><tag k="addr:postcode" v="97009"/><tag k="addr:city" v="Boring"/><tag k="addr:street" v="Southeast 362nd Avenue"/></node>
-<node id="-2" lat="45.427688534" lon="-122.290262296" visible="true"><tag k="addr:housenumber" v="13220"/><tag k="addr:postcode" v="97009"/><tag k="addr:city" v="Boring"/><tag k="addr:street" v="Southeast 362nd Avenue"/></node>
-<node id="-3" lat="45.428924567" lon="-122.287972486" visible="true"><tag k="addr:housenumber" v="36480"/><tag k="addr:postcode" v="97055"/><tag k="addr:city" v="Sandy"/><tag k="addr:street" v="Southeast Dunn Road"/></node>
-<node id="-4" lat="45.428928653" lon="-122.287973522" visible="true"><tag k="addr:housenumber" v="36490"/><tag k="addr:postcode" v="97055"/><tag k="addr:city" v="Sandy"/><tag k="addr:street" v="Southeast Dunn Road"/></node>
+<node id="-1" lat="45.427684998" lon="-122.290258077" visible="true"><tag k="addr:housenumber" v="13200"/><tag k="addr:postcode" v="97009"/><tag k="addr:city" v="Boring"/><tag k="addr:street" v="Southeast 362nd Avenue"/></node>
+<node id="-2" lat="45.427682785" lon="-122.290263462" visible="true"><tag k="addr:housenumber" v="13220"/><tag k="addr:postcode" v="97009"/><tag k="addr:city" v="Boring"/><tag k="addr:street" v="Southeast 362nd Avenue"/></node>
+<node id="-3" lat="45.428922794" lon="-122.28798127" visible="true"><tag k="addr:housenumber" v="36480"/><tag k="addr:postcode" v="97055"/><tag k="addr:city" v="Sandy"/><tag k="addr:street" v="Southeast Dunn Road"/></node>
+<node id="-4" lat="45.428923637" lon="-122.287978683" visible="true"><tag k="addr:housenumber" v="36490"/><tag k="addr:postcode" v="97055"/><tag k="addr:city" v="Sandy"/><tag k="addr:street" v="Southeast Dunn Road"/></node>
 </osm>

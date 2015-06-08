@@ -1,5 +1,7 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.471327137" lon="-122.352873543" visible="true"><tag k="addr:housenumber" v="7125"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast 302nd Avenue"/></node>
-<node id="-2" lat="45.471325956" lon="-122.352872183" visible="true"><tag k="addr:housenumber" v="30064"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Harris Place"/></node>
+<node id="-1" lat="45.471323496" lon="-122.352879379" visible="true"><tag k="addr:housenumber" v="7125"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast 302nd Avenue"/></node>
+<node id="-2" lat="45.471329409" lon="-122.352878911" visible="true"><tag k="addr:housenumber" v="30064"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Harris Place"/></node>
+<node id="-3" lat="45.470250979" lon="-122.332885462" visible="true"><tag k="addr:housenumber" v="32048"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Mally Road"/></node>
+<node id="-4" lat="45.470257532" lon="-122.33288271" visible="true"><tag k="addr:housenumber" v="32043"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Proctor Street"/></node>
 </osm>

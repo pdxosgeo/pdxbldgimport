@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.417039406" lon="-122.447589777" visible="true"><tag k="addr:housenumber" v="14590"/><tag k="addr:postcode" v="97089"/><tag k="addr:city" v="Damascus"/><tag k="addr:street" v="Southeast Old Barn Lane"/></node>
-<node id="-2" lat="45.416968742" lon="-122.447703497" visible="true"><tag k="addr:housenumber" v="14598"/><tag k="addr:postcode" v="97089"/><tag k="addr:city" v="Damascus"/><tag k="addr:street" v="Southeast Old Barn Lane"/></node>
-<node id="-3" lat="45.417393314" lon="-122.450634019" visible="true"><tag k="addr:housenumber" v="14450"/><tag k="addr:postcode" v="97089"/><tag k="addr:city" v="Damascus"/><tag k="addr:street" v="Southeast Royer Road"/></node>
-<node id="-4" lat="45.417389042" lon="-122.450746546" visible="true"><tag k="addr:housenumber" v="14530"/><tag k="addr:postcode" v="97089"/><tag k="addr:city" v="Damascus"/><tag k="addr:street" v="Southeast Royer Road"/></node>
+<node id="-1" lat="45.417030649" lon="-122.447592751" visible="true"><tag k="addr:housenumber" v="14590"/><tag k="addr:postcode" v="97089"/><tag k="addr:city" v="Damascus"/><tag k="addr:street" v="Southeast Old Barn Lane"/></node>
+<node id="-2" lat="45.416973067" lon="-122.44770649" visible="true"><tag k="addr:housenumber" v="14598"/><tag k="addr:postcode" v="97089"/><tag k="addr:city" v="Damascus"/><tag k="addr:street" v="Southeast Old Barn Lane"/></node>
+<node id="-3" lat="45.417397887" lon="-122.450636379" visible="true"><tag k="addr:housenumber" v="14450"/><tag k="addr:postcode" v="97089"/><tag k="addr:city" v="Damascus"/><tag k="addr:street" v="Southeast Royer Road"/></node>
+<node id="-4" lat="45.417397331" lon="-122.450748049" visible="true"><tag k="addr:housenumber" v="14530"/><tag k="addr:postcode" v="97089"/><tag k="addr:city" v="Damascus"/><tag k="addr:street" v="Southeast Royer Road"/></node>
 </osm>

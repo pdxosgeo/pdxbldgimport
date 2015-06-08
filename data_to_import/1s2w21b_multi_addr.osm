@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.509428634" lon="-122.941058985" visible="true"><tag k="addr:housenumber" v="1320"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast 40th Avenue"/></node>
-<node id="-2" lat="45.509513803" lon="-122.941151149" visible="true"><tag k="addr:housenumber" v="1320-A"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast 40th Avenue"/></node>
-<node id="-3" lat="45.512387332" lon="-122.941872829" visible="true"><tag k="addr:housenumber" v="3961"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast Bentley Street"/></node>
-<node id="-4" lat="45.512382586" lon="-122.941654356" visible="true"><tag k="addr:housenumber" v="3969"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast Bentley Street"/></node>
+<node id="-1" lat="45.5094346" lon="-122.941060797" visible="true"><tag k="addr:housenumber" v="1320"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast 40th Avenue"/></node>
+<node id="-2" lat="45.509519314" lon="-122.941149956" visible="true"><tag k="addr:housenumber" v="1320-A"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast 40th Avenue"/></node>
+<node id="-3" lat="45.512386586" lon="-122.941877068" visible="true"><tag k="addr:housenumber" v="3961"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast Bentley Street"/></node>
+<node id="-4" lat="45.51239096" lon="-122.941656068" visible="true"><tag k="addr:housenumber" v="3969"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast Bentley Street"/></node>
 </osm>

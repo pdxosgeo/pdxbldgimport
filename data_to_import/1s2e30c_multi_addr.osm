@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.447771678" lon="-122.615595942" visible="true"><tag k="addr:housenumber" v="4548"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast King Road"/></node>
-<node id="-2" lat="45.447773551" lon="-122.615545992" visible="true"><tag k="addr:housenumber" v="4550"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast King Road"/></node>
-<node id="-3" lat="45.44746025" lon="-122.616713277" visible="true"><tag k="addr:housenumber" v="4401"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Llewellyn Street"/></node>
-<node id="-4" lat="45.447463198" lon="-122.616651915" visible="true"><tag k="addr:housenumber" v="4405"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Llewellyn Street"/></node>
-<node id="-5" lat="45.447459298" lon="-122.616584998" visible="true"><tag k="addr:housenumber" v="4409"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Llewellyn Street"/></node>
-<node id="-6" lat="45.449086604" lon="-122.611235484" visible="true"><tag k="addr:housenumber" v="5002"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Mullan Street"/></node>
-<node id="-7" lat="45.449084995" lon="-122.611181423" visible="true"><tag k="addr:housenumber" v="5004"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Mullan Street"/></node>
+<node id="-1" lat="45.447767599" lon="-122.615597663" visible="true"><tag k="addr:housenumber" v="4548"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast King Road"/></node>
+<node id="-2" lat="45.447772616" lon="-122.615546225" visible="true"><tag k="addr:housenumber" v="4550"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast King Road"/></node>
+<node id="-3" lat="45.447463181" lon="-122.616710496" visible="true"><tag k="addr:housenumber" v="4401"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Llewellyn Street"/></node>
+<node id="-4" lat="45.447457575" lon="-122.616650965" visible="true"><tag k="addr:housenumber" v="4405"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Llewellyn Street"/></node>
+<node id="-5" lat="45.447458856" lon="-122.616584772" visible="true"><tag k="addr:housenumber" v="4409"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Llewellyn Street"/></node>
+<node id="-6" lat="45.449085666" lon="-122.611228759" visible="true"><tag k="addr:housenumber" v="5002"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Mullan Street"/></node>
+<node id="-7" lat="45.449087384" lon="-122.611180785" visible="true"><tag k="addr:housenumber" v="5004"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Mullan Street"/></node>
 </osm>

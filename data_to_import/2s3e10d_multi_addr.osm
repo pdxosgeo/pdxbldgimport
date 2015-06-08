@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.415011437" lon="-122.421044471" visible="true"><tag k="addr:housenumber" v="14972"/><tag k="addr:postcode" v="97089"/><tag k="addr:city" v="Damascus"/><tag k="addr:street" v="Southeast 232nd Drive"/></node>
-<node id="-2" lat="45.415005985" lon="-122.421041066" visible="true"><tag k="addr:housenumber" v="14992"/><tag k="addr:postcode" v="97089"/><tag k="addr:city" v="Damascus"/><tag k="addr:street" v="Southeast 232nd Drive"/></node>
-<node id="-3" lat="45.392893585" lon="-122.420120695" visible="true"><tag k="addr:housenumber" v="23636"/><tag k="addr:postcode" v="97009"/><tag k="addr:city" v="Boring"/><tag k="addr:street" v="Southeast Highway 224"/></node>
-<node id="-4" lat="45.392897347" lon="-122.420121483" visible="true"><tag k="addr:housenumber" v="23638"/><tag k="addr:postcode" v="97009"/><tag k="addr:city" v="Boring"/><tag k="addr:street" v="Southeast Highway 224"/></node>
+<node id="-1" lat="45.415012809" lon="-122.421036288" visible="true"><tag k="addr:housenumber" v="14972"/><tag k="addr:postcode" v="97089"/><tag k="addr:city" v="Damascus"/><tag k="addr:street" v="Southeast 232nd Drive"/></node>
+<node id="-2" lat="45.415009138" lon="-122.421040921" visible="true"><tag k="addr:housenumber" v="14992"/><tag k="addr:postcode" v="97089"/><tag k="addr:city" v="Damascus"/><tag k="addr:street" v="Southeast 232nd Drive"/></node>
+<node id="-3" lat="45.392893471" lon="-122.420123188" visible="true"><tag k="addr:housenumber" v="23636"/><tag k="addr:postcode" v="97009"/><tag k="addr:city" v="Boring"/><tag k="addr:street" v="Southeast Highway 224"/></node>
+<node id="-4" lat="45.392898549" lon="-122.420126272" visible="true"><tag k="addr:housenumber" v="23638"/><tag k="addr:postcode" v="97009"/><tag k="addr:city" v="Boring"/><tag k="addr:street" v="Southeast Highway 224"/></node>
 </osm>

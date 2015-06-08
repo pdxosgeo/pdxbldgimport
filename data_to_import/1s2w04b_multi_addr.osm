@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.51932454" lon="-122.943285789" visible="true"><tag k="addr:housenumber" v="3818"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="East Main Street"/></node>
-<node id="-2" lat="45.519410341" lon="-122.943260853" visible="true"><tag k="addr:housenumber" v="3818-A"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="East Main Street"/></node>
-<node id="-3" lat="45.518680259" lon="-122.943547729" visible="true"><tag k="addr:housenumber" v="280"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast 37th Avenue"/></node>
-<node id="-4" lat="45.518683697" lon="-122.943544648" visible="true"><tag k="addr:housenumber" v="292"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast 37th Avenue"/></node>
+<node id="-1" lat="45.519332728" lon="-122.943285786" visible="true"><tag k="addr:housenumber" v="3818"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="East Main Street"/></node>
+<node id="-2" lat="45.519412029" lon="-122.943263333" visible="true"><tag k="addr:housenumber" v="3818-A"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="East Main Street"/></node>
+<node id="-3" lat="45.518675838" lon="-122.943542409" visible="true"><tag k="addr:housenumber" v="280"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast 37th Avenue"/></node>
+<node id="-4" lat="45.518675425" lon="-122.943543887" visible="true"><tag k="addr:housenumber" v="292"/><tag k="addr:postcode" v="97123"/><tag k="addr:city" v="Hillsboro"/><tag k="addr:street" v="Southeast 37th Avenue"/></node>
 </osm>

@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.37588216" lon="-122.382645743" visible="true"><tag k="addr:housenumber" v="27228"/><tag k="addr:postcode" v="97022"/><tag k="addr:city" v="Eagle Creek"/><tag k="addr:street" v="Southeast Highway 224"/></node>
-<node id="-2" lat="45.375879228" lon="-122.382640882" visible="true"><tag k="addr:housenumber" v="27230"/><tag k="addr:postcode" v="97022"/><tag k="addr:city" v="Eagle Creek"/><tag k="addr:street" v="Southeast Highway 224"/></node>
+<node id="-1" lat="45.375873526" lon="-122.382643501" visible="true"><tag k="addr:housenumber" v="27228"/><tag k="addr:postcode" v="97022"/><tag k="addr:city" v="Eagle Creek"/><tag k="addr:street" v="Southeast Highway 224"/></node>
+<node id="-2" lat="45.375882446" lon="-122.382639444" visible="true"><tag k="addr:housenumber" v="27230"/><tag k="addr:postcode" v="97022"/><tag k="addr:city" v="Eagle Creek"/><tag k="addr:street" v="Southeast Highway 224"/></node>
 </osm>

@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.349943716" lon="-122.851741662" visible="true"><tag k="addr:housenumber" v="16860"/><tag k="addr:postcode" v="97140"/><tag k="addr:city" v="Sherwood"/><tag k="addr:street" v="Southwest Holly Farms Lane"/></node>
-<node id="-2" lat="45.349946266" lon="-122.851747088" visible="true"><tag k="addr:housenumber" v="23499"/><tag k="addr:postcode" v="97140"/><tag k="addr:city" v="Sherwood"/><tag k="addr:street" v="Southwest Holly Farms Lane"/></node>
-<node id="-3" lat="45.358286923" lon="-122.849579604" visible="true"><tag k="addr:housenumber" v="22331"/><tag k="addr:postcode" v="97140"/><tag k="addr:city" v="Sherwood"/><tag k="addr:street" v="Southwest Marshall Street"/></node>
-<node id="-4" lat="45.358225824" lon="-122.849578132" visible="true"><tag k="addr:housenumber" v="22339"/><tag k="addr:postcode" v="97140"/><tag k="addr:city" v="Sherwood"/><tag k="addr:street" v="Southwest Marshall Street"/></node>
-<node id="-5" lat="45.357716475" lon="-122.849592083" visible="true"><tag k="addr:housenumber" v="22465"/><tag k="addr:postcode" v="97140"/><tag k="addr:city" v="Sherwood"/><tag k="addr:street" v="Southwest Marshall Street"/></node>
-<node id="-6" lat="45.357673296" lon="-122.849587202" visible="true"><tag k="addr:housenumber" v="22475"/><tag k="addr:postcode" v="97140"/><tag k="addr:city" v="Sherwood"/><tag k="addr:street" v="Southwest Marshall Street"/></node>
+<node id="-1" lat="45.349946944" lon="-122.851742679" visible="true"><tag k="addr:housenumber" v="16860"/><tag k="addr:postcode" v="97140"/><tag k="addr:city" v="Sherwood"/><tag k="addr:street" v="Southwest Holly Farms Lane"/></node>
+<node id="-2" lat="45.349944637" lon="-122.851743118" visible="true"><tag k="addr:housenumber" v="23499"/><tag k="addr:postcode" v="97140"/><tag k="addr:city" v="Sherwood"/><tag k="addr:street" v="Southwest Holly Farms Lane"/></node>
+<node id="-3" lat="45.358287396" lon="-122.849579215" visible="true"><tag k="addr:housenumber" v="22331"/><tag k="addr:postcode" v="97140"/><tag k="addr:city" v="Sherwood"/><tag k="addr:street" v="Southwest Marshall Street"/></node>
+<node id="-4" lat="45.358223753" lon="-122.849574614" visible="true"><tag k="addr:housenumber" v="22339"/><tag k="addr:postcode" v="97140"/><tag k="addr:city" v="Sherwood"/><tag k="addr:street" v="Southwest Marshall Street"/></node>
+<node id="-5" lat="45.357712532" lon="-122.849587253" visible="true"><tag k="addr:housenumber" v="22465"/><tag k="addr:postcode" v="97140"/><tag k="addr:city" v="Sherwood"/><tag k="addr:street" v="Southwest Marshall Street"/></node>
+<node id="-6" lat="45.357675892" lon="-122.849585809" visible="true"><tag k="addr:housenumber" v="22475"/><tag k="addr:postcode" v="97140"/><tag k="addr:city" v="Sherwood"/><tag k="addr:street" v="Southwest Marshall Street"/></node>
 </osm>

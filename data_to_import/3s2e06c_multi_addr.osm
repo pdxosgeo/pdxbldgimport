@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.33873112" lon="-122.615005722" visible="true"><tag k="addr:housenumber" v="1044"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Birchwood Drive"/></node>
-<node id="-2" lat="45.338668381" lon="-122.615011577" visible="true"><tag k="addr:housenumber" v="1046"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Birchwood Drive"/></node>
-<node id="-3" lat="45.338706343" lon="-122.615229483" visible="true"><tag k="addr:housenumber" v="1048"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Birchwood Drive"/></node>
-<node id="-4" lat="45.338700607" lon="-122.615302377" visible="true"><tag k="addr:housenumber" v="1050"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Birchwood Drive"/></node>
-<node id="-5" lat="45.33851441" lon="-122.614472057" visible="true"><tag k="addr:housenumber" v="1051"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Birchwood Drive"/></node>
-<node id="-6" lat="45.338452115" lon="-122.614473821" visible="true"><tag k="addr:housenumber" v="1053"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Birchwood Drive"/></node>
-<node id="-7" lat="45.338275697" lon="-122.614563148" visible="true"><tag k="addr:housenumber" v="1059"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Birchwood Drive"/></node>
-<node id="-8" lat="45.338275884" lon="-122.614442454" visible="true"><tag k="addr:housenumber" v="1061"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Birchwood Drive"/></node>
-<node id="-9" lat="45.338173543" lon="-122.615272068" visible="true"><tag k="addr:housenumber" v="1064"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Birchwood Drive"/></node>
-<node id="-10" lat="45.338130669" lon="-122.615296786" visible="true"><tag k="addr:housenumber" v="1066"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Birchwood Drive"/></node>
+<node id="-1" lat="45.338734444" lon="-122.615008887" visible="true"><tag k="addr:housenumber" v="1044"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Birchwood Drive"/></node>
+<node id="-2" lat="45.338667747" lon="-122.615008049" visible="true"><tag k="addr:housenumber" v="1046"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Birchwood Drive"/></node>
+<node id="-3" lat="45.338711862" lon="-122.615228673" visible="true"><tag k="addr:housenumber" v="1048"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Birchwood Drive"/></node>
+<node id="-4" lat="45.338696381" lon="-122.615305917" visible="true"><tag k="addr:housenumber" v="1050"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Birchwood Drive"/></node>
+<node id="-5" lat="45.338521232" lon="-122.614476496" visible="true"><tag k="addr:housenumber" v="1051"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Birchwood Drive"/></node>
+<node id="-6" lat="45.338453129" lon="-122.614476773" visible="true"><tag k="addr:housenumber" v="1053"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Birchwood Drive"/></node>
+<node id="-7" lat="45.338281049" lon="-122.614571411" visible="true"><tag k="addr:housenumber" v="1059"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Birchwood Drive"/></node>
+<node id="-8" lat="45.338278505" lon="-122.61443996" visible="true"><tag k="addr:housenumber" v="1061"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Birchwood Drive"/></node>
+<node id="-9" lat="45.338167509" lon="-122.615269313" visible="true"><tag k="addr:housenumber" v="1064"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Birchwood Drive"/></node>
+<node id="-10" lat="45.338130073" lon="-122.615293514" visible="true"><tag k="addr:housenumber" v="1066"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Birchwood Drive"/></node>
 </osm>

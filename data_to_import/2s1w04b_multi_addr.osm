@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.426230118" lon="-122.825095477" visible="true"><tag k="addr:housenumber" v="14450"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Fern Street"/></node>
-<node id="-2" lat="45.426132479" lon="-122.825094391" visible="true"><tag k="addr:housenumber" v="14452"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Fern Street"/></node>
-<node id="-3" lat="45.42594893" lon="-122.825092042" visible="true"><tag k="addr:housenumber" v="14456"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Fern Street"/></node>
-<node id="-4" lat="45.425864683" lon="-122.825101044" visible="true"><tag k="addr:housenumber" v="14458"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Fern Street"/></node>
+<node id="-1" lat="45.426230836" lon="-122.825097645" visible="true"><tag k="addr:housenumber" v="14450"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Fern Street"/></node>
+<node id="-2" lat="45.426131364" lon="-122.825097516" visible="true"><tag k="addr:housenumber" v="14452"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Fern Street"/></node>
+<node id="-3" lat="45.425947991" lon="-122.825090288" visible="true"><tag k="addr:housenumber" v="14456"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Fern Street"/></node>
+<node id="-4" lat="45.42585608" lon="-122.825105071" visible="true"><tag k="addr:housenumber" v="14458"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Fern Street"/></node>
 </osm>

@@ -1,7 +1,10 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.45078593" lon="-122.580505347" visible="true"><tag k="addr:housenumber" v="9993"/><tag k="addr:postcode" v="97086"/><tag k="addr:city" v="Happy Valley"/><tag k="addr:street" v="Southeast 82nd Avenue"/></node>
-<node id="-2" lat="45.450784054" lon="-122.580502568" visible="true"><tag k="addr:housenumber" v="9995"/><tag k="addr:postcode" v="97086"/><tag k="addr:city" v="Happy Valley"/><tag k="addr:street" v="Southeast 82nd Avenue"/></node>
-<node id="-3" lat="45.450780114" lon="-122.580502276" visible="true"><tag k="addr:housenumber" v="9997"/><tag k="addr:postcode" v="97086"/><tag k="addr:city" v="Happy Valley"/><tag k="addr:street" v="Southeast 82nd Avenue"/></node>
-<node id="-4" lat="45.45078794" lon="-122.580503455" visible="true"><tag k="addr:housenumber" v="9999"/><tag k="addr:postcode" v="97086"/><tag k="addr:city" v="Happy Valley"/><tag k="addr:street" v="Southeast 82nd Avenue"/></node>
+<node id="-1" lat="45.450785971" lon="-122.580505917" visible="true"><tag k="addr:housenumber" v="9993"/><tag k="addr:postcode" v="97086"/><tag k="addr:city" v="Happy Valley"/><tag k="addr:street" v="Southeast 82nd Avenue"/></node>
+<node id="-2" lat="45.450779466" lon="-122.580502284" visible="true"><tag k="addr:housenumber" v="9995"/><tag k="addr:postcode" v="97086"/><tag k="addr:city" v="Happy Valley"/><tag k="addr:street" v="Southeast 82nd Avenue"/></node>
+<node id="-3" lat="45.450781448" lon="-122.580503441" visible="true"><tag k="addr:housenumber" v="9997"/><tag k="addr:postcode" v="97086"/><tag k="addr:city" v="Happy Valley"/><tag k="addr:street" v="Southeast 82nd Avenue"/></node>
+<node id="-4" lat="45.450784096" lon="-122.580506833" visible="true"><tag k="addr:housenumber" v="9999"/><tag k="addr:postcode" v="97086"/><tag k="addr:city" v="Happy Valley"/><tag k="addr:street" v="Southeast 82nd Avenue"/></node>
+<node id="-5" lat="45.451942975" lon="-122.580947424" visible="true"><tag k="addr:housenumber" v="8009"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Otty Street"/></node>
+<node id="-6" lat="45.452079367" lon="-122.580941665" visible="true"><tag k="addr:housenumber" v="8011"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Otty Street"/></node>
+<node id="-7" lat="45.452219267" lon="-122.580941496" visible="true"><tag k="addr:housenumber" v="8013"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Otty Street"/></node>
 </osm>

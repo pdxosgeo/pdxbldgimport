@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.403092994" lon="-122.808347704" visible="true"><tag k="addr:housenumber" v="16177"/><tag k="addr:postcode" v="97224"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest 127th Place"/></node>
-<node id="-2" lat="45.403097232" lon="-122.808350632" visible="true"><tag k="addr:housenumber" v="12768"/><tag k="addr:postcode" v="97224"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Bexley Lane"/></node>
+<node id="-1" lat="45.403099566" lon="-122.808349041" visible="true"><tag k="addr:housenumber" v="16177"/><tag k="addr:postcode" v="97224"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest 127th Place"/></node>
+<node id="-2" lat="45.403092759" lon="-122.808349724" visible="true"><tag k="addr:housenumber" v="12768"/><tag k="addr:postcode" v="97224"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Bexley Lane"/></node>
 </osm>

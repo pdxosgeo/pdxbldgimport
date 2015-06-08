@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.418015171" lon="-122.783185045" visible="true"><tag k="addr:housenumber" v="14137"/><tag k="addr:postcode" v="97224"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest 103rd Avenue"/></node>
-<node id="-2" lat="45.417942929" lon="-122.783189582" visible="true"><tag k="addr:housenumber" v="14139"/><tag k="addr:postcode" v="97224"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest 103rd Avenue"/></node>
-<node id="-3" lat="45.416768409" lon="-122.775000712" visible="true"><tag k="addr:housenumber" v="9510"/><tag k="addr:postcode" v="97224"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Mountain View Lane"/></node>
-<node id="-4" lat="45.416770592" lon="-122.775175541" visible="true"><tag k="addr:housenumber" v="9530"/><tag k="addr:postcode" v="97224"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Mountain View Lane"/></node>
+<node id="-1" lat="45.418011568" lon="-122.783180333" visible="true"><tag k="addr:housenumber" v="14137"/><tag k="addr:postcode" v="97224"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest 103rd Avenue"/></node>
+<node id="-2" lat="45.417945854" lon="-122.78319579" visible="true"><tag k="addr:housenumber" v="14139"/><tag k="addr:postcode" v="97224"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest 103rd Avenue"/></node>
+<node id="-3" lat="45.416764951" lon="-122.774994282" visible="true"><tag k="addr:housenumber" v="9510"/><tag k="addr:postcode" v="97224"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Mountain View Lane"/></node>
+<node id="-4" lat="45.416775409" lon="-122.775177523" visible="true"><tag k="addr:housenumber" v="9530"/><tag k="addr:postcode" v="97224"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Mountain View Lane"/></node>
 </osm>

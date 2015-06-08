@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.419453444" lon="-122.536745569" visible="true"><tag k="addr:housenumber" v="14140"/><tag k="addr:postcode" v="97015"/><tag k="addr:city" v="Clackamas"/><tag k="addr:street" v="Southeast 122nd Avenue"/></node>
-<node id="-2" lat="45.419392984" lon="-122.536928986" visible="true"><tag k="addr:housenumber" v="14310"/><tag k="addr:postcode" v="97015"/><tag k="addr:city" v="Clackamas"/><tag k="addr:street" v="Southeast 122nd Avenue"/></node>
+<node id="-1" lat="45.41944864" lon="-122.536751079" visible="true"><tag k="addr:housenumber" v="14140"/><tag k="addr:postcode" v="97015"/><tag k="addr:city" v="Clackamas"/><tag k="addr:street" v="Southeast 122nd Avenue"/></node>
+<node id="-2" lat="45.419390662" lon="-122.536930088" visible="true"><tag k="addr:housenumber" v="14310"/><tag k="addr:postcode" v="97015"/><tag k="addr:city" v="Clackamas"/><tag k="addr:street" v="Southeast 122nd Avenue"/></node>
 </osm>

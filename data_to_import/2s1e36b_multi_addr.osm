@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.360260851" lon="-122.631092099" visible="true"><tag k="addr:housenumber" v="2743"/><tag k="addr:postcode" v="97068"/><tag k="addr:city" v="West Linn"/><tag k="addr:street" v="Lancaster Street"/></node>
-<node id="-2" lat="45.360264092" lon="-122.631087382" visible="true"><tag k="addr:housenumber" v="2745"/><tag k="addr:postcode" v="97068"/><tag k="addr:city" v="West Linn"/><tag k="addr:street" v="Lancaster Street"/></node>
-<node id="-3" lat="45.360254702" lon="-122.631084195" visible="true"><tag k="addr:housenumber" v="2747"/><tag k="addr:postcode" v="97068"/><tag k="addr:city" v="West Linn"/><tag k="addr:street" v="Lancaster Street"/></node>
-<node id="-4" lat="45.360263144" lon="-122.631086442" visible="true"><tag k="addr:housenumber" v="2749"/><tag k="addr:postcode" v="97068"/><tag k="addr:city" v="West Linn"/><tag k="addr:street" v="Lancaster Street"/></node>
+<node id="-1" lat="45.360258685" lon="-122.631086561" visible="true"><tag k="addr:housenumber" v="2743"/><tag k="addr:postcode" v="97068"/><tag k="addr:city" v="West Linn"/><tag k="addr:street" v="Lancaster Street"/></node>
+<node id="-2" lat="45.360255617" lon="-122.631092055" visible="true"><tag k="addr:housenumber" v="2745"/><tag k="addr:postcode" v="97068"/><tag k="addr:city" v="West Linn"/><tag k="addr:street" v="Lancaster Street"/></node>
+<node id="-3" lat="45.360262832" lon="-122.631089881" visible="true"><tag k="addr:housenumber" v="2747"/><tag k="addr:postcode" v="97068"/><tag k="addr:city" v="West Linn"/><tag k="addr:street" v="Lancaster Street"/></node>
+<node id="-4" lat="45.360255318" lon="-122.631088441" visible="true"><tag k="addr:housenumber" v="2749"/><tag k="addr:postcode" v="97068"/><tag k="addr:city" v="West Linn"/><tag k="addr:street" v="Lancaster Street"/></node>
 </osm>

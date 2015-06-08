@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.484796277" lon="-122.392678887" visible="true"><tag k="addr:housenumber" v="1620"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Barn Owl Lane"/></node>
-<node id="-2" lat="45.484800048" lon="-122.392677388" visible="true"><tag k="addr:housenumber" v="1632"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Barn Owl Lane"/></node>
-<node id="-3" lat="45.490171283" lon="-122.39092998" visible="true"><tag k="addr:housenumber" v="4038"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Powell Valley Road"/></node>
-<node id="-4" lat="45.490165991" lon="-122.390927452" visible="true"><tag k="addr:housenumber" v="4048"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Powell Valley Road"/></node>
+<node id="-1" lat="45.484801488" lon="-122.39268678" visible="true"><tag k="addr:housenumber" v="1620"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Barn Owl Lane"/></node>
+<node id="-2" lat="45.484792406" lon="-122.39268132" visible="true"><tag k="addr:housenumber" v="1632"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Barn Owl Lane"/></node>
+<node id="-3" lat="45.490170186" lon="-122.390928341" visible="true"><tag k="addr:housenumber" v="4038"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Powell Valley Road"/></node>
+<node id="-4" lat="45.49016699" lon="-122.390931041" visible="true"><tag k="addr:housenumber" v="4048"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Powell Valley Road"/></node>
 </osm>
