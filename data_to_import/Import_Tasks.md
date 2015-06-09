@@ -453,10 +453,10 @@ If there is no multi_address file, then it was empty and not included here.
 - [x] 3s1e01d Complete (Peter) [changeset 31732709](http://www.openstreetmap.org/changeset/31732709)
 - [x] 3s1e03d Complete (Peter) [changeset 31851540](http://www.openstreetmap.org/changeset/31851540)
 - [x] 3s1e08c Complete (Peter) [changeset 31851540](http://www.openstreetmap.org/changeset/31851540)
-- [ ] 3s1e09d In Progress (Peter)
-- [ ] 3s1e11a In Progress (Peter)
-- [ ] 3s1e12a In Progress (Peter)
-- [ ] 3s1e12b In Progress (Peter)
+- [x] 3s1e09d Complete (Peter) [changeset 31852815](http://www.openstreetmap.org/changeset/31852815)
+- [x] 3s1e11a Complete (Peter) [changeset 31853408](http://www.openstreetmap.org/changeset/31853408)
+- [x] 3s1e12a Complete (Peter) [changeset 31854593](http://www.openstreetmap.org/changeset/31854593)
+- [x] 3s1e12b Complete (Peter) [changeset 31855163](http://www.openstreetmap.org/changeset/31855163)
 - [x] 3s1e19d 29741918
 - [x] 3s1e21c 28922710
 - [x] 3s1e22c 28920947
