@@ -129,7 +129,7 @@ If there is no multi_address file, then it was empty and not included here.
 - [x] 1s1w15b Complete (Peter) [changeset 28719929](http://www.openstreetmap.org/changeset/28719929)
 - [x] 1s1w15c Complete (Peter) [changeset 28720025](http://www.openstreetmap.org/changeset/28720025)
 - [x] 1s1w16b Complete (Peter) [changeset 29296419](http://www.openstreetmap.org/changeset/29296419)
-- [ ] 1s1w16c 1s1w16c_multi_addr.osm has incorrect locations for addresses on Southwest Hazel Street, Southwest Bonnie Brae Street, and Southwest Menlo Drive (See [issue #28](../../../issues/28))
+- [x] 1s1w16c Complete (Peter) [changeset 31856863](http://www.openstreetmap.org/changeset/31856863)
 - [ ] 1s1w16d 1s1w16d_multi_addr.osm has incorrect locations for addresses on Southwest 5th Street, Southwest Viking Court, Southwest Erickson Avenue, Southwest Hall Boulevard, Southwest Stott Avenue, and Southwest Main Avenue (See [issue #28](../../../issues/28))
 - [x] 1s1w17c Complete (Peter) [changeset 30847254](http://www.openstreetmap.org/changeset/30847254)
 - [ ] 1s1w17d 1s1w17d_multi_addr.osm has incorrect locations for addresses on Southwest 6th Street (See [issue #28](../../../issues/28))
