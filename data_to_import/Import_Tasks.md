@@ -147,7 +147,7 @@ If there is no multi_address file, then it was empty and not included here.
 - [x] 1s1w21c Complete (Peter) [changeset 31860010](http://www.openstreetmap.org/changeset/31860010)
 - [x] 1s1w21d Complete (Peter) [changeset 30884529](http://www.openstreetmap.org/changeset/30884529)
 - [x] 1s1w22b Complete (Peter) [changeset 31859957](http://www.openstreetmap.org/changeset/31859957)
-- [ ] 1s1w22c 1s1w22c_multi_addr.osm has incorrect locations for addresses on Southwest Denney Road and Southwest Hillcrest Place (See [issue #28](../../../issues/28))
+- [x] 1s1w22c Complete (Peter) [changeset 31860038](http://www.openstreetmap.org/changeset/31860038)
 - [ ] 1s1w23b 1s1w23b_multi_addr.osm has incorrect locations for addresses on Southwest Cynthia Street, Southwest 104th Avenue, Southwest 104th Terrace, Southwest Sholls Ferry Road (See [issue #28](../../../issues/28))
 - [x] 1s1w25c Complete (Peter) [changeset 31112754](http://www.openstreetmap.org/changeset/31112754)
 - [ ] 1s1w26c 1s1w26c_multi_addr.osm has incorrect locations for addresses on Southwest Crystal Street, Southwest Bel Aire Lane, Southwest Bel Aire Drive and Southwest 103rd Avenue (See [issue #28](../../../issues/28))
