@@ -143,7 +143,7 @@ If there is no multi_address file, then it was empty and not included here.
 - [ ] 1s1w20b contains a lot of duplicate data because [OSM user emem](http://www.openstreetmap.org/user/emem) has imported part of this ad-hoc in [changeset 30242159](http://www.openstreetmap.org/changeset/30242159) 
 - [ ] 1s1w20c contains a lot of duplicate data because [OSM user emem](http://www.openstreetmap.org/user/emem) has imported part of this ad-hoc in [changeset 30242159](http://www.openstreetmap.org/changeset/30242159)
 - [x] 1s1w21a Complete (Peter) [changeset 31859872](http://www.openstreetmap.org/changeset/31859872)
-- [ ] 1s1w21b 1s1w21b_multi_addr.osm has incorrect locations for addresses on Southwest 17th Street, Southwest Barlow Road, Southwest Daphne Street, Southwest 20th Street, Southwest Cherryhill Drive, Southwest Shannon Court, Southwest 144th Place, and Southwest 22nd Street (See [issue #28](../../../issues/28))
+- [x] 1s1w21b Complete (Peter) [changeset 31859913](http://www.openstreetmap.org/changeset/31859913)
 - [ ] 1s1w21c 1s1w21c_multi_addr.osm has incorrect locations for addresses on Southwest Barlow Road (See [issue #28](../../../issues/28))
 - [x] 1s1w21d Complete (Peter) [changeset 30884529](http://www.openstreetmap.org/changeset/30884529)
 - [ ] 1s1w22b 1s1w22b_multi_addr.osm has incorrect locations for addresses on Southwest Cheshire Road and Southwest Sussex Street (See [issue #28](../../../issues/28))
