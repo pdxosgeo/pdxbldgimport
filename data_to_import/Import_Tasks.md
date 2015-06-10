@@ -132,7 +132,7 @@ If there is no multi_address file, then it was empty and not included here.
 - [x] 1s1w16c Complete (Peter) [changeset 31856863](http://www.openstreetmap.org/changeset/31856863)
 - [x] 1s1w16d Complete (Peter) [changeset 31857145](http://www.openstreetmap.org/changeset/31857145)
 - [x] 1s1w17c Complete (Peter) [changeset 30847254](http://www.openstreetmap.org/changeset/30847254)
-- [ ] 1s1w17d 1s1w17d_multi_addr.osm has incorrect locations for addresses on Southwest 6th Street (See [issue #28](../../../issues/28))
+- [x] 1s1w17d Complete (Peter) [changeset 31859371](http://www.openstreetmap.org/changeset/31859371)
 - [x] 1s1w18a Complete (Peter) [changeset 30849641](http://www.openstreetmap.org/changeset/30849641)
 - [x] 1s1w18b Complete (Peter) [changeset 30849904](http://www.openstreetmap.org/changeset/30849904)
 - [ ] 1s1w19a contains a lot of duplicate data because [OSM user emem](http://www.openstreetmap.org/user/emem) has imported part of this ad-hoc in [changeset 30242159](http://www.openstreetmap.org/changeset/30242159) 
