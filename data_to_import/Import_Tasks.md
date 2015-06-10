@@ -153,7 +153,7 @@ If there is no multi_address file, then it was empty and not included here.
 - [x] 1s1w26c Complete (Peter) [changeset 31860406](http://www.openstreetmap.org/changeset/31860406)
 - [x] 1s1w26d Complete (Peter) [changeset 31113438](http://www.openstreetmap.org/changeset/31113438)
 - [x] 1s1w27c Complete (Peter) [changeset 31161891](http://www.openstreetmap.org/changeset/31161891)
-- [ ] 1s1w28a 1s1w28a_multi_addr.osm has incorrect locations for addresses on Southwest Tapadera Street and Southwest 103rd Avenue (See [issue #28](../../../issues/28))
+- [x] 1s1w28a Complete (Peter) [changeset 31861538](http://www.openstreetmap.org/changeset/31861538)
 - [x] 1s1w28b Complete (Peter) [changeset 31162218](http://www.openstreetmap.org/changeset/31162218)
 - [x] 1s1w28c Complete (Peter) [changeset 31202371](http://www.openstreetmap.org/changeset/31202371)
 - [x] 1s1w28d Complete (Peter) [changeset 31202597](http://www.openstreetmap.org/changeset/31202597)
