@@ -146,7 +146,7 @@ If there is no multi_address file, then it was empty and not included here.
 - [x] 1s1w21b Complete (Peter) [changeset 31859913](http://www.openstreetmap.org/changeset/31859913)
 - [ ] 1s1w21c 1s1w21c_multi_addr.osm has incorrect locations for addresses on Southwest Barlow Road (See [issue #28](../../../issues/28))
 - [x] 1s1w21d Complete (Peter) [changeset 30884529](http://www.openstreetmap.org/changeset/30884529)
-- [ ] 1s1w22b 1s1w22b_multi_addr.osm has incorrect locations for addresses on Southwest Cheshire Road and Southwest Sussex Street (See [issue #28](../../../issues/28))
+- [x] 1s1w22b Complete (Peter) [changeset 31859957](http://www.openstreetmap.org/changeset/31859957)
 - [ ] 1s1w22c 1s1w22c_multi_addr.osm has incorrect locations for addresses on Southwest Denney Road and Southwest Hillcrest Place (See [issue #28](../../../issues/28))
 - [ ] 1s1w23b 1s1w23b_multi_addr.osm has incorrect locations for addresses on Southwest Cynthia Street, Southwest 104th Avenue, Southwest 104th Terrace, Southwest Sholls Ferry Road (See [issue #28](../../../issues/28))
 - [x] 1s1w25c Complete (Peter) [changeset 31112754](http://www.openstreetmap.org/changeset/31112754)
