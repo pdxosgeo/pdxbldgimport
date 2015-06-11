@@ -349,7 +349,7 @@ If there is no multi_address file, then it was empty and not included here.
 - [ ] 2s1w20a
 - [ ] 2s1w22b
 - [x] 2s1w23b Complete (Peter) [changeset 31897385](http://www.openstreetmap.org/changeset/31897385)
-- [ ] 2s1w24b In Progress (Peter)
+- [x] 2s1w24b Complete (Peter) [changeset 31898611](http://www.openstreetmap.org/changeset/31898611)
 - [ ] 2s1w26a In Progress (Peter)
 - [ ] 2s1w26d In Progress (Peter)
 - [ ] 2s1w31c
