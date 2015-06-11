@@ -338,10 +338,10 @@ If there is no multi_address file, then it was empty and not included here.
 - [ ] 2s1w11d
 - [ ] 2s1w12b
 - [ ] 2s1w12c
-- [ ] 2s1w13a
-- [ ] 2s1w14a
-- [ ] 2s1w15a
-- [ ] 2s1w15b
+- [ ] 2s1w13a In Progress (Peter)
+- [ ] 2s1w14a In Progress (Peter)
+- [ ] 2s1w15a In Progress (Peter)
+- [ ] 2s1w15b In Progress (Peter)
 - [ ] 2s1w16a
 - [ ] 2s1w16b
 - [ ] 2s1w17b
