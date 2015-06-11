@@ -339,7 +339,7 @@ If there is no multi_address file, then it was empty and not included here.
 - [ ] 2s1w12b
 - [ ] 2s1w12c
 - [x] 2s1w13a Complete (Peter) [changeset 31888663](http://www.openstreetmap.org/changeset/31888663)
-- [ ] 2s1w14a In Progress (Peter)
+- [x] 2s1w14a Complete (Peter) [changeset 31896351](http://www.openstreetmap.org/changeset/31896351)
 - [ ] 2s1w15a In Progress (Peter)
 - [ ] 2s1w15b In Progress (Peter)
 - [ ] 2s1w16a
