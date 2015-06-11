@@ -341,17 +341,17 @@ If there is no multi_address file, then it was empty and not included here.
 - [x] 2s1w13a Complete (Peter) [changeset 31888663](http://www.openstreetmap.org/changeset/31888663)
 - [x] 2s1w14a Complete (Peter) [changeset 31896351](http://www.openstreetmap.org/changeset/31896351)
 - [x] 2s1w15a Complete (Peter) [changeset 31896718](http://www.openstreetmap.org/changeset/31896718)
-- [ ] 2s1w15b In Progress (Peter)
+- [x] 2s1w15b Complete (Peter) [changeset 31896935](http://www.openstreetmap.org/changeset/31896935)
 - [ ] 2s1w16a
 - [ ] 2s1w16b
 - [ ] 2s1w17b
 - [ ] 2s1w18b
 - [ ] 2s1w20a
 - [ ] 2s1w22b
-- [ ] 2s1w23b
-- [ ] 2s1w24b
-- [ ] 2s1w26a
-- [ ] 2s1w26d
+- [ ] 2s1w23b In Progress (Peter)
+- [ ] 2s1w24b In Progress (Peter)
+- [ ] 2s1w26a In Progress (Peter)
+- [ ] 2s1w26d In Progress (Peter)
 - [ ] 2s1w31c
 - [ ] 2s1w31d
 - [ ] 2s1w32a
