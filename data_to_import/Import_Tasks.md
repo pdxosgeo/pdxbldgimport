@@ -204,16 +204,16 @@ If there is no multi_address file, then it was empty and not included here.
 - [x] 1s2w11a Complete (Peter) [changeset 31914057](http://www.openstreetmap.org/changeset/31914057)
 - [x] 1s2w11b Complete (Peter) [changeset 31926586](http://www.openstreetmap.org/changeset/31926586)
 - [x] 1s2w11d Complete (Peter) [changeset 31936495](http://www.openstreetmap.org/changeset/31936495)
-- [ ] 1s2w12a In Progress (Peter)
-- [ ] 1s2w12b In Progress (Peter)
-- [ ] 1s2w12d In Progress (Peter)
-- [ ] 1s2w13a
-- [ ] 1s2w13b
-- [ ] 1s2w13c
-- [ ] 1s2w13d
-- [ ] 1s2w17a
-- [ ] 1s2w19b
-- [ ] 1s2w21b
+- [x] 1s2w12a Complete (Peter) [changeset 31936586](http://www.openstreetmap.org/changeset/31936586)
+- [x] 1s2w12b Complete (Peter) [changeset 31936646](http://www.openstreetmap.org/changeset/31936646)
+- [x] 1s2w12d Complete (Peter) [changeset 31936769](http://www.openstreetmap.org/changeset/31936769)
+- [ ] 1s2w13a In Progress (Peter)
+- [ ] 1s2w13b In Progress (Peter)
+- [ ] 1s2w13c In Progress (Peter)
+- [ ] 1s2w13d In Progress (Peter)
+- [ ] 1s2w17a In Progress (Peter)
+- [ ] 1s2w19b In Progress (Peter)
+- [ ] 1s2w21b In Progress (Peter)
 - [ ] 1s2w23a
 - [ ] 1s2w24a
 - [ ] 1s2w24b
