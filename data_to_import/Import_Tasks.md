@@ -332,7 +332,7 @@ If there is no multi_address file, then it was empty and not included here.
 - [ ] 2s1w05c
 - [ ] 2s1w05d
 - [ ] 2s1w06a
-- [ ] 2s1w09c In Progress (Peter)
+- [x] 2s1w09c Complete (Peter) [changeset 31994585](http://www.openstreetmap.org/changeset/31994585)
 - [ ] 2s1w10d In Progress (Peter)
 - [ ] 2s1w11b In Progress (Peter)
 - [ ] 2s1w11d In Progress (Peter)
