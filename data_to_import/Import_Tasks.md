@@ -323,15 +323,15 @@ If there is no multi_address file, then it was empty and not included here.
 - [x] 2s1w03a Complete (Peter) [changeset 32009109](http://www.openstreetmap.org/changeset/32009109)
 - [x] 2s1w03b Complete (Peter) [changeset 32009456](http://www.openstreetmap.org/changeset/32009456)
 - [x] 2s1w03c Complete (Peter) [changeset 32009636](http://www.openstreetmap.org/changeset/32009636)
-- [ ] 2s1w03d In Progress (Peter)
-- [ ] 2s1w04b
-- [ ] 2s1w04c
-- [ ] 2s1w04d
-- [ ] 2s1w05a
-- [ ] 2s1w05b
-- [ ] 2s1w05c
-- [ ] 2s1w05d
-- [ ] 2s1w06a
+- [x] 2s1w03d Complete (Peter) [changeset 32009920](http://www.openstreetmap.org/changeset/32009920)
+- [ ] 2s1w04b In Progress (Peter)
+- [ ] 2s1w04c In Progress (Peter)
+- [ ] 2s1w04d In Progress (Peter)
+- [ ] 2s1w05a In Progress (Peter)
+- [ ] 2s1w05b In Progress (Peter)
+- [ ] 2s1w05c In Progress (Peter)
+- [ ] 2s1w05d In Progress (Peter)
+- [ ] 2s1w06a In Progress (Peter)
 - [x] 2s1w09c Complete (Peter) [changeset 31994585](http://www.openstreetmap.org/changeset/31994585)
 - [x] 2s1w10d Complete (Peter) [changeset 31995448](http://www.openstreetmap.org/changeset/31995448)
 - [x] 2s1w11b Complete (Peter) [changeset 31997202](http://www.openstreetmap.org/changeset/31997202)
