@@ -326,7 +326,7 @@ If there is no multi_address file, then it was empty and not included here.
 - [x] 2s1w03d Complete (Peter) [changeset 32009920](http://www.openstreetmap.org/changeset/32009920)
 - [x] 2s1w04b Complete (Peter) [changeset 32014806](http://www.openstreetmap.org/changeset/32014806)
 - [x] 2s1w04c Complete (Peter) [changeset 32016098](http://www.openstreetmap.org/changeset/32016098)
-- [ ] 2s1w04d In Progress (Peter)
+- [x] 2s1w04d Complete (Peter) [changeset 32062996](http://www.openstreetmap.org/changeset/32062996)
 - [ ] 2s1w05a In Progress (Peter)
 - [ ] 2s1w05b In Progress (Peter)
 - [ ] 2s1w05c In Progress (Peter)
