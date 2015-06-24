@@ -408,7 +408,7 @@ If there is no multi_address file, then it was empty and not included here.
 - [ ] 2s2e34a
 - [ ] 2s2e35a
 - [ ] 2s2e36a
-- [ ] 2s2w01a In Progress (Peter)
+- [x] 2s2w01a Complete (Peter) [changeset 32188590](http://www.openstreetmap.org/changeset/32188590)
 - [ ] 2s2w03c In Progress (Peter)
 - [ ] 2s2w05d In Progress (Peter)
 - [ ] 2s2w14a In Progress (Peter)
