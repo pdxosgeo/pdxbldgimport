@@ -434,7 +434,7 @@ If there is no multi_address file, then it was empty and not included here.
 - [ ] 2s3e31a
 - [ ] 2s3e33b
 - [x] 2s3w01d Complete (Peter) [changeset 32226746](http://www.openstreetmap.org/changeset/32226746)
-- [ ] 2s3w11d In Progress (Peter)
+- [x] 2s3w11d Complete (Peter) [changeset 32232782](http://www.openstreetmap.org/changeset/32232782)
 - [ ] 2s4e05d
 - [ ] 2s4e07c
 - [ ] 2s4e10a
@@ -465,9 +465,9 @@ If there is no multi_address file, then it was empty and not included here.
 - [X] 3s1e34c 28406592
 - [X] 3s1e36c 28693738
 - [X] 3s1w01d 28894253,28894412
-- [ ] 3s1w07b
-- [ ] 3s1w08d
-- [ ] 3s1w10c
+- [ ] 3s1w07b In Progress (Peter)
+- [ ] 3s1w08d In Progress (Peter)
+- [ ] 3s1w10c In Progress (Peter)
 - [ ] 3s1w11c
 - [ ] 3s1w12c
 - [ ] 3s1w12d
