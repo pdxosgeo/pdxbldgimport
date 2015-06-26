@@ -433,7 +433,7 @@ If there is no multi_address file, then it was empty and not included here.
 - [ ] 2s3e26c
 - [ ] 2s3e31a
 - [ ] 2s3e33b
-- [ ] 2s3w01d In Progress (Peter)
+- [x] 2s3w01d Complete (Peter) [changeset 32226746](http://www.openstreetmap.org/changeset/32226746)
 - [ ] 2s3w11d In Progress (Peter)
 - [ ] 2s4e05d
 - [ ] 2s4e07c
