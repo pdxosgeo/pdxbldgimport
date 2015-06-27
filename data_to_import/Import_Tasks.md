@@ -465,7 +465,7 @@ If there is no multi_address file, then it was empty and not included here.
 - [X] 3s1e34c 28406592
 - [X] 3s1e36c 28693738
 - [X] 3s1w01d 28894253,28894412
-- [ ] 3s1w07b In Progress (Peter)
+- [x] 3s1w07b Complete (Peter) [changeset 32235663](http://www.openstreetmap.org/changeset/32235663)
 - [ ] 3s1w08d In Progress (Peter)
 - [ ] 3s1w10c In Progress (Peter)
 - [ ] 3s1w11c
