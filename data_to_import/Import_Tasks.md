@@ -472,11 +472,11 @@ If there is no multi_address file, then it was empty and not included here.
 - [x] 3s1w12c Complete (Peter) [changeset 32254829](http://www.openstreetmap.org/changeset/32254829)
 - [x] 3s1w12d Complete (Peter) [changeset 32263073](http://www.openstreetmap.org/changeset/32263073)
 - [x] 3s1w19d Complete (Peter) [changeset 32264729](http://www.openstreetmap.org/changeset/32264729)
-- [ ] 3s1w21c In Progress (Peter)
-- [ ] 3s1w22c In Progress (Peter)
-- [ ] 3s1w23c In Progress (Peter)
-- [ ] 3s1w24c In Progress (Peter)
-- [ ] 3s1w26c In Progress (Peter)
+- [x] 3s1w21c Complete (Peter) [changeset 32271305](http://www.openstreetmap.org/changeset/32271305)
+- [x] 3s1w22c Complete (Peter) [changeset 32271480](http://www.openstreetmap.org/changeset/32271480)
+- [x] 3s1w23c Complete (Peter) [changeset 32271892](http://www.openstreetmap.org/changeset/32271892)
+- [x] 3s1w24c Complete (Peter) [changeset 32272209](http://www.openstreetmap.org/changeset/32272209)
+- [x] 3s1w26c Complete (Peter) [changeset 32272436](http://www.openstreetmap.org/changeset/32272436)
 - [ ] 3s2e02d
 - [ ] 3s2e03d
 - [ ] 3s2e05c
