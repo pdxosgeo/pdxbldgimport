@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.531700954" lon="-122.501817505" visible="true"><tag k="addr:housenumber" v="1217"/><tag k="addr:postcode" v="97230"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 157th Avenue"/></node>
+<node id="-2" lat="45.529385382" lon="-122.502300376" visible="true"><tag k="addr:housenumber" v="50"/><tag k="addr:postcode" v="97230"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 157th Avenue"/></node>
+<node id="-3" lat="45.529381699" lon="-122.502294046" visible="true"><tag k="addr:housenumber" v="903"/><tag k="addr:postcode" v="97230"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 157th Avenue"/></node>
+<node id="-4" lat="45.530646088" lon="-122.496341498" visible="true"><tag k="addr:housenumber" v="1047"/><tag k="addr:postcode" v="97230"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 162nd Avenue"/></node>
+<node id="-5" lat="45.530651656" lon="-122.496344787" visible="true"><tag k="addr:housenumber" v="1049"/><tag k="addr:postcode" v="97230"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 162nd Avenue"/></node>
+<node id="-6" lat="45.531098284" lon="-122.496533584" visible="true"><tag k="addr:housenumber" v="1125"/><tag k="addr:postcode" v="97230"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 162nd Avenue"/></node>
+<node id="-7" lat="45.531097617" lon="-122.496531136" visible="true"><tag k="addr:housenumber" v="1131"/><tag k="addr:postcode" v="97230"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 162nd Avenue"/></node>
+<node id="-8" lat="45.531104135" lon="-122.496533212" visible="true"><tag k="addr:housenumber" v="1133"/><tag k="addr:postcode" v="97230"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 162nd Avenue"/></node>
+<node id="-9" lat="45.531366173" lon="-122.496340502" visible="true"><tag k="addr:housenumber" v="1145"/><tag k="addr:postcode" v="97230"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 162nd Avenue"/></node>
+<node id="-10" lat="45.5291762" lon="-122.497168197" visible="true"><tag k="addr:housenumber" v="863"/><tag k="addr:postcode" v="97230"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 162nd Avenue"/></node>
+<node id="-11" lat="45.529180672" lon="-122.497169586" visible="true"><tag k="addr:housenumber" v="865"/><tag k="addr:postcode" v="97230"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 162nd Avenue"/></node>
+<node id="-12" lat="45.5266861" lon="-122.49922754" visible="true"><tag k="addr:housenumber" v="515"/><tag k="addr:postcode" v="97213"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 60th Avenue"/></node>
+<node id="-13" lat="45.526691896" lon="-122.499220408" visible="true"><tag k="addr:housenumber" v="15923"/><tag k="addr:postcode" v="97230"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Glisan Street"/></node>
+<node id="-14" lat="45.531704275" lon="-122.501817018" visible="true"><tag k="addr:housenumber" v="1217"/><tag k="addr:postcode" v="97230"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Magda Lane"/></node>
+<node id="-15" lat="45.53136503" lon="-122.496344555" visible="true"><tag k="addr:housenumber" v="16126"/><tag k="addr:postcode" v="97230"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Multnomah Street"/></node>
+</osm>

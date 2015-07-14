@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.480958846" lon="-122.727892226" visible="true"><tag k="addr:housenumber" v="5929"/><tag k="addr:postcode" v="97221"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 48th Avenue"/></node>
+<node id="-2" lat="45.480955747" lon="-122.727888974" visible="true"><tag k="addr:housenumber" v="5949"/><tag k="addr:postcode" v="97221"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 48th Avenue"/></node>
+<node id="-3" lat="45.482550856" lon="-122.733100603" visible="true"><tag k="addr:housenumber" v="5727"/><tag k="addr:postcode" v="97221"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 54th Avenue"/></node>
+<node id="-4" lat="45.482549336" lon="-122.733106889" visible="true"><tag k="addr:housenumber" v="5733"/><tag k="addr:postcode" v="97221"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 54th Avenue"/></node>
+<node id="-5" lat="45.481968542" lon="-122.732437104" visible="true"><tag k="addr:housenumber" v="5806"/><tag k="addr:postcode" v="97221"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 54th Avenue"/></node>
+<node id="-6" lat="45.481959113" lon="-122.732430558" visible="true"><tag k="addr:housenumber" v="5810"/><tag k="addr:postcode" v="97221"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 54th Avenue"/></node>
+<node id="-7" lat="45.483020529" lon="-122.725862563" visible="true"><tag k="addr:housenumber" v="4704"/><tag k="addr:postcode" v="97221"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Cameron Road"/></node>
+<node id="-8" lat="45.483024656" lon="-122.725860069" visible="true"><tag k="addr:housenumber" v="4706"/><tag k="addr:postcode" v="97221"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Cameron Road"/></node>
+</osm>

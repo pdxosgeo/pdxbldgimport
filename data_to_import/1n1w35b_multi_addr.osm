@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.526204606" lon="-122.776894773" visible="true"><tag k="addr:housenumber" v="910"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Ashcreek Lane"/></node>
+<node id="-2" lat="45.526200214" lon="-122.776895387" visible="true"><tag k="addr:housenumber" v="912"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Ashcreek Lane"/></node>
+<node id="-3" lat="45.529084106" lon="-122.776488811" visible="true"><tag k="addr:housenumber" v="9666"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Nottage Drive"/></node>
+<node id="-4" lat="45.52908924" lon="-122.776482464" visible="true"><tag k="addr:housenumber" v="9672"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Nottage Drive"/></node>
+</osm>

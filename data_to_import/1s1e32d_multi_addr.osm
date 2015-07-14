@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.44522482" lon="-122.702883022" visible="true"><tag k="addr:housenumber" v="2509"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast 129th Avenue"/></node>
+<node id="-2" lat="45.444002441" lon="-122.711942891" visible="true"><tag k="addr:housenumber" v="3345"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast 129th Avenue"/></node>
+<node id="-3" lat="45.445709672" lon="-122.708270645" visible="true"><tag k="addr:housenumber" v="11027"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 30th Place"/></node>
+<node id="-4" lat="45.43578662" lon="-122.712199546" visible="true"><tag k="addr:housenumber" v="12445"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 34th Avenue"/></node>
+<node id="-5" lat="45.435790981" lon="-122.712199487" visible="true"><tag k="addr:housenumber" v="12447"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 34th Avenue"/></node>
+<node id="-6" lat="45.444977336" lon="-122.712197253" visible="true"><tag k="addr:housenumber" v="11120"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 35th Avenue"/></node>
+<node id="-7" lat="45.444921055" lon="-122.712561745" visible="true"><tag k="addr:housenumber" v="11122"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 35th Avenue"/></node>
+<node id="-8" lat="45.444562238" lon="-122.712453688" visible="true"><tag k="addr:housenumber" v="11232"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 35th Avenue"/></node>
+<node id="-9" lat="45.445704751" lon="-122.708273803" visible="true"><tag k="addr:housenumber" v="3109"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Arnold Street"/></node>
+<node id="-10" lat="45.444564897" lon="-122.712446573" visible="true"><tag k="addr:housenumber" v="3432"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Arnold Street"/></node>
+<node id="-11" lat="45.444972014" lon="-122.712193568" visible="true"><tag k="addr:housenumber" v="3443"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Arnold Street"/></node>
+<node id="-12" lat="45.444926653" lon="-122.712554912" visible="true"><tag k="addr:housenumber" v="3449"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Arnold Street"/></node>
+<node id="-13" lat="45.445224025" lon="-122.702876759" visible="true"><tag k="addr:housenumber" v="2509"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Palatine Street"/></node>
+<node id="-14" lat="45.444155945" lon="-122.709064171" visible="true"><tag k="addr:housenumber" v="3117"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Palatine Street"/></node>
+<node id="-15" lat="45.444150374" lon="-122.709064598" visible="true"><tag k="addr:housenumber" v="3119"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Palatine Street"/></node>
+<node id="-16" lat="45.443998497" lon="-122.711942769" visible="true"><tag k="addr:housenumber" v="3345"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Palatine Street"/></node>
+<node id="-17" lat="45.440550408" lon="-122.710360315" visible="true"><tag k="addr:housenumber" v="3225"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Stephenson Street"/></node>
+<node id="-18" lat="45.440546129" lon="-122.710360661" visible="true"><tag k="addr:housenumber" v="3227"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Stephenson Street"/></node>
+</osm>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.496425251" lon="-122.501611149" visible="true"><tag k="addr:housenumber" v="3610"/><tag k="addr:postcode" v="97236"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast 157th Avenue"/></node>
+<node id="-2" lat="45.496425969" lon="-122.501618653" visible="true"><tag k="addr:housenumber" v="3614"/><tag k="addr:postcode" v="97236"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast 157th Avenue"/></node>
+<node id="-3" lat="45.495284391" lon="-122.497002563" visible="true"><tag k="addr:housenumber" v="3735"/><tag k="addr:postcode" v="97236"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast 162nd Avenue"/></node>
+<node id="-4" lat="45.495283404" lon="-122.497005733" visible="true"><tag k="addr:housenumber" v="3739"/><tag k="addr:postcode" v="97236"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast 162nd Avenue"/></node>
+<node id="-5" lat="45.496416227" lon="-122.505355932" visible="true"><tag k="addr:housenumber" v="15330"/><tag k="addr:postcode" v="97236"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Powell Boulevard"/></node>
+<node id="-6" lat="45.496780159" lon="-122.504865555" visible="true"><tag k="addr:housenumber" v="15337"/><tag k="addr:postcode" v="97236"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Powell Boulevard"/></node>
+<node id="-7" lat="45.496775263" lon="-122.504868984" visible="true"><tag k="addr:housenumber" v="15339"/><tag k="addr:postcode" v="97236"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Powell Boulevard"/></node>
+<node id="-8" lat="45.49641718" lon="-122.505363579" visible="true"><tag k="addr:housenumber" v="15340"/><tag k="addr:postcode" v="97236"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Powell Boulevard"/></node>
+<node id="-9" lat="45.496995142" lon="-122.504889542" visible="true"><tag k="addr:housenumber" v="15343"/><tag k="addr:postcode" v="97236"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Powell Boulevard"/></node>
+<node id="-10" lat="45.496994102" lon="-122.50488588" visible="true"><tag k="addr:housenumber" v="15401"/><tag k="addr:postcode" v="97236"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Powell Boulevard"/></node>
+<node id="-11" lat="45.495056548" lon="-122.497000342" visible="true"><tag k="addr:housenumber" v="16131"/><tag k="addr:postcode" v="97236"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Powell Boulevard"/></node>
+<node id="-12" lat="45.495062833" lon="-122.497000581" visible="true"><tag k="addr:housenumber" v="16137"/><tag k="addr:postcode" v="97236"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Powell Boulevard"/></node>
+</osm>

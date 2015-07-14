@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.454516949" lon="-122.618149619" visible="true"><tag k="addr:housenumber" v="9502"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast 43rd Avenue"/></node>
+<node id="-2" lat="45.454479325" lon="-122.618145091" visible="true"><tag k="addr:housenumber" v="9508"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast 43rd Avenue"/></node>
+<node id="-3" lat="45.456496204" lon="-122.619866911" visible="true"><tag k="addr:housenumber" v="4203"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Mason Lane"/></node>
+<node id="-4" lat="45.456502254" lon="-122.619761859" visible="true"><tag k="addr:housenumber" v="4207"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Mason Lane"/></node>
+<node id="-5" lat="45.459267705" lon="-122.617620268" visible="true"><tag k="addr:housenumber" v="4347"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Roswell Street"/></node>
+<node id="-6" lat="45.459261262" lon="-122.617525579" visible="true"><tag k="addr:housenumber" v="4349"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Roswell Street"/></node>
+<node id="-7" lat="45.458953696" lon="-122.616525174" visible="true"><tag k="addr:housenumber" v="4515"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Roswell Street"/></node>
+<node id="-8" lat="45.45902568" lon="-122.616527166" visible="true"><tag k="addr:housenumber" v="4517"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Roswell Street"/></node>
+</osm>

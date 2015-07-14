@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.581910709" lon="-122.738784662" visible="true"><tag k="addr:housenumber" v="6734"/><tag k="addr:postcode" v="97203"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="North Amherst Street"/></node>
+<node id="-2" lat="45.581919888" lon="-122.738777523" visible="true"><tag k="addr:housenumber" v="6746"/><tag k="addr:postcode" v="97203"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="North Amherst Street"/></node>
+<node id="-3" lat="45.58333313" lon="-122.741248098" visible="true"><tag k="addr:housenumber" v="7005"/><tag k="addr:postcode" v="97203"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="North Amherst Street"/></node>
+<node id="-4" lat="45.583328702" lon="-122.741244254" visible="true"><tag k="addr:housenumber" v="7007"/><tag k="addr:postcode" v="97203"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="North Amherst Street"/></node>
+<node id="-5" lat="45.582685842" lon="-122.738835444" visible="true"><tag k="addr:housenumber" v="7040"/><tag k="addr:postcode" v="97203"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="North Carey Boulevard"/></node>
+<node id="-6" lat="45.582689228" lon="-122.738829595" visible="true"><tag k="addr:housenumber" v="7044"/><tag k="addr:postcode" v="97203"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="North Carey Boulevard"/></node>
+<node id="-7" lat="45.58313504" lon="-122.748509543" visible="true"><tag k="addr:housenumber" v="7650"/><tag k="addr:postcode" v="97203"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="North Decatur Street"/></node>
+<node id="-8" lat="45.583456132" lon="-122.749207833" visible="true"><tag k="addr:housenumber" v="7714"/><tag k="addr:postcode" v="97203"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="North Decatur Street"/></node>
+<node id="-9" lat="45.583449811" lon="-122.749206737" visible="true"><tag k="addr:housenumber" v="7718"/><tag k="addr:postcode" v="97203"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="North Decatur Street"/></node>
+<node id="-10" lat="45.582607761" lon="-122.741791497" visible="true"><tag k="addr:housenumber" v="6901"/><tag k="addr:postcode" v="97203"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="North Ida Avenue"/></node>
+<node id="-11" lat="45.582604339" lon="-122.741790773" visible="true"><tag k="addr:housenumber" v="6905"/><tag k="addr:postcode" v="97203"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="North Ida Avenue"/></node>
+<node id="-12" lat="45.582600804" lon="-122.741795665" visible="true"><tag k="addr:housenumber" v="6909"/><tag k="addr:postcode" v="97203"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="North Ida Avenue"/></node>
+<node id="-13" lat="45.582601937" lon="-122.741787284" visible="true"><tag k="addr:housenumber" v="6919"/><tag k="addr:postcode" v="97203"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="North Ida Avenue"/></node>
+<node id="-14" lat="45.580730617" lon="-122.737455228" visible="true"><tag k="addr:housenumber" v="6837"/><tag k="addr:postcode" v="97203"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="North Macrum Avenue"/></node>
+<node id="-15" lat="45.580728967" lon="-122.737450335" visible="true"><tag k="addr:housenumber" v="6839"/><tag k="addr:postcode" v="97203"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="North Macrum Avenue"/></node>
+<node id="-16" lat="45.583130572" lon="-122.748511374" visible="true"><tag k="addr:housenumber" v="6770"/><tag k="addr:postcode" v="97203"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="North Polk Avenue"/></node>
+<node id="-17" lat="45.583656317" lon="-122.748121877" visible="true"><tag k="addr:housenumber" v="6814"/><tag k="addr:postcode" v="97203"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="North Polk Avenue"/></node>
+<node id="-18" lat="45.58365584" lon="-122.748122734" visible="true"><tag k="addr:housenumber" v="6818"/><tag k="addr:postcode" v="97203"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="North Polk Avenue"/></node>
+<node id="-19" lat="45.581292421" lon="-122.738382376" visible="true"><tag k="addr:housenumber" v="6721"/><tag k="addr:postcode" v="97203"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="North Yale Street"/></node>
+<node id="-20" lat="45.581292977" lon="-122.738379602" visible="true"><tag k="addr:housenumber" v="6727"/><tag k="addr:postcode" v="97203"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="North Yale Street"/></node>
+</osm>

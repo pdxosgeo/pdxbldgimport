@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.547821641" lon="-122.635096694" visible="true"><tag k="addr:housenumber" v="3423"/><tag k="addr:postcode" v="97212"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 30th Avenue"/></node>
+<node id="-2" lat="45.54782396" lon="-122.635090972" visible="true"><tag k="addr:housenumber" v="3425"/><tag k="addr:postcode" v="97212"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 30th Avenue"/></node>
+<node id="-3" lat="45.542298667" lon="-122.630966583" visible="true"><tag k="addr:housenumber" v="2707"/><tag k="addr:postcode" v="97212"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 33rd Avenue"/></node>
+<node id="-4" lat="45.547700207" lon="-122.631003977" visible="true"><tag k="addr:housenumber" v="3413"/><tag k="addr:postcode" v="97212"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 33rd Avenue"/></node>
+<node id="-5" lat="45.547704278" lon="-122.630998371" visible="true"><tag k="addr:housenumber" v="3415"/><tag k="addr:postcode" v="97212"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 33rd Avenue"/></node>
+<node id="-6" lat="45.542306187" lon="-122.630971711" visible="true"><tag k="addr:housenumber" v="3263"/><tag k="addr:postcode" v="97212"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Knott Street"/></node>
+</osm>

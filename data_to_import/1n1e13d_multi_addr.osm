@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.563743827" lon="-122.630352747" visible="true"><tag k="addr:housenumber" v="5632"/><tag k="addr:postcode" v="97211"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 33rd Avenue"/></node>
+<node id="-2" lat="45.563748734" lon="-122.630353238" visible="true"><tag k="addr:housenumber" v="5636"/><tag k="addr:postcode" v="97211"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 33rd Avenue"/></node>
+<node id="-3" lat="45.563050626" lon="-122.622289637" visible="true"><tag k="addr:housenumber" v="5510"/><tag k="addr:postcode" v="97211"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 40th Avenue"/></node>
+<node id="-4" lat="45.563050333" lon="-122.622283076" visible="true"><tag k="addr:housenumber" v="5512"/><tag k="addr:postcode" v="97211"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 40th Avenue"/></node>
+<node id="-5" lat="45.567993414" lon="-122.624615655" visible="true"><tag k="addr:housenumber" v="3740"/><tag k="addr:postcode" v="97211"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Holman Street"/></node>
+<node id="-6" lat="45.567991155" lon="-122.624619423" visible="true"><tag k="addr:housenumber" v="3742"/><tag k="addr:postcode" v="97211"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Holman Street"/></node>
+<node id="-7" lat="45.563746004" lon="-122.63035198" visible="true"><tag k="addr:housenumber" v="3310"/><tag k="addr:postcode" v="97211"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Jessup Street"/></node>
+<node id="-8" lat="45.562916056" lon="-122.626239794" visible="true"><tag k="addr:housenumber" v="3615"/><tag k="addr:postcode" v="97211"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Killingsworth Street"/></node>
+<node id="-9" lat="45.56292205" lon="-122.626236699" visible="true"><tag k="addr:housenumber" v="3617"/><tag k="addr:postcode" v="97211"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Killingsworth Street"/></node>
+<node id="-10" lat="45.562996786" lon="-122.623744184" visible="true"><tag k="addr:housenumber" v="3833"/><tag k="addr:postcode" v="97211"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Killingsworth Street"/></node>
+<node id="-11" lat="45.562996528" lon="-122.623747673" visible="true"><tag k="addr:housenumber" v="3839"/><tag k="addr:postcode" v="97211"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Killingsworth Street"/></node>
+<node id="-12" lat="45.563098003" lon="-122.621208864" visible="true"><tag k="addr:housenumber" v="4101"/><tag k="addr:postcode" v="97211"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Killingsworth Street"/></node>
+<node id="-13" lat="45.563098981" lon="-122.621206106" visible="true"><tag k="addr:housenumber" v="4103"/><tag k="addr:postcode" v="97211"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Killingsworth Street"/></node>
+<node id="-14" lat="45.563091876" lon="-122.621211552" visible="true"><tag k="addr:housenumber" v="4105"/><tag k="addr:postcode" v="97211"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Killingsworth Street"/></node>
+</osm>

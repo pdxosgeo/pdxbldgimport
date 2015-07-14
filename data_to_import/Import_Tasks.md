@@ -23,6 +23,505 @@ It is from here out assumed you will be doing both the address and the building 
 If there is no multi_address file, then it was empty and not included here.
 
 #### Files for Import
+- [ ] 1n1e01b
+- [ ] 1n1e06c
+- [ ] 1n1e07a
+- [ ] 1n1e07b
+- [ ] 1n1e07d
+- [ ] 1n1e08b
+- [ ] 1n1e08c
+- [ ] 1n1e08d
+- [ ] 1n1e09b
+- [ ] 1n1e09c
+- [ ] 1n1e09d
+- [ ] 1n1e10c
+- [ ] 1n1e11c
+- [ ] 1n1e13b
+- [ ] 1n1e13c
+- [ ] 1n1e13d
+- [ ] 1n1e14a
+- [ ] 1n1e14b
+- [ ] 1n1e14c
+- [ ] 1n1e14d
+- [ ] 1n1e15a
+- [ ] 1n1e15b
+- [ ] 1n1e15c
+- [ ] 1n1e15d
+- [ ] 1n1e16a
+- [ ] 1n1e16b
+- [ ] 1n1e16c
+- [ ] 1n1e16d
+- [ ] 1n1e17b
+- [ ] 1n1e21a
+- [ ] 1n1e21b
+- [ ] 1n1e21d
+- [ ] 1n1e22a
+- [ ] 1n1e22b
+- [ ] 1n1e22c
+- [ ] 1n1e22d
+- [ ] 1n1e23a
+- [ ] 1n1e23b
+- [ ] 1n1e23c
+- [ ] 1n1e23d
+- [ ] 1n1e24a
+- [ ] 1n1e24b
+- [ ] 1n1e24c
+- [ ] 1n1e24d
+- [ ] 1n1e25a
+- [ ] 1n1e25b
+- [ ] 1n1e25c
+- [ ] 1n1e25d
+- [ ] 1n1e26a
+- [ ] 1n1e26b
+- [ ] 1n1e26d
+- [ ] 1n1e27a
+- [ ] 1n1e27b
+- [ ] 1n1e28b
+- [ ] 1n1e29b
+- [ ] 1n1e31b
+- [ ] 1n1e32a
+- [ ] 1n1e32b
+- [ ] 1n1e35b
+- [ ] 1n1e36a
+- [ ] 1n1e36c
+- [ ] 1n1e36d
+- [ ] 1n1w01c
+- [ ] 1n1w01d
+- [ ] 1n1w12a
+- [ ] 1n1w15a
+- [ ] 1n1w16b
+- [ ] 1n1w23a
+- [ ] 1n1w25a
+- [ ] 1n1w26b
+- [ ] 1n1w26d
+- [ ] 1n1w27a
+- [ ] 1n1w34a
+- [ ] 1n1w35b
+- [ ] 1n1w36b
+- [ ] 1n2e15b
+- [ ] 1n2e17b
+- [ ] 1n2e18c
+- [ ] 1n2e18d
+- [ ] 1n2e19a
+- [ ] 1n2e19b
+- [ ] 1n2e19c
+- [ ] 1n2e19d
+- [ ] 1n2e20a
+- [ ] 1n2e20b
+- [ ] 1n2e20c
+- [ ] 1n2e20d
+- [ ] 1n2e21a
+- [ ] 1n2e21b
+- [ ] 1n2e21c
+- [ ] 1n2e22a
+- [ ] 1n2e22c
+- [ ] 1n2e22d
+- [ ] 1n2e23a
+- [ ] 1n2e23c
+- [ ] 1n2e24a
+- [ ] 1n2e25a
+- [ ] 1n2e25c
+- [ ] 1n2e25d
+- [ ] 1n2e26a
+- [ ] 1n2e26b
+- [ ] 1n2e26c
+- [ ] 1n2e26d
+- [ ] 1n2e27a
+- [ ] 1n2e27b
+- [ ] 1n2e27c
+- [ ] 1n2e27d
+- [ ] 1n2e28b
+- [ ] 1n2e28c
+- [ ] 1n2e29a
+- [ ] 1n2e29b
+- [ ] 1n2e30a
+- [ ] 1n2e30b
+- [ ] 1n2e30c
+- [ ] 1n2e30d
+- [ ] 1n2e31a
+- [ ] 1n2e31b
+- [ ] 1n2e31c
+- [ ] 1n2e31d
+- [ ] 1n2e32a
+- [ ] 1n2e32b
+- [ ] 1n2e32c
+- [ ] 1n2e32d
+- [ ] 1n2e33b
+- [ ] 1n2e33c
+- [ ] 1n2e33d
+- [ ] 1n2e34a
+- [ ] 1n2e34b
+- [ ] 1n2e34c
+- [ ] 1n2e34d
+- [ ] 1n2e35b
+- [ ] 1n2e35c
+- [ ] 1n2e35d
+- [ ] 1n2e36a
+- [ ] 1n2e36c
+- [ ] 1n2e36d
+- [ ] 1n2w30b No data
+- [ ] 1n2w30d No data
+- [ ] 1n2w31b No data
+- [ ] 1n3e20b
+- [ ] 1n3e21b
+- [ ] 1n3e22a
+- [ ] 1n3e24c
+- [ ] 1n3e25c
+- [ ] 1n3e26c
+- [ ] 1n3e28d
+- [ ] 1n3e30c
+- [ ] 1n3e31c
+- [ ] 1n3e31d
+- [ ] 1n3e32a
+- [ ] 1n3e32b
+- [ ] 1n3e32c
+- [ ] 1n3e32d
+- [ ] 1n3e33a
+- [ ] 1n3e33b
+- [ ] 1n3e34b
+- [ ] 1n3e35a
+- [ ] 1n3e35c
+- [ ] 1n3e35d
+- [ ] 1n3e36b
+- [ ] 1n3w02a
+- [ ] 1n3w25a
+- [ ] 1n3w25c
+- [ ] 1n3w25d
+- [ ] 1n3w33d
+- [ ] 1n3w33d buildings, In Progress (Tanya)
+- [ ] 1n3w33d multi-address, In Progress (Tanya)
+- [ ] 1n3w36a
+- [ ] 1n3w36d
+- [ ] 1n4e26a
+- [ ] 1n4e28d
+- [ ] 1n4e29c
+- [ ] 1s1e01a
+- [ ] 1s1e01b
+- [ ] 1s1e01c
+- [ ] 1s1e01d
+- [ ] 1s1e02a
+- [ ] 1s1e02b
+- [ ] 1s1e02d
+- [ ] 1s1e03b
+- [ ] 1s1e04c
+- [ ] 1s1e05a
+- [ ] 1s1e07a
+- [ ] 1s1e07b
+- [ ] 1s1e08b
+- [ ] 1s1e09b
+- [ ] 1s1e10b
+- [ ] 1s1e11a
+- [ ] 1s1e11b
+- [ ] 1s1e11c
+- [ ] 1s1e11d
+- [ ] 1s1e12a
+- [ ] 1s1e12b
+- [ ] 1s1e12c
+- [ ] 1s1e12d
+- [ ] 1s1e13a
+- [ ] 1s1e13d
+- [ ] 1s1e14c
+- [ ] 1s1e14d
+- [ ] 1s1e15d
+- [ ] 1s1e16d
+- [ ] 1s1e17d
+- [ ] 1s1e18b
+- [ ] 1s1e18d
+- [ ] 1s1e19a
+- [ ] 1s1e19c
+- [ ] 1s1e21d
+- [ ] 1s1e23a
+- [ ] 1s1e23c
+- [ ] 1s1e23d
+- [ ] 1s1e24a
+- [ ] 1s1e24b
+- [ ] 1s1e24d
+- [ ] 1s1e25a
+- [ ] 1s1e25c
+- [ ] 1s1e25d
+- [ ] 1s1e26b
+- [ ] 1s1e28a
+- [ ] 1s1e28c
+- [ ] 1s1e29a
+- [ ] 1s1e29b
+- [ ] 1s1e30c
+- [ ] 1s1e31a
+- [ ] 1s1e31b
+- [ ] 1s1e31d
+- [ ] 1s1e32b
+- [ ] 1s1e32c
+- [ ] 1s1e32d
+- [ ] 1s1e33c
+- [ ] 1s1e34d
+- [ ] 1s1e35d
+- [ ] 1s1e36a
+- [ ] 1s1w01b
+- [ ] 1s1w13a
+- [ ] 1s1w13d
+- [ ] 1s1w19a contains a lot of duplicate data because [OSM user emem](http://www.openstreetmap.org/user/emem) has imported part of this ad-hoc in [changeset 30242159](http://www.openstreetmap.org/changeset/30242159) 
+- [ ] 1s1w19d contains a lot of duplicate data because [OSM user emem](http://www.openstreetmap.org/user/emem) has imported part of this ad-hoc in [changeset 30242159](http://www.openstreetmap.org/changeset/30242159) 
+- [ ] 1s1w20b contains a lot of duplicate data because [OSM user emem](http://www.openstreetmap.org/user/emem) has imported part of this ad-hoc in [changeset 30242159](http://www.openstreetmap.org/changeset/30242159) 
+- [ ] 1s1w20c contains a lot of duplicate data because [OSM user emem](http://www.openstreetmap.org/user/emem) has imported part of this ad-hoc in [changeset 30242159](http://www.openstreetmap.org/changeset/30242159)
+- [ ] 1s1w24c
+- [ ] 1s1w25a
+- [ ] 1s1w25d
+- [ ] 1s2e01b
+- [ ] 1s2e01c
+- [ ] 1s2e01d
+- [ ] 1s2e02a
+- [ ] 1s2e02b
+- [ ] 1s2e02c
+- [ ] 1s2e02d
+- [ ] 1s2e03a
+- [ ] 1s2e03c
+- [ ] 1s2e03d
+- [ ] 1s2e04b
+- [ ] 1s2e04c
+- [ ] 1s2e05a
+- [ ] 1s2e05c
+- [ ] 1s2e05d
+- [ ] 1s2e06a
+- [ ] 1s2e06b
+- [ ] 1s2e06c
+- [ ] 1s2e06d
+- [ ] 1s2e07a
+- [ ] 1s2e07b
+- [ ] 1s2e07c
+- [ ] 1s2e07d
+- [ ] 1s2e08a
+- [ ] 1s2e08b
+- [ ] 1s2e08c
+- [ ] 1s2e08d
+- [ ] 1s2e09a
+- [ ] 1s2e09b
+- [ ] 1s2e09c
+- [ ] 1s2e10a
+- [ ] 1s2e10b
+- [ ] 1s2e10d
+- [ ] 1s2e11a
+- [ ] 1s2e11b
+- [ ] 1s2e11d
+- [ ] 1s2e12a
+- [ ] 1s2e12b
+- [ ] 1s2e12d
+- [ ] 1s2e13b
+- [ ] 1s2e14c
+- [ ] 1s2e14d
+- [ ] 1s2e15a
+- [ ] 1s2e15b
+- [ ] 1s2e15c
+- [ ] 1s2e16a
+- [ ] 1s2e16b
+- [ ] 1s2e16c
+- [ ] 1s2e16d
+- [ ] 1s2e17a
+- [ ] 1s2e17b
+- [ ] 1s2e17c
+- [ ] 1s2e17d
+- [ ] 1s2e18a
+- [ ] 1s2e18b
+- [ ] 1s2e18c
+- [ ] 1s2e18d
+- [ ] 1s2e19a
+- [ ] 1s2e19b
+- [ ] 1s2e19c
+- [ ] 1s2e19d
+- [ ] 1s2e20a
+- [ ] 1s2e20b
+- [ ] 1s2e20c
+- [ ] 1s2e20d
+- [ ] 1s2e21b
+- [ ] 1s2e22c
+- [ ] 1s2e25a
+- [ ] 1s2e26b
+- [ ] 1s2e26d
+- [ ] 1s2e27a
+- [ ] 1s2e27c
+- [ ] 1s2e28a
+- [ ] 1s2e28b
+- [ ] 1s2e29b
+- [ ] 1s2e29c
+- [ ] 1s2e29d
+- [ ] 1s2e30a
+- [ ] 1s2e30b
+- [ ] 1s2e30c
+- [ ] 1s2e31a
+- [ ] 1s2e31b
+- [ ] 1s2e32b
+- [ ] 1s2e33b
+- [ ] 1s2e35c
+- [ ] 1s3e01c
+- [ ] 1s3e01d
+- [ ] 1s3e02c
+- [ ] 1s3e03a
+- [ ] 1s3e03b
+- [ ] 1s3e03d
+- [ ] 1s3e04a
+- [ ] 1s3e04b
+- [ ] 1s3e04c
+- [ ] 1s3e04d
+- [ ] 1s3e05d
+- [ ] 1s3e06a
+- [ ] 1s3e06b
+- [ ] 1s3e06c
+- [ ] 1s3e06d
+- [ ] 1s3e07a
+- [ ] 1s3e07b
+- [ ] 1s3e07d
+- [ ] 1s3e08b
+- [ ] 1s3e08d
+- [ ] 1s3e09b
+- [ ] 1s3e09c
+- [ ] 1s3e09d
+- [ ] 1s3e10c
+- [ ] 1s3e10d
+- [ ] 1s3e11a
+- [ ] 1s3e11d
+- [ ] 1s3e12c
+- [ ] 1s3e13b
+- [ ] 1s3e13c
+- [ ] 1s3e14a
+- [ ] 1s3e14b
+- [ ] 1s3e14d
+- [ ] 1s3e15d
+- [ ] 1s3e16c
+- [ ] 1s3e16d
+- [ ] 1s3e17b
+- [ ] 1s3e17c
+- [ ] 1s3e17d
+- [ ] 1s3e18c
+- [ ] 1s3e25b
+- [ ] 1s3e26b
+- [ ] 1s3e28b
+- [ ] 1s3e30a
+- [ ] 1s3e30c
+- [ ] 1s3e32b
+- [ ] 1s3e36c
+- [ ] 1s4e07c
+- [ ] 1s4e16a
+- [ ] 1s4e17b
+- [ ] 1s4e18c
+- [ ] 1s4e20c
+- [ ] 1s4e23d
+- [ ] 1s4e30c
+- [ ] 1s4e31c
+- [ ] 1s4e32b
+- [ ] 1s4e33b
+- [ ] 1s4e34c
+- [ ] 1s4e35d
+- [ ] 1s4w19a buildings
+- [ ] 1s4w19a multi-address 
+- [ ] 1s5e18a
+- [ ] 1s5e31c
+- [ ] 2n1e30d
+- [ ] 2n1e32d
+- [ ] 2n1e34c
+- [ ] 2n1w14d
+- [ ] 2n1w17c
+- [ ] 2n1w32d
+- [ ] 2n1w34d
+- [ ] 2n1w35d
+- [ ] 2n1w36d
+- [ ] 2n2w23b
+- [ ] 2n2w31a
+- [ ] 2n2w33d
+- [ ] 2n2w35c
+- [ ] 2n2w36d
+- [ ] 2n7e21c
+- [ ] 2s1e02b
+- [ ] 2s1e03b
+- [ ] 2s1e04a
+- [ ] 2s1e06a
+- [ ] 2s1e06b
+- [ ] 2s1e15b
+- [ ] 2s1w01a
+- [ ] 2s2e01b
+- [ ] 2s2e01d
+- [ ] 2s2e02a
+- [ ] 2s2e02b
+- [ ] 2s2e03a
+- [ ] 2s2e03b
+- [ ] 2s2e03d
+- [ ] 2s2e04a
+- [ ] 2s2e05a
+- [ ] 2s2e05b
+- [ ] 2s2e05c
+- [ ] 2s2e08a
+- [ ] 2s2e08c
+- [ ] 2s2e08d
+- [ ] 2s2e09c
+- [ ] 2s2e10c
+- [ ] 2s2e11c
+- [ ] 2s2e12c
+- [ ] 2s2e12d
+- [ ] 2s2e15c
+- [ ] 2s2e32a
+- [ ] 2s2e32b
+- [ ] 2s2e32c
+- [ ] 2s2e33a
+- [ ] 2s2e34a
+- [ ] 2s2e35a
+- [ ] 2s2e36a
+- [ ] 2s3e02c
+- [ ] 2s3e03b
+- [ ] 2s3e04b
+- [ ] 2s3e05b
+- [ ] 2s3e06b
+- [ ] 2s3e07d
+- [ ] 2s3e08d
+- [ ] 2s3e09d
+- [ ] 2s3e10d
+- [ ] 2s3e12c
+- [ ] 2s3e15c
+- [ ] 2s3e18c
+- [ ] 2s3e25d
+- [ ] 2s3e26c
+- [ ] 2s3e31a
+- [ ] 2s3e33b
+- [ ] 2s4e05d
+- [ ] 2s4e07c
+- [ ] 2s4e10a
+- [ ] 2s4e11a
+- [ ] 2s4e14c
+- [ ] 2s4e14d
+- [ ] 2s4e15c
+- [ ] 2s4e26d
+- [ ] 2s4e28d
+- [ ] 2s4e29c
+- [ ] 2s5e30c
+- [ ] 3n1w23d
+- [ ] 3s2e02d
+- [ ] 3s2e03d
+- [ ] 3s2e05c
+- [ ] 3s2e06a
+- [ ] 3s2e06b
+- [ ] 3s2e06c
+- [ ] 3s2e06d
+- [ ] 3s2e07a
+- [ ] 3s2e07b
+- [ ] 3s2e08a
+- [ ] 3s2e08b
+- [ ] 3s2e08c
+- [ ] 3s2e09a
+- [ ] 3s2e15b
+- [ ] 3s2e19c
+- [ ] 3s2e20d
+- [ ] 3s2e21d
+- [ ] 3s2e22a
+- [ ] 3s2e23a
+- [ ] 3s2e24a
+- [ ] 3s2e26a
+- [ ] 3s2e30d
+- [ ] 3s2e32d
+- [ ] 3s3e03d
+- [ ] 3s3e08b
+- [ ] 3s3e21b
+- [ ] 3s3e22a
+- [X] 3s1e34c 28406592
+- [X] 3s1e36c 28693738
+- [X] 3s1w01d 28894253,28894412
+- [X] 3s3e24b 31827626
+- [X] 3s3e32c 31827235
 - [x] 1n1w17b Complete (Darrell) [changeset 28363652](http://www.openstreetmap.org/changeset/28363652)
 - [x] 1n1w17d Complete (Darrell) [changeset 28364238](http://www.openstreetmap.org/changeset/28364238)
 - [x] 1n1w19a Complete (Darrell) [changeset 28364267](http://www.openstreetmap.org/changeset/28364267)
@@ -56,11 +555,8 @@ If there is no multi_address file, then it was empty and not included here.
 - [x] 1n2w25c Complete (Peter) [changeset 29232775](http://www.openstreetmap.org/changeset/29232775)
 - [x] 1n2w29c Complete (Peter) [changeset 29232939](http://www.openstreetmap.org/changeset/29232939)
 - [x] 1n2w30a Complete (Peter) [changeset 29233237](http://www.openstreetmap.org/changeset/29233237)
-- [ ] 1n2w30b No data
 - [x] 1n2w30c Complete (Peter) [changeset 29233337](http://www.openstreetmap.org/changeset/29233337)
-- [ ] 1n2w30d No data
 - [x] 1n2w31a Complete (Peter) [changeset 29233436](http://www.openstreetmap.org/changeset/29233436)
-- [ ] 1n2w31b No data
 - [x] 1n2w31d Complete (Peter) [changeset 29233552](http://www.openstreetmap.org/changeset/29233552)
 - [x] 1n2w32b Complete (Peter) [changeset 29236881](http://www.openstreetmap.org/changeset/29236881)
 - [x] 1n2w32c Complete (Peter) [changeset 29236932](http://www.openstreetmap.org/changeset/29236932)
@@ -71,39 +567,39 @@ If there is no multi_address file, then it was empty and not included here.
 - [x] 1n2w34d Complete (Peter) [changeset 29237312](http://www.openstreetmap.org/changeset/29237312)
 - [x] 1n2w35a Complete (Peter) [changeset 29238032](http://www.openstreetmap.org/changeset/29238032)
 - [x] 1n2w36a Complete (Peter) [changeset 29238355](http://www.openstreetmap.org/changeset/29238355)
-- [ ] 1n3e21b
-- [ ] 1n3e22a
-- [ ] 1n3e24c
-- [ ] 1n3e25c
-- [ ] 1n3e26c
-- [ ] 1n3e28d
-- [ ] 1n3e30c
-- [ ] 1n3e31c
-- [ ] 1n3e31d
-- [ ] 1n3e32a
-- [ ] 1n3e32b
-- [ ] 1n3e32c
-- [ ] 1n3e32d
-- [ ] 1n3e33a
-- [ ] 1n3e33b
-- [ ] 1n3e34b
-- [ ] 1n3e35a
-- [ ] 1n3e35c
-- [ ] 1n3e35d
-- [ ] 1n3e36b
-- [ ] 1n3w02a
-- [ ] 1n3w25a
-- [ ] 1n3w25c
-- [ ] 1n3w25d
-- [ ] 1n3w33d
-- [ ] 1n3w36a
-- [ ] 1n3w36d
-- [ ] 1n4e26a
-- [ ] 1n4e28d
-- [ ] 1n4e29c
+- [x] 1n3w03a buildings Complete (Darrell) [changeset 28151265](https://www.openstreetmap.org/changeset/28151265)
+- [x] 1n3w03a multi-address Complete (Darrell) [changeset 28151265](https://www.openstreetmap.org/changeset/28151265)
+- [x] 1n3w05b buildings Complete (Darrell)[changeset 28151478](https://www.openstreetmap.org/changeset/28151478)
+- [x] 1n3w05b multi-address Complete (Darrell) (no changes)
+- [x] 1n3w15c buildings Complete (Darrell)[changeset 28151803](https://www.openstreetmap.org/changeset/28151803)
+- [x] 1n3w15c multi-address Complete (Darrell) (no changes)
+- [x] 1n3w17c buildings Complete (Darrell)[changeset 28152072](https://www.openstreetmap.org/changeset/28152072)
+- [x] 1n3w17c multi-address Complete (Darrell)[changeset 28152072](https://www.openstreetmap.org/changeset/28152072)
+- [x] 1n3w28c buildings, Complete (Tanya) [changeset 28103832](https://www.openstreetmap.org/changeset/28103832)
+- [x] 1n3w28c multi-address, Complete (Tanya) [changeset 28103932](https://www.openstreetmap.org/changeset/28103932)
+- [x] 1n3w31b buildings Complete (Darrell)[changeset 28152372](https://www.openstreetmap.org/changeset/28152372)
+- [x] 1n3w31b multi-address Complete (Darrell)[changeset 28152372](https://www.openstreetmap.org/changeset/28152372)
+- [x] 1n3w31d buildings, Complete (Tanya) [changeset 28123579](https://www.openstreetmap.org/changeset/28123579)
+- [x] 1n3w31d multi-address, Complete (Tanya) [changeset 28124257](https://www.openstreetmap.org/changeset/28124257)
+- [x] 1n3w32d buildings, Complete (Tanya) [changeset 28124754](https://www.openstreetmap.org/changeset/28124754)
+- [x] 1n3w32d multi-address, In Progress (Tanya) [changeset 28125805](https://www.openstreetmap.org/changeset/28125805)
+- [x] 1n3w34c buildings, Complete (Peter) [changeset 28201703] (http://www.openstreetmap.org/changeset/28201703)
+- [x] 1n3w34c multi-address, Complete (Peter) [changeset 28201703] (http://www.openstreetmap.org/changeset/28201703)
+- [x] 1n3w34d buildings, Complete (Peter) [changeset 28201856] (http://www.openstreetmap.org/changeset/28201856)
+- [x] 1n3w34d multi-address, Complete (Peter) [changeset 28201856] (http://www.openstreetmap.org/changeset/28201856)
+- [x] 1n4w01a buildings, Complete (Peter) [changeset 28223426] (http://www.openstreetmap.org/changeset/28223426)
+- [x] 1n4w01a multi-address, Complete (Peter) [changeset 28223426] (http://www.openstreetmap.org/changeset/28223426)
+- [x] 1n4w02b buildings, Complete (Peter) [changeset 28223594] (http://www.openstreetmap.org/changeset/28223594)
+- [x] 1n4w02b multi-address, Complete (Peter) [changeset 28223594] (http://www.openstreetmap.org/changeset/28223594)
+- [x] 1n4w13d buildings, Complete (Peter) [changeset 28223644] (http://www.openstreetmap.org/changeset/28223644)
+- [x] 1n4w13d multi-address, Complete (Peter) [changeset 28223644] (http://www.openstreetmap.org/changeset/28223644)
+- [x] 1n4w14c buildings, Complete (Peter) [changeset 28223720] (http://www.openstreetmap.org/changeset/28223720)
+- [x] 1n4w14c multi-address, Complete (Peter) [changeset 28223720] (http://www.openstreetmap.org/changeset/28223720)
+- [x] 1n4w35d buildings, Complete (Tanya) [changeset 28102114](https://www.openstreetmap.org/changeset/28102114)
+- [x] 1n4w35d multi-address, Complete (Tanya), no actual entries
+- [x] 1n4w36c buildings, Complete (Tanya) [changeset 28103574](https://www.openstreetmap.org/changeset/28103574)
+- [x] 1n4w36c multi-address, In Progress (Tanya) [changeset 28103633](https://www.openstreetmap.org/changeset/28103633)
 - [x] 1s1e18c Complete (Darrell)[changeset 32640454](http://www.openstreetmap.org/changeset/32640454)
-- [ ] 1s1e25d
-- [ ] 1s1e35d
 - [x] 1s1w03a Complete (Peter) [changeset 28499821](http://www.openstreetmap.org/changeset/28499821)
 - [x] 1s1w03c Complete (Peter) [changeset 28499913](http://www.openstreetmap.org/changeset/28499913)
 - [x] 1s1w04a Complete (Peter) [changeset 28695818](http://www.openstreetmap.org/changeset/28695818)
@@ -136,13 +632,9 @@ If there is no multi_address file, then it was empty and not included here.
 - [x] 1s1w17d Complete (Peter) [changeset 31859371](http://www.openstreetmap.org/changeset/31859371)
 - [x] 1s1w18a Complete (Peter) [changeset 30849641](http://www.openstreetmap.org/changeset/30849641)
 - [x] 1s1w18b Complete (Peter) [changeset 30849904](http://www.openstreetmap.org/changeset/30849904)
-- [ ] 1s1w19a contains a lot of duplicate data because [OSM user emem](http://www.openstreetmap.org/user/emem) has imported part of this ad-hoc in [changeset 30242159](http://www.openstreetmap.org/changeset/30242159) 
 - [x] 1s1w19b Complete (Peter) [changeset 30850370](http://www.openstreetmap.org/changeset/30850370)
 - [x] 1s1w19c Complete (Peter) [changeset 30850648](http://www.openstreetmap.org/changeset/30850648)
-- [ ] 1s1w19d contains a lot of duplicate data because [OSM user emem](http://www.openstreetmap.org/user/emem) has imported part of this ad-hoc in [changeset 30242159](http://www.openstreetmap.org/changeset/30242159) 
 - [x] 1s1w20a Complete (Peter) [changeset 31859768](http://www.openstreetmap.org/changeset/31859768)
-- [ ] 1s1w20b contains a lot of duplicate data because [OSM user emem](http://www.openstreetmap.org/user/emem) has imported part of this ad-hoc in [changeset 30242159](http://www.openstreetmap.org/changeset/30242159) 
-- [ ] 1s1w20c contains a lot of duplicate data because [OSM user emem](http://www.openstreetmap.org/user/emem) has imported part of this ad-hoc in [changeset 30242159](http://www.openstreetmap.org/changeset/30242159)
 - [x] 1s1w21a Complete (Peter) [changeset 31859872](http://www.openstreetmap.org/changeset/31859872)
 - [x] 1s1w21b Complete (Peter) [changeset 31859913](http://www.openstreetmap.org/changeset/31859913)
 - [x] 1s1w21c Complete (Peter) [changeset 31860010](http://www.openstreetmap.org/changeset/31860010)
@@ -169,15 +661,6 @@ If there is no multi_address file, then it was empty and not included here.
 - [x] 1s1w33d Complete (Peter) [changeset 31304682](http://www.openstreetmap.org/changeset/31304682)
 - [x] 1s1w34c Complete (Peter) [changeset 31304800](http://www.openstreetmap.org/changeset/31304800)
 - [x] 1s1w36b Complete (Peter) [changeset 31304873](http://www.openstreetmap.org/changeset/31304873)
-- [ ] 1s2e26d
-- [ ] 1s2e27c
-- [ ] 1s2e29c
-- [ ] 1s2e29d
-- [ ] 1s2e30c
-- [ ] 1s2e31a
-- [ ] 1s2e31b
-- [ ] 1s2e33b
-- [ ] 1s2e35c
 - [x] 1s2w01a Complete (Peter) [changeset 31323488](http://www.openstreetmap.org/changeset/31323488)
 - [x] 1s2w01b Complete (Peter) [changeset 31323993](http://www.openstreetmap.org/changeset/31323993)
 - [x] 1s2w01c Complete (Peter) [changeset 31326300](http://www.openstreetmap.org/changeset/31326300)
@@ -221,61 +704,26 @@ If there is no multi_address file, then it was empty and not included here.
 - [x] 1s2w24d Complete (Peter) [changeset 31944349](http://www.openstreetmap.org/changeset/31944349)
 - [x] 1s2w26d Complete (Peter) [changeset 31944543](http://www.openstreetmap.org/changeset/31944543)
 - [x] 1s2w27d Complete (Peter) [changeset 31944936](http://www.openstreetmap.org/changeset/31944936)
-- [ ] 1s3e01c
-- [ ] 1s3e01d
-- [ ] 1s3e02c
-- [ ] 1s3e03a
-- [ ] 1s3e03b
-- [ ] 1s3e03d
-- [ ] 1s3e04a
-- [ ] 1s3e04b
-- [ ] 1s3e04c
-- [ ] 1s3e04d
-- [ ] 1s3e05d
-- [ ] 1s3e08b
-- [ ] 1s3e08d
-- [ ] 1s3e09b
-- [ ] 1s3e09c
-- [ ] 1s3e09d
-- [ ] 1s3e10c
-- [ ] 1s3e10d
-- [ ] 1s3e11a
-- [ ] 1s3e11d
-- [ ] 1s3e12c
-- [ ] 1s3e13b
-- [ ] 1s3e13c
-- [ ] 1s3e14a
-- [ ] 1s3e14b
-- [ ] 1s3e14d
-- [ ] 1s3e15d
-- [ ] 1s3e16c
-- [ ] 1s3e16d
-- [ ] 1s3e17c
-- [ ] 1s3e17d
-- [ ] 1s3e25b
-- [ ] 1s3e26b
-- [ ] 1s3e28b
-- [ ] 1s3e36c
-- [ ] 1s4e07c
-- [ ] 1s4e16a
-- [ ] 1s4e17b
-- [ ] 1s4e18c
-- [ ] 1s4e23d
-- [ ] 1s4e30c
-- [ ] 1s4e31c
-- [ ] 1s4e32b
-- [ ] 1s4e33b
-- [ ] 1s4e34c
-- [ ] 1s4e35d
-- [ ] 1s5e18a
-- [ ] 1s5e31c
-- [ ] 2n1w17c
-- [ ] 2n2w23b
-- [ ] 2n2w31a
-- [ ] 2n2w33d
-- [ ] 2n2w35c
-- [ ] 2n2w36d
-- [ ] 2n7e21c
+- [x] 1s3w04a buildings Complete (Darrell) [changeset 28117850](https://www.openstreetmap.org/changeset/28117850)
+- [x] 1s3w04a multi-address Complete (Darrell)[changeset 28117850](https://www.openstreetmap.org/changeset/28117850)
+- [x] 1s3w06a buildings Complete (Darrell) [changeset 28118238](https://www.openstreetmap.org/changeset/28118238)
+- [x] 1s3w06a multi-address Complete (Darrell) [changeset 28118238](https://www.openstreetmap.org/changeset/28118238)
+- [x] 1s3w06b buildings Complete (Darrell) [changeset 28118665](https://www.openstreetmap.org/changeset/28118665)
+- [x] 1s3w06b multi-address Complete (Darrell) [changeset 28118665](https://www.openstreetmap.org/changeset/28118665)
+- [x] 1s3w16c buildings Complete (Darrell)[changeset 28266224] (http://www.openstreetmap.org/changeset/28266224)
+- [x] 1s3w16c multi-address Complete (Darrell) contains no changes
+- [x] 1s3w18d buildings, Complete (Tanya) [changeset 28104107](https://www.openstreetmap.org/changeset/28104107)
+- [x] 1s3w18d multi-address, Complete (Tanya) [changeset 28104167](https://www.openstreetmap.org/changeset/28104167)
+- [x] 1s3w23a buildings, Complete (Peter) [changeset 28342157] (http://www.openstreetmap.org/changeset/28342157)
+- [x] 1s3w23a buildings, Complete (Peter) [changeset 28342260] (http://www.openstreetmap.org/changeset/28342260)
+- [x] 1s3w23a multi-address, Complete (Peter) [changeset 28342157] (http://www.openstreetmap.org/changeset/28342157)
+- [x] 1s4w01a buildings, Complete (Peter) [changeset 28128175] (http://www.openstreetmap.org/changeset/28128175)
+- [x] 1s4w01a multi-address, Complete (Peter) [changeset 28128175] (http://www.openstreetmap.org/changeset/28128175)
+- [x] 1s4w12d buildings Complete (Darrell) [changeset 28101642](https://www.openstreetmap.org/changeset/28101642)
+- [x] 1s4w12d multi-address Complete (Darrell)[changeset 28101642](https://www.openstreetmap.org/changeset/28101642)
+- [x] 1s4w14a multi-address, Complete (Peter) contains no changes
+- [x] 2n5w23a buildings Complete (Darrell) [changeset 28265869](https://www.openstreetmap.org/changeset/28265869)
+- [x] 2n5w23a multi-address Complete (Darrell) contains no changes
 - [x] 2s1e01a Complete (Peter) [changeset 31572698](http://www.openstreetmap.org/changeset/31572698)
 - [x] 2s1e01b Complete (Peter) [changeset 31572893](http://www.openstreetmap.org/changeset/31572893)
 - [x] 2s1e01d Complete (Peter) [changeset 31573078](http://www.openstreetmap.org/changeset/31573078)
@@ -363,30 +811,10 @@ If there is no multi_address file, then it was empty and not included here.
 - [x] 2s1w34d Complete (Peter) [changeset 31814797](http://www.openstreetmap.org/changeset/31814797)
 - [x] 2s1w35b Complete (Peter) [changeset 31912068](http://www.openstreetmap.org/changeset/31912068)
 - [x] 2s1w36b Complete (Peter) [changeset 31912162](http://www.openstreetmap.org/changeset/31912162)
-- [ ] 2s2e01b
-- [ ] 2s2e01d
-- [ ] 2s2e02a
-- [ ] 2s2e02b
-- [ ] 2s2e03a
-- [ ] 2s2e03b
-- [ ] 2s2e03d
-- [ ] 2s2e04a
-- [ ] 2s2e05a
-- [ ] 2s2e05b
-- [ ] 2s2e05c
 - [x] 2s2e06a Complete (Peter) [changeset 31573322](http://www.openstreetmap.org/changeset/31573322)
 - [x] 2s2e06b Complete (Peter) [changeset 31573602](http://www.openstreetmap.org/changeset/31573602)
 - [x] 2s2e07c Complete (Peter) [changeset 31664078](http://www.openstreetmap.org/changeset/31664078)
 - [x] 2s2e07d Complete (Peter) [changeset 31664387](http://www.openstreetmap.org/changeset/31664387)
-- [ ] 2s2e08a
-- [ ] 2s2e08c
-- [ ] 2s2e08d
-- [ ] 2s2e09c
-- [ ] 2s2e10c
-- [ ] 2s2e11c
-- [ ] 2s2e12c
-- [ ] 2s2e12d
-- [ ] 2s2e15c
 - [x] 2s2e17c Complete (Peter) [changeset 31510041](http://www.openstreetmap.org/changeset/31510041)
 - [x] 2s2e17d Complete (Peter) [changeset 31510534](http://www.openstreetmap.org/changeset/31510534)
 - [x] 2s2e18d Complete (Peter) [changeset 31511211](http://www.openstreetmap.org/changeset/31511211)
@@ -402,13 +830,6 @@ If there is no multi_address file, then it was empty and not included here.
 - [x] 2s2e31a Complete (Peter) [changeset 31803193](http://www.openstreetmap.org/changeset/31803193)
 - [x] 2s2e31b Complete (Peter) [changeset 31803948](http://www.openstreetmap.org/changeset/31803948)
 - [x] 2s2e31d Complete (Peter) [changeset 31804034](http://www.openstreetmap.org/changeset/31804034)
-- [ ] 2s2e32a
-- [ ] 2s2e32b
-- [ ] 2s2e32c
-- [ ] 2s2e33a
-- [ ] 2s2e34a
-- [ ] 2s2e35a
-- [ ] 2s2e36a
 - [x] 2s2w01a Complete (Peter) [changeset 32188590](http://www.openstreetmap.org/changeset/32188590)
 - [x] 2s2w03c Complete (Peter) [changeset 32195182](http://www.openstreetmap.org/changeset/32195182)
 - [x] 2s2w05d Complete (Peter) [changeset 32196172](http://www.openstreetmap.org/changeset/32196172)
@@ -418,38 +839,19 @@ If there is no multi_address file, then it was empty and not included here.
 - [x] 2s2w34c Complete (Peter) [changeset 32210858](http://www.openstreetmap.org/changeset/32210858)
 - [x] 2s2w35d Complete (Peter) [changeset 32217497](http://www.openstreetmap.org/changeset/32217497)
 - [x] 2s2w36d Complete (Peter) [changeset 32217649](http://www.openstreetmap.org/changeset/32217649)
-- [ ] 2s3e02c
-- [ ] 2s3e03b
-- [ ] 2s3e04b
-- [ ] 2s3e05b
-- [ ] 2s3e06b
-- [ ] 2s3e07d
-- [ ] 2s3e08d
-- [ ] 2s3e09d
-- [ ] 2s3e10d
-- [ ] 2s3e12c
-- [ ] 2s3e15c
-- [ ] 2s3e18c
-- [ ] 2s3e25d
-- [ ] 2s3e26c
-- [ ] 2s3e31a
-- [ ] 2s3e33b
 - [x] 2s3w01d Complete (Peter) [changeset 32226746](http://www.openstreetmap.org/changeset/32226746)
+- [x] 2s3w03b buildings Complete (Darrell) [changeset 28265976](https://www.openstreetmap.org/changeset/28265976)
+- [x] 2s3w03b multi-address (Darrell) [changeset 28265976](https://www.openstreetmap.org/changeset/28265976)
+- [x] 2s3w07c buildings Complete[changeset 28266089](https://www.openstreetmap.org/changeset/28266089)
+- [x] 2s3w07c multi-address (Darrell) (no changes)
+- [x] 2s3w09c buildings Complete (Darrell) [changeset 28265613](https://www.openstreetmap.org/changeset/28265613)
+- [x] 2s3w09c multi-address Complete (Darrell) [changeset 28265613](https://www.openstreetmap.org/changeset/28265613)
 - [x] 2s3w11d Complete (Peter) [changeset 32232782](http://www.openstreetmap.org/changeset/32232782)
-- [ ] 2s4e05d
-- [ ] 2s4e07c
-- [ ] 2s4e10a
-- [ ] 2s4e11a
 - [x] 2s4e13c 28969145
 - [x] 2s4e13d 28968763
-- [ ] 2s4e14c
-- [ ] 2s4e14d
-- [ ] 2s4e15c
-- [ ] 2s4e26d
-- [ ] 2s4e28d
-- [ ] 2s4e29c
 - [x] 2s5e16c 2896991
-- [ ] 2s5e30c
+- [x] 3n3w15b buildings Complete (Darrell) [changeset 28265022](https://www.openstreetmap.org/changeset/28265022)
+- [x] 3n3w15b multi-address Complete (Darrell) [changeset 28265022](https://www.openstreetmap.org/changeset/28265022)
 - [x] 3s1e01b Complete (Peter) [changeset 31665866](http://www.openstreetmap.org/changeset/31665866)
 - [x] 3s1e01d Complete (Peter) [changeset 31732709](http://www.openstreetmap.org/changeset/31732709)
 - [x] 3s1e03d Complete (Peter) [changeset 31851540](http://www.openstreetmap.org/changeset/31851540)
@@ -463,9 +865,6 @@ If there is no multi_address file, then it was empty and not included here.
 - [x] 3s1e22c 28920947
 - [x] 3s1e23d 29741706
 - [x] 3s1e33c 28921194
-- [X] 3s1e34c 28406592
-- [X] 3s1e36c 28693738
-- [X] 3s1w01d 28894253,28894412
 - [x] 3s1w07b Complete (Peter) [changeset 32235663](http://www.openstreetmap.org/changeset/32235663)
 - [x] 3s1w08d Complete (Peter) [changeset 32248162](http://www.openstreetmap.org/changeset/32248162)
 - [x] 3s1w10c Complete (Peter) [changeset 32248513](http://www.openstreetmap.org/changeset/32248513)
@@ -478,35 +877,6 @@ If there is no multi_address file, then it was empty and not included here.
 - [x] 3s1w23c Complete (Peter) [changeset 32271892](http://www.openstreetmap.org/changeset/32271892)
 - [x] 3s1w24c Complete (Peter) [changeset 32272209](http://www.openstreetmap.org/changeset/32272209)
 - [x] 3s1w26c Complete (Peter) [changeset 32272436](http://www.openstreetmap.org/changeset/32272436)
-- [ ] 3s2e02d
-- [ ] 3s2e03d
-- [ ] 3s2e05c
-- [ ] 3s2e06a
-- [ ] 3s2e06b
-- [ ] 3s2e06c
-- [ ] 3s2e06d
-- [ ] 3s2e07a
-- [ ] 3s2e07b
-- [ ] 3s2e08a
-- [ ] 3s2e08b
-- [ ] 3s2e08c
-- [ ] 3s2e09a
-- [ ] 3s2e15b
-- [ ] 3s2e19c
-- [ ] 3s2e20d
-- [ ] 3s2e21d
-- [ ] 3s2e22a
-- [ ] 3s2e23a
-- [ ] 3s2e24a
-- [ ] 3s2e26a
-- [ ] 3s2e30d
-- [ ] 3s2e32d
-- [ ] 3s3e03d
-- [ ] 3s3e08b
-- [ ] 3s3e21b
-- [ ] 3s3e22a
-- [X] 3s3e24b 31827626
-- [X] 3s3e32c 31827235
 - [x] 3s3e36c 28693671
 - [x] 3s4e08b 28692355
 - [x] 3s4e10a 28691674
@@ -528,71 +898,6 @@ If there is no multi_address file, then it was empty and not included here.
 - [x] 4s2e19d 28388638
 - [x] 4s2e28b 28388494
 - [x] 4s5e06c 28388361
-- [x] 1n3w03a buildings Complete (Darrell) [changeset 28151265](https://www.openstreetmap.org/changeset/28151265)
-- [x] 1n3w03a multi-address Complete (Darrell) [changeset 28151265](https://www.openstreetmap.org/changeset/28151265)
-- [x] 1n3w05b buildings Complete (Darrell)[changeset 28151478](https://www.openstreetmap.org/changeset/28151478)
-- [x] 1n3w05b multi-address Complete (Darrell) (no changes)
-- [x] 1n3w15c buildings Complete (Darrell)[changeset 28151803](https://www.openstreetmap.org/changeset/28151803)
-- [x] 1n3w15c multi-address Complete (Darrell) (no changes)
-- [x] 1n3w17c buildings Complete (Darrell)[changeset 28152072](https://www.openstreetmap.org/changeset/28152072)
-- [x] 1n3w17c multi-address Complete (Darrell)[changeset 28152072](https://www.openstreetmap.org/changeset/28152072)
-- [x] 1n3w31b buildings Complete (Darrell)[changeset 28152372](https://www.openstreetmap.org/changeset/28152372)
-- [x] 1n3w31b multi-address Complete (Darrell)[changeset 28152372](https://www.openstreetmap.org/changeset/28152372)
-- [x] 1n3w34c buildings, Complete (Peter) [changeset 28201703] (http://www.openstreetmap.org/changeset/28201703)
-- [x] 1n3w34c multi-address, Complete (Peter) [changeset 28201703] (http://www.openstreetmap.org/changeset/28201703)
-- [x] 1n3w34d buildings, Complete (Peter) [changeset 28201856] (http://www.openstreetmap.org/changeset/28201856)
-- [x] 1n3w34d multi-address, Complete (Peter) [changeset 28201856] (http://www.openstreetmap.org/changeset/28201856)
-- [x] 1n4w01a buildings, Complete (Peter) [changeset 28223426] (http://www.openstreetmap.org/changeset/28223426)
-- [x] 1n4w01a multi-address, Complete (Peter) [changeset 28223426] (http://www.openstreetmap.org/changeset/28223426)
-- [x] 1n4w02b buildings, Complete (Peter) [changeset 28223594] (http://www.openstreetmap.org/changeset/28223594)
-- [x] 1n4w02b multi-address, Complete (Peter) [changeset 28223594] (http://www.openstreetmap.org/changeset/28223594)
-- [x] 1n4w13d buildings, Complete (Peter) [changeset 28223644] (http://www.openstreetmap.org/changeset/28223644)
-- [x] 1n4w13d multi-address, Complete (Peter) [changeset 28223644] (http://www.openstreetmap.org/changeset/28223644)
-- [x] 1n4w14c buildings, Complete (Peter) [changeset 28223720] (http://www.openstreetmap.org/changeset/28223720)
-- [x] 1n4w14c multi-address, Complete (Peter) [changeset 28223720] (http://www.openstreetmap.org/changeset/28223720)
-- [x] 1s3w16c buildings Complete (Darrell)[changeset 28266224] (http://www.openstreetmap.org/changeset/28266224)
-- [x] 1s3w16c multi-address Complete (Darrell) contains no changes
-- [x] 1s3w23a buildings, Complete (Peter) [changeset 28342157] (http://www.openstreetmap.org/changeset/28342157)
-- [x] 1s3w23a multi-address, Complete (Peter) [changeset 28342157] (http://www.openstreetmap.org/changeset/28342157)
-- [x] 1s3w23a buildings, Complete (Peter) [changeset 28342260] (http://www.openstreetmap.org/changeset/28342260)
-- [x] 1s4w14a multi-address, Complete (Peter) contains no changes
-- [ ] 1s4w19a buildings (do not do yet, contains some addresses in city of portland)
-- [ ] 1s4w19a multi-address (do not do yet, contains some addresses in city of portland)
-- [x] 2n5w23a buildings Complete (Darrell) [changeset 28265869](https://www.openstreetmap.org/changeset/28265869)
-- [x] 2n5w23a multi-address Complete (Darrell) contains no changes
-- [x] 2s3w03b buildings Complete (Darrell) [changeset 28265976](https://www.openstreetmap.org/changeset/28265976)
-- [x] 2s3w03b multi-address (Darrell) [changeset 28265976](https://www.openstreetmap.org/changeset/28265976)
-- [x] 2s3w07c buildings Complete[changeset 28266089](https://www.openstreetmap.org/changeset/28266089)
-- [x] 2s3w07c multi-address (Darrell) (no changes)
-- [x] 2s3w09c buildings Complete (Darrell) [changeset 28265613](https://www.openstreetmap.org/changeset/28265613)
-- [x] 2s3w09c multi-address Complete (Darrell) [changeset 28265613](https://www.openstreetmap.org/changeset/28265613)
-- [x] 3n3w15b buildings Complete (Darrell) [changeset 28265022](https://www.openstreetmap.org/changeset/28265022)
-- [x] 3n3w15b multi-address Complete (Darrell) [changeset 28265022](https://www.openstreetmap.org/changeset/28265022)
-- [x] 1s3w04a buildings Complete (Darrell) [changeset 28117850](https://www.openstreetmap.org/changeset/28117850)
-- [x] 1s3w04a multi-address Complete (Darrell)[changeset 28117850](https://www.openstreetmap.org/changeset/28117850)
-- [x] 1s3w06a buildings Complete (Darrell) [changeset 28118238](https://www.openstreetmap.org/changeset/28118238)
-- [x] 1s3w06a multi-address Complete (Darrell) [changeset 28118238](https://www.openstreetmap.org/changeset/28118238)
-- [x] 1s3w06b buildings Complete (Darrell) [changeset 28118665](https://www.openstreetmap.org/changeset/28118665)
-- [x] 1s3w06b multi-address Complete (Darrell) [changeset 28118665](https://www.openstreetmap.org/changeset/28118665)
-- [x] 1s4w01a buildings, Complete (Peter) [changeset 28128175] (http://www.openstreetmap.org/changeset/28128175)
-- [x] 1s4w01a multi-address, Complete (Peter) [changeset 28128175] (http://www.openstreetmap.org/changeset/28128175)
-- [ ] 1n3w33d buildings, In Progress (Tanya)
-- [ ] 1n3w33d multi-address, In Progress (Tanya)
-- [x] 1n3w32d buildings, Complete (Tanya) [changeset 28124754](https://www.openstreetmap.org/changeset/28124754)
-- [x] 1n3w32d multi-address, In Progress (Tanya) [changeset 28125805](https://www.openstreetmap.org/changeset/28125805)
-- [x] 1n3w31d buildings, Complete (Tanya) [changeset 28123579](https://www.openstreetmap.org/changeset/28123579)
-- [x] 1n3w31d multi-address, Complete (Tanya) [changeset 28124257](https://www.openstreetmap.org/changeset/28124257)
-- [x] 1s4w12d buildings Complete (Darrell) [changeset 28101642](https://www.openstreetmap.org/changeset/28101642)
-- [x] 1s4w12d multi-address Complete (Darrell)[changeset 28101642](https://www.openstreetmap.org/changeset/28101642)
-- [x] 1s3w18d buildings, Complete (Tanya) [changeset 28104107](https://www.openstreetmap.org/changeset/28104107)
-- [x] 1s3w18d multi-address, Complete (Tanya) [changeset 28104167](https://www.openstreetmap.org/changeset/28104167)
-- [x] 1n3w28c buildings, Complete (Tanya) [changeset 28103832](https://www.openstreetmap.org/changeset/28103832)
-- [x] 1n3w28c multi-address, Complete (Tanya) [changeset 28103932](https://www.openstreetmap.org/changeset/28103932)
-- [x] 1n4w36c buildings, Complete (Tanya) [changeset 28103574](https://www.openstreetmap.org/changeset/28103574)
-- [x] 1n4w36c multi-address, In Progress (Tanya) [changeset 28103633](https://www.openstreetmap.org/changeset/28103633)
-- [x] 1n4w35d buildings, Complete (Tanya) [changeset 28102114](https://www.openstreetmap.org/changeset/28102114)
-- [x] 1n4w35d multi-address, Complete (Tanya), no actual entries
-
 #### OLD Files for Review and Import (need to re-visit some of these)
 
 - [x] 1n2w27a multi-address, complete (Darrell) [changeset 28052069](https://www.openstreetmap.org/changeset/28052069)

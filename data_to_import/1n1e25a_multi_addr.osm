@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.543872658" lon="-122.630461232" visible="true"><tag k="addr:housenumber" v="2910"/><tag k="addr:postcode" v="97212"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 33rd Avenue"/></node>
+<node id="-2" lat="45.54663906" lon="-122.630445543" visible="true"><tag k="addr:housenumber" v="3240"/><tag k="addr:postcode" v="97212"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 33rd Avenue"/></node>
+<node id="-3" lat="45.547435671" lon="-122.627404246" visible="true"><tag k="addr:housenumber" v="3419"/><tag k="addr:postcode" v="97212"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 35th Place"/></node>
+<node id="-4" lat="45.54743524" lon="-122.627406679" visible="true"><tag k="addr:housenumber" v="3425"/><tag k="addr:postcode" v="97212"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 35th Place"/></node>
+<node id="-5" lat="45.547457663" lon="-122.623521885" visible="true"><tag k="addr:housenumber" v="3330"/><tag k="addr:postcode" v="97212"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 38th Avenue"/></node>
+<node id="-6" lat="45.548146528" lon="-122.623516686" visible="true"><tag k="addr:housenumber" v="3442"/><tag k="addr:postcode" v="97212"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 38th Avenue"/></node>
+<node id="-7" lat="45.547457272" lon="-122.62352219" visible="true"><tag k="addr:housenumber" v="3330"/><tag k="addr:postcode" v="97212"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Alameda Street"/></node>
+<node id="-8" lat="45.548139339" lon="-122.623518718" visible="true"><tag k="addr:housenumber" v="3810"/><tag k="addr:postcode" v="97212"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Fremont Street"/></node>
+<node id="-9" lat="45.546643281" lon="-122.630446528" visible="true"><tag k="addr:housenumber" v="3310"/><tag k="addr:postcode" v="97212"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Klickitat Street"/></node>
+<node id="-10" lat="45.543871717" lon="-122.630462138" visible="true"><tag k="addr:housenumber" v="3303"/><tag k="addr:postcode" v="97212"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Stanton Street"/></node>
+</osm>

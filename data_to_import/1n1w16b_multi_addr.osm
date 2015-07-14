@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.583574669" lon="-122.830274402" visible="true"><tag k="addr:housenumber" v="14555"/><tag k="addr:postcode" v="97231"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Germantown Road"/></node>
+<node id="-2" lat="45.583575085" lon="-122.830275382" visible="true"><tag k="addr:housenumber" v="14777"/><tag k="addr:postcode" v="97231"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Germantown Road"/></node>
+<node id="-3" lat="45.584182333" lon="-122.825204171" visible="true"><tag k="addr:housenumber" v="14305"/><tag k="addr:postcode" v="97231"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Old Germantown Road"/></node>
+<node id="-4" lat="45.584184097" lon="-122.825200992" visible="true"><tag k="addr:housenumber" v="14325"/><tag k="addr:postcode" v="97231"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Old Germantown Road"/></node>
+</osm>

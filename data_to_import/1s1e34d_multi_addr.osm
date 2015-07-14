@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.443544821" lon="-122.666159233" visible="true"><tag k="addr:housenumber" v="11205"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Aventine Circus"/></node>
+<node id="-2" lat="45.443047191" lon="-122.663947736" visible="true"><tag k="addr:housenumber" v="11338"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Aventine Circus"/></node>
+<node id="-3" lat="45.443537295" lon="-122.662342741" visible="true"><tag k="addr:housenumber" v="11352"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Aventine Circus"/></node>
+<node id="-4" lat="45.443544142" lon="-122.666158788" visible="true"><tag k="addr:housenumber" v="11361"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Aventine Circus"/></node>
+<node id="-5" lat="45.443053188" lon="-122.663954217" visible="true"><tag k="addr:housenumber" v="11388"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Aventine Circus"/></node>
+<node id="-6" lat="45.432954958" lon="-122.667392827" visible="true"><tag k="addr:housenumber" v="0724"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Castleridge Lane"/></node>
+<node id="-7" lat="45.451000783" lon="-122.664880143" visible="true"><tag k="addr:housenumber" v="10260"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Daphne Place"/></node>
+<node id="-8" lat="45.450995602" lon="-122.664882019" visible="true"><tag k="addr:housenumber" v="10263"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Daphne Place"/></node>
+<node id="-9" lat="45.441897279" lon="-122.671444662" visible="true"><tag k="addr:housenumber" v="11625"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Northgate Avenue"/></node>
+<node id="-10" lat="45.436078279" lon="-122.668201018" visible="true"><tag k="addr:housenumber" v="12348"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Northgate Avenue"/></node>
+<node id="-11" lat="45.443531702" lon="-122.662341896" visible="true"><tag k="addr:housenumber" v="01606"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Palatine Hill Road"/></node>
+<node id="-12" lat="45.445286773" lon="-122.656114057" visible="true"><tag k="addr:housenumber" v="11050"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Riverside Drive"/></node>
+<node id="-13" lat="45.445286153" lon="-122.656118069" visible="true"><tag k="addr:housenumber" v="11075"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Riverwood Road"/></node>
+<node id="-14" lat="45.441896419" lon="-122.671445336" visible="true"><tag k="addr:housenumber" v="11500"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Terwilliger Boulevard"/></node>
+<node id="-15" lat="45.436079199" lon="-122.668196249" visible="true"><tag k="addr:housenumber" v="12315"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Terwilliger Boulevard"/></node>
+<node id="-16" lat="45.432962746" lon="-122.667392886" visible="true"><tag k="addr:housenumber" v="12717"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Terwilliger Boulevard"/></node>
+</osm>

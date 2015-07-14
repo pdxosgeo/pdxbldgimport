@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.484270269" lon="-122.748755383" visible="true"><tag k="addr:housenumber" v="4940"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Dogwood Lane"/></node>
+<node id="-2" lat="45.484272877" lon="-122.748751768" visible="true"><tag k="addr:housenumber" v="4942"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Dogwood Lane"/></node>
+<node id="-3" lat="45.484271603" lon="-122.748748012" visible="true"><tag k="addr:housenumber" v="4944"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Dogwood Lane"/></node>
+<node id="-4" lat="45.48427215" lon="-122.748750157" visible="true"><tag k="addr:housenumber" v="4946"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Dogwood Lane"/></node>
+<node id="-5" lat="45.483974755" lon="-122.748748477" visible="true"><tag k="addr:housenumber" v="4970"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Dogwood Lane"/></node>
+<node id="-6" lat="45.483978426" lon="-122.748757005" visible="true"><tag k="addr:housenumber" v="4972"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Dogwood Lane"/></node>
+<node id="-7" lat="45.485429619" lon="-122.749607508" visible="true"><tag k="addr:housenumber" v="4700"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Scholls Ferry Road"/></node>
+<node id="-8" lat="45.485436134" lon="-122.74961579" visible="true"><tag k="addr:housenumber" v="4702"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Scholls Ferry Road"/></node>
+<node id="-9" lat="45.4854391" lon="-122.749611835" visible="true"><tag k="addr:housenumber" v="4704"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Scholls Ferry Road"/></node>
+<node id="-10" lat="45.485435375" lon="-122.749609075" visible="true"><tag k="addr:housenumber" v="4706"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Scholls Ferry Road"/></node>
+<node id="-11" lat="45.485431175" lon="-122.749616121" visible="true"><tag k="addr:housenumber" v="4708"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Scholls Ferry Road"/></node>
+<node id="-12" lat="45.485432164" lon="-122.749615365" visible="true"><tag k="addr:housenumber" v="4710"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Scholls Ferry Road"/></node>
+<node id="-13" lat="45.485434856" lon="-122.749608903" visible="true"><tag k="addr:housenumber" v="4712"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Scholls Ferry Road"/></node>
+<node id="-14" lat="45.485436937" lon="-122.749614166" visible="true"><tag k="addr:housenumber" v="4714"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Scholls Ferry Road"/></node>
+<node id="-15" lat="45.485431295" lon="-122.749614602" visible="true"><tag k="addr:housenumber" v="4716"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Scholls Ferry Road"/></node>
+</osm>

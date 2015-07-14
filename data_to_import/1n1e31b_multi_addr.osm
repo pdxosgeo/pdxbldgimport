@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.535376884" lon="-122.741193396" visible="true"><tag k="addr:housenumber" v="6241"/><tag k="addr:postcode" v="97210"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Cornell Road"/></node>
+<node id="-2" lat="45.522932834" lon="-122.752874174" visible="true"><tag k="addr:housenumber" v="210"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Miller Road"/></node>
+<node id="-3" lat="45.522935771" lon="-122.752875124" visible="true"><tag k="addr:housenumber" v="211"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Miller Road"/></node>
+<node id="-4" lat="45.522940254" lon="-122.752875166" visible="true"><tag k="addr:housenumber" v="264"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Miller Road"/></node>
+<node id="-5" lat="45.524514581" lon="-122.750356714" visible="true"><tag k="addr:housenumber" v="435"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Skyline Boulevard"/></node>
+<node id="-6" lat="45.524509223" lon="-122.75035268" visible="true"><tag k="addr:housenumber" v="439"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Skyline Boulevard"/></node>
+<node id="-7" lat="45.535378587" lon="-122.741197887" visible="true"><tag k="addr:housenumber" v="6108"/><tag k="addr:postcode" v="97210"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Thompson Road"/></node>
+<node id="-8" lat="45.538183088" lon="-122.746313227" visible="true"><tag k="addr:housenumber" v="6666"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Thompson Road"/></node>
+<node id="-9" lat="45.538185824" lon="-122.746309835" visible="true"><tag k="addr:housenumber" v="6690"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Thompson Road"/></node>
+<node id="-10" lat="45.538186017" lon="-122.746313792" visible="true"><tag k="addr:housenumber" v="6700"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Thompson Road"/></node>
+<node id="-11" lat="45.519187495" lon="-122.727279788" visible="true"><tag k="addr:housenumber" v="4900"/><tag k="addr:postcode" v="97221"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Barnes Road"/></node>
+<node id="-12" lat="45.519192485" lon="-122.72727387" visible="true"><tag k="addr:housenumber" v="4922"/><tag k="addr:postcode" v="97221"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Barnes Road"/></node>
+<node id="-13" lat="45.517056807" lon="-122.73636697" visible="true"><tag k="addr:housenumber" v="5720"/><tag k="addr:postcode" v="97221"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Barnes Road"/></node>
+<node id="-14" lat="45.517054414" lon="-122.736366391" visible="true"><tag k="addr:housenumber" v="5724"/><tag k="addr:postcode" v="97221"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Barnes Road"/></node>
+<node id="-15" lat="45.51277497" lon="-122.729327597" visible="true"><tag k="addr:housenumber" v="1417"/><tag k="addr:postcode" v="97221"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Highland Parkway"/></node>
+<node id="-16" lat="45.512774693" lon="-122.729326113" visible="true"><tag k="addr:housenumber" v="1423"/><tag k="addr:postcode" v="97221"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Highland Parkway"/></node>
+</osm>

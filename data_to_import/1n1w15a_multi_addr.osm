@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.587711342" lon="-122.77451908" visible="true"><tag k="addr:housenumber" v="9143"/><tag k="addr:postcode" v="97231"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Germantown Road"/></node>
+<node id="-2" lat="45.587704328" lon="-122.774520719" visible="true"><tag k="addr:housenumber" v="9145"/><tag k="addr:postcode" v="97231"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Germantown Road"/></node>
+<node id="-3" lat="45.590224608" lon="-122.778989875" visible="true"><tag k="addr:housenumber" v="9442"/><tag k="addr:postcode" v="97231"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Roseway Avenue"/></node>
+<node id="-4" lat="45.590228096" lon="-122.778989402" visible="true"><tag k="addr:housenumber" v="9446"/><tag k="addr:postcode" v="97231"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Roseway Avenue"/></node>
+<node id="-5" lat="45.590325079" lon="-122.779215517" visible="true"><tag k="addr:housenumber" v="9450"/><tag k="addr:postcode" v="97231"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Roseway Avenue"/></node>
+<node id="-6" lat="45.59032893" lon="-122.779224538" visible="true"><tag k="addr:housenumber" v="9452"/><tag k="addr:postcode" v="97231"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Roseway Avenue"/></node>
+<node id="-7" lat="45.590769518" lon="-122.779459458" visible="true"><tag k="addr:housenumber" v="9530"/><tag k="addr:postcode" v="97231"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Roseway Avenue"/></node>
+<node id="-8" lat="45.590763488" lon="-122.779459526" visible="true"><tag k="addr:housenumber" v="9531"/><tag k="addr:postcode" v="97231"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Roseway Avenue"/></node>
+<node id="-9" lat="45.582949493" lon="-122.800057223" visible="true"><tag k="addr:housenumber" v="8425"/><tag k="addr:postcode" v="97231"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Skyline Boulevard"/></node>
+<node id="-10" lat="45.58294951" lon="-122.800049793" visible="true"><tag k="addr:housenumber" v="8427"/><tag k="addr:postcode" v="97231"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Skyline Boulevard"/></node>
+<node id="-11" lat="45.580605376" lon="-122.795832355" visible="true"><tag k="addr:housenumber" v="9310"/><tag k="addr:postcode" v="97231"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Skyline Boulevard"/></node>
+<node id="-12" lat="45.567669045" lon="-122.810129283" visible="true"><tag k="addr:housenumber" v="12839"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Springville Road"/></node>
+<node id="-13" lat="45.567669739" lon="-122.810131868" visible="true"><tag k="addr:housenumber" v="12931"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Springville Road"/></node>
+<node id="-14" lat="45.580603527" lon="-122.795829507" visible="true"><tag k="addr:housenumber" v="11525"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Willalatin Road"/></node>
+<node id="-15" lat="45.558486828" lon="-122.778403321" visible="true"><tag k="addr:housenumber" v="9900"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Wind Ridge Drive"/></node>
+<node id="-16" lat="45.558487945" lon="-122.778398714" visible="true"><tag k="addr:housenumber" v="9936"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Wind Ridge Drive"/></node>
+</osm>

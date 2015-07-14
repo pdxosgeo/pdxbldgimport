@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.43839628" lon="-122.693932507" visible="true"><tag k="addr:housenumber" v="12211"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Boones Ferry Road"/></node>
+<node id="-2" lat="45.437912174" lon="-122.694908791" visible="true"><tag k="addr:housenumber" v="12255"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Boones Ferry Road"/></node>
+<node id="-3" lat="45.436207419" lon="-122.699453285" visible="true"><tag k="addr:housenumber" v="12409"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Southwest Boones Ferry Road"/></node>
+<node id="-4" lat="45.438398244" lon="-122.693929961" visible="true"><tag k="addr:housenumber" v="1633"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Joshua Street"/></node>
+<node id="-5" lat="45.437913608" lon="-122.694904742" visible="true"><tag k="addr:housenumber" v="1710"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Joshua Street"/></node>
+<node id="-6" lat="45.436193938" lon="-122.699486447" visible="true"><tag k="addr:housenumber" v="2247"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Southwest Sequoia Court"/></node>
+<node id="-7" lat="45.440700904" lon="-122.698832279" visible="true"><tag k="addr:housenumber" v="2025"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Stephenson Street"/></node>
+<node id="-8" lat="45.4406941" lon="-122.698831649" visible="true"><tag k="addr:housenumber" v="2031"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Stephenson Street"/></node>
+</osm>

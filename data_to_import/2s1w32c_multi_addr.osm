@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.352250951" lon="-122.841019571" visible="true"><tag k="addr:housenumber" v="15992"/><tag k="addr:postcode" v="97140"/><tag k="addr:city" v="Sherwood"/><tag k="addr:street" v="Southwest Madrona Lane"/></node>
-<node id="-2" lat="45.352250776" lon="-122.841193221" visible="true"><tag k="addr:housenumber" v="15996"/><tag k="addr:postcode" v="97140"/><tag k="addr:city" v="Sherwood"/><tag k="addr:street" v="Southwest Madrona Lane"/></node>
-<node id="-3" lat="45.352721161" lon="-122.841136767" visible="true"><tag k="addr:housenumber" v="23052"/><tag k="addr:postcode" v="97140"/><tag k="addr:city" v="Sherwood"/><tag k="addr:street" v="Southwest Main Street"/></node>
-<node id="-4" lat="45.352630453" lon="-122.841132341" visible="true"><tag k="addr:housenumber" v="23058"/><tag k="addr:postcode" v="97140"/><tag k="addr:city" v="Sherwood"/><tag k="addr:street" v="Southwest Main Street"/></node>
-<node id="-5" lat="45.352806061" lon="-122.836773316" visible="true"><tag k="addr:housenumber" v="23064"/><tag k="addr:postcode" v="97140"/><tag k="addr:city" v="Sherwood"/><tag k="addr:street" v="Southwest Schamburg Drive"/></node>
-<node id="-6" lat="45.35271605" lon="-122.836765935" visible="true"><tag k="addr:housenumber" v="23072"/><tag k="addr:postcode" v="97140"/><tag k="addr:city" v="Sherwood"/><tag k="addr:street" v="Southwest Schamburg Drive"/></node>
-</osm>

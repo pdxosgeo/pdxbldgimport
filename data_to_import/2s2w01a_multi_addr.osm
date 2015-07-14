@@ -1,5 +1,0 @@
-<?xml version="1.0"?>
-<osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.451922739" lon="-122.861392517" visible="true"><tag k="addr:housenumber" v="17980"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Kemmer Road"/></node>
-<node id="-2" lat="45.451926675" lon="-122.861394872" visible="true"><tag k="addr:housenumber" v="17992"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Kemmer Road"/></node>
-</osm>

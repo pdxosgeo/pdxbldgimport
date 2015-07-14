@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.464801502" lon="-122.487451049" visible="true"><tag k="addr:housenumber" v="8041"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast 170th Avenue"/></node>
+<node id="-2" lat="45.464806191" lon="-122.487452012" visible="true"><tag k="addr:housenumber" v="7811"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast 172nd Avenue"/></node>
+<node id="-3" lat="45.464803767" lon="-122.487450702" visible="true"><tag k="addr:housenumber" v="7909"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast 172nd Avenue"/></node>
+<node id="-4" lat="45.464807133" lon="-122.487452285" visible="true"><tag k="addr:housenumber" v="17035"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Crystal Springs Boulevard"/></node>
+<node id="-5" lat="45.467341179" lon="-122.486230905" visible="true"><tag k="addr:housenumber" v="17070"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Foster Road"/></node>
+<node id="-6" lat="45.46734274" lon="-122.486228954" visible="true"><tag k="addr:housenumber" v="17115"/><tag k="addr:postcode" v="97236"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Foster Road"/></node>
+<node id="-7" lat="45.464800764" lon="-122.487455458" visible="true"><tag k="addr:housenumber" v="17120"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Foster Road"/></node>
+</osm>

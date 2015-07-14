@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.509500627" lon="-122.74494256" visible="true"><tag k="addr:housenumber" v="1395"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 66th Avenue"/></node>
+<node id="-2" lat="45.50950162" lon="-122.744933049" visible="true"><tag k="addr:housenumber" v="1397"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 66th Avenue"/></node>
+<node id="-3" lat="45.509251791" lon="-122.744935311" visible="true"><tag k="addr:housenumber" v="1425"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 66th Avenue"/></node>
+<node id="-4" lat="45.50925489" lon="-122.744932366" visible="true"><tag k="addr:housenumber" v="1427"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 66th Avenue"/></node>
+<node id="-5" lat="45.509202781" lon="-122.744360337" visible="true"><tag k="addr:housenumber" v="1430"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 66th Avenue"/></node>
+<node id="-6" lat="45.509208481" lon="-122.744356072" visible="true"><tag k="addr:housenumber" v="1432"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 66th Avenue"/></node>
+<node id="-7" lat="45.516205438" lon="-122.752604361" visible="true"><tag k="addr:housenumber" v="7319"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Barnes Road"/></node>
+<node id="-8" lat="45.516203144" lon="-122.752605556" visible="true"><tag k="addr:housenumber" v="7321"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Barnes Road"/></node>
+<node id="-9" lat="45.516204209" lon="-122.752607845" visible="true"><tag k="addr:housenumber" v="7323"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Barnes Road"/></node>
+<node id="-10" lat="45.516203359" lon="-122.752601183" visible="true"><tag k="addr:housenumber" v="7325"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Barnes Road"/></node>
+<node id="-11" lat="45.516199449" lon="-122.75260748" visible="true"><tag k="addr:housenumber" v="7327"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Barnes Road"/></node>
+<node id="-12" lat="45.516201526" lon="-122.752605773" visible="true"><tag k="addr:housenumber" v="7329"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Barnes Road"/></node>
+<node id="-13" lat="45.516202788" lon="-122.752603105" visible="true"><tag k="addr:housenumber" v="7331"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Barnes Road"/></node>
+<node id="-14" lat="45.516590602" lon="-122.753043095" visible="true"><tag k="addr:housenumber" v="7345"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Barnes Road"/></node>
+<node id="-15" lat="45.516593101" lon="-122.75304005" visible="true"><tag k="addr:housenumber" v="7365"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Barnes Road"/></node>
+<node id="-16" lat="45.506223356" lon="-122.749292596" visible="true"><tag k="addr:housenumber" v="1921"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Camelot Court"/></node>
+<node id="-17" lat="45.506128799" lon="-122.749232103" visible="true"><tag k="addr:housenumber" v="1923"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Camelot Court"/></node>
+<node id="-18" lat="45.505973776" lon="-122.74922993" visible="true"><tag k="addr:housenumber" v="1941"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Camelot Court"/></node>
+<node id="-19" lat="45.505898699" lon="-122.749188908" visible="true"><tag k="addr:housenumber" v="1943"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Camelot Court"/></node>
+<node id="-20" lat="45.505724931" lon="-122.749158219" visible="true"><tag k="addr:housenumber" v="1961"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Camelot Court"/></node>
+<node id="-21" lat="45.50565067" lon="-122.749128643" visible="true"><tag k="addr:housenumber" v="1963"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Camelot Court"/></node>
+<node id="-22" lat="45.51939489" lon="-122.782128254" visible="true"><tag k="addr:housenumber" v="10245"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Todd Street"/></node>
+<node id="-23" lat="45.519399743" lon="-122.782120354" visible="true"><tag k="addr:housenumber" v="10251"/><tag k="addr:postcode" v="97225"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Todd Street"/></node>
+</osm>

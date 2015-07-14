@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.438688254" lon="-122.826313138" visible="true"><tag k="addr:housenumber" v="14550"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Murray Scholls Drive"/></node>
-<node id="-2" lat="45.438689935" lon="-122.826313003" visible="true"><tag k="addr:housenumber" v="11100"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Murray Scholls Place"/></node>
-<node id="-3" lat="45.426331151" lon="-122.835127683" visible="true"><tag k="addr:housenumber" v="15349"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Roundtree Drive"/></node>
-<node id="-4" lat="45.426328291" lon="-122.835118247" visible="true"><tag k="addr:housenumber" v="15351"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Roundtree Drive"/></node>
-</osm>

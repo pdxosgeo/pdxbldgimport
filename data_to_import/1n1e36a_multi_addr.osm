@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.532257192" lon="-122.622464496" visible="true"><tag k="addr:housenumber" v="1244"/><tag k="addr:postcode" v="97232"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast C&#233;sar E. Ch&#225;vez Boulevard"/></node>
+<node id="-2" lat="45.531994738" lon="-122.629254058" visible="true"><tag k="addr:housenumber" v="3370"/><tag k="addr:postcode" v="97232"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Sandy Boulevard"/></node>
+<node id="-3" lat="45.531997534" lon="-122.629252956" visible="true"><tag k="addr:housenumber" v="3372"/><tag k="addr:postcode" v="97232"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Sandy Boulevard"/></node>
+<node id="-4" lat="45.531997112" lon="-122.629252778" visible="true"><tag k="addr:housenumber" v="3376"/><tag k="addr:postcode" v="97232"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Sandy Boulevard"/></node>
+<node id="-5" lat="45.532710475" lon="-122.628646779" visible="true"><tag k="addr:housenumber" v="3425"/><tag k="addr:postcode" v="97232"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Sandy Boulevard"/></node>
+<node id="-6" lat="45.532713205" lon="-122.628638935" visible="true"><tag k="addr:housenumber" v="3429"/><tag k="addr:postcode" v="97232"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Sandy Boulevard"/></node>
+<node id="-7" lat="45.532710471" lon="-122.628641836" visible="true"><tag k="addr:housenumber" v="3433"/><tag k="addr:postcode" v="97232"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Sandy Boulevard"/></node>
+<node id="-8" lat="45.532929995" lon="-122.626936145" visible="true"><tag k="addr:housenumber" v="3552"/><tag k="addr:postcode" v="97232"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Sandy Boulevard"/></node>
+<node id="-9" lat="45.532928956" lon="-122.626936127" visible="true"><tag k="addr:housenumber" v="3554"/><tag k="addr:postcode" v="97232"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Sandy Boulevard"/></node>
+<node id="-10" lat="45.532935522" lon="-122.626941743" visible="true"><tag k="addr:housenumber" v="3556"/><tag k="addr:postcode" v="97232"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Sandy Boulevard"/></node>
+<node id="-11" lat="45.532621545" lon="-122.629828032" visible="true"><tag k="addr:housenumber" v="3337"/><tag k="addr:postcode" v="97232"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Wasco Street"/></node>
+<node id="-12" lat="45.532629483" lon="-122.629832054" visible="true"><tag k="addr:housenumber" v="3339"/><tag k="addr:postcode" v="97232"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Wasco Street"/></node>
+<node id="-13" lat="45.532264219" lon="-122.622466083" visible="true"><tag k="addr:housenumber" v="1244"/><tag k="addr:postcode" v="97232"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Wheeler Avenue"/></node>
+</osm>

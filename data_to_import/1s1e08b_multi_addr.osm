@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.496373163" lon="-122.715900354" visible="true"><tag k="addr:housenumber" v="3702"/><tag k="addr:postcode" v="97221"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 38th Avenue"/></node>
+<node id="-2" lat="45.49826577" lon="-122.718676488" visible="true"><tag k="addr:housenumber" v="4017"/><tag k="addr:postcode" v="97221"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Downs View Court"/></node>
+<node id="-3" lat="45.498267696" lon="-122.718679624" visible="true"><tag k="addr:housenumber" v="4023 B"/><tag k="addr:postcode" v="97221"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Downs View Court"/></node>
+<node id="-4" lat="45.499928788" lon="-122.715901734" visible="true"><tag k="addr:housenumber" v="3804"/><tag k="addr:postcode" v="97221"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Grover Street"/></node>
+<node id="-5" lat="45.499926281" lon="-122.71590283" visible="true"><tag k="addr:housenumber" v="3808"/><tag k="addr:postcode" v="97221"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Grover Street"/></node>
+<node id="-6" lat="45.499731006" lon="-122.714757138" visible="true"><tag k="addr:housenumber" v="3620"/><tag k="addr:postcode" v="97221"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Hillside Drive"/></node>
+<node id="-7" lat="45.499728272" lon="-122.714753182" visible="true"><tag k="addr:housenumber" v="3621"/><tag k="addr:postcode" v="97221"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Hillside Drive"/></node>
+<node id="-8" lat="45.496372258" lon="-122.715897634" visible="true"><tag k="addr:housenumber" v="3735"/><tag k="addr:postcode" v="97221"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Tunnelwood Street"/></node>
+</osm>

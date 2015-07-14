@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.558346103" lon="-122.559086866" visible="true"><tag k="addr:housenumber" v="4815"/><tag k="addr:postcode" v="97220"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 101st Avenue"/></node>
+<node id="-2" lat="45.5583464" lon="-122.55908861" visible="true"><tag k="addr:housenumber" v="4825"/><tag k="addr:postcode" v="97220"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 101st Avenue"/></node>
+<node id="-3" lat="45.555058904" lon="-122.567886877" visible="true"><tag k="addr:housenumber" v="4434"/><tag k="addr:postcode" v="97220"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 92nd Avenue"/></node>
+<node id="-4" lat="45.555058201" lon="-122.567889077" visible="true"><tag k="addr:housenumber" v="4436"/><tag k="addr:postcode" v="97220"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 92nd Avenue"/></node>
+<node id="-5" lat="45.555053469" lon="-122.567889983" visible="true"><tag k="addr:housenumber" v="4438"/><tag k="addr:postcode" v="97220"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 92nd Avenue"/></node>
+<node id="-6" lat="45.557408936" lon="-122.568264622" visible="true"><tag k="addr:housenumber" v="4703"/><tag k="addr:postcode" v="97220"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 92nd Avenue"/></node>
+<node id="-7" lat="45.557405735" lon="-122.568259257" visible="true"><tag k="addr:housenumber" v="4711"/><tag k="addr:postcode" v="97220"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 92nd Avenue"/></node>
+<node id="-8" lat="45.556246299" lon="-122.563563149" visible="true"><tag k="addr:housenumber" v="4552"/><tag k="addr:postcode" v="97220"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 96th Avenue"/></node>
+<node id="-9" lat="45.55624603" lon="-122.563563913" visible="true"><tag k="addr:housenumber" v="4608"/><tag k="addr:postcode" v="97220"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 96th Avenue"/></node>
+<node id="-10" lat="45.556964345" lon="-122.563165452" visible="true"><tag k="addr:housenumber" v="4645"/><tag k="addr:postcode" v="97220"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 97th Avenue"/></node>
+<node id="-11" lat="45.556959628" lon="-122.563162939" visible="true"><tag k="addr:housenumber" v="4651"/><tag k="addr:postcode" v="97220"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 97th Avenue"/></node>
+<node id="-12" lat="45.555709382" lon="-122.560495907" visible="true"><tag k="addr:housenumber" v="4520"/><tag k="addr:postcode" v="97220"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 99th Avenue"/></node>
+<node id="-13" lat="45.555751065" lon="-122.560489083" visible="true"><tag k="addr:housenumber" v="4528"/><tag k="addr:postcode" v="97220"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 99th Avenue"/></node>
+<node id="-14" lat="45.558571635" lon="-122.560986437" visible="true"><tag k="addr:housenumber" v="4825"/><tag k="addr:postcode" v="97220"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 99th Avenue"/></node>
+<node id="-15" lat="45.558574899" lon="-122.560979994" visible="true"><tag k="addr:housenumber" v="4829"/><tag k="addr:postcode" v="97220"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 99th Avenue"/></node>
+<node id="-16" lat="45.558579687" lon="-122.560987769" visible="true"><tag k="addr:housenumber" v="4847"/><tag k="addr:postcode" v="97220"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 99th Avenue"/></node>
+<node id="-17" lat="45.549039664" lon="-122.565558932" visible="true"><tag k="addr:housenumber" v="9201"/><tag k="addr:postcode" v="97220"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Fremont Street"/></node>
+<node id="-18" lat="45.549040783" lon="-122.565551659" visible="true"><tag k="addr:housenumber" v="3523"/><tag k="addr:postcode" v="97220"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Rocky Butte Road"/></node>
+<node id="-19" lat="45.558754013" lon="-122.558317694" visible="true"><tag k="addr:housenumber" v="10120"/><tag k="addr:postcode" v="97220"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Sandy Boulevard"/></node>
+<node id="-20" lat="45.558751945" lon="-122.55831231" visible="true"><tag k="addr:housenumber" v="10130"/><tag k="addr:postcode" v="97220"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Sandy Boulevard"/></node>
+<node id="-21" lat="45.559099886" lon="-122.560196134" visible="true"><tag k="addr:housenumber" v="9920"/><tag k="addr:postcode" v="97220"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Sandy Boulevard"/></node>
+<node id="-22" lat="45.559093042" lon="-122.560193695" visible="true"><tag k="addr:housenumber" v="9922"/><tag k="addr:postcode" v="97220"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Sandy Boulevard"/></node>
+</osm>

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.482682626" lon="-122.623833402" visible="true"><tag k="addr:housenumber" v="5501"/><tag k="addr:postcode" v="97202"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast 38th Avenue"/></node>
+<node id="-2" lat="45.482683903" lon="-122.623835277" visible="true"><tag k="addr:housenumber" v="5511"/><tag k="addr:postcode" v="97202"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast 38th Avenue"/></node>
+<node id="-3" lat="45.479455486" lon="-122.621986429" visible="true"><tag k="addr:housenumber" v="5923"/><tag k="addr:postcode" v="97202"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast 40th Avenue"/></node>
+<node id="-4" lat="45.479460968" lon="-122.621991417" visible="true"><tag k="addr:housenumber" v="5925"/><tag k="addr:postcode" v="97202"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast 40th Avenue"/></node>
+<node id="-5" lat="45.479459028" lon="-122.621983909" visible="true"><tag k="addr:housenumber" v="5927"/><tag k="addr:postcode" v="97202"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast 40th Avenue"/></node>
+<node id="-6" lat="45.479459638" lon="-122.621992104" visible="true"><tag k="addr:housenumber" v="5929"/><tag k="addr:postcode" v="97202"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast 40th Avenue"/></node>
+<node id="-7" lat="45.47861638" lon="-122.621904758" visible="true"><tag k="addr:housenumber" v="6033"/><tag k="addr:postcode" v="97202"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast 40th Avenue"/></node>
+<node id="-8" lat="45.478612146" lon="-122.621908453" visible="true"><tag k="addr:housenumber" v="6037"/><tag k="addr:postcode" v="97202"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast 40th Avenue"/></node>
+<node id="-9" lat="45.476147504" lon="-122.621965273" visible="true"><tag k="addr:housenumber" v="6405"/><tag k="addr:postcode" v="97202"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast 40th Avenue"/></node>
+<node id="-10" lat="45.476145123" lon="-122.621966417" visible="true"><tag k="addr:housenumber" v="3934"/><tag k="addr:postcode" v="97202"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Henry Street"/></node>
+<node id="-11" lat="45.479714133" lon="-122.622437767" visible="true"><tag k="addr:housenumber" v="3904"/><tag k="addr:postcode" v="97202"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Knight Street"/></node>
+<node id="-12" lat="45.47971562" lon="-122.62243823" visible="true"><tag k="addr:housenumber" v="3906"/><tag k="addr:postcode" v="97202"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Knight Street"/></node>
+<node id="-13" lat="45.479718808" lon="-122.622239042" visible="true"><tag k="addr:housenumber" v="3910"/><tag k="addr:postcode" v="97202"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Knight Street"/></node>
+<node id="-14" lat="45.479721564" lon="-122.622242206" visible="true"><tag k="addr:housenumber" v="3912"/><tag k="addr:postcode" v="97202"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Knight Street"/></node>
+<node id="-15" lat="45.478947604" lon="-122.621229755" visible="true"><tag k="addr:housenumber" v="4012"/><tag k="addr:postcode" v="97202"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Woodstock Boulevard"/></node>
+<node id="-16" lat="45.478954327" lon="-122.621228056" visible="true"><tag k="addr:housenumber" v="4014"/><tag k="addr:postcode" v="97202"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Woodstock Boulevard"/></node>
+<node id="-17" lat="45.478953966" lon="-122.621227295" visible="true"><tag k="addr:housenumber" v="4016"/><tag k="addr:postcode" v="97202"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Woodstock Boulevard"/></node>
+</osm>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.525611181" lon="-122.786742559" visible="true"><tag k="addr:housenumber" v="10670"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Cornell Road"/></node>
+<node id="-2" lat="45.525604311" lon="-122.786744094" visible="true"><tag k="addr:housenumber" v="10690"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Cornell Road"/></node>
+<node id="-3" lat="45.526267288" lon="-122.788660644" visible="true"><tag k="addr:housenumber" v="10887"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Cornell Road"/></node>
+<node id="-4" lat="45.526266133" lon="-122.788664547" visible="true"><tag k="addr:housenumber" v="10891"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Cornell Road"/></node>
+<node id="-5" lat="45.526270251" lon="-122.788664827" visible="true"><tag k="addr:housenumber" v="10895"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Cornell Road"/></node>
+<node id="-6" lat="45.564811031" lon="-122.739255297" visible="true"><tag k="addr:housenumber" v="5414"/><tag k="addr:postcode" v="97210"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Doane Avenue"/></node>
+<node id="-7" lat="45.564811504" lon="-122.739263755" visible="true"><tag k="addr:housenumber" v="749"/><tag k="addr:postcode" v="97239"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Whitaker Street"/></node>
+</osm>

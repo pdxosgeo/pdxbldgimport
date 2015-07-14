@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.534440432" lon="-122.505697292" visible="true"><tag k="addr:housenumber" v="1550"/><tag k="addr:postcode" v="97230"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 152nd Avenue"/></node>
+<node id="-2" lat="45.5344419" lon="-122.505688593" visible="true"><tag k="addr:housenumber" v="1550"/><tag k="addr:postcode" v="97230"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 152nd Place"/></node>
+<node id="-3" lat="45.533894612" lon="-122.502081432" visible="true"><tag k="addr:housenumber" v="1508"/><tag k="addr:postcode" v="97230"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 156th Avenue"/></node>
+<node id="-4" lat="45.54050471" lon="-122.496234727" visible="true"><tag k="addr:housenumber" v="2431"/><tag k="addr:postcode" v="97230"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 162nd Avenue"/></node>
+<node id="-5" lat="45.540512525" lon="-122.496236381" visible="true"><tag k="addr:housenumber" v="2433"/><tag k="addr:postcode" v="97230"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 162nd Avenue"/></node>
+<node id="-6" lat="45.540511905" lon="-122.496241608" visible="true"><tag k="addr:housenumber" v="2435"/><tag k="addr:postcode" v="97230"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 162nd Avenue"/></node>
+<node id="-7" lat="45.540759476" lon="-122.496150519" visible="true"><tag k="addr:housenumber" v="2447"/><tag k="addr:postcode" v="97230"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 162nd Avenue"/></node>
+<node id="-8" lat="45.540761226" lon="-122.496145319" visible="true"><tag k="addr:housenumber" v="2449"/><tag k="addr:postcode" v="97230"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 162nd Avenue"/></node>
+<node id="-9" lat="45.533892601" lon="-122.502077839" visible="true"><tag k="addr:housenumber" v="15633"/><tag k="addr:postcode" v="97230"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Halsey Street"/></node>
+<node id="-10" lat="45.534160119" lon="-122.497362207" visible="true"><tag k="addr:housenumber" v="16057"/><tag k="addr:postcode" v="97230"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Halsey Street"/></node>
+<node id="-11" lat="45.534166166" lon="-122.497359058" visible="true"><tag k="addr:housenumber" v="16060"/><tag k="addr:postcode" v="97230"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Halsey Street"/></node>
+</osm>

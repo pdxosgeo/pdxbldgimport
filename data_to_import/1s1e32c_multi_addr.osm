@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.434981971" lon="-122.722392732" visible="true"><tag k="addr:housenumber" v="192"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Cervantes"/></node>
+<node id="-2" lat="45.434981418" lon="-122.722399131" visible="true"><tag k="addr:housenumber" v="194"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Cervantes"/></node>
+<node id="-3" lat="45.434982426" lon="-122.722394558" visible="true"><tag k="addr:housenumber" v="196"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Cervantes"/></node>
+<node id="-4" lat="45.435341661" lon="-122.722980226" visible="true"><tag k="addr:housenumber" v="224"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Cervantes"/></node>
+<node id="-5" lat="45.435347838" lon="-122.723068126" visible="true"><tag k="addr:housenumber" v="226"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Cervantes"/></node>
+<node id="-6" lat="45.430471374" lon="-122.716063544" visible="true"><tag k="addr:housenumber" v="11"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Mt Jefferson Terrace"/></node>
+<node id="-7" lat="45.430691378" lon="-122.715902486" visible="true"><tag k="addr:housenumber" v="3"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Mt Jefferson Terrace"/></node>
+<node id="-8" lat="45.43070412" lon="-122.715959427" visible="true"><tag k="addr:housenumber" v="4"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Mt Jefferson Terrace"/></node>
+<node id="-9" lat="45.430670557" lon="-122.716019494" visible="true"><tag k="addr:housenumber" v="5"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Mt Jefferson Terrace"/></node>
+<node id="-10" lat="45.4306191" lon="-122.716084393" visible="true"><tag k="addr:housenumber" v="7"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Mt Jefferson Terrace"/></node>
+<node id="-11" lat="45.430587521" lon="-122.716145333" visible="true"><tag k="addr:housenumber" v="9"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Mt Jefferson Terrace"/></node>
+<node id="-12" lat="45.438095141" lon="-122.721976902" visible="true"><tag k="addr:housenumber" v="12"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Nansen Summit"/></node>
+<node id="-13" lat="45.438099519" lon="-122.721970651" visible="true"><tag k="addr:housenumber" v="14"/><tag k="addr:postcode" v="97035"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Nansen Summit"/></node>
+</osm>

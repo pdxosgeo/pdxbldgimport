@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.420523945" lon="-122.672401373" visible="true"><tag k="addr:housenumber" v="765"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="A Avenue"/></node>
+<node id="-2" lat="45.420546936" lon="-122.672587831" visible="true"><tag k="addr:housenumber" v="785"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="A Avenue"/></node>
+<node id="-3" lat="45.431217472" lon="-122.680331895" visible="true"><tag k="addr:housenumber" v="1500"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Boca Ratan Drive"/></node>
+<node id="-4" lat="45.431215942" lon="-122.680330361" visible="true"><tag k="addr:housenumber" v="3000"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Boca Ratan Drive"/></node>
+<node id="-5" lat="45.428267312" lon="-122.680264756" visible="true"><tag k="addr:housenumber" v="728"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Boca Ratan Drive"/></node>
+<node id="-6" lat="45.428201687" lon="-122.680263013" visible="true"><tag k="addr:housenumber" v="730"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Boca Ratan Drive"/></node>
+<node id="-7" lat="45.4233198" lon="-122.675844782" visible="true"><tag k="addr:housenumber" v="1057"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="C Avenue"/></node>
+<node id="-8" lat="45.423369402" lon="-122.675951891" visible="true"><tag k="addr:housenumber" v="1059"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="C Avenue"/></node>
+</osm>

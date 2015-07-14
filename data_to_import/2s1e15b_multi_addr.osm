@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.448054097" lon="-122.68578046" visible="true"><tag k="addr:housenumber" v="10711"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 6th Place"/></node>
+<node id="-2" lat="45.448057026" lon="-122.685778966" visible="true"><tag k="addr:housenumber" v="10654"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Boones Ferry Road"/></node>
+<node id="-3" lat="45.447520182" lon="-122.685885038" visible="true"><tag k="addr:housenumber" v="10722"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Boones Ferry Road"/></node>
+<node id="-4" lat="45.444043818" lon="-122.686980241" visible="true"><tag k="addr:housenumber" v="11231"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Boones Ferry Road"/></node>
+<node id="-5" lat="45.447513849" lon="-122.685878963" visible="true"><tag k="addr:housenumber" v="626"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Comus Court"/></node>
+<node id="-6" lat="45.453287667" lon="-122.684585502" visible="true"><tag k="addr:housenumber" v="541"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Maplecrest Court"/></node>
+<node id="-7" lat="45.453283397" lon="-122.684588904" visible="true"><tag k="addr:housenumber" v="545"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Maplecrest Court"/></node>
+<node id="-8" lat="45.44404212" lon="-122.686979452" visible="true"><tag k="addr:housenumber" v="828"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Trillium Lane"/></node>
+</osm>

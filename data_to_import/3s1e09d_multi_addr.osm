@@ -1,5 +1,0 @@
-<?xml version="1.0"?>
-<osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.317302469" lon="-122.700973857" visible="true"><tag k="addr:housenumber" v="2340"/><tag k="addr:postcode" v="97068"/><tag k="addr:city" v="West Linn"/><tag k="addr:street" v="Southwest Advance Road"/></node>
-<node id="-2" lat="45.317300308" lon="-122.700966935" visible="true"><tag k="addr:housenumber" v="2390"/><tag k="addr:postcode" v="97068"/><tag k="addr:city" v="West Linn"/><tag k="addr:street" v="Southwest Advance Road"/></node>
-</osm>

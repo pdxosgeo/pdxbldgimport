@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.461655542" lon="-122.514324668" visible="true"><tag k="addr:housenumber" v="14431"/><tag k="addr:postcode" v="97236"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Clatsop Street"/></node>
+<node id="-2" lat="45.461650724" lon="-122.514317848" visible="true"><tag k="addr:housenumber" v="14449"/><tag k="addr:postcode" v="97236"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Clatsop Street"/></node>
+</osm>

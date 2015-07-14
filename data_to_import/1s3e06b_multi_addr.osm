@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.511945071" lon="-122.495953703" visible="true"><tag k="addr:housenumber" v="1500"/><tag k="addr:postcode" v="97233"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast 162nd Avenue"/></node>
+<node id="-2" lat="45.511944848" lon="-122.495957845" visible="true"><tag k="addr:housenumber" v="1520"/><tag k="addr:postcode" v="97233"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast 162nd Avenue"/></node>
+<node id="-3" lat="45.51205352" lon="-122.488311407" visible="true"><tag k="addr:housenumber" v="1516"/><tag k="addr:postcode" v="97233"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast 169th Place"/></node>
+<node id="-4" lat="45.512050125" lon="-122.488312599" visible="true"><tag k="addr:housenumber" v="16940"/><tag k="addr:postcode" v="97233"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Market Street"/></node>
+<node id="-5" lat="45.518779208" lon="-122.494738888" visible="true"><tag k="addr:housenumber" v="16330"/><tag k="addr:postcode" v="97233"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Stark Street"/></node>
+<node id="-6" lat="45.518779728" lon="-122.494742331" visible="true"><tag k="addr:housenumber" v="16338"/><tag k="addr:postcode" v="97233"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Stark Street"/></node>
+<node id="-7" lat="45.518860895" lon="-122.491220883" visible="true"><tag k="addr:housenumber" v="16702"/><tag k="addr:postcode" v="97233"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Stark Street"/></node>
+<node id="-8" lat="45.518859798" lon="-122.491218858" visible="true"><tag k="addr:housenumber" v="16704"/><tag k="addr:postcode" v="97233"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Stark Street"/></node>
+<node id="-9" lat="45.518861359" lon="-122.491215895" visible="true"><tag k="addr:housenumber" v="16706"/><tag k="addr:postcode" v="97233"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Stark Street"/></node>
+<node id="-10" lat="45.518853665" lon="-122.490779979" visible="true"><tag k="addr:housenumber" v="16708"/><tag k="addr:postcode" v="97233"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Stark Street"/></node>
+<node id="-11" lat="45.518854538" lon="-122.490787414" visible="true"><tag k="addr:housenumber" v="16710"/><tag k="addr:postcode" v="97233"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Stark Street"/></node>
+<node id="-12" lat="45.518855369" lon="-122.490785411" visible="true"><tag k="addr:housenumber" v="16712"/><tag k="addr:postcode" v="97233"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Stark Street"/></node>
+<node id="-13" lat="45.518896679" lon="-122.490468776" visible="true"><tag k="addr:housenumber" v="16740"/><tag k="addr:postcode" v="97233"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Stark Street"/></node>
+<node id="-14" lat="45.518895104" lon="-122.490468521" visible="true"><tag k="addr:housenumber" v="16742"/><tag k="addr:postcode" v="97233"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Stark Street"/></node>
+<node id="-15" lat="45.518900333" lon="-122.489805912" visible="true"><tag k="addr:housenumber" v="16816"/><tag k="addr:postcode" v="97233"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Stark Street"/></node>
+<node id="-16" lat="45.518905731" lon="-122.489804372" visible="true"><tag k="addr:housenumber" v="16818"/><tag k="addr:postcode" v="97233"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Stark Street"/></node>
+<node id="-17" lat="45.518900887" lon="-122.489808388" visible="true"><tag k="addr:housenumber" v="16820"/><tag k="addr:postcode" v="97233"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Stark Street"/></node>
+<node id="-18" lat="45.518901352" lon="-122.48980944" visible="true"><tag k="addr:housenumber" v="16822"/><tag k="addr:postcode" v="97233"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Stark Street"/></node>
+</osm>

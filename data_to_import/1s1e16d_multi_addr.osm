@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.462607816" lon="-122.695354418" visible="true"><tag k="addr:housenumber" v="8603"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 17th Avenue"/></node>
+<node id="-2" lat="45.462604774" lon="-122.695351301" visible="true"><tag k="addr:housenumber" v="8610"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 17th Avenue"/></node>
+<node id="-3" lat="45.461998272" lon="-122.700893939" visible="true"><tag k="addr:housenumber" v="8702"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 23rd Avenue"/></node>
+<node id="-4" lat="45.461991762" lon="-122.700898365" visible="true"><tag k="addr:housenumber" v="8704"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 23rd Avenue"/></node>
+<node id="-5" lat="45.467550681" lon="-122.700291051" visible="true"><tag k="addr:housenumber" v="7827"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Capitol Hill Road"/></node>
+<node id="-6" lat="45.467550542" lon="-122.700288166" visible="true"><tag k="addr:housenumber" v="7829"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Capitol Hill Road"/></node>
+<node id="-7" lat="45.467550255" lon="-122.700286207" visible="true"><tag k="addr:housenumber" v="7831"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Capitol Hill Road"/></node>
+<node id="-8" lat="45.497497981" lon="-122.689678446" visible="true"><tag k="addr:housenumber" v="902"/><tag k="addr:postcode" v="97239"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Curry Street"/></node>
+<node id="-9" lat="45.497498357" lon="-122.689673891" visible="true"><tag k="addr:housenumber" v="912"/><tag k="addr:postcode" v="97239"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Curry Street"/></node>
+<node id="-10" lat="45.461816881" lon="-122.700486082" visible="true"><tag k="addr:housenumber" v="2203"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Dolph Court"/></node>
+<node id="-11" lat="45.461823218" lon="-122.700492444" visible="true"><tag k="addr:housenumber" v="2205"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Dolph Court"/></node>
+<node id="-12" lat="45.461822414" lon="-122.700491616" visible="true"><tag k="addr:housenumber" v="2207"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Dolph Court"/></node>
+<node id="-13" lat="45.461822437" lon="-122.700487481" visible="true"><tag k="addr:housenumber" v="2209"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Dolph Court"/></node>
+<node id="-14" lat="45.461842024" lon="-122.70092862" visible="true"><tag k="addr:housenumber" v="2221"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Dolph Court"/></node>
+<node id="-15" lat="45.461845825" lon="-122.700924024" visible="true"><tag k="addr:housenumber" v="2223"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Dolph Court"/></node>
+<node id="-16" lat="45.461839329" lon="-122.700931631" visible="true"><tag k="addr:housenumber" v="2225"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Dolph Court"/></node>
+<node id="-17" lat="45.497118588" lon="-122.690576147" visible="true"><tag k="addr:housenumber" v="1007"/><tag k="addr:postcode" v="97239"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Gaines Street"/></node>
+<node id="-18" lat="45.49711532" lon="-122.690578158" visible="true"><tag k="addr:housenumber" v="1019"/><tag k="addr:postcode" v="97239"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Gaines Street"/></node>
+<node id="-19" lat="45.465347678" lon="-122.694037578" visible="true"><tag k="addr:housenumber" v="1516"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Hume Street"/></node>
+<node id="-20" lat="45.465354987" lon="-122.694040145" visible="true"><tag k="addr:housenumber" v="1518"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Hume Street"/></node>
+<node id="-21" lat="45.493909623" lon="-122.700420738" visible="true"><tag k="addr:housenumber" v="4138"/><tag k="addr:postcode" v="97239"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Tualatin Avenue"/></node>
+<node id="-22" lat="45.493912454" lon="-122.70041599" visible="true"><tag k="addr:housenumber" v="4140"/><tag k="addr:postcode" v="97239"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Tualatin Avenue"/></node>
+</osm>

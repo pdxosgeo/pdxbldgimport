@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.546991051" lon="-122.783019802" visible="true"><tag k="addr:housenumber" v="10311"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Laidlaw Road"/></node>
+<node id="-2" lat="45.543938159" lon="-122.783281683" visible="true"><tag k="addr:housenumber" v="2960"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Mcdaniel Road"/></node>
+<node id="-3" lat="45.543935502" lon="-122.783279876" visible="true"><tag k="addr:housenumber" v="2880"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Mill Pond Road"/></node>
+<node id="-4" lat="45.544319165" lon="-122.774868855" visible="true"><tag k="addr:housenumber" v="3034"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Montara Loop"/></node>
+<node id="-5" lat="45.544322825" lon="-122.774873785" visible="true"><tag k="addr:housenumber" v="3038"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Montara Loop"/></node>
+<node id="-6" lat="45.544324398" lon="-122.774868228" visible="true"><tag k="addr:housenumber" v="3042"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Montara Loop"/></node>
+<node id="-7" lat="45.544324447" lon="-122.774867131" visible="true"><tag k="addr:housenumber" v="3046"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Montara Loop"/></node>
+<node id="-8" lat="45.544319147" lon="-122.774872356" visible="true"><tag k="addr:housenumber" v="3050"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Montara Loop"/></node>
+<node id="-9" lat="45.544324388" lon="-122.774873977" visible="true"><tag k="addr:housenumber" v="3054"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Montara Loop"/></node>
+<node id="-10" lat="45.544320259" lon="-122.77486702" visible="true"><tag k="addr:housenumber" v="3058"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Montara Loop"/></node>
+<node id="-11" lat="45.544325807" lon="-122.774867922" visible="true"><tag k="addr:housenumber" v="3062"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Montara Loop"/></node>
+<node id="-12" lat="45.546990701" lon="-122.783013635" visible="true"><tag k="addr:housenumber" v="10311"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Thompson Road"/></node>
+</osm>

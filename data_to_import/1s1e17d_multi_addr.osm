@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.47122572" lon="-122.70537213" visible="true"><tag k="addr:housenumber" v="7334"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 28th Avenue"/></node>
+<node id="-2" lat="45.471221541" lon="-122.705370469" visible="true"><tag k="addr:housenumber" v="7336"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 28th Avenue"/></node>
+<node id="-3" lat="45.470262552" lon="-122.713882183" visible="true"><tag k="addr:housenumber" v="7510"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 36th Avenue"/></node>
+<node id="-4" lat="45.470260859" lon="-122.713878386" visible="true"><tag k="addr:housenumber" v="3548"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Logan Street"/></node>
+<node id="-5" lat="45.481394956" lon="-122.72096327" visible="true"><tag k="addr:housenumber" v="4215"/><tag k="addr:postcode" v="97221"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Pendleton Street"/></node>
+<node id="-6" lat="45.481393022" lon="-122.720960986" visible="true"><tag k="addr:housenumber" v="4231"/><tag k="addr:postcode" v="97221"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Pendleton Street"/></node>
+<node id="-7" lat="45.480944038" lon="-122.721908047" visible="true"><tag k="addr:housenumber" v="4334"/><tag k="addr:postcode" v="97221"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Pendleton Street"/></node>
+<node id="-8" lat="45.48095258" lon="-122.72191143" visible="true"><tag k="addr:housenumber" v="4336"/><tag k="addr:postcode" v="97221"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Pendleton Street"/></node>
+</osm>

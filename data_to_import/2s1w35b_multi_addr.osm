@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.355703045" lon="-122.775750399" visible="true"><tag k="addr:housenumber" v="22680"/><tag k="addr:postcode" v="97062"/><tag k="addr:city" v="Tualatin"/><tag k="addr:street" v="Southwest 96th Drive"/></node>
-<node id="-2" lat="45.355702898" lon="-122.775753739" visible="true"><tag k="addr:housenumber" v="9587"/><tag k="addr:postcode" v="97062"/><tag k="addr:city" v="Tualatin"/><tag k="addr:street" v="Southwest Iowa Drive"/></node>
-<node id="-3" lat="45.36741076" lon="-122.775229171" visible="true"><tag k="addr:housenumber" v="9545"/><tag k="addr:postcode" v="97062"/><tag k="addr:city" v="Tualatin"/><tag k="addr:street" v="Southwest Killarney Lane"/></node>
-<node id="-4" lat="45.367410315" lon="-122.775230357" visible="true"><tag k="addr:housenumber" v="9575"/><tag k="addr:postcode" v="97062"/><tag k="addr:city" v="Tualatin"/><tag k="addr:street" v="Southwest Killarney Lane"/></node>
-</osm>

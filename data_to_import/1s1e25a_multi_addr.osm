@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.461148858" lon="-122.629600113" visible="true"><tag k="addr:housenumber" v="8514"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast 32nd Avenue"/></node>
+<node id="-2" lat="45.461145742" lon="-122.62968264" visible="true"><tag k="addr:housenumber" v="8524"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast 32nd Avenue"/></node>
+<node id="-3" lat="45.455856759" lon="-122.630314839" visible="true"><tag k="addr:housenumber" v="9211"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast 32nd Avenue"/></node>
+<node id="-4" lat="45.455854791" lon="-122.630316387" visible="true"><tag k="addr:housenumber" v="9223"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast 32nd Avenue"/></node>
+<node id="-5" lat="45.454587938" lon="-122.630092184" visible="true"><tag k="addr:housenumber" v="9401"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast 32nd Avenue"/></node>
+<node id="-6" lat="45.454548252" lon="-122.630099122" visible="true"><tag k="addr:housenumber" v="9423"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast 32nd Avenue"/></node>
+<node id="-7" lat="45.454518629" lon="-122.630088646" visible="true"><tag k="addr:housenumber" v="9435"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast 32nd Avenue"/></node>
+<node id="-8" lat="45.458757639" lon="-122.622222182" visible="true"><tag k="addr:housenumber" v="8845"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast 40th Avenue"/></node>
+<node id="-9" lat="45.458697386" lon="-122.622226653" visible="true"><tag k="addr:housenumber" v="8849"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast 40th Avenue"/></node>
+<node id="-10" lat="45.454675114" lon="-122.62195141" visible="true"><tag k="addr:housenumber" v="9406"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast 40th Avenue"/></node>
+<node id="-11" lat="45.454623845" lon="-122.621950995" visible="true"><tag k="addr:housenumber" v="9416"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast 40th Avenue"/></node>
+<node id="-12" lat="45.455852434" lon="-122.630318029" visible="true"><tag k="addr:housenumber" v="3138"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Malcolm Street"/></node>
+<node id="-13" lat="45.455852934" lon="-122.630323673" visible="true"><tag k="addr:housenumber" v="3140"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Malcolm Street"/></node>
+<node id="-14" lat="45.456874815" lon="-122.629385162" visible="true"><tag k="addr:housenumber" v="3230"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Wake Street"/></node>
+<node id="-15" lat="45.456874902" lon="-122.629252211" visible="true"><tag k="addr:housenumber" v="3240"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Wake Street"/></node>
+<node id="-16" lat="45.457214876" lon="-122.62814789" visible="true"><tag k="addr:housenumber" v="3341"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Wake Street"/></node>
+<node id="-17" lat="45.457256086" lon="-122.628151832" visible="true"><tag k="addr:housenumber" v="3345"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Wake Street"/></node>
+<node id="-18" lat="45.457247282" lon="-122.626689692" visible="true"><tag k="addr:housenumber" v="3525"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Wake Street"/></node>
+<node id="-19" lat="45.457250209" lon="-122.626630701" visible="true"><tag k="addr:housenumber" v="3527"/><tag k="addr:postcode" v="97222"/><tag k="addr:city" v="Milwaukie"/><tag k="addr:street" v="Southeast Wake Street"/></node>
+</osm>

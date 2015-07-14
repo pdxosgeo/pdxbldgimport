@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.547001006" lon="-122.770722302" visible="true"><tag k="addr:housenumber" v="3311"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Chapin Drive"/></node>
+<node id="-2" lat="45.568646855" lon="-122.745887735" visible="true"><tag k="addr:housenumber" v="6501"/><tag k="addr:postcode" v="97210"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Front Avenue"/></node>
+<node id="-3" lat="45.568648035" lon="-122.745892205" visible="true"><tag k="addr:housenumber" v="6529"/><tag k="addr:postcode" v="97210"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Front Avenue"/></node>
+<node id="-4" lat="45.547003283" lon="-122.770721596" visible="true"><tag k="addr:housenumber" v="8506"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Gilliam Lane"/></node>
+<node id="-5" lat="45.546916398" lon="-122.762390852" visible="true"><tag k="addr:housenumber" v="3336"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Skyline Boulevard"/></node>
+<node id="-6" lat="45.546919365" lon="-122.762398934" visible="true"><tag k="addr:housenumber" v="3336-33"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Skyline Boulevard"/></node>
+<node id="-7" lat="45.546920411" lon="-122.762398332" visible="true"><tag k="addr:housenumber" v="3348"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Skyline Boulevard"/></node>
+<node id="-8" lat="45.563496462" lon="-122.746717994" visible="true"><tag k="addr:housenumber" v="5885"/><tag k="addr:postcode" v="97210"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest St Helens Road"/></node>
+<node id="-9" lat="45.563499689" lon="-122.746717732" visible="true"><tag k="addr:housenumber" v="5887"/><tag k="addr:postcode" v="97210"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest St Helens Road"/></node>
+<node id="-10" lat="45.56350155" lon="-122.746718494" visible="true"><tag k="addr:housenumber" v="5889"/><tag k="addr:postcode" v="97210"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest St Helens Road"/></node>
+<node id="-11" lat="45.564483994" lon="-122.74744114" visible="true"><tag k="addr:housenumber" v="5919"/><tag k="addr:postcode" v="97210"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest St Helens Road"/></node>
+<node id="-12" lat="45.564484458" lon="-122.747438226" visible="true"><tag k="addr:housenumber" v="5921"/><tag k="addr:postcode" v="97210"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest St Helens Road"/></node>
+<node id="-13" lat="45.564582838" lon="-122.747577661" visible="true"><tag k="addr:housenumber" v="5947"/><tag k="addr:postcode" v="97210"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest St Helens Road"/></node>
+<node id="-14" lat="45.56458225" lon="-122.747578658" visible="true"><tag k="addr:housenumber" v="5949"/><tag k="addr:postcode" v="97210"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest St Helens Road"/></node>
+</osm>

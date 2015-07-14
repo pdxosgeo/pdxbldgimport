@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.550901823" lon="-122.596717725" visible="true"><tag k="addr:housenumber" v="3845"/><tag k="addr:postcode" v="97213"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 65th Avenue"/></node>
+<node id="-2" lat="45.549377244" lon="-122.592566297" visible="true"><tag k="addr:housenumber" v="3633"/><tag k="addr:postcode" v="97213"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 69th Avenue"/></node>
+<node id="-3" lat="45.554392662" lon="-122.591896129" visible="true"><tag k="addr:housenumber" v="4334"/><tag k="addr:postcode" v="97218"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 69th Avenue"/></node>
+<node id="-4" lat="45.554396846" lon="-122.591892392" visible="true"><tag k="addr:housenumber" v="4336"/><tag k="addr:postcode" v="97218"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 69th Avenue"/></node>
+<node id="-5" lat="45.550898663" lon="-122.59671756" visible="true"><tag k="addr:housenumber" v="6424"/><tag k="addr:postcode" v="97213"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Failing Street"/></node>
+<node id="-6" lat="45.548372948" lon="-122.598661483" visible="true"><tag k="addr:housenumber" v="6229"/><tag k="addr:postcode" v="97213"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Fremont Street"/></node>
+<node id="-7" lat="45.548368528" lon="-122.598661629" visible="true"><tag k="addr:housenumber" v="6235"/><tag k="addr:postcode" v="97213"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Fremont Street"/></node>
+<node id="-8" lat="45.549377489" lon="-122.592565274" visible="true"><tag k="addr:housenumber" v="3633"/><tag k="addr:postcode" v="97213"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast 69th Avenue"/></node>
+</osm>

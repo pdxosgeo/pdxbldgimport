@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.544084317" lon="-122.651120974" visible="true"><tag k="addr:housenumber" v="2924"/><tag k="addr:postcode" v="97212"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 14th Avenue"/></node>
+<node id="-2" lat="45.544080027" lon="-122.651119234" visible="true"><tag k="addr:housenumber" v="2926"/><tag k="addr:postcode" v="97212"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 14th Avenue"/></node>
+<node id="-3" lat="45.541195756" lon="-122.650750394" visible="true"><tag k="addr:housenumber" v="2539"/><tag k="addr:postcode" v="97212"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 15th Avenue"/></node>
+<node id="-4" lat="45.541222954" lon="-122.65012961" visible="true"><tag k="addr:housenumber" v="2540"/><tag k="addr:postcode" v="97212"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 15th Avenue"/></node>
+<node id="-5" lat="45.541228912" lon="-122.650126778" visible="true"><tag k="addr:housenumber" v="2544"/><tag k="addr:postcode" v="97212"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 15th Avenue"/></node>
+<node id="-6" lat="45.541189739" lon="-122.650746945" visible="true"><tag k="addr:housenumber" v="2545"/><tag k="addr:postcode" v="97212"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 15th Avenue"/></node>
+<node id="-7" lat="45.541639495" lon="-122.650122429" visible="true"><tag k="addr:housenumber" v="2624"/><tag k="addr:postcode" v="97212"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 15th Avenue"/></node>
+<node id="-8" lat="45.541638663" lon="-122.650119193" visible="true"><tag k="addr:housenumber" v="2628"/><tag k="addr:postcode" v="97212"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 15th Avenue"/></node>
+<node id="-9" lat="45.541764157" lon="-122.648019293" visible="true"><tag k="addr:housenumber" v="2638"/><tag k="addr:postcode" v="97212"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 17th Avenue"/></node>
+<node id="-10" lat="45.541629478" lon="-122.647644049" visible="true"><tag k="addr:housenumber" v="2625"/><tag k="addr:postcode" v="97212"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 18th Avenue"/></node>
+<node id="-11" lat="45.547609955" lon="-122.644926639" visible="true"><tag k="addr:housenumber" v="3410"/><tag k="addr:postcode" v="97212"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 20th Avenue"/></node>
+<node id="-12" lat="45.543908561" lon="-122.642458456" visible="true"><tag k="addr:housenumber" v="2905"/><tag k="addr:postcode" v="97212"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 23rd Avenue"/></node>
+<node id="-13" lat="45.543907566" lon="-122.642455344" visible="true"><tag k="addr:housenumber" v="2915"/><tag k="addr:postcode" v="97212"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 23rd Avenue"/></node>
+<node id="-14" lat="45.546411745" lon="-122.642440565" visible="true"><tag k="addr:housenumber" v="3235"/><tag k="addr:postcode" v="97212"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 23rd Avenue"/></node>
+<node id="-15" lat="45.546415047" lon="-122.642435434" visible="true"><tag k="addr:housenumber" v="3240"/><tag k="addr:postcode" v="97212"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 23rd Avenue"/></node>
+<node id="-16" lat="45.541632837" lon="-122.64764137" visible="true"><tag k="addr:housenumber" v="2625"/><tag k="addr:postcode" v="97212"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 45th Avenue"/></node>
+<node id="-17" lat="45.541768516" lon="-122.648017085" visible="true"><tag k="addr:housenumber" v="1700"/><tag k="addr:postcode" v="97212"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Knott Street"/></node>
+<node id="-18" lat="45.547615129" lon="-122.644926489" visible="true"><tag k="addr:housenumber" v="3410"/><tag k="addr:postcode" v="97202"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast 20th Avenue"/></node>
+</osm>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.541548789" lon="-122.55744085" visible="true"><tag k="addr:housenumber" v="2646"/><tag k="addr:postcode" v="97220"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 102nd Avenue"/></node>
+<node id="-2" lat="45.541552454" lon="-122.557443229" visible="true"><tag k="addr:housenumber" v="2650"/><tag k="addr:postcode" v="97220"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 102nd Avenue"/></node>
+<node id="-3" lat="45.544606167" lon="-122.556835944" visible="true"><tag k="addr:housenumber" v="3111"/><tag k="addr:postcode" v="97220"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 103rd Place"/></node>
+<node id="-4" lat="45.544606827" lon="-122.556833829" visible="true"><tag k="addr:housenumber" v="3115"/><tag k="addr:postcode" v="97220"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 103rd Place"/></node>
+<node id="-5" lat="45.541309042" lon="-122.551837599" visible="true"><tag k="addr:housenumber" v="2625"/><tag k="addr:postcode" v="97220"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 108th Avenue"/></node>
+<node id="-6" lat="45.541304384" lon="-122.551843211" visible="true"><tag k="addr:housenumber" v="2627"/><tag k="addr:postcode" v="97220"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 108th Avenue"/></node>
+<node id="-7" lat="45.546590603" lon="-122.55174918" visible="true"><tag k="addr:housenumber" v="3265"/><tag k="addr:postcode" v="97220"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 108th Avenue"/></node>
+<node id="-8" lat="45.545853447" lon="-122.555265269" visible="true"><tag k="addr:housenumber" v="10455"/><tag k="addr:postcode" v="97220"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Fargo Street"/></node>
+<node id="-9" lat="45.545854479" lon="-122.555268839" visible="true"><tag k="addr:housenumber" v="10501"/><tag k="addr:postcode" v="97220"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Fargo Street"/></node>
+<node id="-10" lat="45.545779138" lon="-122.549404718" visible="true"><tag k="addr:housenumber" v="11015"/><tag k="addr:postcode" v="97220"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Fargo Street"/></node>
+<node id="-11" lat="45.545778943" lon="-122.549399094" visible="true"><tag k="addr:housenumber" v="11017"/><tag k="addr:postcode" v="97220"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Fargo Street"/></node>
+<node id="-12" lat="45.546589717" lon="-122.551742967" visible="true"><tag k="addr:housenumber" v="10750"/><tag k="addr:postcode" v="97220"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Klickitat Street"/></node>
+<node id="-13" lat="45.543960437" lon="-122.557005665" visible="true"><tag k="addr:housenumber" v="10238"/><tag k="addr:postcode" v="97220"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Morris Court"/></node>
+<node id="-14" lat="45.543962433" lon="-122.557009969" visible="true"><tag k="addr:housenumber" v="10240"/><tag k="addr:postcode" v="97220"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Morris Court"/></node>
+</osm>

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.511893359" lon="-122.695964924" visible="true"><tag k="addr:housenumber" v="2019"/><tag k="addr:postcode" v="97201"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 18th Avenue"/></node>
+<node id="-2" lat="45.511897545" lon="-122.695967132" visible="true"><tag k="addr:housenumber" v="2023"/><tag k="addr:postcode" v="97201"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 18th Avenue"/></node>
+<node id="-3" lat="45.511552604" lon="-122.695494873" visible="true"><tag k="addr:housenumber" v="2030"/><tag k="addr:postcode" v="97201"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 18th Avenue"/></node>
+<node id="-4" lat="45.511548238" lon="-122.695501241" visible="true"><tag k="addr:housenumber" v="1733"/><tag k="addr:postcode" v="97201"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Clifton Street"/></node>
+<node id="-5" lat="45.506085863" lon="-122.69748819" visible="true"><tag k="addr:housenumber" v="1665"/><tag k="addr:postcode" v="97201"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Davenport Street"/></node>
+<node id="-6" lat="45.506086361" lon="-122.697488196" visible="true"><tag k="addr:housenumber" v="1667"/><tag k="addr:postcode" v="97201"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Davenport Street"/></node>
+<node id="-7" lat="45.507034849" lon="-122.696904156" visible="true"><tag k="addr:housenumber" v="1616"/><tag k="addr:postcode" v="97201"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Hawthorne Terrace"/></node>
+<node id="-8" lat="45.507030829" lon="-122.696912403" visible="true"><tag k="addr:housenumber" v="1632"/><tag k="addr:postcode" v="97201"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Hawthorne Terrace"/></node>
+<node id="-9" lat="45.507619467" lon="-122.698072491" visible="true"><tag k="addr:housenumber" v="1801"/><tag k="addr:postcode" v="97201"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Hawthorne Terrace"/></node>
+<node id="-10" lat="45.50761433" lon="-122.698070173" visible="true"><tag k="addr:housenumber" v="1803"/><tag k="addr:postcode" v="97201"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Hawthorne Terrace"/></node>
+<node id="-11" lat="45.507104988" lon="-122.699755082" visible="true"><tag k="addr:housenumber" v="1858"/><tag k="addr:postcode" v="97201"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest High Street"/></node>
+<node id="-12" lat="45.507103355" lon="-122.699748352" visible="true"><tag k="addr:housenumber" v="1860"/><tag k="addr:postcode" v="97201"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest High Street"/></node>
+<node id="-13" lat="45.505567425" lon="-122.702295598" visible="true"><tag k="addr:housenumber" v="2696"/><tag k="addr:postcode" v="97201"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Ravensview Drive"/></node>
+<node id="-14" lat="45.505563142" lon="-122.702297778" visible="true"><tag k="addr:housenumber" v="2698"/><tag k="addr:postcode" v="97201"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Ravensview Drive"/></node>
+<node id="-15" lat="45.510711598" lon="-122.698045197" visible="true"><tag k="addr:housenumber" v="2234"/><tag k="addr:postcode" v="97201"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Vista Avenue"/></node>
+<node id="-16" lat="45.510712087" lon="-122.698043724" visible="true"><tag k="addr:housenumber" v="2238"/><tag k="addr:postcode" v="97201"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Vista Avenue"/></node>
+</osm>

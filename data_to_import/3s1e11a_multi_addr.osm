@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.345518143" lon="-122.646719584" visible="true"><tag k="addr:housenumber" v="2332"/><tag k="addr:postcode" v="97068"/><tag k="addr:city" v="West Linn"/><tag k="addr:street" v="5th Avenue"/></node>
-<node id="-2" lat="45.345508773" lon="-122.646715019" visible="true"><tag k="addr:housenumber" v="2336"/><tag k="addr:postcode" v="97068"/><tag k="addr:city" v="West Linn"/><tag k="addr:street" v="5th Avenue"/></node>
-<node id="-3" lat="45.345408149" lon="-122.647586726" visible="true"><tag k="addr:housenumber" v="1540"/><tag k="addr:postcode" v="97068"/><tag k="addr:city" v="West Linn"/><tag k="addr:street" v="8th Street"/></node>
-<node id="-4" lat="45.34549035" lon="-122.64763367" visible="true"><tag k="addr:housenumber" v="1542"/><tag k="addr:postcode" v="97068"/><tag k="addr:city" v="West Linn"/><tag k="addr:street" v="8th Street"/></node>
-</osm>

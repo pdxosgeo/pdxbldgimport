@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.501215081" lon="-122.484939346" visible="true"><tag k="addr:housenumber" v="2911"/><tag k="addr:postcode" v="97236"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast 174th Avenue"/></node>
+<node id="-2" lat="45.500092243" lon="-122.483867527" visible="true"><tag k="addr:housenumber" v="3050"/><tag k="addr:postcode" v="97236"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast 174th Avenue"/></node>
+<node id="-3" lat="45.504310138" lon="-122.479376339" visible="true"><tag k="addr:housenumber" v="2515"/><tag k="addr:postcode" v="97236"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast 179th Avenue"/></node>
+<node id="-4" lat="45.504311658" lon="-122.479379955" visible="true"><tag k="addr:housenumber" v="2517"/><tag k="addr:postcode" v="97236"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast 179th Avenue"/></node>
+<node id="-5" lat="45.50408442" lon="-122.483977206" visible="true"><tag k="addr:housenumber" v="17410"/><tag k="addr:postcode" v="97236"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Division Street"/></node>
+<node id="-6" lat="45.50408088" lon="-122.48396865" visible="true"><tag k="addr:housenumber" v="17420"/><tag k="addr:postcode" v="97236"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Division Street"/></node>
+<node id="-7" lat="45.503299157" lon="-122.485317461" visible="true"><tag k="addr:housenumber" v="17229"/><tag k="addr:postcode" v="97236"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Julie Place"/></node>
+<node id="-8" lat="45.503299028" lon="-122.485318499" visible="true"><tag k="addr:housenumber" v="17233"/><tag k="addr:postcode" v="97236"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Julie Place"/></node>
+<node id="-9" lat="45.500095013" lon="-122.48386795" visible="true"><tag k="addr:housenumber" v="17426"/><tag k="addr:postcode" v="97236"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Rajessa Court"/></node>
+<node id="-10" lat="45.501215042" lon="-122.484939949" visible="true"><tag k="addr:housenumber" v="17235"/><tag k="addr:postcode" v="97236"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Woodward Court"/></node>
+</osm>

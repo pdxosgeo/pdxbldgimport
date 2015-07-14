@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.483238614" lon="-122.56122695" visible="true"><tag k="addr:housenumber" v="5403"/><tag k="addr:postcode" v="97266"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast 100th Avenue"/></node>
+<node id="-2" lat="45.483237162" lon="-122.561230928" visible="true"><tag k="addr:housenumber" v="5405"/><tag k="addr:postcode" v="97266"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast 100th Avenue"/></node>
+<node id="-3" lat="45.487619435" lon="-122.568263401" visible="true"><tag k="addr:housenumber" v="4808"/><tag k="addr:postcode" v="97266"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast 92nd Avenue"/></node>
+<node id="-4" lat="45.487620651" lon="-122.568264247" visible="true"><tag k="addr:housenumber" v="4816"/><tag k="addr:postcode" v="97266"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast 92nd Avenue"/></node>
+<node id="-5" lat="45.488380825" lon="-122.563134381" visible="true"><tag k="addr:housenumber" v="4600"/><tag k="addr:postcode" v="97266"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast 97th Avenue"/></node>
+<node id="-6" lat="45.488382862" lon="-122.563136253" visible="true"><tag k="addr:housenumber" v="4636"/><tag k="addr:postcode" v="97266"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast 97th Avenue"/></node>
+<node id="-7" lat="45.485804045" lon="-122.563198083" visible="true"><tag k="addr:housenumber" v="5022"/><tag k="addr:postcode" v="97266"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast 97th Avenue"/></node>
+<node id="-8" lat="45.484521334" lon="-122.563044136" visible="true"><tag k="addr:housenumber" v="5232"/><tag k="addr:postcode" v="97266"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast 97th Avenue"/></node>
+<node id="-9" lat="45.485803587" lon="-122.563194771" visible="true"><tag k="addr:housenumber" v="5011"/><tag k="addr:postcode" v="97266"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast 99th Avenue"/></node>
+<node id="-10" lat="45.489695458" lon="-122.564360119" visible="true"><tag k="addr:housenumber" v="9632"/><tag k="addr:postcode" v="97266"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Holgate Boulevard"/></node>
+<node id="-11" lat="45.489689585" lon="-122.564356788" visible="true"><tag k="addr:housenumber" v="9636"/><tag k="addr:postcode" v="97266"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Holgate Boulevard"/></node>
+<node id="-12" lat="45.485860854" lon="-122.567869091" visible="true"><tag k="addr:housenumber" v="9223"/><tag k="addr:postcode" v="97266"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Mitchell Street"/></node>
+<node id="-13" lat="45.485857465" lon="-122.567869566" visible="true"><tag k="addr:housenumber" v="9225"/><tag k="addr:postcode" v="97266"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Mitchell Street"/></node>
+<node id="-14" lat="45.488570608" lon="-122.559477155" visible="true"><tag k="addr:housenumber" v="10102"/><tag k="addr:postcode" v="97266"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Pardee Street"/></node>
+<node id="-15" lat="45.488565597" lon="-122.559480674" visible="true"><tag k="addr:housenumber" v="10106"/><tag k="addr:postcode" v="97266"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Pardee Street"/></node>
+<node id="-16" lat="45.486085625" lon="-122.567870506" visible="true"><tag k="addr:housenumber" v="9220"/><tag k="addr:postcode" v="97266"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Raymond Street"/></node>
+<node id="-17" lat="45.486088386" lon="-122.567873541" visible="true"><tag k="addr:housenumber" v="9222"/><tag k="addr:postcode" v="97266"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Raymond Street"/></node>
+<node id="-18" lat="45.484213328" lon="-122.567682867" visible="true"><tag k="addr:housenumber" v="9300"/><tag k="addr:postcode" v="97266"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Steele Street"/></node>
+<node id="-19" lat="45.484212475" lon="-122.567682936" visible="true"><tag k="addr:housenumber" v="9302"/><tag k="addr:postcode" v="97266"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Steele Street"/></node>
+<node id="-20" lat="45.484522407" lon="-122.5630415" visible="true"><tag k="addr:housenumber" v="9717"/><tag k="addr:postcode" v="97266"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Steele Street"/></node>
+</osm>

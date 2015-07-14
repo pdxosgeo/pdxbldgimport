@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="45.49349199" lon="-122.730657213" visible="true"><tag k="addr:housenumber" v="4109"/><tag k="addr:postcode" v="97221"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 52nd Avenue"/></node>
+<node id="-2" lat="45.493491513" lon="-122.730663802" visible="true"><tag k="addr:housenumber" v="4111"/><tag k="addr:postcode" v="97221"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 52nd Avenue"/></node>
+<node id="-3" lat="45.502428829" lon="-122.723637431" visible="true"><tag k="addr:housenumber" v="4470"/><tag k="addr:postcode" v="97221"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Greenleaf Drive"/></node>
+<node id="-4" lat="45.510001942" lon="-122.725282484" visible="true"><tag k="addr:housenumber" v="1800"/><tag k="addr:postcode" v="97221"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Highland Parkway"/></node>
+<node id="-5" lat="45.509999673" lon="-122.725282293" visible="true"><tag k="addr:housenumber" v="1800"/><tag k="addr:postcode" v="97221"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Highland Road"/></node>
+<node id="-6" lat="45.508370793" lon="-122.73129385" visible="true"><tag k="addr:housenumber" v="5381"/><tag k="addr:postcode" v="97221"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Humphrey Boulevard"/></node>
+<node id="-7" lat="45.50837154" lon="-122.731302402" visible="true"><tag k="addr:housenumber" v="5383"/><tag k="addr:postcode" v="97221"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Humphrey Boulevard"/></node>
+<node id="-8" lat="45.498565154" lon="-122.724707091" visible="true"><tag k="addr:housenumber" v="4621"/><tag k="addr:postcode" v="97221"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Patton Road"/></node>
+<node id="-9" lat="45.498570887" lon="-122.724705112" visible="true"><tag k="addr:housenumber" v="4637"/><tag k="addr:postcode" v="97221"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Patton Road"/></node>
+<node id="-10" lat="45.498484384" lon="-122.725609641" visible="true"><tag k="addr:housenumber" v="4703"/><tag k="addr:postcode" v="97221"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Patton Road"/></node>
+<node id="-11" lat="45.498479542" lon="-122.725604014" visible="true"><tag k="addr:housenumber" v="4719"/><tag k="addr:postcode" v="97221"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Patton Road"/></node>
+<node id="-12" lat="45.502430894" lon="-122.723643872" visible="true"><tag k="addr:housenumber" v="4470"/><tag k="addr:postcode" v="97221"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Warrens Way"/></node>
+<node id="-13" lat="45.509934275" lon="-122.730934192" visible="true"><tag k="addr:housenumber" v="5319"/><tag k="addr:postcode" v="97221"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Westgate Drive"/></node>
+<node id="-14" lat="45.509935666" lon="-122.730933909" visible="true"><tag k="addr:housenumber" v="5457"/><tag k="addr:postcode" v="97221"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Westgate Drive"/></node>
+</osm>
