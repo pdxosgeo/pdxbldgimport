@@ -101,6 +101,7 @@ If there is no multi_address file, then it was empty and not included here.
 - [ ] 1n4e26a
 - [ ] 1n4e28d
 - [ ] 1n4e29c
+- [x] 1s1e18c Complete (Darrell)[changeset 32640454](http://www.openstreetmap.org/changeset/32640454)
 - [ ] 1s1e25d
 - [ ] 1s1e35d
 - [x] 1s1w03a Complete (Peter) [changeset 28499821](http://www.openstreetmap.org/changeset/28499821)
