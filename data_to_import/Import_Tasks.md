@@ -58,7 +58,7 @@ If there is no multi_address file, then it was empty and not included here.
 - [ ] 1n1e22a
 - [ ] 1n1e22b
 - [ ] 1n1e22c
-- [x] 1n1e22d in progress (Rafa)
+- [x] 1n1e22d complete (Rafa) #32642126
 - [ ] 1n1e23a
 - [ ] 1n1e23b
 - [ ] 1n1e23c
