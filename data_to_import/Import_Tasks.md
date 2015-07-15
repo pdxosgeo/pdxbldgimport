@@ -1,26 +1,5 @@
 ###PDX Building Import Tasks
-To participate in the import please:
-
-1. Select a file below that has not yet been reviewed / imported. It's recommended to download via CURL (e.g. curl -O "https://raw.githubusercontent.com/pdxosgeo/pdxbldgimport/master/data_to_import/1n3w25c.osm")
-1. Update this page to indicate which quarter section file you are working on (include your name). 
-1. Make sure you are using an "_imports" OSM account
-1. Load your .osm file into JOSM.
-1. Validate the .osm file
-1. Download .osm data into a separate layer and fix all errors/warnings.
-1. Make sure any multipolygons are genuinely multipolygons with holes, and not single, multi-part buildings
-1. Open a new layer and download OSM data.
-1. Merge the building import layer into the OSM data layer.
-1. Run Fix Street Addresses to flag any buildings where the addr:street tag does not match the name of the existing street in OSM.
-1. Re-run validate to make sure there are no conflicts with existing data.
-1. Upload from the merged layer.
-1. When you commit the changeset, please add a changeset comment something like:
-> "Consolidated quarter section import (1n2w27a), part of Portland OR Building Import project"
-
-When the changeset is complete, please re-edit this page to reflect the completed status and include a link to the changeset.
-
-It is from here out assumed you will be doing both the address and the building data at the same time (no more separate todos)
-
-If there is no multi_address file, then it was empty and not included here.
+This task list will be used to track progress for all .osm imports. To participate in the import please [read these instructions](https://github.com/pdxosgeo/pdxbldgimport/wiki/The-Portland-Metro-Region-Building-Import) first.
 
 #### Files for Import
 - [ ] 1n1e01b
