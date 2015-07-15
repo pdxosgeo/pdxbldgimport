@@ -209,17 +209,17 @@ This task list will be used to track progress for all .osm imports. To participa
 - [ ] 1s1e19a
 - [ ] 1s1e19c
 - [ ] 1s1e21d
-- [ ] 1s1e23a
-- [ ] 1s1e23c
-- [ ] 1s1e23d
+- [x] 1s1e23a buildings, In Progress (Tanya)
+- [x] 1s1e23c buildings, In Progress (Tanya)
+- [x] 1s1e23d buildings, In Progress (Tanya)
 - [ ] 1s1e24a
 - [ ] 1s1e24b
 - [ ] 1s1e24d
 - [ ] 1s1e25a
 - [ ] 1s1e25c
 - [ ] 1s1e25d
-- [ ] 1s1e26b
-- [ ] 1s1e28a
+- [x] 1s1e26b buildings, In Progress (Tanya)
+- [x] 1s1e28a buildings, In Progress (Tanya)
 - [ ] 1s1e28c
 - [ ] 1s1e29a
 - [ ] 1s1e29b
