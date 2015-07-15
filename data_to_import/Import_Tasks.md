@@ -1,7 +1,7 @@
 ###PDX Building Import Tasks
 To participate in the import please:
 
-1. Select a file below that has not yet been reviewed / imported
+1. Select a file below that has not yet been reviewed / imported. It's recommended to download via CURL (e.g. curl -O "https://raw.githubusercontent.com/pdxosgeo/pdxbldgimport/master/data_to_import/1n3w25c.osm")
 1. Update this page to indicate which quarter section file you are working on (include your name). 
 1. Make sure you are using an "_imports" OSM account
 1. Load your .osm file into JOSM.
