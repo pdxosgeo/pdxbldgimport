@@ -1,5 +1,5 @@
 ###PDX Building Import Tasks
-This task list will be used to track progress for all .osm imports. To participate in the import please [read these instructions](httpshttps://github.com/pdxosgeo/pdxbldgimport/wiki) first.
+This task list will be used to track progress for all .osm imports. To participate in the import please [read these instructions](https://github.com/pdxosgeo/pdxbldgimport/wiki) first.
 
 #### Files for Import
 - [ ] 1n1e01b
