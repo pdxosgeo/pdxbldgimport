@@ -66,7 +66,7 @@ This task list will be used to track progress for all .osm imports. To participa
 - [ ] 1n1e36d
 - [ ] 1n1w01c
 - [ ] 1n1w01d
-- [ ] 1n1w12a
+- [x] 1n1w12a Complete (Darrell) 32687145
 - [ ] 1n1w15a
 - [ ] 1n1w16b
 - [ ] 1n1w23a
