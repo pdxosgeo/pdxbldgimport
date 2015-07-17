@@ -40,7 +40,7 @@ This task list will be used to track progress for all .osm imports. To participa
 - [x] 1n1e22d complete (Rafa) [#32642126](http://www.openstreetmap.org/changeset/32642126)
 - [ ] 1n1e23a
 - [ ] 1n1e23b
-- [ ] 1n1e23c
+- [x] 1n1e23c complete (Rafa) [#32689602](http://www.openstreetmap.org/changeset/32689602)
 - [ ] 1n1e23d
 - [ ] 1n1e24a
 - [ ] 1n1e24b
