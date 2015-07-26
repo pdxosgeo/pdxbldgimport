@@ -237,9 +237,9 @@ This task list will be used to track progress for all .osm imports. To participa
 - [ ] 1s1w01b
 - [ ] 1s1w13a
 - [ ] 1s1w13d
-- [ ] 1s1w19a contains a lot of duplicate data because [OSM user emem](http://www.openstreetmap.org/user/emem) has imported part of this ad-hoc in [changeset 30242159](http://www.openstreetmap.org/changeset/30242159) 
-- [ ] 1s1w19d contains a lot of duplicate data because [OSM user emem](http://www.openstreetmap.org/user/emem) has imported part of this ad-hoc in [changeset 30242159](http://www.openstreetmap.org/changeset/30242159) 
-- [ ] 1s1w20b contains a lot of duplicate data because [OSM user emem](http://www.openstreetmap.org/user/emem) has imported part of this ad-hoc in [changeset 30242159](http://www.openstreetmap.org/changeset/30242159) 
+- [ ] 1s1w19a contains a lot of duplicate data because [OSM user emem](http://www.openstreetmap.org/user/emem) has imported part of this ad-hoc in [changeset 30242159](http://www.openstreetmap.org/changeset/30242159)
+- [ ] 1s1w19d contains a lot of duplicate data because [OSM user emem](http://www.openstreetmap.org/user/emem) has imported part of this ad-hoc in [changeset 30242159](http://www.openstreetmap.org/changeset/30242159)
+- [ ] 1s1w20b contains a lot of duplicate data because [OSM user emem](http://www.openstreetmap.org/user/emem) has imported part of this ad-hoc in [changeset 30242159](http://www.openstreetmap.org/changeset/30242159)
 - [ ] 1s1w20c contains a lot of duplicate data because [OSM user emem](http://www.openstreetmap.org/user/emem) has imported part of this ad-hoc in [changeset 30242159](http://www.openstreetmap.org/changeset/30242159)
 - [ ] 1s1w24c
 - [ ] 1s1w25a
@@ -389,7 +389,7 @@ This task list will be used to track progress for all .osm imports. To participa
 - [ ] 1s4e34c
 - [ ] 1s4e35d
 - [ ] 1s4w19a buildings
-- [ ] 1s4w19a multi-address 
+- [ ] 1s4w19a multi-address
 - [ ] 1s5e18a
 - [ ] 1s5e31c
 - [ ] 2n1e30d
@@ -884,15 +884,15 @@ This task list will be used to track progress for all .osm imports. To participa
 - [ ] 1n2w29c multi-address,
 - [ ] 1n2w29c
 - [ ] 1n2w30a multi-address,
-- [ ] 1n2w30a 
+- [ ] 1n2w30a
 - [x] 1n2w30b multi-address, complete (Darrell), no actual entries
 - [X] 1n2w30b complete (Darrell) [changeset 28099330](https://www.openstreetmap.org/changeset/28099330)
 - [ ] 1n2w30c multi-address,
-- [ ] 1n2w30c 
+- [ ] 1n2w30c
 - [X] 1n2w30d multi-address, complete (Darrell), no actual entries
-- [ ] 1n2w30d 
+- [ ] 1n2w30d
 - [ ] 1n2w31a multi-address,
-- [ ] 1n2w31a 
+- [ ] 1n2w31a
 - [x] 1n2w31b multi-address complete (Darrell) [changeset 28093658](http://www.openstreetmap.org/changeset/28093658),
 - [x] 1n2w31b complete (Darrell) [changeset 28093658](http://www.openstreetmap.org/changeset/28093658)
 - [ ] 1n2w31d multi-address,
