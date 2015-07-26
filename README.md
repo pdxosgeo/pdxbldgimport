@@ -1,11 +1,20 @@
 Portland, Oregon OSM Building Import
 =============
 
-The OSM Wiki page for this project is here: http://wiki.openstreetmap.org/wiki/Portland,_OR_Bldg_import
+This project is a community-lead effort to import [building data distributed by
+Oregon Metro](http://rlisdiscovery.oregonmetro.gov/?action=viewDetail&layerID=2406) into [OpenStreetMap](https://www.openstreetmap.org).  
 
-Because of its size, this repo does not contain the actual data. Just the code to manipulate it.
+Get Involved
+============
+There are few ways to get involved:
 
-Requirements
+* [Help with the import process](https://github.com/pdxosgeo/pdxbldgimport/wiki)
+* [Update and improve documentation on the wiki](https://github.com/pdxosgeo/pdxbldgimport/wiki)
+* [Help write and maintain code required to generate data for the import process](https://github.com/pdxosgeo/pdxbldgimport#requirements)
+
+See the [OSM Wiki page for this project](http://wiki.openstreetmap.org/wiki/Portland,_OR_Bldg_import) for other details.
+
+
 ============
 
 1. PostgreSQL (Postgres.app)
