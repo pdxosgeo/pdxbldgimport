@@ -15,7 +15,10 @@ There are few ways to get involved:
 See the [OSM Wiki page for this project](http://wiki.openstreetmap.org/wiki/Portland,_OR_Bldg_import) for other details.
 
 
+Requirements for contributing code
 ============
+
+If you're interested in contributing code you're in the right place.  If you'd  like to help import data into OSM, [see the wiki guide](https://github.com/pdxosgeo/pdxbldgimport/wiki).
 
 1. PostgreSQL (Postgres.app)
 2. Osmosis (brew)
@@ -25,7 +28,9 @@ See the [OSM Wiki page for this project](http://wiki.openstreetmap.org/wiki/Port
 Preparing
 =========
 
-Create a PostgreSQL database (e.g. pdx_bldgs). In your database, load extensions postgis and hstore. 
+Because of its size, this repo does not contain the actual data. Just the code to manipulate it.
+
+Create a PostgreSQL database (e.g. pdx_bldgs). In your database, load extensions postgis and hstore.
 ```
 create database pdx_bldgs;
 \connect pdx_bldgs
@@ -75,6 +80,3 @@ cd osm && bunzip2 -k -d bldgs.osm.bz2
 ```
 bundle exec rake gall_osm_files
 ```
-
-
-
