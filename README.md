@@ -1,4 +1,4 @@
-Portland, Oregon OSM Building Import Process
+Portland, Oregon OSM Building Import
 =============
 
 The OSM Wiki page for this project is here: http://wiki.openstreetmap.org/wiki/Portland,_OR_Bldg_import
