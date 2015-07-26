@@ -485,7 +485,7 @@ This task list will be used to track progress for all .osm imports. To participa
 - [ ] 3s2e15b
 - [ ] 3s2e19c
 - [ ] 3s2e20d
-- [ ] 3s2e21d
+- [x] 3s2e21d in progress (Caged)
 - [ ] 3s2e22a
 - [ ] 3s2e23a
 - [ ] 3s2e24a
