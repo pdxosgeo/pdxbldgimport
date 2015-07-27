@@ -1,12 +1,24 @@
-Portland, Oregon OSM Building Import Process
+Portland, Oregon OSM Building Import
 =============
 
-The OSM Wiki page for this project is here: http://wiki.openstreetmap.org/wiki/Portland,_OR_Bldg_import
+This project is a community-lead effort to import [building data distributed by
+Oregon Metro](http://rlisdiscovery.oregonmetro.gov/?action=viewDetail&layerID=2406) into [OpenStreetMap](https://www.openstreetmap.org).  
 
-Because of its size, this repo does not contain the actual data. Just the code to manipulate it.
-
-Requirements
+Get Involved
 ============
+There are few ways to get involved:
+
+* [Help with the import process](https://github.com/pdxosgeo/pdxbldgimport/wiki)
+* [Update and improve documentation on the wiki](https://github.com/pdxosgeo/pdxbldgimport/wiki)
+* [Help write and maintain code required to generate data for the import process](https://github.com/pdxosgeo/pdxbldgimport#requirements)
+
+See the [OSM Wiki page for this project](http://wiki.openstreetmap.org/wiki/Portland,_OR_Bldg_import) for other details.
+
+
+Requirements for contributing code
+============
+
+If you're interested in contributing code you're in the right place.  If you'd  like to help import data into OSM, [see the wiki guide](https://github.com/pdxosgeo/pdxbldgimport/wiki).
 
 1. PostgreSQL (Postgres.app)
 2. Osmosis (brew)
@@ -16,7 +28,9 @@ Requirements
 Preparing
 =========
 
-Create a PostgreSQL database (e.g. pdx_bldgs). In your database, load extensions postgis and hstore. 
+Because of its size, this repo does not contain the actual data. Just the code to manipulate it.
+
+Create a PostgreSQL database (e.g. pdx_bldgs). In your database, load extensions postgis and hstore.
 ```
 create database pdx_bldgs;
 \connect pdx_bldgs
@@ -66,6 +80,3 @@ cd osm && bunzip2 -k -d bldgs.osm.bz2
 ```
 bundle exec rake gall_osm_files
 ```
-
-
-
