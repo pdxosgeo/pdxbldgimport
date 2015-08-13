@@ -2,7 +2,7 @@
 This task list will be used to track progress for all .osm imports. To participate in the import please [read these instructions](https://github.com/pdxosgeo/pdxbldgimport/wiki) first.
 
 #### Files for Import
-- [ ] 1n1e01b
+- [ ] 1n1e01b in progress (Lyzi)
 - [ ] 1n1e06c
 - [x] 1n1e07a Complete (Darrell) 32641037
 - [x] 1n1e07b Complete (Darrell) 32657115
