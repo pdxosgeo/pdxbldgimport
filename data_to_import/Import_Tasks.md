@@ -2,20 +2,20 @@
 This task list will be used to track progress for all .osm imports. To participate in the import please [read these instructions](https://github.com/pdxosgeo/pdxbldgimport/wiki) first.
 
 #### Files for Import
-- [ ] 1n1e01b in progress (Lyzi)
-- [ ] 1n1e06c
+- [x] 1n1e01b Complete (Lyzi) [33496219](https://www.openstreetmap.org/changeset/33496219), [33496200](https://www.openstreetmap.org/changeset/33496200), [33494973](https://www.openstreetmap.org/changeset/33494973), [33496454](https://www.openstreetmap.org/changeset/33496454)
+- [x] 1n1e06c Complete (Lyzi) [33496659](https://www.openstreetmap.org/changeset/33496659)
 - [x] 1n1e07a Complete (Darrell) 32641037
 - [x] 1n1e07b Complete (Darrell) 32657115
 - [x] 1n1e07d Complete (Darrell) 32656345
-- [ ] 1n1e08b
-- [ ] 1n1e08c
-- [ ] 1n1e08d
-- [ ] 1n1e09b
-- [ ] 1n1e09c
-- [ ] 1n1e09d
-- [ ] 1n1e10c
-- [ ] 1n1e11c
-- [ ] 1n1e13b
+- [x] 1n1e08b Complete (Lyzi) [33534961](http://www.openstreetmap.org/changeset/33534961)
+- [x] 1n1e08c Complete (Lyzi) [33535371](http://www.openstreetmap.org/changeset/33535371)
+- [x] 1n1e08d Complete (Lyzi) [33535489](http://www.openstreetmap.org/changeset/33535489)
+- [x] 1n1e09b Complete (Lyzi) [33535986](http://www.openstreetmap.org/changeset/33535986)
+- [x] 1n1e09c Complete (Lyzi) [33536778](http://www.openstreetmap.org/changeset/33536778)
+- [x] 1n1e09d Complete (Lyzi) [33536975](http://www.openstreetmap.org/changeset/33536975)
+- [x] 1n1e10c Complete (Lyzi) [33537139](http://www.openstreetmap.org/changeset/33537139)
+- [x] 1n1e11c Complete (Lyzi) [33537853](http://www.openstreetmap.org/changeset/33537853)
+- [ ] 1n1e13b in progress (Lyzi)
 - [ ] 1n1e13c
 - [ ] 1n1e13d
 - [ ] 1n1e14a
