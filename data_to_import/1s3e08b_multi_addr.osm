@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.491271016" lon="-122.475079938" visible="true"><tag k="addr:housenumber" v="4304"/><tag k="addr:postcode" v="97030"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast 182nd Avenue"/></node>
-<node id="-2" lat="45.49126926" lon="-122.475082745" visible="true"><tag k="addr:housenumber" v="4322"/><tag k="addr:postcode" v="97030"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast 182nd Avenue"/></node>
-<node id="-3" lat="45.490225693" lon="-122.470488749" visible="true"><tag k="addr:housenumber" v="857"/><tag k="addr:postcode" v="97030"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southwest Hartley Avenue"/></node>
-<node id="-4" lat="45.490229121" lon="-122.470493525" visible="true"><tag k="addr:housenumber" v="867"/><tag k="addr:postcode" v="97030"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southwest Hartley Avenue"/></node>
-<node id="-5" lat="45.489963314" lon="-122.47049446" visible="true"><tag k="addr:housenumber" v="877"/><tag k="addr:postcode" v="97030"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southwest Hartley Avenue"/></node>
-<node id="-6" lat="45.489969704" lon="-122.470499685" visible="true"><tag k="addr:housenumber" v="887"/><tag k="addr:postcode" v="97030"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southwest Hartley Avenue"/></node>
+<node id="-1" lat="45.491270802" lon="-122.475082696" visible="true"><tag k="addr:housenumber" v="4304"/><tag k="addr:postcode" v="97030"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast 182nd Avenue"/></node>
+<node id="-2" lat="45.491267443" lon="-122.475082689" visible="true"><tag k="addr:housenumber" v="4322"/><tag k="addr:postcode" v="97030"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast 182nd Avenue"/></node>
+<node id="-3" lat="45.49022005" lon="-122.470487377" visible="true"><tag k="addr:housenumber" v="857"/><tag k="addr:postcode" v="97030"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southwest Hartley Avenue"/></node>
+<node id="-4" lat="45.490228952" lon="-122.470496848" visible="true"><tag k="addr:housenumber" v="867"/><tag k="addr:postcode" v="97030"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southwest Hartley Avenue"/></node>
+<node id="-5" lat="45.489963596" lon="-122.470500784" visible="true"><tag k="addr:housenumber" v="877"/><tag k="addr:postcode" v="97030"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southwest Hartley Avenue"/></node>
+<node id="-6" lat="45.489965873" lon="-122.470492813" visible="true"><tag k="addr:housenumber" v="887"/><tag k="addr:postcode" v="97030"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southwest Hartley Avenue"/></node>
 </osm>

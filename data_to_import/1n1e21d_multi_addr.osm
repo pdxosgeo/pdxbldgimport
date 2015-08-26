@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.554383361" lon="-122.683363325" visible="true"><tag k="addr:housenumber" v="4225"/><tag k="addr:postcode" v="97217"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="North Longview Avenue"/></node>
-<node id="-2" lat="45.554388626" lon="-122.683368024" visible="true"><tag k="addr:housenumber" v="4227"/><tag k="addr:postcode" v="97217"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="North Longview Avenue"/></node>
-<node id="-3" lat="45.549621615" lon="-122.684285897" visible="true"><tag k="addr:housenumber" v="3753"/><tag k="addr:postcode" v="97227"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="North Overlook Boulevard"/></node>
-<node id="-4" lat="45.549630123" lon="-122.684289547" visible="true"><tag k="addr:housenumber" v="3759"/><tag k="addr:postcode" v="97227"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="North Overlook Boulevard"/></node>
-<node id="-5" lat="45.549736355" lon="-122.684421758" visible="true"><tag k="addr:housenumber" v="3767"/><tag k="addr:postcode" v="97227"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="North Overlook Boulevard"/></node>
-<node id="-6" lat="45.549732922" lon="-122.684420038" visible="true"><tag k="addr:housenumber" v="3769"/><tag k="addr:postcode" v="97227"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="North Overlook Boulevard"/></node>
-<node id="-7" lat="45.554891911" lon="-122.682979446" visible="true"><tag k="addr:housenumber" v="1523"/><tag k="addr:postcode" v="97217"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="North Skidmore Street"/></node>
-<node id="-8" lat="45.554892553" lon="-122.682980067" visible="true"><tag k="addr:housenumber" v="1525"/><tag k="addr:postcode" v="97217"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="North Skidmore Street"/></node>
+<node id="-1" lat="45.554384666" lon="-122.683370246" visible="true"><tag k="addr:housenumber" v="4225"/><tag k="addr:postcode" v="97217"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="North Longview Avenue"/></node>
+<node id="-2" lat="45.554385031" lon="-122.683366078" visible="true"><tag k="addr:housenumber" v="4227"/><tag k="addr:postcode" v="97217"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="North Longview Avenue"/></node>
+<node id="-3" lat="45.549628583" lon="-122.684285366" visible="true"><tag k="addr:housenumber" v="3753"/><tag k="addr:postcode" v="97227"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="North Overlook Boulevard"/></node>
+<node id="-4" lat="45.549621614" lon="-122.684290185" visible="true"><tag k="addr:housenumber" v="3759"/><tag k="addr:postcode" v="97227"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="North Overlook Boulevard"/></node>
+<node id="-5" lat="45.549740396" lon="-122.684426994" visible="true"><tag k="addr:housenumber" v="3767"/><tag k="addr:postcode" v="97227"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="North Overlook Boulevard"/></node>
+<node id="-6" lat="45.549739234" lon="-122.684421969" visible="true"><tag k="addr:housenumber" v="3769"/><tag k="addr:postcode" v="97227"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="North Overlook Boulevard"/></node>
+<node id="-7" lat="45.554892985" lon="-122.682983164" visible="true"><tag k="addr:housenumber" v="1523"/><tag k="addr:postcode" v="97217"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="North Skidmore Street"/></node>
+<node id="-8" lat="45.554894749" lon="-122.682978221" visible="true"><tag k="addr:housenumber" v="1525"/><tag k="addr:postcode" v="97217"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="North Skidmore Street"/></node>
 </osm>

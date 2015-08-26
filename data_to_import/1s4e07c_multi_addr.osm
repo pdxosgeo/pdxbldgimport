@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.488126951" lon="-122.372435029" visible="true"><tag k="addr:housenumber" v="1196"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast 282nd Avenue"/></node>
-<node id="-2" lat="45.488121411" lon="-122.37243949" visible="true"><tag k="addr:housenumber" v="1200"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast 282nd Avenue"/></node>
-<node id="-3" lat="45.486740546" lon="-122.371136756" visible="true"><tag k="addr:housenumber" v="6125"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Lusted Road"/></node>
-<node id="-4" lat="45.486742075" lon="-122.371133755" visible="true"><tag k="addr:housenumber" v="6200"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Lusted Road"/></node>
+<node id="-1" lat="45.488124577" lon="-122.372438626" visible="true"><tag k="addr:housenumber" v="1196"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast 282nd Avenue"/></node>
+<node id="-2" lat="45.488126626" lon="-122.3724389" visible="true"><tag k="addr:housenumber" v="1200"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast 282nd Avenue"/></node>
+<node id="-3" lat="45.48673244" lon="-122.371135877" visible="true"><tag k="addr:housenumber" v="6125"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Lusted Road"/></node>
+<node id="-4" lat="45.486734992" lon="-122.371133412" visible="true"><tag k="addr:housenumber" v="6200"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Lusted Road"/></node>
 </osm>

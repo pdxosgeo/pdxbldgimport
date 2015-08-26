@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.405546949" lon="-122.494262332" visible="true"><tag k="addr:housenumber" v="16515"/><tag k="addr:postcode" v="97089"/><tag k="addr:city" v="Damascus"/><tag k="addr:street" v="Southeast Oak Meadow Court"/></node>
-<node id="-2" lat="45.405543906" lon="-122.494262519" visible="true"><tag k="addr:housenumber" v="16527"/><tag k="addr:postcode" v="97089"/><tag k="addr:city" v="Damascus"/><tag k="addr:street" v="Southeast Oak Meadow Court"/></node>
+<node id="-1" lat="45.40554722" lon="-122.494256078" visible="true"><tag k="addr:housenumber" v="16515"/><tag k="addr:postcode" v="97089"/><tag k="addr:city" v="Damascus"/><tag k="addr:street" v="Southeast Oak Meadow Court"/></node>
+<node id="-2" lat="45.405541225" lon="-122.494264671" visible="true"><tag k="addr:housenumber" v="16527"/><tag k="addr:postcode" v="97089"/><tag k="addr:city" v="Damascus"/><tag k="addr:street" v="Southeast Oak Meadow Court"/></node>
 </osm>

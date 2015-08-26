@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.392063222" lon="-122.498652346" visible="true"><tag k="addr:housenumber" v="17900"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="South Clackamas River Drive"/></node>
-<node id="-2" lat="45.392059595" lon="-122.498658694" visible="true"><tag k="addr:housenumber" v="17930"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="South Clackamas River Drive"/></node>
-<node id="-3" lat="45.395271264" lon="-122.497271633" visible="true"><tag k="addr:housenumber" v="16100"/><tag k="addr:postcode" v="97089"/><tag k="addr:city" v="Damascus"/><tag k="addr:street" v="Southeast Grand Street"/></node>
-<node id="-4" lat="45.395205776" lon="-122.49744419" visible="true"><tag k="addr:housenumber" v="16125"/><tag k="addr:postcode" v="97089"/><tag k="addr:city" v="Damascus"/><tag k="addr:street" v="Southeast Highway 224"/></node>
+<node id="-1" lat="45.392056628" lon="-122.498658238" visible="true"><tag k="addr:housenumber" v="17900"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="South Clackamas River Drive"/></node>
+<node id="-2" lat="45.392062569" lon="-122.498657835" visible="true"><tag k="addr:housenumber" v="17930"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="South Clackamas River Drive"/></node>
+<node id="-3" lat="45.395264474" lon="-122.497269728" visible="true"><tag k="addr:housenumber" v="16100"/><tag k="addr:postcode" v="97089"/><tag k="addr:city" v="Damascus"/><tag k="addr:street" v="Southeast Grand Street"/></node>
+<node id="-4" lat="45.395209475" lon="-122.497449777" visible="true"><tag k="addr:housenumber" v="16125"/><tag k="addr:postcode" v="97089"/><tag k="addr:city" v="Damascus"/><tag k="addr:street" v="Southeast Highway 224"/></node>
 </osm>

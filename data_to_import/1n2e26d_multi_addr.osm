@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.539901876" lon="-122.526772856" visible="true"><tag k="addr:housenumber" v="2290"/><tag k="addr:postcode" v="97230"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 132nd Avenue"/></node>
-<node id="-2" lat="45.540500657" lon="-122.524744312" visible="true"><tag k="addr:housenumber" v="2411"/><tag k="addr:postcode" v="97230"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 134th Place"/></node>
-<node id="-3" lat="45.540500161" lon="-122.524741872" visible="true"><tag k="addr:housenumber" v="2415"/><tag k="addr:postcode" v="97230"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 134th Place"/></node>
-<node id="-4" lat="45.539903233" lon="-122.526770707" visible="true"><tag k="addr:housenumber" v="13207"/><tag k="addr:postcode" v="97230"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Thompson Court"/></node>
+<node id="-1" lat="45.539906696" lon="-122.52677087" visible="true"><tag k="addr:housenumber" v="2290"/><tag k="addr:postcode" v="97230"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 132nd Avenue"/></node>
+<node id="-2" lat="45.540497495" lon="-122.524741698" visible="true"><tag k="addr:housenumber" v="2411"/><tag k="addr:postcode" v="97230"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 134th Place"/></node>
+<node id="-3" lat="45.540496252" lon="-122.524751264" visible="true"><tag k="addr:housenumber" v="2415"/><tag k="addr:postcode" v="97230"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 134th Place"/></node>
+<node id="-4" lat="45.539906118" lon="-122.526778413" visible="true"><tag k="addr:housenumber" v="13207"/><tag k="addr:postcode" v="97230"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Thompson Court"/></node>
 </osm>

@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.421400055" lon="-122.660574006" visible="true"><tag k="addr:housenumber" v="115"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Foothills Road"/></node>
-<node id="-2" lat="45.421403957" lon="-122.660569556" visible="true"><tag k="addr:housenumber" v="117"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Foothills Road"/></node>
-<node id="-3" lat="45.421404208" lon="-122.660574942" visible="true"><tag k="addr:housenumber" v="121"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Foothills Road"/></node>
-<node id="-4" lat="45.421406211" lon="-122.660572865" visible="true"><tag k="addr:housenumber" v="123"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Foothills Road"/></node>
-<node id="-5" lat="45.421400183" lon="-122.660570423" visible="true"><tag k="addr:housenumber" v="129"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Foothills Road"/></node>
-<node id="-6" lat="45.434286855" lon="-122.657661575" visible="true"><tag k="addr:housenumber" v="12550"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Iron Mountain Boulevard"/></node>
-<node id="-7" lat="45.434290252" lon="-122.657658068" visible="true"><tag k="addr:housenumber" v="12556"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Iron Mountain Boulevard"/></node>
-<node id="-8" lat="45.433584648" lon="-122.659762683" visible="true"><tag k="addr:housenumber" v="12643 A"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Iron Mountain Boulevard"/></node>
-<node id="-9" lat="45.433584243" lon="-122.659767867" visible="true"><tag k="addr:housenumber" v="12643 B"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Iron Mountain Boulevard"/></node>
+<node id="-1" lat="45.421398059" lon="-122.660571813" visible="true"><tag k="addr:housenumber" v="115"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Foothills Road"/></node>
+<node id="-2" lat="45.421404189" lon="-122.660574982" visible="true"><tag k="addr:housenumber" v="117"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Foothills Road"/></node>
+<node id="-3" lat="45.421402319" lon="-122.66056994" visible="true"><tag k="addr:housenumber" v="121"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Foothills Road"/></node>
+<node id="-4" lat="45.421399688" lon="-122.660569395" visible="true"><tag k="addr:housenumber" v="123"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Foothills Road"/></node>
+<node id="-5" lat="45.421398381" lon="-122.660570567" visible="true"><tag k="addr:housenumber" v="129"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Foothills Road"/></node>
+<node id="-6" lat="45.434288295" lon="-122.657664073" visible="true"><tag k="addr:housenumber" v="12550"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Iron Mountain Boulevard"/></node>
+<node id="-7" lat="45.434285045" lon="-122.657663659" visible="true"><tag k="addr:housenumber" v="12556"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Iron Mountain Boulevard"/></node>
+<node id="-8" lat="45.433583669" lon="-122.659765576" visible="true"><tag k="addr:housenumber" v="12643 A"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Iron Mountain Boulevard"/></node>
+<node id="-9" lat="45.433581026" lon="-122.659761605" visible="true"><tag k="addr:housenumber" v="12643 B"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Iron Mountain Boulevard"/></node>
 </osm>

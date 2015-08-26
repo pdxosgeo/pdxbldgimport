@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.471075487" lon="-122.431531376" visible="true"><tag k="addr:housenumber" v="3655"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Deer Creek Way"/></node>
-<node id="-2" lat="45.469829699" lon="-122.42888884" visible="true"><tag k="addr:housenumber" v="3880"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Deer Creek Way"/></node>
-<node id="-3" lat="45.469830542" lon="-122.428884979" visible="true"><tag k="addr:housenumber" v="3898"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Deer Creek Way"/></node>
-<node id="-4" lat="45.471081714" lon="-122.431527486" visible="true"><tag k="addr:housenumber" v="3650"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Regner Road"/></node>
+<node id="-1" lat="45.471075648" lon="-122.43153062" visible="true"><tag k="addr:housenumber" v="3655"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Deer Creek Way"/></node>
+<node id="-2" lat="45.46983816" lon="-122.428887118" visible="true"><tag k="addr:housenumber" v="3880"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Deer Creek Way"/></node>
+<node id="-3" lat="45.469830794" lon="-122.428892416" visible="true"><tag k="addr:housenumber" v="3898"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Deer Creek Way"/></node>
+<node id="-4" lat="45.471081685" lon="-122.431524451" visible="true"><tag k="addr:housenumber" v="3650"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Regner Road"/></node>
 </osm>

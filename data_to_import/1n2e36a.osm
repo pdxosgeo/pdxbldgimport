@@ -2976,699 +2976,704 @@
 <node id="-3374" lat="45.532594061" lon="-122.496158478" visible="true"/>
 <node id="-3375" lat="45.532594778" lon="-122.496321121" visible="true"/>
 <node id="-3376" lat="45.532687655" lon="-122.496320293" visible="true"/>
-<node id="-3378" lat="45.527823431" lon="-122.501823494" visible="true"/>
-<node id="-3379" lat="45.527723487" lon="-122.501834342" visible="true"/>
-<node id="-3380" lat="45.527726005" lon="-122.501939256" visible="true"/>
-<node id="-3381" lat="45.527825993" lon="-122.501931638" visible="true"/>
-<node id="-3383" lat="45.531178817" lon="-122.500415764" visible="true"/>
-<node id="-3384" lat="45.531104056" lon="-122.500416426" visible="true"/>
-<node id="-3385" lat="45.531104456" lon="-122.500508023" visible="true"/>
-<node id="-3386" lat="45.531179217" lon="-122.500507361" visible="true"/>
-<node id="-3388" lat="45.530272192" lon="-122.497192027" visible="true"/>
-<node id="-3389" lat="45.530171774" lon="-122.497198253" visible="true"/>
-<node id="-3390" lat="45.530173188" lon="-122.497245143" visible="true"/>
-<node id="-3391" lat="45.530273468" lon="-122.497236961" visible="true"/>
-<node id="-3393" lat="45.530838324" lon="-122.498226358" visible="true"/>
-<node id="-3394" lat="45.530873577" lon="-122.498226044" visible="true"/>
-<node id="-3395" lat="45.530873327" lon="-122.4981692" visible="true"/>
-<node id="-3396" lat="45.530838075" lon="-122.498169514" visible="true"/>
-<node id="-3398" lat="45.528662286" lon="-122.500062793" visible="true"/>
-<node id="-3399" lat="45.528620752" lon="-122.500063161" visible="true"/>
-<node id="-3400" lat="45.528621619" lon="-122.50026112" visible="true"/>
-<node id="-3401" lat="45.528663152" lon="-122.500260752" visible="true"/>
-<node id="-3403" lat="45.526735331" lon="-122.499164455" visible="true"/>
-<node id="-3404" lat="45.52665198" lon="-122.499165194" visible="true"/>
-<node id="-3405" lat="45.526652054" lon="-122.499182135" visible="true"/>
-<node id="-3406" lat="45.526587755" lon="-122.499182704" visible="true"/>
-<node id="-3407" lat="45.526588631" lon="-122.4993826" visible="true"/>
-<node id="-3408" lat="45.526781529" lon="-122.499380889" visible="true"/>
-<node id="-3409" lat="45.526780653" lon="-122.499180994" visible="true"/>
-<node id="-3410" lat="45.526735406" lon="-122.499181394" visible="true"/>
-<node id="-3412" lat="45.529223473" lon="-122.497079372" visible="true"/>
-<node id="-3413" lat="45.529075824" lon="-122.497080689" visible="true"/>
-<node id="-3414" lat="45.52907654" lon="-122.497243322" visible="true"/>
-<node id="-3415" lat="45.52922419" lon="-122.497242006" visible="true"/>
-<node id="-3417" lat="45.528180658" lon="-122.50343837" visible="true"/>
-<node id="-3418" lat="45.52812874" lon="-122.503438828" visible="true"/>
-<node id="-3419" lat="45.528128856" lon="-122.503465418" visible="true"/>
-<node id="-3420" lat="45.528180773" lon="-122.503464962" visible="true"/>
-<node id="-3422" lat="45.529342159" lon="-122.502139875" visible="true"/>
-<node id="-3423" lat="45.529284601" lon="-122.50220303" visible="true"/>
-<node id="-3424" lat="45.529314451" lon="-122.502258097" visible="true"/>
-<node id="-3425" lat="45.52928052" lon="-122.502295327" visible="true"/>
-<node id="-3426" lat="45.529310112" lon="-122.502349918" visible="true"/>
-<node id="-3427" lat="45.529341366" lon="-122.502315625" visible="true"/>
-<node id="-3428" lat="45.529422197" lon="-122.502464748" visible="true"/>
-<node id="-3429" lat="45.529482431" lon="-122.502398658" visible="true"/>
-<node id="-3431" lat="45.531780484" lon="-122.501704677" visible="true"/>
-<node id="-3432" lat="45.531699492" lon="-122.501705392" visible="true"/>
-<node id="-3433" lat="45.53169966" lon="-122.501743804" visible="true"/>
-<node id="-3434" lat="45.531643588" lon="-122.5017443" visible="true"/>
-<node id="-3435" lat="45.531644491" lon="-122.501951134" visible="true"/>
-<node id="-3436" lat="45.531715098" lon="-122.50195051" visible="true"/>
-<node id="-3437" lat="45.53171506" lon="-122.501941646" visible="true"/>
-<node id="-3438" lat="45.531829279" lon="-122.501940637" visible="true"/>
-<node id="-3439" lat="45.531828879" lon="-122.50184904" visible="true"/>
-<node id="-3440" lat="45.531781115" lon="-122.501849461" visible="true"/>
-<node id="-3442" lat="45.530736375" lon="-122.496293" visible="true"/>
-<node id="-3443" lat="45.530545102" lon="-122.496307743" visible="true"/>
-<node id="-3444" lat="45.530548755" lon="-122.496403505" visible="true"/>
-<node id="-3445" lat="45.530739856" lon="-122.496388757" visible="true"/>
-<node id="-3447" lat="45.531096307" lon="-122.496291994" visible="true"/>
-<node id="-3448" lat="45.531015458" lon="-122.496296958" visible="true"/>
-<node id="-3449" lat="45.531024908" lon="-122.496592002" visible="true"/>
-<node id="-3450" lat="45.531053388" lon="-122.496591052" visible="true"/>
-<node id="-3451" lat="45.531057111" lon="-122.496702431" visible="true"/>
-<node id="-3452" lat="45.531170072" lon="-122.496694694" visible="true"/>
-<node id="-3453" lat="45.531171485" lon="-122.496731826" visible="true"/>
-<node id="-3454" lat="45.531216107" lon="-122.496729492" visible="true"/>
-<node id="-3455" lat="45.531211348" lon="-122.496579041" visible="true"/>
-<node id="-3456" lat="45.531105756" lon="-122.496587038" visible="true"/>
-<node id="-3458" lat="45.531421921" lon="-122.49624294" visible="true"/>
-<node id="-3459" lat="45.53123284" lon="-122.496249954" visible="true"/>
-<node id="-3460" lat="45.531234815" lon="-122.496353465" visible="true"/>
-<node id="-3461" lat="45.531352334" lon="-122.496349791" visible="true"/>
-<node id="-3462" lat="45.53135334" lon="-122.49641033" visible="true"/>
-<node id="-3463" lat="45.531361771" lon="-122.496408675" visible="true"/>
-<node id="-3464" lat="45.531363367" lon="-122.496504366" visible="true"/>
-<node id="-3465" lat="45.531442605" lon="-122.496503249" visible="true"/>
-<node id="-3466" lat="45.531439416" lon="-122.496321625" visible="true"/>
-<node id="-3467" lat="45.531423136" lon="-122.496321053" visible="true"/>
-<node id="-3469" lat="45.533317313" lon="-122.497582327" visible="true"/>
-<node id="-3470" lat="45.533369016" lon="-122.497581866" visible="true"/>
-<node id="-3471" lat="45.533368735" lon="-122.497518333" visible="true"/>
-<node id="-3472" lat="45.533317033" lon="-122.497518793" visible="true"/>
-<node id="-3474" lat="45.530523235" lon="-122.498079129" visible="true"/>
-<node id="-3475" lat="45.530455411" lon="-122.498084549" visible="true"/>
-<node id="-3476" lat="45.530460061" lon="-122.498211573" visible="true"/>
-<node id="-3477" lat="45.530527885" lon="-122.498206154" visible="true"/>
-<node id="-3479" lat="45.529313099" lon="-122.500715938" visible="true"/>
-<node id="-3480" lat="45.529290256" lon="-122.500716141" visible="true"/>
-<node id="-3481" lat="45.529290449" lon="-122.50076046" visible="true"/>
-<node id="-3482" lat="45.529313294" lon="-122.500760258" visible="true"/>
-<node id="-3483" lat="45.529313642" lon="-122.500840033" visible="true"/>
-<node id="-3484" lat="45.52939671" lon="-122.500839298" visible="true"/>
-<node id="-3485" lat="45.529396167" lon="-122.500715203" visible="true"/>
-<node id="-3487" lat="45.528253834" lon="-122.500886774" visible="true"/>
-<node id="-3488" lat="45.528162652" lon="-122.500894703" visible="true"/>
-<node id="-3489" lat="45.528164981" lon="-122.500929604" visible="true"/>
-<node id="-3490" lat="45.528179681" lon="-122.500928728" visible="true"/>
-<node id="-3491" lat="45.528185724" lon="-122.501087719" visible="true"/>
-<node id="-3492" lat="45.528217078" lon="-122.501086038" visible="true"/>
-<node id="-3493" lat="45.528216609" lon="-122.501056776" visible="true"/>
-<node id="-3494" lat="45.52825973" lon="-122.501054117" visible="true"/>
-<node id="-3496" lat="45.528696455" lon="-122.499889056" visible="true"/>
-<node id="-3497" lat="45.528703372" lon="-122.500017821" visible="true"/>
-<node id="-3498" lat="45.528839418" lon="-122.500003026" visible="true"/>
-<node id="-3499" lat="45.528832499" lon="-122.499874261" visible="true"/>
-<node id="-3501" lat="45.527067116" lon="-122.498249403" visible="true"/>
-<node id="-3502" lat="45.526988528" lon="-122.498250102" visible="true"/>
-<node id="-3503" lat="45.526989302" lon="-122.498426282" visible="true"/>
-<node id="-3504" lat="45.52706789" lon="-122.498425583" visible="true"/>
-<node id="-3506" lat="45.530039383" lon="-122.505469294" visible="true"/>
-<node id="-3507" lat="45.529976368" lon="-122.505469847" visible="true"/>
-<node id="-3508" lat="45.529976975" lon="-122.505610178" visible="true"/>
-<node id="-3509" lat="45.53003999" lon="-122.505609626" visible="true"/>
-<node id="-3511" lat="45.527062276" lon="-122.505357248" visible="true"/>
-<node id="-3512" lat="45.526978988" lon="-122.505354306" visible="true"/>
-<node id="-3513" lat="45.52697367" lon="-122.505731376" visible="true"/>
-<node id="-3514" lat="45.527058282" lon="-122.505730772" visible="true"/>
-<node id="-3516" lat="45.529300291" lon="-122.504350362" visible="true"/>
-<node id="-3517" lat="45.529218075" lon="-122.504357708" visible="true"/>
-<node id="-3518" lat="45.529227191" lon="-122.504564232" visible="true"/>
-<node id="-3519" lat="45.529309407" lon="-122.504556888" visible="true"/>
-<node id="-3521" lat="45.526672221" lon="-122.503592896" visible="true"/>
-<node id="-3522" lat="45.526600735" lon="-122.503650262" visible="true"/>
-<node id="-3523" lat="45.526649499" lon="-122.503773152" visible="true"/>
-<node id="-3524" lat="45.526614802" lon="-122.503854099" visible="true"/>
-<node id="-3525" lat="45.526675566" lon="-122.503906382" visible="true"/>
-<node id="-3526" lat="45.526721508" lon="-122.503797977" visible="true"/>
-<node id="-3527" lat="45.526785101" lon="-122.503800221" visible="true"/>
-<node id="-3528" lat="45.526787067" lon="-122.503687478" visible="true"/>
-<node id="-3529" lat="45.526708799" lon="-122.503684715" visible="true"/>
-<node id="-3531" lat="45.533391183" lon="-122.498517637" visible="true"/>
-<node id="-3532" lat="45.533324071" lon="-122.498513219" visible="true"/>
-<node id="-3533" lat="45.533321512" lon="-122.498591913" visible="true"/>
-<node id="-3535" lat="45.528014432" lon="-122.50341915" visible="true"/>
-<node id="-3536" lat="45.527985357" lon="-122.503419406" visible="true"/>
-<node id="-3537" lat="45.527985537" lon="-122.503460771" visible="true"/>
-<node id="-3538" lat="45.528014611" lon="-122.503460515" visible="true"/>
-<node id="-3540" lat="45.527555966" lon="-122.50001697" visible="true"/>
-<node id="-3541" lat="45.527515252" lon="-122.50001733" visible="true"/>
-<node id="-3542" lat="45.527515505" lon="-122.500075256" visible="true"/>
-<node id="-3543" lat="45.52755622" lon="-122.500074894" visible="true"/>
-<node id="-3545" lat="45.527567275" lon="-122.499782643" visible="true"/>
-<node id="-3546" lat="45.52751926" lon="-122.499784545" visible="true"/>
-<node id="-3547" lat="45.527520378" lon="-122.499865427" visible="true"/>
-<node id="-3548" lat="45.527568425" lon="-122.499861728" visible="true"/>
-<node id="-3549" lat="45.527569206" lon="-122.499816845" visible="true"/>
-<node id="-3551" lat="45.527881025" lon="-122.500923617" visible="true"/>
-<node id="-3552" lat="45.527839492" lon="-122.500923984" visible="true"/>
-<node id="-3553" lat="45.527839943" lon="-122.501027394" visible="true"/>
-<node id="-3554" lat="45.527881477" lon="-122.501027028" visible="true"/>
-<node id="-3556" lat="45.527953361" lon="-122.500843201" visible="true"/>
-<node id="-3557" lat="45.527918058" lon="-122.500843513" visible="true"/>
-<node id="-3558" lat="45.527918277" lon="-122.500893741" visible="true"/>
-<node id="-3559" lat="45.527953581" lon="-122.500893429" visible="true"/>
-<node id="-3561" lat="45.528372416" lon="-122.500317618" visible="true"/>
-<node id="-3562" lat="45.528348439" lon="-122.500316773" visible="true"/>
-<node id="-3563" lat="45.528348545" lon="-122.500383248" visible="true"/>
-<node id="-3564" lat="45.528373846" lon="-122.500380547" visible="true"/>
-<node id="-3566" lat="45.528425231" lon="-122.500578541" visible="true"/>
-<node id="-3567" lat="45.528375765" lon="-122.50059117" visible="true"/>
-<node id="-3568" lat="45.528381345" lon="-122.500699336" visible="true"/>
-<node id="-3569" lat="45.528382722" lon="-122.500699206" visible="true"/>
-<node id="-3570" lat="45.528382751" lon="-122.500700816" visible="true"/>
-<node id="-3571" lat="45.528457333" lon="-122.500692852" visible="true"/>
-<node id="-3572" lat="45.52845801" lon="-122.500581494" visible="true"/>
-<node id="-3574" lat="45.531558995" lon="-122.497926263" visible="true"/>
-<node id="-3575" lat="45.531489628" lon="-122.497931629" visible="true"/>
-<node id="-3576" lat="45.531494346" lon="-122.498054755" visible="true"/>
-<node id="-3577" lat="45.531563507" lon="-122.498051334" visible="true"/>
-<node id="-3579" lat="45.532801949" lon="-122.499189877" visible="true"/>
-<node id="-3580" lat="45.532745126" lon="-122.499193731" visible="true"/>
-<node id="-3581" lat="45.532747019" lon="-122.499242593" visible="true"/>
-<node id="-3582" lat="45.532803671" lon="-122.499238732" visible="true"/>
-<node id="-3584" lat="45.532238798" lon="-122.499240495" visible="true"/>
-<node id="-3585" lat="45.532288151" lon="-122.499240057" visible="true"/>
-<node id="-3586" lat="45.532287828" lon="-122.499166493" visible="true"/>
-<node id="-3587" lat="45.532238475" lon="-122.499166931" visible="true"/>
-<node id="-3589" lat="45.533061402" lon="-122.497907558" visible="true"/>
-<node id="-3590" lat="45.532999485" lon="-122.49790811" visible="true"/>
-<node id="-3591" lat="45.533000065" lon="-122.49804026" visible="true"/>
-<node id="-3592" lat="45.533061983" lon="-122.498039708" visible="true"/>
-<node id="-3594" lat="45.530922323" lon="-122.49915855" visible="true"/>
-<node id="-3595" lat="45.530964625" lon="-122.499158174" visible="true"/>
-<node id="-3596" lat="45.530964156" lon="-122.499051175" visible="true"/>
-<node id="-3597" lat="45.530921853" lon="-122.49905155" visible="true"/>
-<node id="-3599" lat="45.530742374" lon="-122.499025619" visible="true"/>
-<node id="-3600" lat="45.530691412" lon="-122.499027728" visible="true"/>
-<node id="-3601" lat="45.530691756" lon="-122.499037499" visible="true"/>
-<node id="-3602" lat="45.530668759" lon="-122.499038641" visible="true"/>
-<node id="-3603" lat="45.53067052" lon="-122.49911482" visible="true"/>
-<node id="-3604" lat="45.530696293" lon="-122.499111824" visible="true"/>
-<node id="-3605" lat="45.530698054" lon="-122.499188003" visible="true"/>
-<node id="-3606" lat="45.530745899" lon="-122.499187736" visible="true"/>
-<node id="-3608" lat="45.530275594" lon="-122.499038445" visible="true"/>
-<node id="-3609" lat="45.530332867" lon="-122.499030292" visible="true"/>
-<node id="-3610" lat="45.53033072" lon="-122.498999762" visible="true"/>
-<node id="-3611" lat="45.530273447" lon="-122.499007914" visible="true"/>
-<node id="-3613" lat="45.530412565" lon="-122.500728117" visible="true"/>
-<node id="-3614" lat="45.530352763" lon="-122.500732975" visible="true"/>
-<node id="-3615" lat="45.530355344" lon="-122.500809671" visible="true"/>
-<node id="-3616" lat="45.530416123" lon="-122.500804849" visible="true"/>
-<node id="-3618" lat="45.531761949" lon="-122.500670808" visible="true"/>
-<node id="-3619" lat="45.531711955" lon="-122.500674617" visible="true"/>
-<node id="-3620" lat="45.531716793" lon="-122.500790397" visible="true"/>
-<node id="-3621" lat="45.531766761" lon="-122.500787979" visible="true"/>
-<node id="-3623" lat="45.531993518" lon="-122.500553341" visible="true"/>
-<node id="-3624" lat="45.531924986" lon="-122.500553947" visible="true"/>
-<node id="-3625" lat="45.5319254" lon="-122.500648501" visible="true"/>
-<node id="-3626" lat="45.531993931" lon="-122.500647893" visible="true"/>
-<node id="-3628" lat="45.532283411" lon="-122.500442197" visible="true"/>
-<node id="-3629" lat="45.532222336" lon="-122.500442737" visible="true"/>
-<node id="-3630" lat="45.532222751" lon="-122.500537536" visible="true"/>
-<node id="-3631" lat="45.532283826" lon="-122.500536996" visible="true"/>
-<node id="-3633" lat="45.532599847" lon="-122.500572998" visible="true"/>
-<node id="-3634" lat="45.532525345" lon="-122.500578731" visible="true"/>
-<node id="-3635" lat="45.532528663" lon="-122.500669385" visible="true"/>
-<node id="-3636" lat="45.532604142" lon="-122.500663687" visible="true"/>
-<node id="-3638" lat="45.531440693" lon="-122.506119311" visible="true"/>
-<node id="-3639" lat="45.531437545" lon="-122.505963199" visible="true"/>
-<node id="-3640" lat="45.531374832" lon="-122.505966556" visible="true"/>
-<node id="-3642" lat="45.531642673" lon="-122.501534511" visible="true"/>
-<node id="-3643" lat="45.531574142" lon="-122.501535117" visible="true"/>
-<node id="-3644" lat="45.531574554" lon="-122.501629669" visible="true"/>
-<node id="-3645" lat="45.531643086" lon="-122.501629064" visible="true"/>
-<node id="-3647" lat="45.531118273" lon="-122.501769623" visible="true"/>
-<node id="-3648" lat="45.531047664" lon="-122.501770246" visible="true"/>
-<node id="-3649" lat="45.531048245" lon="-122.501903209" visible="true"/>
-<node id="-3650" lat="45.531118852" lon="-122.501902585" visible="true"/>
-<node id="-3652" lat="45.533310893" lon="-122.504049226" visible="true"/>
-<node id="-3653" lat="45.533281819" lon="-122.504049481" visible="true"/>
-<node id="-3654" lat="45.533281998" lon="-122.50409085" visible="true"/>
-<node id="-3655" lat="45.533311072" lon="-122.504090594" visible="true"/>
-<node id="-3657" lat="45.53146546" lon="-122.504250959" visible="true"/>
-<node id="-3658" lat="45.531398859" lon="-122.504252787" visible="true"/>
-<node id="-3659" lat="45.531401372" lon="-122.504389375" visible="true"/>
-<node id="-3660" lat="45.531467972" lon="-122.504387548" visible="true"/>
-<node id="-3662" lat="45.530675631" lon="-122.504184074" visible="true"/>
-<node id="-3663" lat="45.5306002" lon="-122.504186984" visible="true"/>
-<node id="-3664" lat="45.530601509" lon="-122.504280349" visible="true"/>
-<node id="-3665" lat="45.53067694" lon="-122.504277442" visible="true"/>
-<node id="-3667" lat="45.532206985" lon="-122.50433703" visible="true"/>
-<node id="-3668" lat="45.532117835" lon="-122.504340848" visible="true"/>
-<node id="-3669" lat="45.532118972" lon="-122.504443962" visible="true"/>
-<node id="-3670" lat="45.532209077" lon="-122.504441571" visible="true"/>
-<node id="-3672" lat="45.533256945" lon="-122.505366551" visible="true"/>
-<node id="-3673" lat="45.533183716" lon="-122.505367193" visible="true"/>
-<node id="-3674" lat="45.53318398" lon="-122.505428184" visible="true"/>
-<node id="-3675" lat="45.533257209" lon="-122.505427543" visible="true"/>
-<node id="-3677" lat="45.532608234" lon="-122.50320177" visible="true"/>
-<node id="-3678" lat="45.532539756" lon="-122.503202374" visible="true"/>
-<node id="-3679" lat="45.532540042" lon="-122.503268206" visible="true"/>
-<node id="-3680" lat="45.532578907" lon="-122.503267864" visible="true"/>
-<node id="-3681" lat="45.532578793" lon="-122.503241531" visible="true"/>
-<node id="-3682" lat="45.532608406" lon="-122.503241271" visible="true"/>
-<node id="-3684" lat="45.528522852" lon="-122.502374617" visible="true"/>
-<node id="-3685" lat="45.528456397" lon="-122.502375203" visible="true"/>
-<node id="-3686" lat="45.52845695" lon="-122.50250225" visible="true"/>
-<node id="-3687" lat="45.528550403" lon="-122.502501426" visible="true"/>
-<node id="-3688" lat="45.528550068" lon="-122.502424606" visible="true"/>
-<node id="-3689" lat="45.528523071" lon="-122.502424845" visible="true"/>
-<node id="-3691" lat="45.529838221" lon="-122.501764787" visible="true"/>
-<node id="-3692" lat="45.529783335" lon="-122.501768424" visible="true"/>
-<node id="-3693" lat="45.529785325" lon="-122.501822813" visible="true"/>
-<node id="-3694" lat="45.529841212" lon="-122.50181782" visible="true"/>
-<node id="-3696" lat="45.527576196" lon="-122.501772411" visible="true"/>
-<node id="-3697" lat="45.527526179" lon="-122.501777612" visible="true"/>
-<node id="-3698" lat="45.527526867" lon="-122.501794348" visible="true"/>
-<node id="-3699" lat="45.527493529" lon="-122.501797351" visible="true"/>
-<node id="-3700" lat="45.527496989" lon="-122.501879648" visible="true"/>
-<node id="-3701" lat="45.527531329" lon="-122.501875287" visible="true"/>
-<node id="-3702" lat="45.527531993" lon="-122.501893416" visible="true"/>
-<node id="-3703" lat="45.527546716" lon="-122.50189115" visible="true"/>
-<node id="-3704" lat="45.527547282" lon="-122.501914846" visible="true"/>
-<node id="-3705" lat="45.527582577" lon="-122.501911912" visible="true"/>
-<node id="-3707" lat="45.52732626" lon="-122.503108406" visible="true"/>
-<node id="-3708" lat="45.52728711" lon="-122.503108821" visible="true"/>
-<node id="-3709" lat="45.527288569" lon="-122.503169953" visible="true"/>
-<node id="-3710" lat="45.52732649" lon="-122.503167697" visible="true"/>
-<node id="-3712" lat="45.528560767" lon="-122.502974089" visible="true"/>
-<node id="-3713" lat="45.528479776" lon="-122.502974803" visible="true"/>
-<node id="-3714" lat="45.528480265" lon="-122.503087077" visible="true"/>
-<node id="-3715" lat="45.528561256" lon="-122.503086365" visible="true"/>
-<node id="-3717" lat="45.529089845" lon="-122.503363809" visible="true"/>
-<node id="-3718" lat="45.529013388" lon="-122.503369467" visible="true"/>
-<node id="-3719" lat="45.529018029" lon="-122.503496376" visible="true"/>
-<node id="-3720" lat="45.529094462" lon="-122.503492109" visible="true"/>
-<node id="-3722" lat="45.529597369" lon="-122.503227115" visible="true"/>
-<node id="-3723" lat="45.529554225" lon="-122.503231162" visible="true"/>
-<node id="-3724" lat="45.529557272" lon="-122.503337125" visible="true"/>
-<node id="-3725" lat="45.529601371" lon="-122.503334503" visible="true"/>
-<node id="-3727" lat="45.526779758" lon="-122.504831686" visible="true"/>
-<node id="-3728" lat="45.526776078" lon="-122.504934996" visible="true"/>
-<node id="-3729" lat="45.526830986" lon="-122.504929971" visible="true"/>
-<node id="-3730" lat="45.526834053" lon="-122.504831807" visible="true"/>
-<node id="-3732" lat="45.529135261" lon="-122.502318986" visible="true"/>
-<node id="-3733" lat="45.529081266" lon="-122.502319462" visible="true"/>
-<node id="-3734" lat="45.52908164" lon="-122.502405146" visible="true"/>
-<node id="-3735" lat="45.529135634" lon="-122.50240467" visible="true"/>
-<node id="-3737" lat="45.52710534" lon="-122.506149969" visible="true"/>
-<node id="-3738" lat="45.52706809" lon="-122.506152831" visible="true"/>
-<node id="-3739" lat="45.527071256" lon="-122.506251829" visible="true"/>
-<node id="-3740" lat="45.527109508" lon="-122.506247609" visible="true"/>
-<node id="-3742" lat="45.529942831" lon="-122.500822649" visible="true"/>
-<node id="-3743" lat="45.529907528" lon="-122.50082296" visible="true"/>
-<node id="-3744" lat="45.529907748" lon="-122.50087319" visible="true"/>
-<node id="-3745" lat="45.529943051" lon="-122.500872878" visible="true"/>
-<node id="-3747" lat="45.527918368" lon="-122.498409006" visible="true"/>
-<node id="-3748" lat="45.527854347" lon="-122.498412607" visible="true"/>
-<node id="-3749" lat="45.527857346" lon="-122.498506391" visible="true"/>
-<node id="-3750" lat="45.527921538" lon="-122.498502795" visible="true"/>
-<node id="-3752" lat="45.528868913" lon="-122.498240525" visible="true"/>
-<node id="-3753" lat="45.528892413" lon="-122.498240316" visible="true"/>
-<node id="-3754" lat="45.528892134" lon="-122.498176787" visible="true"/>
-<node id="-3755" lat="45.528868634" lon="-122.498176996" visible="true"/>
-<node id="-3757" lat="45.529057059" lon="-122.498395117" visible="true"/>
-<node id="-3758" lat="45.529092782" lon="-122.498394799" visible="true"/>
-<node id="-3759" lat="45.52909235" lon="-122.498296541" visible="true"/>
-<node id="-3760" lat="45.529056628" lon="-122.498296859" visible="true"/>
-<node id="-3762" lat="45.529573027" lon="-122.497719756" visible="true"/>
-<node id="-3763" lat="45.529524258" lon="-122.497723895" visible="true"/>
-<node id="-3764" lat="45.529525947" lon="-122.497774698" visible="true"/>
-<node id="-3765" lat="45.529574717" lon="-122.49777056" visible="true"/>
-<node id="-3767" lat="45.52960767" lon="-122.498211294" visible="true"/>
-<node id="-3768" lat="45.529539686" lon="-122.49821695" visible="true"/>
-<node id="-3769" lat="45.529539706" lon="-122.498324267" visible="true"/>
-<node id="-3770" lat="45.529605712" lon="-122.498323906" visible="true"/>
-<node id="-3772" lat="45.529881953" lon="-122.498161924" visible="true"/>
-<node id="-3773" lat="45.529815948" lon="-122.498162284" visible="true"/>
-<node id="-3774" lat="45.529817713" lon="-122.49827771" visible="true"/>
-<node id="-3775" lat="45.529881833" lon="-122.498277283" visible="true"/>
-<node id="-3776" lat="45.529883859" lon="-122.498269308" visible="true"/>
-<node id="-3778" lat="45.529670609" lon="-122.498838623" visible="true"/>
-<node id="-3779" lat="45.529710561" lon="-122.498838269" visible="true"/>
-<node id="-3780" lat="45.529710385" lon="-122.498798145" visible="true"/>
-<node id="-3781" lat="45.529670433" lon="-122.4987985" visible="true"/>
-<node id="-3783" lat="45.529747545" lon="-122.497189184" visible="true"/>
-<node id="-3784" lat="45.529658266" lon="-122.497195801" visible="true"/>
-<node id="-3785" lat="45.529660368" lon="-122.497252474" visible="true"/>
-<node id="-3786" lat="45.529749613" lon="-122.497247807" visible="true"/>
-<node id="-3788" lat="45.52956001" lon="-122.499069861" visible="true"/>
-<node id="-3789" lat="45.529492391" lon="-122.499073335" visible="true"/>
-<node id="-3790" lat="45.529495423" lon="-122.499165171" visible="true"/>
-<node id="-3791" lat="45.529563248" lon="-122.499159752" visible="true"/>
-<node id="-3793" lat="45.529193897" lon="-122.499461454" visible="true"/>
-<node id="-3794" lat="45.529229149" lon="-122.499461141" visible="true"/>
-<node id="-3795" lat="45.52922893" lon="-122.499410987" visible="true"/>
-<node id="-3796" lat="45.529193678" lon="-122.4994113" visible="true"/>
-<node id="-3798" lat="45.528613655" lon="-122.499159493" visible="true"/>
-<node id="-3799" lat="45.528580513" lon="-122.499162229" visible="true"/>
-<node id="-3800" lat="45.528582168" lon="-122.499214982" visible="true"/>
-<node id="-3801" lat="45.528615309" lon="-122.499212245" visible="true"/>
-<node id="-3803" lat="45.528050624" lon="-122.499943388" visible="true"/>
-<node id="-3804" lat="45.528006425" lon="-122.499943627" visible="true"/>
-<node id="-3805" lat="45.528008804" lon="-122.500024553" visible="true"/>
-<node id="-3806" lat="45.528053035" lon="-122.500022518" visible="true"/>
-<node id="-3808" lat="45.527725242" lon="-122.499359056" visible="true"/>
-<node id="-3809" lat="45.527720048" lon="-122.499260843" visible="true"/>
-<node id="-3810" lat="45.527686047" lon="-122.499264483" visible="true"/>
-<node id="-3811" lat="45.52769124" lon="-122.499362696" visible="true"/>
-<node id="-3813" lat="45.527413806" lon="-122.499370952" visible="true"/>
-<node id="-3814" lat="45.527345399" lon="-122.499380253" visible="true"/>
-<node id="-3815" lat="45.527354538" lon="-122.499515236" visible="true"/>
-<node id="-3816" lat="45.527406598" lon="-122.499509263" visible="true"/>
-<node id="-3817" lat="45.527404536" lon="-122.499479916" visible="true"/>
-<node id="-3818" lat="45.527421364" lon="-122.499478557" visible="true"/>
-<node id="-3820" lat="45.527183492" lon="-122.499362842" visible="true"/>
-<node id="-3821" lat="45.527104186" lon="-122.499367855" visible="true"/>
-<node id="-3822" lat="45.527107733" lon="-122.499469463" visible="true"/>
-<node id="-3823" lat="45.527158182" lon="-122.499467337" visible="true"/>
-<node id="-3824" lat="45.52715956" lon="-122.499506417" visible="true"/>
-<node id="-3825" lat="45.527198356" lon="-122.49950388" visible="true"/>
-<node id="-3826" lat="45.527197012" lon="-122.49946285" visible="true"/>
-<node id="-3827" lat="45.527187073" lon="-122.4994625" visible="true"/>
-<node id="-3829" lat="45.527127238" lon="-122.499848878" visible="true"/>
-<node id="-3830" lat="45.527186775" lon="-122.49984835" visible="true"/>
-<node id="-3831" lat="45.527186181" lon="-122.499712826" visible="true"/>
-<node id="-3832" lat="45.527126644" lon="-122.499713354" visible="true"/>
-<node id="-3834" lat="45.527053532" lon="-122.499876636" visible="true"/>
-<node id="-3835" lat="45.52708449" lon="-122.499876362" visible="true"/>
-<node id="-3836" lat="45.527084075" lon="-122.499781495" visible="true"/>
-<node id="-3837" lat="45.527053116" lon="-122.49978177" visible="true"/>
-<node id="-3839" lat="45.526721616" lon="-122.501038943" visible="true"/>
-<node id="-3840" lat="45.526660861" lon="-122.501042372" visible="true"/>
-<node id="-3841" lat="45.526664695" lon="-122.501159498" visible="true"/>
-<node id="-3842" lat="45.526725449" lon="-122.501156068" visible="true"/>
-<node id="-3844" lat="45.52689519" lon="-122.501134196" visible="true"/>
-<node id="-3845" lat="45.52683737" lon="-122.50113773" visible="true"/>
-<node id="-3846" lat="45.526840566" lon="-122.501235336" visible="true"/>
-<node id="-3847" lat="45.526898409" lon="-122.50123041" visible="true"/>
-<node id="-3849" lat="45.528536383" lon="-122.500241191" visible="true"/>
-<node id="-3850" lat="45.528490696" lon="-122.500241596" visible="true"/>
-<node id="-3851" lat="45.528490979" lon="-122.500306597" visible="true"/>
-<node id="-3852" lat="45.528536667" lon="-122.500306192" visible="true"/>
-<node id="-3854" lat="45.528692135" lon="-122.500934054" visible="true"/>
-<node id="-3855" lat="45.528641163" lon="-122.500937829" visible="true"/>
-<node id="-3856" lat="45.528643792" lon="-122.501011741" visible="true"/>
-<node id="-3857" lat="45.528694763" lon="-122.501007967" visible="true"/>
-<node id="-3859" lat="45.531810643" lon="-122.496472184" visible="true"/>
-<node id="-3860" lat="45.531864695" lon="-122.496471702" visible="true"/>
-<node id="-3861" lat="45.531864488" lon="-122.49642489" visible="true"/>
-<node id="-3862" lat="45.531810436" lon="-122.496425372" visible="true"/>
-<node id="-3864" lat="45.531892086" lon="-122.496480021" visible="true"/>
-<node id="-3865" lat="45.531851576" lon="-122.4964825" visible="true"/>
-<node id="-3866" lat="45.531852887" lon="-122.496525485" visible="true"/>
-<node id="-3867" lat="45.531893397" lon="-122.496523006" visible="true"/>
-<node id="-3869" lat="45.531029837" lon="-122.496883761" visible="true"/>
-<node id="-3870" lat="45.531062738" lon="-122.496883468" visible="true"/>
-<node id="-3871" lat="45.531062533" lon="-122.496836655" visible="true"/>
-<node id="-3872" lat="45.531029631" lon="-122.496836948" visible="true"/>
-<node id="-3874" lat="45.531035647" lon="-122.496939169" visible="true"/>
-<node id="-3875" lat="45.5310283" lon="-122.496939529" visible="true"/>
-<node id="-3876" lat="45.531030036" lon="-122.496978678" visible="true"/>
-<node id="-3877" lat="45.531052847" lon="-122.496977475" visible="true"/>
-<node id="-3878" lat="45.531051432" lon="-122.496938187" visible="true"/>
-<node id="-3880" lat="45.532219439" lon="-122.498166153" visible="true"/>
-<node id="-3881" lat="45.532068816" lon="-122.498199887" visible="true"/>
-<node id="-3882" lat="45.532079802" lon="-122.498297862" visible="true"/>
-<node id="-3883" lat="45.532230424" lon="-122.498264128" visible="true"/>
-<node id="-3885" lat="45.531885904" lon="-122.49954797" visible="true"/>
-<node id="-3886" lat="45.531778255" lon="-122.499555889" visible="true"/>
-<node id="-3887" lat="45.531784693" lon="-122.499727871" visible="true"/>
-<node id="-3888" lat="45.531892343" lon="-122.499719952" visible="true"/>
-<node id="-3890" lat="45.532850128" lon="-122.497521447" visible="true"/>
-<node id="-3891" lat="45.532742964" lon="-122.497522402" visible="true"/>
-<node id="-3892" lat="45.532744513" lon="-122.497874798" visible="true"/>
-<node id="-3893" lat="45.532851678" lon="-122.497873845" visible="true"/>
-<node id="-3895" lat="45.532891058" lon="-122.498049263" visible="true"/>
-<node id="-3896" lat="45.532848457" lon="-122.498053619" visible="true"/>
-<node id="-3897" lat="45.532851141" lon="-122.498106412" visible="true"/>
-<node id="-3898" lat="45.532808541" lon="-122.498110768" visible="true"/>
-<node id="-3899" lat="45.532815625" lon="-122.498245691" visible="true"/>
-<node id="-3900" lat="45.532918168" lon="-122.498235638" visible="true"/>
-<node id="-3901" lat="45.532911529" lon="-122.498104634" visible="true"/>
-<node id="-3902" lat="45.532894187" lon="-122.498105975" visible="true"/>
-<node id="-3904" lat="45.533043011" lon="-122.497516341" visible="true"/>
-<node id="-3905" lat="45.53289298" lon="-122.497517677" visible="true"/>
-<node id="-3906" lat="45.532893725" lon="-122.4976871" visible="true"/>
-<node id="-3907" lat="45.533043756" lon="-122.497685764" visible="true"/>
-<node id="-3909" lat="45.532326404" lon="-122.501378201" visible="true"/>
-<node id="-3910" lat="45.532231165" lon="-122.501394344" visible="true"/>
-<node id="-3911" lat="45.532236656" lon="-122.50147254" visible="true"/>
-<node id="-3912" lat="45.532247466" lon="-122.501470135" visible="true"/>
-<node id="-3913" lat="45.532249674" lon="-122.501511998" visible="true"/>
-<node id="-3914" lat="45.53236355" lon="-122.501493728" visible="true"/>
-<node id="-3915" lat="45.53235637" lon="-122.50140015" visible="true"/>
-<node id="-3916" lat="45.532328879" lon="-122.501404753" visible="true"/>
-<node id="-3918" lat="45.530417598" lon="-122.501536274" visible="true"/>
-<node id="-3919" lat="45.53029934" lon="-122.501543716" visible="true"/>
-<node id="-3920" lat="45.53030356" lon="-122.501679502" visible="true"/>
-<node id="-3921" lat="45.530421819" lon="-122.501672061" visible="true"/>
-<node id="-3923" lat="45.533095685" lon="-122.502463239" visible="true"/>
-<node id="-3924" lat="45.532986942" lon="-122.502467759" visible="true"/>
-<node id="-3925" lat="45.532989845" lon="-122.502582079" visible="true"/>
-<node id="-3926" lat="45.533098587" lon="-122.502577559" visible="true"/>
-<node id="-3928" lat="45.531897425" lon="-122.50429519" visible="true"/>
-<node id="-3929" lat="45.53182619" lon="-122.504295816" visible="true"/>
-<node id="-3930" lat="45.53182663" lon="-122.50439717" visible="true"/>
-<node id="-3931" lat="45.531897864" lon="-122.504396544" visible="true"/>
-<node id="-3933" lat="45.527537124" lon="-122.498067716" visible="true"/>
-<node id="-3934" lat="45.527284949" lon="-122.498084212" visible="true"/>
-<node id="-3935" lat="45.527289532" lon="-122.498215131" visible="true"/>
-<node id="-3936" lat="45.527541707" lon="-122.498198635" visible="true"/>
-<node id="-3938" lat="45.527229873" lon="-122.503526512" visible="true"/>
-<node id="-3939" lat="45.527169649" lon="-122.503527041" visible="true"/>
-<node id="-3940" lat="45.527170188" lon="-122.503651131" visible="true"/>
-<node id="-3941" lat="45.527205492" lon="-122.503650822" visible="true"/>
-<node id="-3942" lat="45.527205094" lon="-122.503559231" visible="true"/>
-<node id="-3943" lat="45.527230014" lon="-122.503559011" visible="true"/>
-<node id="-3945" lat="45.527623984" lon="-122.502906925" visible="true"/>
-<node id="-3946" lat="45.52758234" lon="-122.502905456" visible="true"/>
-<node id="-3947" lat="45.527582132" lon="-122.502989883" visible="true"/>
-<node id="-3948" lat="45.527623871" lon="-122.502985966" visible="true"/>
-<node id="-3950" lat="45.527738194" lon="-122.503381634" visible="true"/>
-<node id="-3951" lat="45.527661247" lon="-122.503377121" visible="true"/>
-<node id="-3952" lat="45.527662958" lon="-122.50342389" visible="true"/>
-<node id="-3953" lat="45.527736274" lon="-122.503419291" visible="true"/>
-<node id="-3955" lat="45.528690281" lon="-122.503147278" visible="true"/>
-<node id="-3956" lat="45.528573985" lon="-122.503148302" visible="true"/>
-<node id="-3957" lat="45.528574422" lon="-122.503248758" visible="true"/>
-<node id="-3958" lat="45.528690718" lon="-122.503247734" visible="true"/>
-<node id="-3960" lat="45.527057969" lon="-122.505748726" visible="true"/>
-<node id="-3961" lat="45.526974587" lon="-122.505751167" visible="true"/>
-<node id="-3962" lat="45.526972043" lon="-122.506113963" visible="true"/>
-<node id="-3963" lat="45.527055299" lon="-122.506118703" visible="true"/>
-<node id="-3965" lat="45.529282826" lon="-122.501868562" visible="true"/>
-<node id="-3966" lat="45.529245446" lon="-122.50186889" visible="true"/>
-<node id="-3967" lat="45.529245742" lon="-122.501936848" visible="true"/>
-<node id="-3968" lat="45.529283122" lon="-122.501936518" visible="true"/>
-<node id="-3970" lat="45.526710256" lon="-122.504260154" visible="true"/>
-<node id="-3971" lat="45.526610491" lon="-122.504256234" visible="true"/>
-<node id="-3972" lat="45.526611327" lon="-122.50448786" visible="true"/>
-<node id="-3973" lat="45.526874649" lon="-122.5044888" visible="true"/>
-<node id="-3974" lat="45.526875217" lon="-122.504343973" visible="true"/>
-<node id="-3975" lat="45.526709778" lon="-122.504343702" visible="true"/>
-<node id="-3977" lat="45.529784701" lon="-122.50065853" visible="true"/>
-<node id="-3978" lat="45.529744492" lon="-122.500662685" visible="true"/>
-<node id="-3979" lat="45.529747314" lon="-122.500725462" visible="true"/>
-<node id="-3980" lat="45.529786546" lon="-122.500721273" visible="true"/>
-<node id="-3982" lat="45.527718136" lon="-122.497074859" visible="true"/>
-<node id="-3983" lat="45.527680196" lon="-122.497077428" visible="true"/>
-<node id="-3984" lat="45.527686125" lon="-122.497249378" visible="true"/>
-<node id="-3985" lat="45.527724064" lon="-122.49724681" visible="true"/>
-<node id="-3987" lat="45.527514718" lon="-122.497028672" visible="true"/>
-<node id="-3988" lat="45.527448127" lon="-122.497032184" visible="true"/>
-<node id="-3989" lat="45.527450749" lon="-122.497118147" visible="true"/>
-<node id="-3990" lat="45.527517512" lon="-122.497114641" visible="true"/>
-<node id="-3992" lat="45.527494786" lon="-122.496577149" visible="true"/>
-<node id="-3993" lat="45.527429223" lon="-122.496580698" visible="true"/>
-<node id="-3994" lat="45.527431879" lon="-122.496664711" visible="true"/>
-<node id="-3995" lat="45.527497647" lon="-122.496659217" visible="true"/>
-<node id="-3997" lat="45.527653313" lon="-122.497183821" visible="true"/>
-<node id="-3998" lat="45.527472047" lon="-122.497195009" visible="true"/>
-<node id="-3999" lat="45.52747684" lon="-122.4973435" visible="true"/>
-<node id="-4000" lat="45.527657968" lon="-122.497330356" visible="true"/>
-<node id="-4002" lat="45.527364023" lon="-122.497037032" visible="true"/>
-<node id="-4003" lat="45.527271146" lon="-122.497043523" visible="true"/>
-<node id="-4004" lat="45.52727935" lon="-122.497291665" visible="true"/>
-<node id="-4005" lat="45.527372399" lon="-122.49728518" visible="true"/>
-<node id="-4007" lat="45.527399589" lon="-122.498256085" visible="true"/>
-<node id="-4008" lat="45.527284571" lon="-122.498263746" visible="true"/>
-<node id="-4009" lat="45.527291429" lon="-122.498470857" visible="true"/>
-<node id="-4010" lat="45.527406447" lon="-122.498463196" visible="true"/>
-<node id="-4012" lat="45.527395647" lon="-122.497338692" visible="true"/>
-<node id="-4013" lat="45.527303111" lon="-122.497345194" visible="true"/>
-<node id="-4014" lat="45.527311282" lon="-122.497595287" visible="true"/>
-<node id="-4015" lat="45.527403817" lon="-122.497588785" visible="true"/>
-<node id="-4017" lat="45.527182568" lon="-122.497493178" visible="true"/>
-<node id="-4018" lat="45.527090136" lon="-122.497493829" visible="true"/>
-<node id="-4019" lat="45.527091108" lon="-122.497743668" visible="true"/>
-<node id="-4020" lat="45.527183336" lon="-122.497744961" visible="true"/>
-<node id="-4022" lat="45.527351906" lon="-122.496589689" visible="true"/>
-<node id="-4023" lat="45.5272568" lon="-122.496596102" visible="true"/>
-<node id="-4024" lat="45.527265177" lon="-122.49684425" visible="true"/>
-<node id="-4025" lat="45.527360249" lon="-122.496839787" visible="true"/>
-<node id="-4027" lat="45.527376911" lon="-122.496867696" visible="true"/>
-<node id="-4028" lat="45.527201643" lon="-122.496879096" visible="true"/>
-<node id="-4029" lat="45.527206089" lon="-122.497008058" visible="true"/>
-<node id="-4030" lat="45.527381529" lon="-122.496996664" visible="true"/>
-<node id="-4032" lat="45.527695367" lon="-122.498473366" visible="true"/>
-<node id="-4033" lat="45.527243008" lon="-122.498504282" visible="true"/>
-<node id="-4034" lat="45.527247934" lon="-122.498644971" visible="true"/>
-<node id="-4035" lat="45.527700294" lon="-122.498614056" visible="true"/>
-<node id="-4037" lat="45.529500236" lon="-122.500126984" visible="true"/>
-<node id="-4038" lat="45.529491719" lon="-122.50024455" visible="true"/>
-<node id="-4039" lat="45.529624718" lon="-122.500264056" visible="true"/>
-<node id="-4040" lat="45.529633235" lon="-122.50014649" visible="true"/>
-<node id="-4042" lat="45.528912795" lon="-122.49699626" visible="true"/>
-<node id="-4043" lat="45.528966847" lon="-122.496995779" visible="true"/>
-<node id="-4044" lat="45.528966288" lon="-122.496868721" visible="true"/>
-<node id="-4045" lat="45.528912235" lon="-122.496869203" visible="true"/>
-<node id="-4047" lat="45.528881155" lon="-122.497221005" visible="true"/>
-<node id="-4048" lat="45.528880752" lon="-122.497129524" visible="true"/>
-<node id="-4049" lat="45.528902185" lon="-122.497129333" visible="true"/>
-<node id="-4050" lat="45.528901543" lon="-122.496983641" visible="true"/>
-<node id="-4051" lat="45.528789616" lon="-122.496984638" visible="true"/>
-<node id="-4052" lat="45.528790257" lon="-122.49713033" visible="true"/>
-<node id="-4053" lat="45.528814072" lon="-122.497130118" visible="true"/>
-<node id="-4054" lat="45.528814474" lon="-122.4972216" visible="true"/>
-<node id="-4055" lat="45.528800185" lon="-122.497221727" visible="true"/>
-<node id="-4056" lat="45.528800722" lon="-122.497343701" visible="true"/>
-<node id="-4057" lat="45.528926939" lon="-122.497342577" visible="true"/>
-<node id="-4058" lat="45.528926402" lon="-122.497220603" visible="true"/>
-<node id="-4060" lat="45.529286269" lon="-122.500390482" visible="true"/>
-<node id="-4061" lat="45.529197069" lon="-122.500397088" visible="true"/>
-<node id="-4062" lat="45.52920257" lon="-122.500530993" visible="true"/>
-<node id="-4063" lat="45.52929177" lon="-122.500524387" visible="true"/>
-<node id="-4065" lat="45.532091963" lon="-122.498081644" visible="true"/>
-<node id="-4066" lat="45.532056664" lon="-122.49809016" visible="true"/>
-<node id="-4067" lat="45.532066585" lon="-122.498180291" visible="true"/>
-<node id="-4068" lat="45.532101884" lon="-122.498171774" visible="true"/>
-<node id="-4070" lat="45.532175026" lon="-122.498097433" visible="true"/>
-<node id="-4071" lat="45.532162761" lon="-122.497980504" visible="true"/>
-<node id="-4072" lat="45.53212989" lon="-122.497987484" visible="true"/>
-<node id="-4073" lat="45.532142154" lon="-122.498104414" visible="true"/>
-<node id="-4075" lat="45.532841474" lon="-122.497912845" visible="true"/>
-<node id="-4076" lat="45.532764738" lon="-122.497917951" visible="true"/>
-<node id="-4077" lat="45.532769423" lon="-122.498043031" visible="true"/>
-<node id="-4078" lat="45.532845987" lon="-122.498037918" visible="true"/>
-<node id="-4080" lat="45.532372468" lon="-122.501763376" visible="true"/>
-<node id="-4081" lat="45.532337304" lon="-122.501763686" visible="true"/>
-<node id="-4082" lat="45.532337763" lon="-122.501869019" visible="true"/>
-<node id="-4083" lat="45.532372927" lon="-122.501868708" visible="true"/>
-<node id="-4085" lat="45.532250755" lon="-122.50186452" visible="true"/>
-<node id="-4086" lat="45.532228546" lon="-122.501864715" visible="true"/>
-<node id="-4087" lat="45.532228948" lon="-122.50195688" visible="true"/>
-<node id="-4088" lat="45.532251157" lon="-122.501956685" visible="true"/>
-<node id="-4090" lat="45.5297202" lon="-122.500611599" visible="true"/>
-<node id="-4091" lat="45.529692405" lon="-122.500612415" visible="true"/>
-<node id="-4092" lat="45.529696421" lon="-122.500671843" visible="true"/>
-<node id="-4093" lat="45.529724279" lon="-122.500667434" visible="true"/>
-<node id="-4095" lat="45.52964881" lon="-122.50007012" visible="true"/>
-<node id="-4096" lat="45.529647686" lon="-122.500134755" visible="true"/>
-<node id="-4097" lat="45.529679266" lon="-122.500134072" visible="true"/>
-<node id="-4098" lat="45.529681558" lon="-122.500074866" visible="true"/>
-<node id="-4100" lat="45.531137582" lon="-122.497869245" visible="true"/>
-<node id="-4101" lat="45.531179884" lon="-122.497868869" visible="true"/>
-<node id="-4102" lat="45.531179473" lon="-122.497775243" visible="true"/>
-<node id="-4103" lat="45.53113717" lon="-122.49777562" visible="true"/>
-<node id="-4105" lat="45.532705263" lon="-122.498698568" visible="true"/>
-<node id="-4106" lat="45.532610005" lon="-122.498699414" visible="true"/>
-<node id="-4107" lat="45.53261063" lon="-122.498841728" visible="true"/>
-<node id="-4108" lat="45.532705888" lon="-122.498840882" visible="true"/>
-<node id="-4110" lat="45.531257351" lon="-122.499991548" visible="true"/>
-<node id="-4111" lat="45.531346656" lon="-122.499990756" visible="true"/>
-<node id="-4112" lat="45.531346114" lon="-122.499867037" visible="true"/>
-<node id="-4113" lat="45.531256809" lon="-122.499867829" visible="true"/>
-<node id="-4115" lat="45.532540483" lon="-122.498052819" visible="true"/>
-<node id="-4116" lat="45.532464276" lon="-122.498053497" visible="true"/>
-<node id="-4117" lat="45.532464917" lon="-122.498199198" visible="true"/>
-<node id="-4118" lat="45.532541123" lon="-122.498198521" visible="true"/>
-<node id="-4120" lat="45.531403185" lon="-122.50281313" visible="true"/>
-<node id="-4121" lat="45.531369958" lon="-122.502813423" visible="true"/>
-<node id="-4122" lat="45.531370138" lon="-122.50285479" visible="true"/>
-<node id="-4123" lat="45.531403365" lon="-122.502854497" visible="true"/>
-<node id="-4125" lat="45.531485791" lon="-122.503316846" visible="true"/>
-<node id="-4126" lat="45.531388837" lon="-122.503318994" visible="true"/>
-<node id="-4127" lat="45.53139064" lon="-122.503440237" visible="true"/>
-<node id="-4128" lat="45.531487618" lon="-122.503436697" visible="true"/>
-<node id="-4130" lat="45.53338473" lon="-122.503835819" visible="true"/>
-<node id="-4131" lat="45.533314122" lon="-122.50383644" visible="true"/>
-<node id="-4132" lat="45.533314571" lon="-122.503939859" visible="true"/>
-<node id="-4133" lat="45.533385179" lon="-122.50393924" visible="true"/>
-<node id="-4135" lat="45.526903915" lon="-122.502038402" visible="true"/>
-<node id="-4136" lat="45.526749043" lon="-122.502049653" visible="true"/>
-<node id="-4137" lat="45.526754324" lon="-122.502196078" visible="true"/>
-<node id="-4138" lat="45.52690922" lon="-122.502183434" visible="true"/>
-<node id="-4140" lat="45.526688095" lon="-122.502064216" visible="true"/>
-<node id="-4141" lat="45.526602808" lon="-122.502070959" visible="true"/>
-<node id="-4142" lat="45.526606222" lon="-122.502156036" visible="true"/>
-<node id="-4143" lat="45.526691507" lon="-122.502149296" visible="true"/>
-<node id="-4145" lat="45.52690656" lon="-122.50222373" visible="true"/>
-<node id="-4146" lat="45.526753621" lon="-122.502236442" visible="true"/>
-<node id="-4147" lat="45.526758926" lon="-122.502381476" visible="true"/>
-<node id="-4148" lat="45.526911839" lon="-122.502370158" visible="true"/>
-<node id="-4150" lat="45.5266904" lon="-122.502269033" visible="true"/>
-<node id="-4151" lat="45.526603157" lon="-122.502275705" visible="true"/>
-<node id="-4152" lat="45.526606617" lon="-122.502357999" visible="true"/>
-<node id="-4153" lat="45.526692882" lon="-122.502351292" visible="true"/>
-<node id="-4155" lat="45.530024695" lon="-122.503976547" visible="true"/>
-<node id="-4156" lat="45.529958952" lon="-122.503980868" visible="true"/>
-<node id="-4157" lat="45.529965278" lon="-122.504175724" visible="true"/>
-<node id="-4158" lat="45.530031021" lon="-122.504171403" visible="true"/>
-<node id="-4160" lat="45.528940022" lon="-122.502242884" visible="true"/>
-<node id="-4161" lat="45.528832208" lon="-122.502250225" visible="true"/>
-<node id="-4162" lat="45.528836308" lon="-122.502352043" visible="true"/>
-<node id="-4163" lat="45.528944146" lon="-122.502343312" visible="true"/>
-<node id="-4165" lat="45.529758431" lon="-122.496592351" visible="true"/>
-<node id="-4166" lat="45.529720663" lon="-122.496594926" visible="true"/>
-<node id="-4167" lat="45.52972194" lon="-122.49663986" visible="true"/>
-<node id="-4168" lat="45.529759708" lon="-122.496637285" visible="true"/>
-<node id="-4170" lat="45.526843111" lon="-122.498217512" visible="true"/>
-<node id="-4171" lat="45.526762142" lon="-122.498218233" visible="true"/>
-<node id="-4172" lat="45.526762945" lon="-122.498401189" visible="true"/>
-<node id="-4173" lat="45.526843914" lon="-122.498400468" visible="true"/>
-<node id="-4175" lat="45.528580742" lon="-122.49984476" visible="true"/>
-<node id="-4176" lat="45.528523587" lon="-122.499845267" visible="true"/>
-<node id="-4177" lat="45.528524521" lon="-122.500058722" visible="true"/>
-<node id="-4178" lat="45.528600728" lon="-122.500058048" visible="true"/>
-<node id="-4179" lat="45.528600432" lon="-122.499990284" visible="true"/>
-<node id="-4180" lat="45.52858138" lon="-122.499990452" visible="true"/>
-<node id="-4182" lat="45.528091838" lon="-122.496517501" visible="true"/>
-<node id="-4183" lat="45.527943795" lon="-122.496518822" visible="true"/>
-<node id="-4184" lat="45.527940469" lon="-122.496685907" visible="true"/>
-<node id="-4185" lat="45.528094959" lon="-122.496683941" visible="true"/>
-<node id="-4187" lat="45.528495778" lon="-122.497319651" visible="true"/>
-<node id="-4188" lat="45.528448149" lon="-122.497320074" visible="true"/>
-<node id="-4189" lat="45.528447955" lon="-122.497276029" visible="true"/>
-<node id="-4190" lat="45.528309831" lon="-122.497277259" visible="true"/>
-<node id="-4191" lat="45.528310636" lon="-122.49746022" visible="true"/>
-<node id="-4192" lat="45.528448761" lon="-122.49745899" visible="true"/>
-<node id="-4193" lat="45.528448552" lon="-122.497411556" visible="true"/>
-<node id="-4194" lat="45.528496181" lon="-122.497411131" visible="true"/>
-<node id="-4196" lat="45.529152991" lon="-122.500408366" visible="true"/>
-<node id="-4197" lat="45.529010047" lon="-122.500423089" visible="true"/>
-<node id="-4198" lat="45.529014232" lon="-122.500545401" visible="true"/>
-<node id="-4199" lat="45.529159636" lon="-122.500534356" visible="true"/>
-<node id="-4200" lat="45.529160762" lon="-122.50046972" visible="true"/>
-<node id="-4202" lat="45.532444786" lon="-122.497641249" visible="true"/>
-<node id="-4203" lat="45.532384878" lon="-122.497644996" visible="true"/>
-<node id="-4204" lat="45.532389772" lon="-122.497787648" visible="true"/>
-<node id="-4205" lat="45.53244968" lon="-122.497783901" visible="true"/>
-<node id="-4207" lat="45.53140258" lon="-122.502674257" visible="true"/>
-<node id="-4208" lat="45.531375583" lon="-122.502674494" visible="true"/>
-<node id="-4209" lat="45.531375802" lon="-122.502724724" visible="true"/>
-<node id="-4210" lat="45.531402799" lon="-122.502724487" visible="true"/>
-<node id="-4212" lat="45.528185029" lon="-122.503488563" visible="true"/>
-<node id="-4213" lat="45.528131035" lon="-122.503489036" visible="true"/>
-<node id="-4214" lat="45.528131189" lon="-122.503524491" visible="true"/>
-<node id="-4215" lat="45.528185184" lon="-122.503524018" visible="true"/>
-<node id="-4217" lat="45.529249393" lon="-122.500870149" visible="true"/>
-<node id="-4218" lat="45.529224473" lon="-122.50087037" visible="true"/>
-<node id="-4219" lat="45.529224783" lon="-122.500941281" visible="true"/>
-<node id="-4220" lat="45.529249703" lon="-122.500941061" visible="true"/>
+<node id="-3378" lat="45.531421921" lon="-122.49624294" visible="true"/>
+<node id="-3379" lat="45.53123284" lon="-122.496249954" visible="true"/>
+<node id="-3380" lat="45.531234815" lon="-122.496353465" visible="true"/>
+<node id="-3381" lat="45.531352334" lon="-122.496349791" visible="true"/>
+<node id="-3382" lat="45.53135334" lon="-122.49641033" visible="true"/>
+<node id="-3383" lat="45.531361771" lon="-122.496408675" visible="true"/>
+<node id="-3384" lat="45.531363367" lon="-122.496504366" visible="true"/>
+<node id="-3385" lat="45.531442605" lon="-122.496503249" visible="true"/>
+<node id="-3386" lat="45.531439416" lon="-122.496321625" visible="true"/>
+<node id="-3387" lat="45.531423136" lon="-122.496321053" visible="true"/>
+<node id="-3389" lat="45.528185029" lon="-122.503488563" visible="true"/>
+<node id="-3390" lat="45.528131035" lon="-122.503489036" visible="true"/>
+<node id="-3391" lat="45.528131189" lon="-122.503524491" visible="true"/>
+<node id="-3392" lat="45.528185184" lon="-122.503524018" visible="true"/>
+<node id="-3394" lat="45.528014432" lon="-122.50341915" visible="true"/>
+<node id="-3395" lat="45.527985357" lon="-122.503419406" visible="true"/>
+<node id="-3396" lat="45.527985537" lon="-122.503460771" visible="true"/>
+<node id="-3397" lat="45.528014611" lon="-122.503460515" visible="true"/>
+<node id="-3399" lat="45.527567275" lon="-122.499782643" visible="true"/>
+<node id="-3400" lat="45.52751926" lon="-122.499784545" visible="true"/>
+<node id="-3401" lat="45.527520378" lon="-122.499865427" visible="true"/>
+<node id="-3402" lat="45.527568425" lon="-122.499861728" visible="true"/>
+<node id="-3403" lat="45.527569206" lon="-122.499816845" visible="true"/>
+<node id="-3405" lat="45.527555966" lon="-122.50001697" visible="true"/>
+<node id="-3406" lat="45.527515252" lon="-122.50001733" visible="true"/>
+<node id="-3407" lat="45.527515505" lon="-122.500075256" visible="true"/>
+<node id="-3408" lat="45.52755622" lon="-122.500074894" visible="true"/>
+<node id="-3410" lat="45.527881025" lon="-122.500923617" visible="true"/>
+<node id="-3411" lat="45.527839492" lon="-122.500923984" visible="true"/>
+<node id="-3412" lat="45.527839943" lon="-122.501027394" visible="true"/>
+<node id="-3413" lat="45.527881477" lon="-122.501027028" visible="true"/>
+<node id="-3415" lat="45.527953361" lon="-122.500843201" visible="true"/>
+<node id="-3416" lat="45.527918058" lon="-122.500843513" visible="true"/>
+<node id="-3417" lat="45.527918277" lon="-122.500893741" visible="true"/>
+<node id="-3418" lat="45.527953581" lon="-122.500893429" visible="true"/>
+<node id="-3420" lat="45.528425231" lon="-122.500578541" visible="true"/>
+<node id="-3421" lat="45.528375765" lon="-122.50059117" visible="true"/>
+<node id="-3422" lat="45.528381345" lon="-122.500699336" visible="true"/>
+<node id="-3423" lat="45.528382722" lon="-122.500699206" visible="true"/>
+<node id="-3424" lat="45.528382751" lon="-122.500700816" visible="true"/>
+<node id="-3425" lat="45.528457333" lon="-122.500692852" visible="true"/>
+<node id="-3426" lat="45.52845801" lon="-122.500581494" visible="true"/>
+<node id="-3428" lat="45.530272192" lon="-122.497192027" visible="true"/>
+<node id="-3429" lat="45.530171774" lon="-122.497198253" visible="true"/>
+<node id="-3430" lat="45.530173188" lon="-122.497245143" visible="true"/>
+<node id="-3431" lat="45.530273468" lon="-122.497236961" visible="true"/>
+<node id="-3433" lat="45.530523235" lon="-122.498079129" visible="true"/>
+<node id="-3434" lat="45.530455411" lon="-122.498084549" visible="true"/>
+<node id="-3435" lat="45.530460061" lon="-122.498211573" visible="true"/>
+<node id="-3436" lat="45.530527885" lon="-122.498206154" visible="true"/>
+<node id="-3438" lat="45.532801949" lon="-122.499189877" visible="true"/>
+<node id="-3439" lat="45.532745126" lon="-122.499193731" visible="true"/>
+<node id="-3440" lat="45.532747019" lon="-122.499242593" visible="true"/>
+<node id="-3441" lat="45.532803671" lon="-122.499238732" visible="true"/>
+<node id="-3443" lat="45.532238798" lon="-122.499240495" visible="true"/>
+<node id="-3444" lat="45.532288151" lon="-122.499240057" visible="true"/>
+<node id="-3445" lat="45.532287828" lon="-122.499166493" visible="true"/>
+<node id="-3446" lat="45.532238475" lon="-122.499166931" visible="true"/>
+<node id="-3448" lat="45.533061402" lon="-122.497907558" visible="true"/>
+<node id="-3449" lat="45.532999485" lon="-122.49790811" visible="true"/>
+<node id="-3450" lat="45.533000065" lon="-122.49804026" visible="true"/>
+<node id="-3451" lat="45.533061983" lon="-122.498039708" visible="true"/>
+<node id="-3453" lat="45.530922323" lon="-122.49915855" visible="true"/>
+<node id="-3454" lat="45.530964625" lon="-122.499158174" visible="true"/>
+<node id="-3455" lat="45.530964156" lon="-122.499051175" visible="true"/>
+<node id="-3456" lat="45.530921853" lon="-122.49905155" visible="true"/>
+<node id="-3458" lat="45.530742374" lon="-122.499025619" visible="true"/>
+<node id="-3459" lat="45.530691412" lon="-122.499027728" visible="true"/>
+<node id="-3460" lat="45.530691756" lon="-122.499037499" visible="true"/>
+<node id="-3461" lat="45.530668759" lon="-122.499038641" visible="true"/>
+<node id="-3462" lat="45.53067052" lon="-122.49911482" visible="true"/>
+<node id="-3463" lat="45.530696293" lon="-122.499111824" visible="true"/>
+<node id="-3464" lat="45.530698054" lon="-122.499188003" visible="true"/>
+<node id="-3465" lat="45.530745899" lon="-122.499187736" visible="true"/>
+<node id="-3467" lat="45.532283411" lon="-122.500442197" visible="true"/>
+<node id="-3468" lat="45.532222336" lon="-122.500442737" visible="true"/>
+<node id="-3469" lat="45.532222751" lon="-122.500537536" visible="true"/>
+<node id="-3470" lat="45.532283826" lon="-122.500536996" visible="true"/>
+<node id="-3472" lat="45.532599847" lon="-122.500572998" visible="true"/>
+<node id="-3473" lat="45.532525345" lon="-122.500578731" visible="true"/>
+<node id="-3474" lat="45.532528663" lon="-122.500669385" visible="true"/>
+<node id="-3475" lat="45.532604142" lon="-122.500663687" visible="true"/>
+<node id="-3477" lat="45.531642673" lon="-122.501534511" visible="true"/>
+<node id="-3478" lat="45.531574142" lon="-122.501535117" visible="true"/>
+<node id="-3479" lat="45.531574554" lon="-122.501629669" visible="true"/>
+<node id="-3480" lat="45.531643086" lon="-122.501629064" visible="true"/>
+<node id="-3482" lat="45.531118273" lon="-122.501769623" visible="true"/>
+<node id="-3483" lat="45.531047664" lon="-122.501770246" visible="true"/>
+<node id="-3484" lat="45.531048245" lon="-122.501903209" visible="true"/>
+<node id="-3485" lat="45.531118852" lon="-122.501902585" visible="true"/>
+<node id="-3487" lat="45.533310893" lon="-122.504049226" visible="true"/>
+<node id="-3488" lat="45.533281819" lon="-122.504049481" visible="true"/>
+<node id="-3489" lat="45.533281998" lon="-122.50409085" visible="true"/>
+<node id="-3490" lat="45.533311072" lon="-122.504090594" visible="true"/>
+<node id="-3492" lat="45.53146546" lon="-122.504250959" visible="true"/>
+<node id="-3493" lat="45.531398859" lon="-122.504252787" visible="true"/>
+<node id="-3494" lat="45.531401372" lon="-122.504389375" visible="true"/>
+<node id="-3495" lat="45.531467972" lon="-122.504387548" visible="true"/>
+<node id="-3497" lat="45.530675631" lon="-122.504184074" visible="true"/>
+<node id="-3498" lat="45.5306002" lon="-122.504186984" visible="true"/>
+<node id="-3499" lat="45.530601509" lon="-122.504280349" visible="true"/>
+<node id="-3500" lat="45.53067694" lon="-122.504277442" visible="true"/>
+<node id="-3502" lat="45.533256945" lon="-122.505366551" visible="true"/>
+<node id="-3503" lat="45.533183716" lon="-122.505367193" visible="true"/>
+<node id="-3504" lat="45.53318398" lon="-122.505428184" visible="true"/>
+<node id="-3505" lat="45.533257209" lon="-122.505427543" visible="true"/>
+<node id="-3507" lat="45.532608234" lon="-122.50320177" visible="true"/>
+<node id="-3508" lat="45.532539756" lon="-122.503202374" visible="true"/>
+<node id="-3509" lat="45.532540042" lon="-122.503268206" visible="true"/>
+<node id="-3510" lat="45.532578907" lon="-122.503267864" visible="true"/>
+<node id="-3511" lat="45.532578793" lon="-122.503241531" visible="true"/>
+<node id="-3512" lat="45.532608406" lon="-122.503241271" visible="true"/>
+<node id="-3514" lat="45.528522852" lon="-122.502374617" visible="true"/>
+<node id="-3515" lat="45.528456397" lon="-122.502375203" visible="true"/>
+<node id="-3516" lat="45.52845695" lon="-122.50250225" visible="true"/>
+<node id="-3517" lat="45.528550403" lon="-122.502501426" visible="true"/>
+<node id="-3518" lat="45.528550068" lon="-122.502424606" visible="true"/>
+<node id="-3519" lat="45.528523071" lon="-122.502424845" visible="true"/>
+<node id="-3521" lat="45.527823431" lon="-122.501823494" visible="true"/>
+<node id="-3522" lat="45.527723487" lon="-122.501834342" visible="true"/>
+<node id="-3523" lat="45.527726005" lon="-122.501939256" visible="true"/>
+<node id="-3524" lat="45.527825993" lon="-122.501931638" visible="true"/>
+<node id="-3526" lat="45.529838221" lon="-122.501764787" visible="true"/>
+<node id="-3527" lat="45.529783335" lon="-122.501768424" visible="true"/>
+<node id="-3528" lat="45.529785325" lon="-122.501822813" visible="true"/>
+<node id="-3529" lat="45.529841212" lon="-122.50181782" visible="true"/>
+<node id="-3531" lat="45.527576196" lon="-122.501772411" visible="true"/>
+<node id="-3532" lat="45.527526179" lon="-122.501777612" visible="true"/>
+<node id="-3533" lat="45.527526867" lon="-122.501794348" visible="true"/>
+<node id="-3534" lat="45.527493529" lon="-122.501797351" visible="true"/>
+<node id="-3535" lat="45.527496989" lon="-122.501879648" visible="true"/>
+<node id="-3536" lat="45.527531329" lon="-122.501875287" visible="true"/>
+<node id="-3537" lat="45.527531993" lon="-122.501893416" visible="true"/>
+<node id="-3538" lat="45.527546716" lon="-122.50189115" visible="true"/>
+<node id="-3539" lat="45.527547282" lon="-122.501914846" visible="true"/>
+<node id="-3540" lat="45.527582577" lon="-122.501911912" visible="true"/>
+<node id="-3542" lat="45.52732626" lon="-122.503108406" visible="true"/>
+<node id="-3543" lat="45.52728711" lon="-122.503108821" visible="true"/>
+<node id="-3544" lat="45.527288569" lon="-122.503169953" visible="true"/>
+<node id="-3545" lat="45.52732649" lon="-122.503167697" visible="true"/>
+<node id="-3547" lat="45.528560767" lon="-122.502974089" visible="true"/>
+<node id="-3548" lat="45.528479776" lon="-122.502974803" visible="true"/>
+<node id="-3549" lat="45.528480265" lon="-122.503087077" visible="true"/>
+<node id="-3550" lat="45.528561256" lon="-122.503086365" visible="true"/>
+<node id="-3552" lat="45.529597369" lon="-122.503227115" visible="true"/>
+<node id="-3553" lat="45.529554225" lon="-122.503231162" visible="true"/>
+<node id="-3554" lat="45.529557272" lon="-122.503337125" visible="true"/>
+<node id="-3555" lat="45.529601371" lon="-122.503334503" visible="true"/>
+<node id="-3557" lat="45.526779758" lon="-122.504831686" visible="true"/>
+<node id="-3558" lat="45.526776078" lon="-122.504934996" visible="true"/>
+<node id="-3559" lat="45.526830986" lon="-122.504929971" visible="true"/>
+<node id="-3560" lat="45.526834053" lon="-122.504831807" visible="true"/>
+<node id="-3562" lat="45.529135261" lon="-122.502318986" visible="true"/>
+<node id="-3563" lat="45.529081266" lon="-122.502319462" visible="true"/>
+<node id="-3564" lat="45.52908164" lon="-122.502405146" visible="true"/>
+<node id="-3565" lat="45.529135634" lon="-122.50240467" visible="true"/>
+<node id="-3567" lat="45.52710534" lon="-122.506149969" visible="true"/>
+<node id="-3568" lat="45.52706809" lon="-122.506152831" visible="true"/>
+<node id="-3569" lat="45.527071256" lon="-122.506251829" visible="true"/>
+<node id="-3570" lat="45.527109508" lon="-122.506247609" visible="true"/>
+<node id="-3572" lat="45.530039383" lon="-122.505469294" visible="true"/>
+<node id="-3573" lat="45.529976368" lon="-122.505469847" visible="true"/>
+<node id="-3574" lat="45.529976975" lon="-122.505610178" visible="true"/>
+<node id="-3575" lat="45.53003999" lon="-122.505609626" visible="true"/>
+<node id="-3577" lat="45.527918368" lon="-122.498409006" visible="true"/>
+<node id="-3578" lat="45.527854347" lon="-122.498412607" visible="true"/>
+<node id="-3579" lat="45.527857346" lon="-122.498506391" visible="true"/>
+<node id="-3580" lat="45.527921538" lon="-122.498502795" visible="true"/>
+<node id="-3582" lat="45.528868913" lon="-122.498240525" visible="true"/>
+<node id="-3583" lat="45.528892413" lon="-122.498240316" visible="true"/>
+<node id="-3584" lat="45.528892134" lon="-122.498176787" visible="true"/>
+<node id="-3585" lat="45.528868634" lon="-122.498176996" visible="true"/>
+<node id="-3587" lat="45.529057059" lon="-122.498395117" visible="true"/>
+<node id="-3588" lat="45.529092782" lon="-122.498394799" visible="true"/>
+<node id="-3589" lat="45.52909235" lon="-122.498296541" visible="true"/>
+<node id="-3590" lat="45.529056628" lon="-122.498296859" visible="true"/>
+<node id="-3592" lat="45.529573027" lon="-122.497719756" visible="true"/>
+<node id="-3593" lat="45.529524258" lon="-122.497723895" visible="true"/>
+<node id="-3594" lat="45.529525947" lon="-122.497774698" visible="true"/>
+<node id="-3595" lat="45.529574717" lon="-122.49777056" visible="true"/>
+<node id="-3597" lat="45.52960767" lon="-122.498211294" visible="true"/>
+<node id="-3598" lat="45.529539686" lon="-122.49821695" visible="true"/>
+<node id="-3599" lat="45.529539706" lon="-122.498324267" visible="true"/>
+<node id="-3600" lat="45.529605712" lon="-122.498323906" visible="true"/>
+<node id="-3602" lat="45.529881953" lon="-122.498161924" visible="true"/>
+<node id="-3603" lat="45.529815948" lon="-122.498162284" visible="true"/>
+<node id="-3604" lat="45.529817713" lon="-122.49827771" visible="true"/>
+<node id="-3605" lat="45.529881833" lon="-122.498277283" visible="true"/>
+<node id="-3606" lat="45.529883859" lon="-122.498269308" visible="true"/>
+<node id="-3608" lat="45.529670609" lon="-122.498838623" visible="true"/>
+<node id="-3609" lat="45.529710561" lon="-122.498838269" visible="true"/>
+<node id="-3610" lat="45.529710385" lon="-122.498798145" visible="true"/>
+<node id="-3611" lat="45.529670433" lon="-122.4987985" visible="true"/>
+<node id="-3613" lat="45.529747545" lon="-122.497189184" visible="true"/>
+<node id="-3614" lat="45.529658266" lon="-122.497195801" visible="true"/>
+<node id="-3615" lat="45.529660368" lon="-122.497252474" visible="true"/>
+<node id="-3616" lat="45.529749613" lon="-122.497247807" visible="true"/>
+<node id="-3618" lat="45.52956001" lon="-122.499069861" visible="true"/>
+<node id="-3619" lat="45.529492391" lon="-122.499073335" visible="true"/>
+<node id="-3620" lat="45.529495423" lon="-122.499165171" visible="true"/>
+<node id="-3621" lat="45.529563248" lon="-122.499159752" visible="true"/>
+<node id="-3623" lat="45.529193897" lon="-122.499461454" visible="true"/>
+<node id="-3624" lat="45.529229149" lon="-122.499461141" visible="true"/>
+<node id="-3625" lat="45.52922893" lon="-122.499410987" visible="true"/>
+<node id="-3626" lat="45.529193678" lon="-122.4994113" visible="true"/>
+<node id="-3628" lat="45.528613655" lon="-122.499159493" visible="true"/>
+<node id="-3629" lat="45.528580513" lon="-122.499162229" visible="true"/>
+<node id="-3630" lat="45.528582168" lon="-122.499214982" visible="true"/>
+<node id="-3631" lat="45.528615309" lon="-122.499212245" visible="true"/>
+<node id="-3633" lat="45.528050624" lon="-122.499943388" visible="true"/>
+<node id="-3634" lat="45.528006425" lon="-122.499943627" visible="true"/>
+<node id="-3635" lat="45.528008804" lon="-122.500024553" visible="true"/>
+<node id="-3636" lat="45.528053035" lon="-122.500022518" visible="true"/>
+<node id="-3638" lat="45.527725242" lon="-122.499359056" visible="true"/>
+<node id="-3639" lat="45.527720048" lon="-122.499260843" visible="true"/>
+<node id="-3640" lat="45.527686047" lon="-122.499264483" visible="true"/>
+<node id="-3641" lat="45.52769124" lon="-122.499362696" visible="true"/>
+<node id="-3643" lat="45.527413806" lon="-122.499370952" visible="true"/>
+<node id="-3644" lat="45.527345399" lon="-122.499380253" visible="true"/>
+<node id="-3645" lat="45.527354538" lon="-122.499515236" visible="true"/>
+<node id="-3646" lat="45.527406598" lon="-122.499509263" visible="true"/>
+<node id="-3647" lat="45.527404536" lon="-122.499479916" visible="true"/>
+<node id="-3648" lat="45.527421364" lon="-122.499478557" visible="true"/>
+<node id="-3650" lat="45.527183492" lon="-122.499362842" visible="true"/>
+<node id="-3651" lat="45.527104186" lon="-122.499367855" visible="true"/>
+<node id="-3652" lat="45.527107733" lon="-122.499469463" visible="true"/>
+<node id="-3653" lat="45.527158182" lon="-122.499467337" visible="true"/>
+<node id="-3654" lat="45.52715956" lon="-122.499506417" visible="true"/>
+<node id="-3655" lat="45.527198356" lon="-122.49950388" visible="true"/>
+<node id="-3656" lat="45.527197012" lon="-122.49946285" visible="true"/>
+<node id="-3657" lat="45.527187073" lon="-122.4994625" visible="true"/>
+<node id="-3659" lat="45.527127238" lon="-122.499848878" visible="true"/>
+<node id="-3660" lat="45.527186775" lon="-122.49984835" visible="true"/>
+<node id="-3661" lat="45.527186181" lon="-122.499712826" visible="true"/>
+<node id="-3662" lat="45.527126644" lon="-122.499713354" visible="true"/>
+<node id="-3664" lat="45.527053532" lon="-122.499876636" visible="true"/>
+<node id="-3665" lat="45.52708449" lon="-122.499876362" visible="true"/>
+<node id="-3666" lat="45.527084075" lon="-122.499781495" visible="true"/>
+<node id="-3667" lat="45.527053116" lon="-122.49978177" visible="true"/>
+<node id="-3669" lat="45.526721616" lon="-122.501038943" visible="true"/>
+<node id="-3670" lat="45.526660861" lon="-122.501042372" visible="true"/>
+<node id="-3671" lat="45.526664695" lon="-122.501159498" visible="true"/>
+<node id="-3672" lat="45.526725449" lon="-122.501156068" visible="true"/>
+<node id="-3674" lat="45.52689519" lon="-122.501134196" visible="true"/>
+<node id="-3675" lat="45.52683737" lon="-122.50113773" visible="true"/>
+<node id="-3676" lat="45.526840566" lon="-122.501235336" visible="true"/>
+<node id="-3677" lat="45.526898409" lon="-122.50123041" visible="true"/>
+<node id="-3679" lat="45.528536383" lon="-122.500241191" visible="true"/>
+<node id="-3680" lat="45.528490696" lon="-122.500241596" visible="true"/>
+<node id="-3681" lat="45.528490979" lon="-122.500306597" visible="true"/>
+<node id="-3682" lat="45.528536667" lon="-122.500306192" visible="true"/>
+<node id="-3684" lat="45.528692135" lon="-122.500934054" visible="true"/>
+<node id="-3685" lat="45.528641163" lon="-122.500937829" visible="true"/>
+<node id="-3686" lat="45.528643792" lon="-122.501011741" visible="true"/>
+<node id="-3687" lat="45.528694763" lon="-122.501007967" visible="true"/>
+<node id="-3689" lat="45.528662286" lon="-122.500062793" visible="true"/>
+<node id="-3690" lat="45.528620752" lon="-122.500063161" visible="true"/>
+<node id="-3691" lat="45.528621619" lon="-122.50026112" visible="true"/>
+<node id="-3692" lat="45.528663152" lon="-122.500260752" visible="true"/>
+<node id="-3694" lat="45.532250755" lon="-122.50186452" visible="true"/>
+<node id="-3695" lat="45.532228546" lon="-122.501864715" visible="true"/>
+<node id="-3696" lat="45.532228948" lon="-122.50195688" visible="true"/>
+<node id="-3697" lat="45.532251157" lon="-122.501956685" visible="true"/>
+<node id="-3699" lat="45.532372468" lon="-122.501763376" visible="true"/>
+<node id="-3700" lat="45.532337304" lon="-122.501763686" visible="true"/>
+<node id="-3701" lat="45.532337763" lon="-122.501869019" visible="true"/>
+<node id="-3702" lat="45.532372927" lon="-122.501868708" visible="true"/>
+<node id="-3704" lat="45.531810643" lon="-122.496472184" visible="true"/>
+<node id="-3705" lat="45.531864695" lon="-122.496471702" visible="true"/>
+<node id="-3706" lat="45.531864488" lon="-122.49642489" visible="true"/>
+<node id="-3707" lat="45.531810436" lon="-122.496425372" visible="true"/>
+<node id="-3709" lat="45.531892086" lon="-122.496480021" visible="true"/>
+<node id="-3710" lat="45.531851576" lon="-122.4964825" visible="true"/>
+<node id="-3711" lat="45.531852887" lon="-122.496525485" visible="true"/>
+<node id="-3712" lat="45.531893397" lon="-122.496523006" visible="true"/>
+<node id="-3714" lat="45.531029837" lon="-122.496883761" visible="true"/>
+<node id="-3715" lat="45.531062738" lon="-122.496883468" visible="true"/>
+<node id="-3716" lat="45.531062533" lon="-122.496836655" visible="true"/>
+<node id="-3717" lat="45.531029631" lon="-122.496836948" visible="true"/>
+<node id="-3719" lat="45.531035647" lon="-122.496939169" visible="true"/>
+<node id="-3720" lat="45.5310283" lon="-122.496939529" visible="true"/>
+<node id="-3721" lat="45.531030036" lon="-122.496978678" visible="true"/>
+<node id="-3722" lat="45.531052847" lon="-122.496977475" visible="true"/>
+<node id="-3723" lat="45.531051432" lon="-122.496938187" visible="true"/>
+<node id="-3725" lat="45.532219439" lon="-122.498166153" visible="true"/>
+<node id="-3726" lat="45.532068816" lon="-122.498199887" visible="true"/>
+<node id="-3727" lat="45.532079802" lon="-122.498297862" visible="true"/>
+<node id="-3728" lat="45.532230424" lon="-122.498264128" visible="true"/>
+<node id="-3730" lat="45.533391183" lon="-122.498517637" visible="true"/>
+<node id="-3731" lat="45.533324071" lon="-122.498513219" visible="true"/>
+<node id="-3732" lat="45.533321512" lon="-122.498591913" visible="true"/>
+<node id="-3734" lat="45.531885904" lon="-122.49954797" visible="true"/>
+<node id="-3735" lat="45.531778255" lon="-122.499555889" visible="true"/>
+<node id="-3736" lat="45.531784693" lon="-122.499727871" visible="true"/>
+<node id="-3737" lat="45.531892343" lon="-122.499719952" visible="true"/>
+<node id="-3739" lat="45.532850128" lon="-122.497521447" visible="true"/>
+<node id="-3740" lat="45.532742964" lon="-122.497522402" visible="true"/>
+<node id="-3741" lat="45.532744513" lon="-122.497874798" visible="true"/>
+<node id="-3742" lat="45.532851678" lon="-122.497873845" visible="true"/>
+<node id="-3744" lat="45.532326404" lon="-122.501378201" visible="true"/>
+<node id="-3745" lat="45.532231165" lon="-122.501394344" visible="true"/>
+<node id="-3746" lat="45.532236656" lon="-122.50147254" visible="true"/>
+<node id="-3747" lat="45.532247466" lon="-122.501470135" visible="true"/>
+<node id="-3748" lat="45.532249674" lon="-122.501511998" visible="true"/>
+<node id="-3749" lat="45.53236355" lon="-122.501493728" visible="true"/>
+<node id="-3750" lat="45.53235637" lon="-122.50140015" visible="true"/>
+<node id="-3751" lat="45.532328879" lon="-122.501404753" visible="true"/>
+<node id="-3753" lat="45.531897425" lon="-122.50429519" visible="true"/>
+<node id="-3754" lat="45.53182619" lon="-122.504295816" visible="true"/>
+<node id="-3755" lat="45.53182663" lon="-122.50439717" visible="true"/>
+<node id="-3756" lat="45.531897864" lon="-122.504396544" visible="true"/>
+<node id="-3758" lat="45.527229873" lon="-122.503526512" visible="true"/>
+<node id="-3759" lat="45.527169649" lon="-122.503527041" visible="true"/>
+<node id="-3760" lat="45.527170188" lon="-122.503651131" visible="true"/>
+<node id="-3761" lat="45.527205492" lon="-122.503650822" visible="true"/>
+<node id="-3762" lat="45.527205094" lon="-122.503559231" visible="true"/>
+<node id="-3763" lat="45.527230014" lon="-122.503559011" visible="true"/>
+<node id="-3765" lat="45.527623984" lon="-122.502906925" visible="true"/>
+<node id="-3766" lat="45.52758234" lon="-122.502905456" visible="true"/>
+<node id="-3767" lat="45.527582132" lon="-122.502989883" visible="true"/>
+<node id="-3768" lat="45.527623871" lon="-122.502985966" visible="true"/>
+<node id="-3770" lat="45.527738194" lon="-122.503381634" visible="true"/>
+<node id="-3771" lat="45.527661247" lon="-122.503377121" visible="true"/>
+<node id="-3772" lat="45.527662958" lon="-122.50342389" visible="true"/>
+<node id="-3773" lat="45.527736274" lon="-122.503419291" visible="true"/>
+<node id="-3775" lat="45.528690281" lon="-122.503147278" visible="true"/>
+<node id="-3776" lat="45.528573985" lon="-122.503148302" visible="true"/>
+<node id="-3777" lat="45.528574422" lon="-122.503248758" visible="true"/>
+<node id="-3778" lat="45.528690718" lon="-122.503247734" visible="true"/>
+<node id="-3780" lat="45.529300291" lon="-122.504350362" visible="true"/>
+<node id="-3781" lat="45.529218075" lon="-122.504357708" visible="true"/>
+<node id="-3782" lat="45.529227191" lon="-122.504564232" visible="true"/>
+<node id="-3783" lat="45.529309407" lon="-122.504556888" visible="true"/>
+<node id="-3785" lat="45.526710256" lon="-122.504260154" visible="true"/>
+<node id="-3786" lat="45.526610491" lon="-122.504256234" visible="true"/>
+<node id="-3787" lat="45.526611327" lon="-122.50448786" visible="true"/>
+<node id="-3788" lat="45.526874649" lon="-122.5044888" visible="true"/>
+<node id="-3789" lat="45.526875217" lon="-122.504343973" visible="true"/>
+<node id="-3790" lat="45.526709778" lon="-122.504343702" visible="true"/>
+<node id="-3792" lat="45.527062276" lon="-122.505357248" visible="true"/>
+<node id="-3793" lat="45.526978988" lon="-122.505354306" visible="true"/>
+<node id="-3794" lat="45.52697367" lon="-122.505731376" visible="true"/>
+<node id="-3795" lat="45.527058282" lon="-122.505730772" visible="true"/>
+<node id="-3797" lat="45.527057969" lon="-122.505748726" visible="true"/>
+<node id="-3798" lat="45.526974587" lon="-122.505751167" visible="true"/>
+<node id="-3799" lat="45.526972043" lon="-122.506113963" visible="true"/>
+<node id="-3800" lat="45.527055299" lon="-122.506118703" visible="true"/>
+<node id="-3802" lat="45.529784701" lon="-122.50065853" visible="true"/>
+<node id="-3803" lat="45.529744492" lon="-122.500662685" visible="true"/>
+<node id="-3804" lat="45.529747314" lon="-122.500725462" visible="true"/>
+<node id="-3805" lat="45.529786546" lon="-122.500721273" visible="true"/>
+<node id="-3807" lat="45.527718136" lon="-122.497074859" visible="true"/>
+<node id="-3808" lat="45.527680196" lon="-122.497077428" visible="true"/>
+<node id="-3809" lat="45.527686125" lon="-122.497249378" visible="true"/>
+<node id="-3810" lat="45.527724064" lon="-122.49724681" visible="true"/>
+<node id="-3812" lat="45.527494786" lon="-122.496577149" visible="true"/>
+<node id="-3813" lat="45.527429223" lon="-122.496580698" visible="true"/>
+<node id="-3814" lat="45.527431879" lon="-122.496664711" visible="true"/>
+<node id="-3815" lat="45.527497647" lon="-122.496659217" visible="true"/>
+<node id="-3817" lat="45.527514718" lon="-122.497028672" visible="true"/>
+<node id="-3818" lat="45.527448127" lon="-122.497032184" visible="true"/>
+<node id="-3819" lat="45.527450749" lon="-122.497118147" visible="true"/>
+<node id="-3820" lat="45.527517512" lon="-122.497114641" visible="true"/>
+<node id="-3822" lat="45.527653313" lon="-122.497183821" visible="true"/>
+<node id="-3823" lat="45.527472047" lon="-122.497195009" visible="true"/>
+<node id="-3824" lat="45.52747684" lon="-122.4973435" visible="true"/>
+<node id="-3825" lat="45.527657968" lon="-122.497330356" visible="true"/>
+<node id="-3827" lat="45.527399589" lon="-122.498256085" visible="true"/>
+<node id="-3828" lat="45.527284571" lon="-122.498263746" visible="true"/>
+<node id="-3829" lat="45.527291429" lon="-122.498470857" visible="true"/>
+<node id="-3830" lat="45.527406447" lon="-122.498463196" visible="true"/>
+<node id="-3832" lat="45.527395647" lon="-122.497338692" visible="true"/>
+<node id="-3833" lat="45.527303111" lon="-122.497345194" visible="true"/>
+<node id="-3834" lat="45.527311282" lon="-122.497595287" visible="true"/>
+<node id="-3835" lat="45.527403817" lon="-122.497588785" visible="true"/>
+<node id="-3837" lat="45.527376911" lon="-122.496867696" visible="true"/>
+<node id="-3838" lat="45.527201643" lon="-122.496879096" visible="true"/>
+<node id="-3839" lat="45.527206089" lon="-122.497008058" visible="true"/>
+<node id="-3840" lat="45.527381529" lon="-122.496996664" visible="true"/>
+<node id="-3842" lat="45.527537124" lon="-122.498067716" visible="true"/>
+<node id="-3843" lat="45.527284949" lon="-122.498084212" visible="true"/>
+<node id="-3844" lat="45.527289532" lon="-122.498215131" visible="true"/>
+<node id="-3845" lat="45.527541707" lon="-122.498198635" visible="true"/>
+<node id="-3847" lat="45.527182568" lon="-122.497493178" visible="true"/>
+<node id="-3848" lat="45.527090136" lon="-122.497493829" visible="true"/>
+<node id="-3849" lat="45.527091108" lon="-122.497743668" visible="true"/>
+<node id="-3850" lat="45.527183336" lon="-122.497744961" visible="true"/>
+<node id="-3852" lat="45.527695367" lon="-122.498473366" visible="true"/>
+<node id="-3853" lat="45.527243008" lon="-122.498504282" visible="true"/>
+<node id="-3854" lat="45.527247934" lon="-122.498644971" visible="true"/>
+<node id="-3855" lat="45.527700294" lon="-122.498614056" visible="true"/>
+<node id="-3857" lat="45.527351906" lon="-122.496589689" visible="true"/>
+<node id="-3858" lat="45.5272568" lon="-122.496596102" visible="true"/>
+<node id="-3859" lat="45.527265177" lon="-122.49684425" visible="true"/>
+<node id="-3860" lat="45.527360249" lon="-122.496839787" visible="true"/>
+<node id="-3862" lat="45.527364023" lon="-122.497037032" visible="true"/>
+<node id="-3863" lat="45.527271146" lon="-122.497043523" visible="true"/>
+<node id="-3864" lat="45.52727935" lon="-122.497291665" visible="true"/>
+<node id="-3865" lat="45.527372399" lon="-122.49728518" visible="true"/>
+<node id="-3867" lat="45.528912795" lon="-122.49699626" visible="true"/>
+<node id="-3868" lat="45.528966847" lon="-122.496995779" visible="true"/>
+<node id="-3869" lat="45.528966288" lon="-122.496868721" visible="true"/>
+<node id="-3870" lat="45.528912235" lon="-122.496869203" visible="true"/>
+<node id="-3872" lat="45.528881155" lon="-122.497221005" visible="true"/>
+<node id="-3873" lat="45.528880752" lon="-122.497129524" visible="true"/>
+<node id="-3874" lat="45.528902185" lon="-122.497129333" visible="true"/>
+<node id="-3875" lat="45.528901543" lon="-122.496983641" visible="true"/>
+<node id="-3876" lat="45.528789616" lon="-122.496984638" visible="true"/>
+<node id="-3877" lat="45.528790257" lon="-122.49713033" visible="true"/>
+<node id="-3878" lat="45.528814072" lon="-122.497130118" visible="true"/>
+<node id="-3879" lat="45.528814474" lon="-122.4972216" visible="true"/>
+<node id="-3880" lat="45.528800185" lon="-122.497221727" visible="true"/>
+<node id="-3881" lat="45.528800722" lon="-122.497343701" visible="true"/>
+<node id="-3882" lat="45.528926939" lon="-122.497342577" visible="true"/>
+<node id="-3883" lat="45.528926402" lon="-122.497220603" visible="true"/>
+<node id="-3885" lat="45.529286269" lon="-122.500390482" visible="true"/>
+<node id="-3886" lat="45.529197069" lon="-122.500397088" visible="true"/>
+<node id="-3887" lat="45.52920257" lon="-122.500530993" visible="true"/>
+<node id="-3888" lat="45.52929177" lon="-122.500524387" visible="true"/>
+<node id="-3890" lat="45.529500236" lon="-122.500126984" visible="true"/>
+<node id="-3891" lat="45.529491719" lon="-122.50024455" visible="true"/>
+<node id="-3892" lat="45.529624718" lon="-122.500264056" visible="true"/>
+<node id="-3893" lat="45.529633235" lon="-122.50014649" visible="true"/>
+<node id="-3895" lat="45.532091963" lon="-122.498081644" visible="true"/>
+<node id="-3896" lat="45.532056664" lon="-122.49809016" visible="true"/>
+<node id="-3897" lat="45.532066585" lon="-122.498180291" visible="true"/>
+<node id="-3898" lat="45.532101884" lon="-122.498171774" visible="true"/>
+<node id="-3900" lat="45.532175026" lon="-122.498097433" visible="true"/>
+<node id="-3901" lat="45.532162761" lon="-122.497980504" visible="true"/>
+<node id="-3902" lat="45.53212989" lon="-122.497987484" visible="true"/>
+<node id="-3903" lat="45.532142154" lon="-122.498104414" visible="true"/>
+<node id="-3905" lat="45.532841474" lon="-122.497912845" visible="true"/>
+<node id="-3906" lat="45.532764738" lon="-122.497917951" visible="true"/>
+<node id="-3907" lat="45.532769423" lon="-122.498043031" visible="true"/>
+<node id="-3908" lat="45.532845987" lon="-122.498037918" visible="true"/>
+<node id="-3910" lat="45.52964881" lon="-122.50007012" visible="true"/>
+<node id="-3911" lat="45.529647686" lon="-122.500134755" visible="true"/>
+<node id="-3912" lat="45.529679266" lon="-122.500134072" visible="true"/>
+<node id="-3913" lat="45.529681558" lon="-122.500074866" visible="true"/>
+<node id="-3915" lat="45.5297202" lon="-122.500611599" visible="true"/>
+<node id="-3916" lat="45.529692405" lon="-122.500612415" visible="true"/>
+<node id="-3917" lat="45.529696421" lon="-122.500671843" visible="true"/>
+<node id="-3918" lat="45.529724279" lon="-122.500667434" visible="true"/>
+<node id="-3920" lat="45.532705263" lon="-122.498698568" visible="true"/>
+<node id="-3921" lat="45.532610005" lon="-122.498699414" visible="true"/>
+<node id="-3922" lat="45.53261063" lon="-122.498841728" visible="true"/>
+<node id="-3923" lat="45.532705888" lon="-122.498840882" visible="true"/>
+<node id="-3925" lat="45.532540483" lon="-122.498052819" visible="true"/>
+<node id="-3926" lat="45.532464276" lon="-122.498053497" visible="true"/>
+<node id="-3927" lat="45.532464917" lon="-122.498199198" visible="true"/>
+<node id="-3928" lat="45.532541123" lon="-122.498198521" visible="true"/>
+<node id="-3930" lat="45.531485791" lon="-122.503316846" visible="true"/>
+<node id="-3931" lat="45.531388837" lon="-122.503318994" visible="true"/>
+<node id="-3932" lat="45.53139064" lon="-122.503440237" visible="true"/>
+<node id="-3933" lat="45.531487618" lon="-122.503436697" visible="true"/>
+<node id="-3935" lat="45.53338473" lon="-122.503835819" visible="true"/>
+<node id="-3936" lat="45.533314122" lon="-122.50383644" visible="true"/>
+<node id="-3937" lat="45.533314571" lon="-122.503939859" visible="true"/>
+<node id="-3938" lat="45.533385179" lon="-122.50393924" visible="true"/>
+<node id="-3940" lat="45.5266904" lon="-122.502269033" visible="true"/>
+<node id="-3941" lat="45.526603157" lon="-122.502275705" visible="true"/>
+<node id="-3942" lat="45.526606617" lon="-122.502357999" visible="true"/>
+<node id="-3943" lat="45.526692882" lon="-122.502351292" visible="true"/>
+<node id="-3945" lat="45.52690656" lon="-122.50222373" visible="true"/>
+<node id="-3946" lat="45.526753621" lon="-122.502236442" visible="true"/>
+<node id="-3947" lat="45.526758926" lon="-122.502381476" visible="true"/>
+<node id="-3948" lat="45.526911839" lon="-122.502370158" visible="true"/>
+<node id="-3950" lat="45.526903915" lon="-122.502038402" visible="true"/>
+<node id="-3951" lat="45.526749043" lon="-122.502049653" visible="true"/>
+<node id="-3952" lat="45.526754324" lon="-122.502196078" visible="true"/>
+<node id="-3953" lat="45.52690922" lon="-122.502183434" visible="true"/>
+<node id="-3955" lat="45.526672221" lon="-122.503592896" visible="true"/>
+<node id="-3956" lat="45.526600735" lon="-122.503650262" visible="true"/>
+<node id="-3957" lat="45.526649499" lon="-122.503773152" visible="true"/>
+<node id="-3958" lat="45.526614802" lon="-122.503854099" visible="true"/>
+<node id="-3959" lat="45.526675566" lon="-122.503906382" visible="true"/>
+<node id="-3960" lat="45.526721508" lon="-122.503797977" visible="true"/>
+<node id="-3961" lat="45.526785101" lon="-122.503800221" visible="true"/>
+<node id="-3962" lat="45.526787067" lon="-122.503687478" visible="true"/>
+<node id="-3963" lat="45.526708799" lon="-122.503684715" visible="true"/>
+<node id="-3965" lat="45.530024695" lon="-122.503976547" visible="true"/>
+<node id="-3966" lat="45.529958952" lon="-122.503980868" visible="true"/>
+<node id="-3967" lat="45.529965278" lon="-122.504175724" visible="true"/>
+<node id="-3968" lat="45.530031021" lon="-122.504171403" visible="true"/>
+<node id="-3970" lat="45.528940022" lon="-122.502242884" visible="true"/>
+<node id="-3971" lat="45.528832208" lon="-122.502250225" visible="true"/>
+<node id="-3972" lat="45.528836308" lon="-122.502352043" visible="true"/>
+<node id="-3973" lat="45.528944146" lon="-122.502343312" visible="true"/>
+<node id="-3975" lat="45.529758431" lon="-122.496592351" visible="true"/>
+<node id="-3976" lat="45.529720663" lon="-122.496594926" visible="true"/>
+<node id="-3977" lat="45.52972194" lon="-122.49663986" visible="true"/>
+<node id="-3978" lat="45.529759708" lon="-122.496637285" visible="true"/>
+<node id="-3980" lat="45.526843111" lon="-122.498217512" visible="true"/>
+<node id="-3981" lat="45.526762142" lon="-122.498218233" visible="true"/>
+<node id="-3982" lat="45.526762945" lon="-122.498401189" visible="true"/>
+<node id="-3983" lat="45.526843914" lon="-122.498400468" visible="true"/>
+<node id="-3985" lat="45.527067116" lon="-122.498249403" visible="true"/>
+<node id="-3986" lat="45.526988528" lon="-122.498250102" visible="true"/>
+<node id="-3987" lat="45.526989302" lon="-122.498426282" visible="true"/>
+<node id="-3988" lat="45.52706789" lon="-122.498425583" visible="true"/>
+<node id="-3990" lat="45.528091838" lon="-122.496517501" visible="true"/>
+<node id="-3991" lat="45.527943795" lon="-122.496518822" visible="true"/>
+<node id="-3992" lat="45.527940469" lon="-122.496685907" visible="true"/>
+<node id="-3993" lat="45.528094959" lon="-122.496683941" visible="true"/>
+<node id="-3995" lat="45.528495778" lon="-122.497319651" visible="true"/>
+<node id="-3996" lat="45.528448149" lon="-122.497320074" visible="true"/>
+<node id="-3997" lat="45.528447955" lon="-122.497276029" visible="true"/>
+<node id="-3998" lat="45.528309831" lon="-122.497277259" visible="true"/>
+<node id="-3999" lat="45.528310636" lon="-122.49746022" visible="true"/>
+<node id="-4000" lat="45.528448761" lon="-122.49745899" visible="true"/>
+<node id="-4001" lat="45.528448552" lon="-122.497411556" visible="true"/>
+<node id="-4002" lat="45.528496181" lon="-122.497411131" visible="true"/>
+<node id="-4004" lat="45.529152991" lon="-122.500408366" visible="true"/>
+<node id="-4005" lat="45.529010047" lon="-122.500423089" visible="true"/>
+<node id="-4006" lat="45.529014232" lon="-122.500545401" visible="true"/>
+<node id="-4007" lat="45.529159636" lon="-122.500534356" visible="true"/>
+<node id="-4008" lat="45.529160762" lon="-122.50046972" visible="true"/>
+<node id="-4010" lat="45.529313099" lon="-122.500715938" visible="true"/>
+<node id="-4011" lat="45.529290256" lon="-122.500716141" visible="true"/>
+<node id="-4012" lat="45.529290449" lon="-122.50076046" visible="true"/>
+<node id="-4013" lat="45.529313294" lon="-122.500760258" visible="true"/>
+<node id="-4014" lat="45.529313642" lon="-122.500840033" visible="true"/>
+<node id="-4015" lat="45.52939671" lon="-122.500839298" visible="true"/>
+<node id="-4016" lat="45.529396167" lon="-122.500715203" visible="true"/>
+<node id="-4018" lat="45.532444786" lon="-122.497641249" visible="true"/>
+<node id="-4019" lat="45.532384878" lon="-122.497644996" visible="true"/>
+<node id="-4020" lat="45.532389772" lon="-122.497787648" visible="true"/>
+<node id="-4021" lat="45.53244968" lon="-122.497783901" visible="true"/>
+<node id="-4023" lat="45.531403185" lon="-122.50281313" visible="true"/>
+<node id="-4024" lat="45.531369958" lon="-122.502813423" visible="true"/>
+<node id="-4025" lat="45.531370138" lon="-122.50285479" visible="true"/>
+<node id="-4026" lat="45.531403365" lon="-122.502854497" visible="true"/>
+<node id="-4028" lat="45.53140258" lon="-122.502674257" visible="true"/>
+<node id="-4029" lat="45.531375583" lon="-122.502674494" visible="true"/>
+<node id="-4030" lat="45.531375802" lon="-122.502724724" visible="true"/>
+<node id="-4031" lat="45.531402799" lon="-122.502724487" visible="true"/>
+<node id="-4033" lat="45.529249393" lon="-122.500870149" visible="true"/>
+<node id="-4034" lat="45.529224473" lon="-122.50087037" visible="true"/>
+<node id="-4035" lat="45.529224783" lon="-122.500941281" visible="true"/>
+<node id="-4036" lat="45.529249703" lon="-122.500941061" visible="true"/>
+<node id="-4038" lat="45.531993518" lon="-122.500553341" visible="true"/>
+<node id="-4039" lat="45.531924986" lon="-122.500553947" visible="true"/>
+<node id="-4040" lat="45.5319254" lon="-122.500648501" visible="true"/>
+<node id="-4041" lat="45.531993931" lon="-122.500647893" visible="true"/>
+<node id="-4043" lat="45.529942831" lon="-122.500822649" visible="true"/>
+<node id="-4044" lat="45.529907528" lon="-122.50082296" visible="true"/>
+<node id="-4045" lat="45.529907748" lon="-122.50087319" visible="true"/>
+<node id="-4046" lat="45.529943051" lon="-122.500872878" visible="true"/>
+<node id="-4048" lat="45.531761949" lon="-122.500670808" visible="true"/>
+<node id="-4049" lat="45.531711955" lon="-122.500674617" visible="true"/>
+<node id="-4050" lat="45.531716793" lon="-122.500790397" visible="true"/>
+<node id="-4051" lat="45.531766761" lon="-122.500787979" visible="true"/>
+<node id="-4053" lat="45.531178817" lon="-122.500415764" visible="true"/>
+<node id="-4054" lat="45.531104056" lon="-122.500416426" visible="true"/>
+<node id="-4055" lat="45.531104456" lon="-122.500508023" visible="true"/>
+<node id="-4056" lat="45.531179217" lon="-122.500507361" visible="true"/>
+<node id="-4058" lat="45.530412565" lon="-122.500728117" visible="true"/>
+<node id="-4059" lat="45.530352763" lon="-122.500732975" visible="true"/>
+<node id="-4060" lat="45.530355344" lon="-122.500809671" visible="true"/>
+<node id="-4061" lat="45.530416123" lon="-122.500804849" visible="true"/>
+<node id="-4063" lat="45.528180658" lon="-122.50343837" visible="true"/>
+<node id="-4064" lat="45.52812874" lon="-122.503438828" visible="true"/>
+<node id="-4065" lat="45.528128856" lon="-122.503465418" visible="true"/>
+<node id="-4066" lat="45.528180773" lon="-122.503464962" visible="true"/>
+<node id="-4068" lat="45.526735331" lon="-122.499164455" visible="true"/>
+<node id="-4069" lat="45.52665198" lon="-122.499165194" visible="true"/>
+<node id="-4070" lat="45.526652054" lon="-122.499182135" visible="true"/>
+<node id="-4071" lat="45.526587755" lon="-122.499182704" visible="true"/>
+<node id="-4072" lat="45.526588631" lon="-122.4993826" visible="true"/>
+<node id="-4073" lat="45.526781529" lon="-122.499380889" visible="true"/>
+<node id="-4074" lat="45.526780653" lon="-122.499180994" visible="true"/>
+<node id="-4075" lat="45.526735406" lon="-122.499181394" visible="true"/>
+<node id="-4077" lat="45.529223473" lon="-122.497079372" visible="true"/>
+<node id="-4078" lat="45.529075824" lon="-122.497080689" visible="true"/>
+<node id="-4079" lat="45.52907654" lon="-122.497243322" visible="true"/>
+<node id="-4080" lat="45.52922419" lon="-122.497242006" visible="true"/>
+<node id="-4082" lat="45.529593073" lon="-122.497200856" visible="true"/>
+<node id="-4083" lat="45.529555304" lon="-122.497201192" visible="true"/>
+<node id="-4084" lat="45.529555657" lon="-122.49728144" visible="true"/>
+<node id="-4085" lat="45.529609709" lon="-122.497280958" visible="true"/>
+<node id="-4086" lat="45.529609357" lon="-122.497200711" visible="true"/>
+<node id="-4088" lat="45.529342159" lon="-122.502139875" visible="true"/>
+<node id="-4089" lat="45.529284601" lon="-122.50220303" visible="true"/>
+<node id="-4090" lat="45.529314451" lon="-122.502258097" visible="true"/>
+<node id="-4091" lat="45.52928052" lon="-122.502295327" visible="true"/>
+<node id="-4092" lat="45.529310112" lon="-122.502349918" visible="true"/>
+<node id="-4093" lat="45.529341366" lon="-122.502315625" visible="true"/>
+<node id="-4094" lat="45.529422197" lon="-122.502464748" visible="true"/>
+<node id="-4095" lat="45.529482431" lon="-122.502398658" visible="true"/>
+<node id="-4097" lat="45.530275594" lon="-122.499038445" visible="true"/>
+<node id="-4098" lat="45.530332867" lon="-122.499030292" visible="true"/>
+<node id="-4099" lat="45.53033072" lon="-122.498999762" visible="true"/>
+<node id="-4100" lat="45.530273447" lon="-122.499007914" visible="true"/>
+<node id="-4102" lat="45.531780484" lon="-122.501704677" visible="true"/>
+<node id="-4103" lat="45.531699492" lon="-122.501705392" visible="true"/>
+<node id="-4104" lat="45.53169966" lon="-122.501743804" visible="true"/>
+<node id="-4105" lat="45.531643588" lon="-122.5017443" visible="true"/>
+<node id="-4106" lat="45.531644491" lon="-122.501951134" visible="true"/>
+<node id="-4107" lat="45.531715098" lon="-122.50195051" visible="true"/>
+<node id="-4108" lat="45.53171506" lon="-122.501941646" visible="true"/>
+<node id="-4109" lat="45.531829279" lon="-122.501940637" visible="true"/>
+<node id="-4110" lat="45.531828879" lon="-122.50184904" visible="true"/>
+<node id="-4111" lat="45.531781115" lon="-122.501849461" visible="true"/>
+<node id="-4113" lat="45.530736375" lon="-122.496293" visible="true"/>
+<node id="-4114" lat="45.530545102" lon="-122.496307743" visible="true"/>
+<node id="-4115" lat="45.530548755" lon="-122.496403505" visible="true"/>
+<node id="-4116" lat="45.530739856" lon="-122.496388757" visible="true"/>
+<node id="-4118" lat="45.531096307" lon="-122.496291994" visible="true"/>
+<node id="-4119" lat="45.531015458" lon="-122.496296958" visible="true"/>
+<node id="-4120" lat="45.531024908" lon="-122.496592002" visible="true"/>
+<node id="-4121" lat="45.531053388" lon="-122.496591052" visible="true"/>
+<node id="-4122" lat="45.531057111" lon="-122.496702431" visible="true"/>
+<node id="-4123" lat="45.531170072" lon="-122.496694694" visible="true"/>
+<node id="-4124" lat="45.531171485" lon="-122.496731826" visible="true"/>
+<node id="-4125" lat="45.531216107" lon="-122.496729492" visible="true"/>
+<node id="-4126" lat="45.531211348" lon="-122.496579041" visible="true"/>
+<node id="-4127" lat="45.531105756" lon="-122.496587038" visible="true"/>
+<node id="-4129" lat="45.530838324" lon="-122.498226358" visible="true"/>
+<node id="-4130" lat="45.530873577" lon="-122.498226044" visible="true"/>
+<node id="-4131" lat="45.530873327" lon="-122.4981692" visible="true"/>
+<node id="-4132" lat="45.530838075" lon="-122.498169514" visible="true"/>
+<node id="-4134" lat="45.528253834" lon="-122.500886774" visible="true"/>
+<node id="-4135" lat="45.528162652" lon="-122.500894703" visible="true"/>
+<node id="-4136" lat="45.528164981" lon="-122.500929604" visible="true"/>
+<node id="-4137" lat="45.528179681" lon="-122.500928728" visible="true"/>
+<node id="-4138" lat="45.528185724" lon="-122.501087719" visible="true"/>
+<node id="-4139" lat="45.528217078" lon="-122.501086038" visible="true"/>
+<node id="-4140" lat="45.528216609" lon="-122.501056776" visible="true"/>
+<node id="-4141" lat="45.52825973" lon="-122.501054117" visible="true"/>
+<node id="-4143" lat="45.528372416" lon="-122.500317618" visible="true"/>
+<node id="-4144" lat="45.528348439" lon="-122.500316773" visible="true"/>
+<node id="-4145" lat="45.528348545" lon="-122.500383248" visible="true"/>
+<node id="-4146" lat="45.528373846" lon="-122.500380547" visible="true"/>
+<node id="-4148" lat="45.528580742" lon="-122.49984476" visible="true"/>
+<node id="-4149" lat="45.528523587" lon="-122.499845267" visible="true"/>
+<node id="-4150" lat="45.528524521" lon="-122.500058722" visible="true"/>
+<node id="-4151" lat="45.528600728" lon="-122.500058048" visible="true"/>
+<node id="-4152" lat="45.528600432" lon="-122.499990284" visible="true"/>
+<node id="-4153" lat="45.52858138" lon="-122.499990452" visible="true"/>
+<node id="-4155" lat="45.528696455" lon="-122.499889056" visible="true"/>
+<node id="-4156" lat="45.528703372" lon="-122.500017821" visible="true"/>
+<node id="-4157" lat="45.528839418" lon="-122.500003026" visible="true"/>
+<node id="-4158" lat="45.528832499" lon="-122.499874261" visible="true"/>
+<node id="-4160" lat="45.529282826" lon="-122.501868562" visible="true"/>
+<node id="-4161" lat="45.529245446" lon="-122.50186889" visible="true"/>
+<node id="-4162" lat="45.529245742" lon="-122.501936848" visible="true"/>
+<node id="-4163" lat="45.529283122" lon="-122.501936518" visible="true"/>
+<node id="-4165" lat="45.529089845" lon="-122.503363809" visible="true"/>
+<node id="-4166" lat="45.529013388" lon="-122.503369467" visible="true"/>
+<node id="-4167" lat="45.529018029" lon="-122.503496376" visible="true"/>
+<node id="-4168" lat="45.529094462" lon="-122.503492109" visible="true"/>
+<node id="-4170" lat="45.526688095" lon="-122.502064216" visible="true"/>
+<node id="-4171" lat="45.526602808" lon="-122.502070959" visible="true"/>
+<node id="-4172" lat="45.526606222" lon="-122.502156036" visible="true"/>
+<node id="-4173" lat="45.526691507" lon="-122.502149296" visible="true"/>
+<node id="-4175" lat="45.532206985" lon="-122.50433703" visible="true"/>
+<node id="-4176" lat="45.532117835" lon="-122.504340848" visible="true"/>
+<node id="-4177" lat="45.532118972" lon="-122.504443962" visible="true"/>
+<node id="-4178" lat="45.532209077" lon="-122.504441571" visible="true"/>
+<node id="-4180" lat="45.533095685" lon="-122.502463239" visible="true"/>
+<node id="-4181" lat="45.532986942" lon="-122.502467759" visible="true"/>
+<node id="-4182" lat="45.532989845" lon="-122.502582079" visible="true"/>
+<node id="-4183" lat="45.533098587" lon="-122.502577559" visible="true"/>
+<node id="-4185" lat="45.530417598" lon="-122.501536274" visible="true"/>
+<node id="-4186" lat="45.53029934" lon="-122.501543716" visible="true"/>
+<node id="-4187" lat="45.53030356" lon="-122.501679502" visible="true"/>
+<node id="-4188" lat="45.530421819" lon="-122.501672061" visible="true"/>
+<node id="-4190" lat="45.531440693" lon="-122.506119311" visible="true"/>
+<node id="-4191" lat="45.531437545" lon="-122.505963199" visible="true"/>
+<node id="-4192" lat="45.531374832" lon="-122.505966556" visible="true"/>
+<node id="-4194" lat="45.531558995" lon="-122.497926263" visible="true"/>
+<node id="-4195" lat="45.531489628" lon="-122.497931629" visible="true"/>
+<node id="-4196" lat="45.531494346" lon="-122.498054755" visible="true"/>
+<node id="-4197" lat="45.531563507" lon="-122.498051334" visible="true"/>
+<node id="-4199" lat="45.531257351" lon="-122.499991548" visible="true"/>
+<node id="-4200" lat="45.531346656" lon="-122.499990756" visible="true"/>
+<node id="-4201" lat="45.531346114" lon="-122.499867037" visible="true"/>
+<node id="-4202" lat="45.531256809" lon="-122.499867829" visible="true"/>
+<node id="-4204" lat="45.533043011" lon="-122.497516341" visible="true"/>
+<node id="-4205" lat="45.53289298" lon="-122.497517677" visible="true"/>
+<node id="-4206" lat="45.532893725" lon="-122.4976871" visible="true"/>
+<node id="-4207" lat="45.533043756" lon="-122.497685764" visible="true"/>
+<node id="-4209" lat="45.532891058" lon="-122.498049263" visible="true"/>
+<node id="-4210" lat="45.532848457" lon="-122.498053619" visible="true"/>
+<node id="-4211" lat="45.532851141" lon="-122.498106412" visible="true"/>
+<node id="-4212" lat="45.532808541" lon="-122.498110768" visible="true"/>
+<node id="-4213" lat="45.532815625" lon="-122.498245691" visible="true"/>
+<node id="-4214" lat="45.532918168" lon="-122.498235638" visible="true"/>
+<node id="-4215" lat="45.532911529" lon="-122.498104634" visible="true"/>
+<node id="-4216" lat="45.532894187" lon="-122.498105975" visible="true"/>
+<node id="-4218" lat="45.531137582" lon="-122.497869245" visible="true"/>
+<node id="-4219" lat="45.531179884" lon="-122.497868869" visible="true"/>
+<node id="-4220" lat="45.531179473" lon="-122.497775243" visible="true"/>
+<node id="-4221" lat="45.53113717" lon="-122.49777562" visible="true"/>
+<node id="-4223" lat="45.533317313" lon="-122.497582327" visible="true"/>
+<node id="-4224" lat="45.533369016" lon="-122.497581866" visible="true"/>
+<node id="-4225" lat="45.533368735" lon="-122.497518333" visible="true"/>
+<node id="-4226" lat="45.533317033" lon="-122.497518793" visible="true"/>
 <way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-2"/><tag k="addr:housenumber" v="1100"/><tag k="building" v="detached"/><tag k="height" v="6.3"/><tag k="addr:city" v="Portland"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="97230"/><tag k="ele" v="95.9"/><tag k="addr:street" v="Northeast 152nd Avenue"/></way>
 <way id="-6" visible="true"><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-7"/><tag k="addr:housenumber" v="1120"/><tag k="building" v="detached"/><tag k="height" v="6.8"/><tag k="addr:city" v="Portland"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="97230"/><tag k="ele" v="94.1"/><tag k="addr:street" v="Northeast 152nd Avenue"/></way>
 <way id="-14" visible="true"><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-22"/><nd ref="-23"/><nd ref="-24"/><nd ref="-15"/><tag k="addr:housenumber" v="1140"/><tag k="building" v="detached"/><tag k="height" v="6.4"/><tag k="addr:city" v="Portland"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="97230"/><tag k="ele" v="94.0"/><tag k="addr:street" v="Northeast 152nd Avenue"/></way>
@@ -4069,155 +4074,156 @@
 <way id="-3362" visible="true"><nd ref="-3363"/><nd ref="-3364"/><nd ref="-3365"/><nd ref="-3366"/><nd ref="-3363"/><tag k="addr:housenumber" v="16143"/><tag k="building" v="yes"/><tag k="addr:city" v="Portland"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="97230"/><tag k="ele" v="81.2"/><tag k="addr:street" v="Northeast Wasco Court"/></way>
 <way id="-3367" visible="true"><nd ref="-3368"/><nd ref="-3369"/><nd ref="-3370"/><nd ref="-3371"/><nd ref="-3368"/><tag k="addr:housenumber" v="16172"/><tag k="building" v="yes"/><tag k="addr:city" v="Portland"/><tag k="addr:postcode" v="97230"/><tag k="ele" v="81.4"/><tag k="addr:street" v="Northeast Wasco Court"/></way>
 <way id="-3372" visible="true"><nd ref="-3373"/><nd ref="-3374"/><nd ref="-3375"/><nd ref="-3376"/><nd ref="-3373"/><tag k="addr:housenumber" v="16175"/><tag k="building" v="yes"/><tag k="addr:city" v="Portland"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="97230"/><tag k="ele" v="80.5"/><tag k="addr:street" v="Northeast Wasco Court"/></way>
-<way id="-3377" visible="true"><nd ref="-3378"/><nd ref="-3379"/><nd ref="-3380"/><nd ref="-3381"/><nd ref="-3378"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="5.1"/><tag k="ele" v="98.6"/></way>
-<way id="-3382" visible="true"><nd ref="-3383"/><nd ref="-3384"/><nd ref="-3385"/><nd ref="-3386"/><nd ref="-3383"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="4.0"/><tag k="ele" v="91.9"/></way>
-<way id="-3387" visible="true"><nd ref="-3388"/><nd ref="-3389"/><nd ref="-3390"/><nd ref="-3391"/><nd ref="-3388"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.4"/><tag k="ele" v="91.6"/></way>
-<way id="-3392" visible="true"><nd ref="-3393"/><nd ref="-3394"/><nd ref="-3395"/><nd ref="-3396"/><nd ref="-3393"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="ele" v="92.1"/></way>
-<way id="-3397" visible="true"><nd ref="-3398"/><nd ref="-3399"/><nd ref="-3400"/><nd ref="-3401"/><nd ref="-3398"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.9"/><tag k="ele" v="96.7"/></way>
-<way id="-3402" visible="true"><nd ref="-3403"/><nd ref="-3404"/><nd ref="-3405"/><nd ref="-3406"/><nd ref="-3407"/><nd ref="-3408"/><nd ref="-3409"/><nd ref="-3410"/><nd ref="-3403"/><tag k="building:levels" v="1"/><tag k="building" v="apartments"/><tag k="ele" v="94.2"/></way>
-<way id="-3411" visible="true"><nd ref="-3412"/><nd ref="-3413"/><nd ref="-3414"/><nd ref="-3415"/><nd ref="-3412"/><tag k="building" v="yes"/><tag k="height" v="7.4"/><tag k="ele" v="91.1"/></way>
-<way id="-3416" visible="true"><nd ref="-3417"/><nd ref="-3418"/><nd ref="-3419"/><nd ref="-3420"/><nd ref="-3417"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="ele" v="101.3"/></way>
-<way id="-3421" visible="true"><nd ref="-3422"/><nd ref="-3423"/><nd ref="-3424"/><nd ref="-3425"/><nd ref="-3426"/><nd ref="-3427"/><nd ref="-3428"/><nd ref="-3429"/><nd ref="-3422"/><tag k="building:levels" v="1"/><tag k="building" v="detached"/><tag k="height" v="4.4"/><tag k="ele" v="98.2"/></way>
-<way id="-3430" visible="true"><nd ref="-3431"/><nd ref="-3432"/><nd ref="-3433"/><nd ref="-3434"/><nd ref="-3435"/><nd ref="-3436"/><nd ref="-3437"/><nd ref="-3438"/><nd ref="-3439"/><nd ref="-3440"/><nd ref="-3431"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="8.0"/><tag k="ele" v="92.7"/></way>
-<way id="-3441" visible="true"><nd ref="-3442"/><nd ref="-3443"/><nd ref="-3444"/><nd ref="-3445"/><nd ref="-3442"/><tag k="building" v="yes"/><tag k="height" v="4.5"/><tag k="ele" v="91.3"/></way>
-<way id="-3446" visible="true"><nd ref="-3447"/><nd ref="-3448"/><nd ref="-3449"/><nd ref="-3450"/><nd ref="-3451"/><nd ref="-3452"/><nd ref="-3453"/><nd ref="-3454"/><nd ref="-3455"/><nd ref="-3456"/><nd ref="-3447"/><tag k="building" v="yes"/><tag k="height" v="4.2"/><tag k="ele" v="85.2"/></way>
-<way id="-3457" visible="true"><nd ref="-3458"/><nd ref="-3459"/><nd ref="-3460"/><nd ref="-3461"/><nd ref="-3462"/><nd ref="-3463"/><nd ref="-3464"/><nd ref="-3465"/><nd ref="-3466"/><nd ref="-3467"/><nd ref="-3458"/><tag k="building" v="yes"/><tag k="height" v="5.6"/><tag k="ele" v="84.9"/></way>
-<way id="-3468" visible="true"><nd ref="-3469"/><nd ref="-3470"/><nd ref="-3471"/><nd ref="-3472"/><nd ref="-3469"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="ele" v="74.7"/></way>
-<way id="-3473" visible="true"><nd ref="-3474"/><nd ref="-3475"/><nd ref="-3476"/><nd ref="-3477"/><nd ref="-3474"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="4.1"/><tag k="ele" v="91.8"/></way>
-<way id="-3478" visible="true"><nd ref="-3479"/><nd ref="-3480"/><nd ref="-3481"/><nd ref="-3482"/><nd ref="-3483"/><nd ref="-3484"/><nd ref="-3485"/><nd ref="-3479"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="5.3"/><tag k="ele" v="95.0"/></way>
-<way id="-3486" visible="true"><nd ref="-3487"/><nd ref="-3488"/><nd ref="-3489"/><nd ref="-3490"/><nd ref="-3491"/><nd ref="-3492"/><nd ref="-3493"/><nd ref="-3494"/><nd ref="-3487"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="4.0"/><tag k="ele" v="98.2"/></way>
-<way id="-3495" visible="true"><nd ref="-3496"/><nd ref="-3497"/><nd ref="-3498"/><nd ref="-3499"/><nd ref="-3496"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="4.8"/><tag k="ele" v="95.4"/></way>
-<way id="-3500" visible="true"><nd ref="-3501"/><nd ref="-3502"/><nd ref="-3503"/><nd ref="-3504"/><nd ref="-3501"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="5.2"/><tag k="ele" v="94.5"/></way>
-<way id="-3505" visible="true"><nd ref="-3506"/><nd ref="-3507"/><nd ref="-3508"/><nd ref="-3509"/><nd ref="-3506"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="2.7"/><tag k="ele" v="99.7"/></way>
-<way id="-3510" visible="true"><nd ref="-3511"/><nd ref="-3512"/><nd ref="-3513"/><nd ref="-3514"/><nd ref="-3511"/><tag k="building:levels" v="1"/><tag k="building" v="apartments"/><tag k="height" v="4.2"/><tag k="ele" v="101.6"/></way>
-<way id="-3515" visible="true"><nd ref="-3516"/><nd ref="-3517"/><nd ref="-3518"/><nd ref="-3519"/><nd ref="-3516"/><tag k="building:levels" v="2"/><tag k="building" v="detached"/><tag k="height" v="6.0"/><tag k="ele" v="99.9"/></way>
-<way id="-3520" visible="true"><nd ref="-3521"/><nd ref="-3522"/><nd ref="-3523"/><nd ref="-3524"/><nd ref="-3525"/><nd ref="-3526"/><nd ref="-3527"/><nd ref="-3528"/><nd ref="-3529"/><nd ref="-3521"/><tag k="building:levels" v="1"/><tag k="building" v="apartments"/><tag k="height" v="4.1"/><tag k="ele" v="98.7"/></way>
-<way id="-3530" visible="true"><nd ref="-2760"/><nd ref="-3531"/><nd ref="-3532"/><nd ref="-3533"/><nd ref="-2760"/><tag k="building" v="yes"/><tag k="ele" v="75.2"/></way>
-<way id="-3534" visible="true"><nd ref="-3535"/><nd ref="-3536"/><nd ref="-3537"/><nd ref="-3538"/><nd ref="-3535"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="ele" v="101.4"/></way>
-<way id="-3539" visible="true"><nd ref="-3540"/><nd ref="-3541"/><nd ref="-3542"/><nd ref="-3543"/><nd ref="-3540"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.3"/><tag k="ele" v="96.0"/></way>
-<way id="-3544" visible="true"><nd ref="-3545"/><nd ref="-3546"/><nd ref="-3547"/><nd ref="-3548"/><nd ref="-3549"/><nd ref="-3545"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.4"/><tag k="ele" v="95.9"/></way>
-<way id="-3550" visible="true"><nd ref="-3551"/><nd ref="-3552"/><nd ref="-3553"/><nd ref="-3554"/><nd ref="-3551"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="4.3"/><tag k="ele" v="97.0"/></way>
-<way id="-3555" visible="true"><nd ref="-3556"/><nd ref="-3557"/><nd ref="-3558"/><nd ref="-3559"/><nd ref="-3556"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="ele" v="97.1"/></way>
-<way id="-3560" visible="true"><nd ref="-3561"/><nd ref="-3562"/><nd ref="-3563"/><nd ref="-3564"/><nd ref="-3561"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="ele" v="97.7"/></way>
-<way id="-3565" visible="true"><nd ref="-3566"/><nd ref="-3567"/><nd ref="-3568"/><nd ref="-3569"/><nd ref="-3570"/><nd ref="-3571"/><nd ref="-3572"/><nd ref="-3566"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="4.9"/><tag k="ele" v="98.0"/></way>
-<way id="-3573" visible="true"><nd ref="-3574"/><nd ref="-3575"/><nd ref="-3576"/><nd ref="-3577"/><nd ref="-3574"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="4.7"/><tag k="ele" v="84.4"/></way>
-<way id="-3578" visible="true"><nd ref="-3579"/><nd ref="-3580"/><nd ref="-3581"/><nd ref="-3582"/><nd ref="-3579"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="2.2"/><tag k="ele" v="80.8"/></way>
-<way id="-3583" visible="true"><nd ref="-3584"/><nd ref="-3585"/><nd ref="-3586"/><nd ref="-3587"/><nd ref="-3584"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="ele" v="82.2"/></way>
-<way id="-3588" visible="true"><nd ref="-3589"/><nd ref="-3590"/><nd ref="-3591"/><nd ref="-3592"/><nd ref="-3589"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.3"/><tag k="ele" v="78.2"/></way>
-<way id="-3593" visible="true"><nd ref="-3594"/><nd ref="-3595"/><nd ref="-3596"/><nd ref="-3597"/><nd ref="-3594"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="ele" v="91.6"/></way>
-<way id="-3598" visible="true"><nd ref="-3599"/><nd ref="-3600"/><nd ref="-3601"/><nd ref="-3602"/><nd ref="-3603"/><nd ref="-3604"/><nd ref="-3605"/><nd ref="-3606"/><nd ref="-3599"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="4.7"/><tag k="ele" v="92.6"/></way>
-<way id="-3607" visible="true"><nd ref="-3608"/><nd ref="-3609"/><nd ref="-3610"/><nd ref="-3611"/><nd ref="-3608"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="ele" v="91.7"/></way>
-<way id="-3612" visible="true"><nd ref="-3613"/><nd ref="-3614"/><nd ref="-3615"/><nd ref="-3616"/><nd ref="-3613"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="4.3"/><tag k="ele" v="92.7"/></way>
-<way id="-3617" visible="true"><nd ref="-3618"/><nd ref="-3619"/><nd ref="-3620"/><nd ref="-3621"/><nd ref="-3618"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.8"/><tag k="ele" v="88.1"/></way>
-<way id="-3622" visible="true"><nd ref="-3623"/><nd ref="-3624"/><nd ref="-3625"/><nd ref="-3626"/><nd ref="-3623"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="4.4"/><tag k="ele" v="83.8"/></way>
-<way id="-3627" visible="true"><nd ref="-3628"/><nd ref="-3629"/><nd ref="-3630"/><nd ref="-3631"/><nd ref="-3628"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="4.5"/><tag k="ele" v="81.8"/></way>
-<way id="-3632" visible="true"><nd ref="-3633"/><nd ref="-3634"/><nd ref="-3635"/><nd ref="-3636"/><nd ref="-3633"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="4.2"/><tag k="ele" v="82.1"/></way>
-<way id="-3637" visible="true"><nd ref="-15"/><nd ref="-3638"/><nd ref="-3639"/><nd ref="-3640"/><nd ref="-15"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="4.6"/><tag k="ele" v="93.9"/></way>
-<way id="-3641" visible="true"><nd ref="-3642"/><nd ref="-3643"/><nd ref="-3644"/><nd ref="-3645"/><nd ref="-3642"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.7"/><tag k="ele" v="92.9"/></way>
-<way id="-3646" visible="true"><nd ref="-3647"/><nd ref="-3648"/><nd ref="-3649"/><nd ref="-3650"/><nd ref="-3647"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="5.0"/><tag k="ele" v="94.1"/></way>
-<way id="-3651" visible="true"><nd ref="-3652"/><nd ref="-3653"/><nd ref="-3654"/><nd ref="-3655"/><nd ref="-3652"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.2"/><tag k="ele" v="76.2"/></way>
-<way id="-3656" visible="true"><nd ref="-3657"/><nd ref="-3658"/><nd ref="-3659"/><nd ref="-3660"/><nd ref="-3657"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.9"/><tag k="ele" v="91.8"/></way>
-<way id="-3661" visible="true"><nd ref="-3662"/><nd ref="-3663"/><nd ref="-3664"/><nd ref="-3665"/><nd ref="-3662"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.9"/><tag k="ele" v="93.5"/></way>
-<way id="-3666" visible="true"><nd ref="-3667"/><nd ref="-3668"/><nd ref="-3669"/><nd ref="-3670"/><nd ref="-3667"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.7"/><tag k="ele" v="89.6"/></way>
-<way id="-3671" visible="true"><nd ref="-3672"/><nd ref="-3673"/><nd ref="-3674"/><nd ref="-3675"/><nd ref="-3672"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.0"/><tag k="ele" v="77.8"/></way>
-<way id="-3676" visible="true"><nd ref="-3677"/><nd ref="-3678"/><nd ref="-3679"/><nd ref="-3680"/><nd ref="-3681"/><nd ref="-3682"/><nd ref="-3677"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="ele" v="83.8"/></way>
-<way id="-3683" visible="true"><nd ref="-3684"/><nd ref="-3685"/><nd ref="-3686"/><nd ref="-3687"/><nd ref="-3688"/><nd ref="-3689"/><nd ref="-3684"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="6.4"/><tag k="ele" v="99.4"/></way>
-<way id="-3690" visible="true"><nd ref="-3691"/><nd ref="-3692"/><nd ref="-3693"/><nd ref="-3694"/><nd ref="-3691"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="2.5"/><tag k="ele" v="94.9"/></way>
-<way id="-3695" visible="true"><nd ref="-3696"/><nd ref="-3697"/><nd ref="-3698"/><nd ref="-3699"/><nd ref="-3700"/><nd ref="-3701"/><nd ref="-3702"/><nd ref="-3703"/><nd ref="-3704"/><nd ref="-3705"/><nd ref="-3696"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.8"/><tag k="ele" v="97.1"/></way>
-<way id="-3706" visible="true"><nd ref="-3707"/><nd ref="-3708"/><nd ref="-3709"/><nd ref="-3710"/><nd ref="-3707"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.8"/><tag k="ele" v="99.5"/></way>
-<way id="-3711" visible="true"><nd ref="-3712"/><nd ref="-3713"/><nd ref="-3714"/><nd ref="-3715"/><nd ref="-3712"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="4.3"/><tag k="ele" v="100.2"/></way>
-<way id="-3716" visible="true"><nd ref="-3717"/><nd ref="-3718"/><nd ref="-3719"/><nd ref="-3720"/><nd ref="-3717"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="4.1"/><tag k="ele" v="99.3"/></way>
-<way id="-3721" visible="true"><nd ref="-3722"/><nd ref="-3723"/><nd ref="-3724"/><nd ref="-3725"/><nd ref="-3722"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.1"/><tag k="ele" v="98.9"/></way>
-<way id="-3726" visible="true"><nd ref="-3727"/><nd ref="-3728"/><nd ref="-3729"/><nd ref="-3730"/><nd ref="-3727"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.7"/><tag k="ele" v="100.6"/></way>
-<way id="-3731" visible="true"><nd ref="-3732"/><nd ref="-3733"/><nd ref="-3734"/><nd ref="-3735"/><nd ref="-3732"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.3"/><tag k="ele" v="98.6"/></way>
-<way id="-3736" visible="true"><nd ref="-3737"/><nd ref="-3738"/><nd ref="-3739"/><nd ref="-3740"/><nd ref="-3737"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="2.2"/><tag k="ele" v="101.9"/></way>
-<way id="-3741" visible="true"><nd ref="-3742"/><nd ref="-3743"/><nd ref="-3744"/><nd ref="-3745"/><nd ref="-3742"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.3"/><tag k="ele" v="94.1"/></way>
-<way id="-3746" visible="true"><nd ref="-3747"/><nd ref="-3748"/><nd ref="-3749"/><nd ref="-3750"/><nd ref="-3747"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="4.6"/><tag k="ele" v="94.8"/></way>
-<way id="-3751" visible="true"><nd ref="-3752"/><nd ref="-3753"/><nd ref="-3754"/><nd ref="-3755"/><nd ref="-3752"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="ele" v="93.3"/></way>
-<way id="-3756" visible="true"><nd ref="-3757"/><nd ref="-3758"/><nd ref="-3759"/><nd ref="-3760"/><nd ref="-3757"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="ele" v="93.4"/></way>
-<way id="-3761" visible="true"><nd ref="-3762"/><nd ref="-3763"/><nd ref="-3764"/><nd ref="-3765"/><nd ref="-3762"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.7"/><tag k="ele" v="90.3"/></way>
-<way id="-3766" visible="true"><nd ref="-3767"/><nd ref="-3768"/><nd ref="-3769"/><nd ref="-3770"/><nd ref="-3767"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="6.0"/><tag k="ele" v="92.3"/></way>
-<way id="-3771" visible="true"><nd ref="-3772"/><nd ref="-3773"/><nd ref="-3774"/><nd ref="-3775"/><nd ref="-3776"/><nd ref="-3772"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="4.4"/><tag k="ele" v="90.5"/></way>
-<way id="-3777" visible="true"><nd ref="-3778"/><nd ref="-3779"/><nd ref="-3780"/><nd ref="-3781"/><nd ref="-3778"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="ele" v="91.5"/></way>
-<way id="-3782" visible="true"><nd ref="-3783"/><nd ref="-3784"/><nd ref="-3785"/><nd ref="-3786"/><nd ref="-3783"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="2.8"/><tag k="ele" v="90.7"/></way>
-<way id="-3787" visible="true"><nd ref="-3788"/><nd ref="-3789"/><nd ref="-3790"/><nd ref="-3791"/><nd ref="-3788"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.9"/><tag k="ele" v="93.1"/></way>
-<way id="-3792" visible="true"><nd ref="-3793"/><nd ref="-3794"/><nd ref="-3795"/><nd ref="-3796"/><nd ref="-3793"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="ele" v="93.9"/></way>
-<way id="-3797" visible="true"><nd ref="-3798"/><nd ref="-3799"/><nd ref="-3800"/><nd ref="-3801"/><nd ref="-3798"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="2.9"/><tag k="ele" v="95.3"/></way>
-<way id="-3802" visible="true"><nd ref="-3803"/><nd ref="-3804"/><nd ref="-3805"/><nd ref="-3806"/><nd ref="-3803"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="2.6"/><tag k="ele" v="96.9"/></way>
-<way id="-3807" visible="true"><nd ref="-3808"/><nd ref="-3809"/><nd ref="-3810"/><nd ref="-3811"/><nd ref="-3808"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="ele" v="95.3"/></way>
-<way id="-3812" visible="true"><nd ref="-3813"/><nd ref="-3814"/><nd ref="-3815"/><nd ref="-3816"/><nd ref="-3817"/><nd ref="-3818"/><nd ref="-3813"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.1"/><tag k="ele" v="95.0"/></way>
-<way id="-3819" visible="true"><nd ref="-3820"/><nd ref="-3821"/><nd ref="-3822"/><nd ref="-3823"/><nd ref="-3824"/><nd ref="-3825"/><nd ref="-3826"/><nd ref="-3827"/><nd ref="-3820"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="4.3"/><tag k="ele" v="95.2"/></way>
-<way id="-3828" visible="true"><nd ref="-3829"/><nd ref="-3830"/><nd ref="-3831"/><nd ref="-3832"/><nd ref="-3829"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="ele" v="95.1"/></way>
-<way id="-3833" visible="true"><nd ref="-3834"/><nd ref="-3835"/><nd ref="-3836"/><nd ref="-3837"/><nd ref="-3834"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="ele" v="95.0"/></way>
-<way id="-3838" visible="true"><nd ref="-3839"/><nd ref="-3840"/><nd ref="-3841"/><nd ref="-3842"/><nd ref="-3839"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.9"/><tag k="ele" v="95.9"/></way>
-<way id="-3843" visible="true"><nd ref="-3844"/><nd ref="-3845"/><nd ref="-3846"/><nd ref="-3847"/><nd ref="-3844"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="5.3"/><tag k="ele" v="95.7"/></way>
-<way id="-3848" visible="true"><nd ref="-3849"/><nd ref="-3850"/><nd ref="-3851"/><nd ref="-3852"/><nd ref="-3849"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.8"/><tag k="ele" v="97.1"/></way>
-<way id="-3853" visible="true"><nd ref="-3854"/><nd ref="-3855"/><nd ref="-3856"/><nd ref="-3857"/><nd ref="-3854"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.5"/><tag k="ele" v="97.2"/></way>
-<way id="-3858" visible="true"><nd ref="-3859"/><nd ref="-3860"/><nd ref="-3861"/><nd ref="-3862"/><nd ref="-3859"/><tag k="building" v="yes"/><tag k="height" v="2.8"/><tag k="ele" v="85.1"/></way>
-<way id="-3863" visible="true"><nd ref="-3864"/><nd ref="-3865"/><nd ref="-3866"/><nd ref="-3867"/><nd ref="-3864"/><tag k="building" v="yes"/><tag k="height" v="3.0"/><tag k="ele" v="84.7"/></way>
-<way id="-3868" visible="true"><nd ref="-3869"/><nd ref="-3870"/><nd ref="-3871"/><nd ref="-3872"/><nd ref="-3869"/><tag k="building" v="yes"/><tag k="ele" v="84.7"/></way>
-<way id="-3873" visible="true"><nd ref="-3874"/><nd ref="-3875"/><nd ref="-3876"/><nd ref="-3877"/><nd ref="-3878"/><nd ref="-3874"/><tag k="building" v="yes"/><tag k="ele" v="84.8"/></way>
-<way id="-3879" visible="true"><nd ref="-3880"/><nd ref="-3881"/><nd ref="-3882"/><nd ref="-3883"/><nd ref="-3880"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="4.7"/><tag k="ele" v="85.1"/></way>
-<way id="-3884" visible="true"><nd ref="-3885"/><nd ref="-3886"/><nd ref="-3887"/><nd ref="-3888"/><nd ref="-3885"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="5.2"/><tag k="ele" v="83.1"/></way>
-<way id="-3889" visible="true"><nd ref="-3890"/><nd ref="-3891"/><nd ref="-3892"/><nd ref="-3893"/><nd ref="-3890"/><tag k="building:levels" v="2"/><tag k="building" v="apartments"/><tag k="height" v="7.7"/><tag k="ele" v="81.3"/></way>
-<way id="-3894" visible="true"><nd ref="-3895"/><nd ref="-3896"/><nd ref="-3897"/><nd ref="-3898"/><nd ref="-3899"/><nd ref="-3900"/><nd ref="-3901"/><nd ref="-3902"/><nd ref="-3895"/><tag k="building:levels" v="1"/><tag k="building" v="apartments"/><tag k="height" v="4.0"/><tag k="ele" v="80.3"/></way>
-<way id="-3903" visible="true"><nd ref="-3904"/><nd ref="-3905"/><nd ref="-3906"/><nd ref="-3907"/><nd ref="-3904"/><tag k="building:levels" v="2"/><tag k="building" v="apartments"/><tag k="height" v="8.9"/><tag k="ele" v="80.5"/></way>
-<way id="-3908" visible="true"><nd ref="-3909"/><nd ref="-3910"/><nd ref="-3911"/><nd ref="-3912"/><nd ref="-3913"/><nd ref="-3914"/><nd ref="-3915"/><nd ref="-3916"/><nd ref="-3909"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="4.8"/><tag k="ele" v="86.2"/></way>
-<way id="-3917" visible="true"><nd ref="-3918"/><nd ref="-3919"/><nd ref="-3920"/><nd ref="-3921"/><nd ref="-3918"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="5.9"/><tag k="ele" v="93.8"/></way>
-<way id="-3922" visible="true"><nd ref="-3923"/><nd ref="-3924"/><nd ref="-3925"/><nd ref="-3926"/><nd ref="-3923"/><tag k="building:levels" v="2"/><tag k="building" v="yes"/><tag k="height" v="6.9"/><tag k="ele" v="81.2"/></way>
-<way id="-3927" visible="true"><nd ref="-3928"/><nd ref="-3929"/><nd ref="-3930"/><nd ref="-3931"/><nd ref="-3928"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="4.5"/><tag k="ele" v="93.9"/></way>
-<way id="-3932" visible="true"><nd ref="-3933"/><nd ref="-3934"/><nd ref="-3935"/><nd ref="-3936"/><nd ref="-3933"/><tag k="building" v="yes"/><tag k="height" v="9.3"/><tag k="ele" v="94.6"/></way>
-<way id="-3937" visible="true"><nd ref="-3938"/><nd ref="-3939"/><nd ref="-3940"/><nd ref="-3941"/><nd ref="-3942"/><nd ref="-3943"/><nd ref="-3938"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="3.7"/><tag k="ele" v="99.9"/></way>
-<way id="-3944" visible="true"><nd ref="-3945"/><nd ref="-3946"/><nd ref="-3947"/><nd ref="-3948"/><nd ref="-3945"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="3.6"/><tag k="ele" v="100.3"/></way>
-<way id="-3949" visible="true"><nd ref="-3950"/><nd ref="-3951"/><nd ref="-3952"/><nd ref="-3953"/><nd ref="-3950"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="2.9"/><tag k="ele" v="101.5"/></way>
-<way id="-3954" visible="true"><nd ref="-3955"/><nd ref="-3956"/><nd ref="-3957"/><nd ref="-3958"/><nd ref="-3955"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="5.0"/><tag k="ele" v="100.1"/></way>
-<way id="-3959" visible="true"><nd ref="-3960"/><nd ref="-3961"/><nd ref="-3962"/><nd ref="-3963"/><nd ref="-3960"/><tag k="building:levels" v="1"/><tag k="building" v="apartments"/><tag k="height" v="4.1"/><tag k="ele" v="101.7"/></way>
-<way id="-3964" visible="true"><nd ref="-3965"/><nd ref="-3966"/><nd ref="-3967"/><nd ref="-3968"/><nd ref="-3965"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="3.5"/><tag k="ele" v="97.5"/></way>
-<way id="-3969" visible="true"><nd ref="-3970"/><nd ref="-3971"/><nd ref="-3972"/><nd ref="-3973"/><nd ref="-3974"/><nd ref="-3975"/><nd ref="-3970"/><tag k="building:levels" v="1"/><tag k="building" v="apartments"/><tag k="height" v="5.2"/><tag k="ele" v="100.2"/></way>
-<way id="-3976" visible="true"><nd ref="-3977"/><nd ref="-3978"/><nd ref="-3979"/><nd ref="-3980"/><nd ref="-3977"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="3.1"/><tag k="ele" v="94.2"/></way>
-<way id="-3981" visible="true"><nd ref="-3982"/><nd ref="-3983"/><nd ref="-3984"/><nd ref="-3985"/><nd ref="-3982"/><tag k="building" v="yes"/><tag k="height" v="3.3"/><tag k="ele" v="93.9"/></way>
-<way id="-3986" visible="true"><nd ref="-3987"/><nd ref="-3988"/><nd ref="-3989"/><nd ref="-3990"/><nd ref="-3987"/><tag k="building" v="yes"/><tag k="height" v="6.4"/><tag k="ele" v="93.5"/></way>
-<way id="-3991" visible="true"><nd ref="-3992"/><nd ref="-3993"/><nd ref="-3994"/><nd ref="-3995"/><nd ref="-3992"/><tag k="building" v="yes"/><tag k="height" v="6.5"/><tag k="ele" v="92.6"/></way>
-<way id="-3996" visible="true"><nd ref="-3997"/><nd ref="-3998"/><nd ref="-3999"/><nd ref="-4000"/><nd ref="-3997"/><tag k="building" v="yes"/><tag k="height" v="7.2"/><tag k="ele" v="93.7"/></way>
-<way id="-4001" visible="true"><nd ref="-4002"/><nd ref="-4003"/><nd ref="-4004"/><nd ref="-4005"/><nd ref="-4002"/><tag k="building" v="yes"/><tag k="height" v="7.0"/><tag k="ele" v="92.4"/></way>
-<way id="-4006" visible="true"><nd ref="-4007"/><nd ref="-4008"/><nd ref="-4009"/><nd ref="-4010"/><nd ref="-4007"/><tag k="building" v="yes"/><tag k="height" v="9.5"/><tag k="ele" v="94.8"/></way>
-<way id="-4011" visible="true"><nd ref="-4012"/><nd ref="-4013"/><nd ref="-4014"/><nd ref="-4015"/><nd ref="-4012"/><tag k="building" v="yes"/><tag k="height" v="7.1"/><tag k="ele" v="93.2"/></way>
-<way id="-4016" visible="true"><nd ref="-4017"/><nd ref="-4018"/><nd ref="-4019"/><nd ref="-4020"/><nd ref="-4017"/><tag k="building" v="yes"/><tag k="height" v="6.9"/><tag k="ele" v="93.1"/></way>
-<way id="-4021" visible="true"><nd ref="-4022"/><nd ref="-4023"/><nd ref="-4024"/><nd ref="-4025"/><nd ref="-4022"/><tag k="building" v="yes"/><tag k="height" v="6.9"/><tag k="ele" v="92.3"/></way>
-<way id="-4026" visible="true"><nd ref="-4027"/><nd ref="-4028"/><nd ref="-4029"/><nd ref="-4030"/><nd ref="-4027"/><tag k="building" v="yes"/><tag k="height" v="6.9"/><tag k="ele" v="92.3"/></way>
-<way id="-4031" visible="true"><nd ref="-4032"/><nd ref="-4033"/><nd ref="-4034"/><nd ref="-4035"/><nd ref="-4032"/><tag k="building" v="yes"/><tag k="height" v="9.5"/><tag k="ele" v="94.9"/></way>
-<way id="-4036" visible="true"><nd ref="-4037"/><nd ref="-4038"/><nd ref="-4039"/><nd ref="-4040"/><nd ref="-4037"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="6.5"/><tag k="ele" v="95.0"/></way>
-<way id="-4041" visible="true"><nd ref="-4042"/><nd ref="-4043"/><nd ref="-4044"/><nd ref="-4045"/><nd ref="-4042"/><tag k="building" v="yes"/><tag k="height" v="4.4"/><tag k="ele" v="91.2"/></way>
-<way id="-4046" visible="true"><nd ref="-4047"/><nd ref="-4048"/><nd ref="-4049"/><nd ref="-4050"/><nd ref="-4051"/><nd ref="-4052"/><nd ref="-4053"/><nd ref="-4054"/><nd ref="-4055"/><nd ref="-4056"/><nd ref="-4057"/><nd ref="-4058"/><nd ref="-4047"/><tag k="building" v="yes"/><tag k="height" v="5.7"/><tag k="ele" v="91.7"/></way>
-<way id="-4059" visible="true"><nd ref="-4060"/><nd ref="-4061"/><nd ref="-4062"/><nd ref="-4063"/><nd ref="-4060"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="4.7"/><tag k="ele" v="95.1"/></way>
-<way id="-4064" visible="true"><nd ref="-4065"/><nd ref="-4066"/><nd ref="-4067"/><nd ref="-4068"/><nd ref="-4065"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.5"/><tag k="ele" v="85.3"/></way>
-<way id="-4069" visible="true"><nd ref="-4070"/><nd ref="-4071"/><nd ref="-4072"/><nd ref="-4073"/><nd ref="-4070"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="ele" v="84.8"/></way>
-<way id="-4074" visible="true"><nd ref="-4075"/><nd ref="-4076"/><nd ref="-4077"/><nd ref="-4078"/><nd ref="-4075"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="4.0"/><tag k="ele" v="80.9"/></way>
-<way id="-4079" visible="true"><nd ref="-4080"/><nd ref="-4081"/><nd ref="-4082"/><nd ref="-4083"/><nd ref="-4080"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="ele" v="86.2"/></way>
-<way id="-4084" visible="true"><nd ref="-4085"/><nd ref="-4086"/><nd ref="-4087"/><nd ref="-4088"/><nd ref="-4085"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.9"/><tag k="ele" v="86.4"/></way>
-<way id="-4089" visible="true"><nd ref="-4090"/><nd ref="-4091"/><nd ref="-4092"/><nd ref="-4093"/><nd ref="-4090"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="2.3"/><tag k="ele" v="94.8"/></way>
-<way id="-4094" visible="true"><nd ref="-4095"/><nd ref="-4096"/><nd ref="-4097"/><nd ref="-4098"/><nd ref="-4095"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.2"/><tag k="ele" v="94.7"/></way>
-<way id="-4099" visible="true"><nd ref="-4100"/><nd ref="-4101"/><nd ref="-4102"/><nd ref="-4103"/><nd ref="-4100"/><tag k="building" v="yes"/><tag k="ele" v="86.2"/></way>
-<way id="-4104" visible="true"><nd ref="-4105"/><nd ref="-4106"/><nd ref="-4107"/><nd ref="-4108"/><nd ref="-4105"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="4.7"/><tag k="ele" v="80.6"/></way>
-<way id="-4109" visible="true"><nd ref="-4110"/><nd ref="-4111"/><nd ref="-4112"/><nd ref="-4113"/><nd ref="-4110"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="ele" v="90.6"/></way>
-<way id="-4114" visible="true"><nd ref="-4115"/><nd ref="-4116"/><nd ref="-4117"/><nd ref="-4118"/><nd ref="-4115"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="3.6"/><tag k="ele" v="81.1"/></way>
-<way id="-4119" visible="true"><nd ref="-4120"/><nd ref="-4121"/><nd ref="-4122"/><nd ref="-4123"/><nd ref="-4120"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="ele" v="93.3"/></way>
-<way id="-4124" visible="true"><nd ref="-4125"/><nd ref="-4126"/><nd ref="-4127"/><nd ref="-4128"/><nd ref="-4125"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="3.3"/><tag k="ele" v="92.4"/></way>
-<way id="-4129" visible="true"><nd ref="-4130"/><nd ref="-4131"/><nd ref="-4132"/><nd ref="-4133"/><nd ref="-4130"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="4.7"/><tag k="ele" v="75.3"/></way>
-<way id="-4134" visible="true"><nd ref="-4135"/><nd ref="-4136"/><nd ref="-4137"/><nd ref="-4138"/><nd ref="-4135"/><tag k="building:levels" v="1"/><tag k="building" v="apartments"/><tag k="height" v="4.6"/><tag k="ele" v="96.0"/></way>
-<way id="-4139" visible="true"><nd ref="-4140"/><nd ref="-4141"/><nd ref="-4142"/><nd ref="-4143"/><nd ref="-4140"/><tag k="building:levels" v="1"/><tag k="building" v="apartments"/><tag k="height" v="3.0"/><tag k="ele" v="96.0"/></way>
-<way id="-4144" visible="true"><nd ref="-4145"/><nd ref="-4146"/><nd ref="-4147"/><nd ref="-4148"/><nd ref="-4145"/><tag k="building:levels" v="1"/><tag k="building" v="apartments"/><tag k="height" v="4.5"/><tag k="ele" v="96.2"/></way>
-<way id="-4149" visible="true"><nd ref="-4150"/><nd ref="-4151"/><nd ref="-4152"/><nd ref="-4153"/><nd ref="-4150"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="3.0"/><tag k="ele" v="96.0"/></way>
-<way id="-4154" visible="true"><nd ref="-4155"/><nd ref="-4156"/><nd ref="-4157"/><nd ref="-4158"/><nd ref="-4155"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="5.3"/><tag k="ele" v="98.1"/></way>
-<way id="-4159" visible="true"><nd ref="-4160"/><nd ref="-4161"/><nd ref="-4162"/><nd ref="-4163"/><nd ref="-4160"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="4.0"/><tag k="ele" v="98.5"/></way>
-<way id="-4164" visible="true"><nd ref="-4165"/><nd ref="-4166"/><nd ref="-4167"/><nd ref="-4168"/><nd ref="-4165"/><tag k="building" v="yes"/><tag k="ele" v="91.3"/></way>
-<way id="-4169" visible="true"><nd ref="-4170"/><nd ref="-4171"/><nd ref="-4172"/><nd ref="-4173"/><nd ref="-4170"/><tag k="building:levels" v="1"/><tag k="building" v="apartments"/><tag k="height" v="4.7"/><tag k="ele" v="94.2"/></way>
-<way id="-4174" visible="true"><nd ref="-4175"/><nd ref="-4176"/><nd ref="-4177"/><nd ref="-4178"/><nd ref="-4179"/><nd ref="-4180"/><nd ref="-4175"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="7.0"/><tag k="ele" v="96.6"/></way>
-<way id="-4181" visible="true"><nd ref="-4182"/><nd ref="-4183"/><nd ref="-4184"/><nd ref="-4185"/><nd ref="-4182"/><tag k="building" v="yes"/><tag k="height" v="10.6"/><tag k="ele" v="93.4"/></way>
-<way id="-4186" visible="true"><nd ref="-4187"/><nd ref="-4188"/><nd ref="-4189"/><nd ref="-4190"/><nd ref="-4191"/><nd ref="-4192"/><nd ref="-4193"/><nd ref="-4194"/><nd ref="-4187"/><tag k="building" v="yes"/><tag k="height" v="10.6"/><tag k="ele" v="94.2"/></way>
-<way id="-4195" visible="true"><nd ref="-4196"/><nd ref="-4197"/><nd ref="-4198"/><nd ref="-4199"/><nd ref="-4200"/><nd ref="-4196"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="5.9"/><tag k="ele" v="96.0"/></way>
-<way id="-4201" visible="true"><nd ref="-4202"/><nd ref="-4203"/><nd ref="-4204"/><nd ref="-4205"/><nd ref="-4202"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.8"/><tag k="ele" v="81.9"/></way>
-<way id="-4206" visible="true"><nd ref="-4207"/><nd ref="-4208"/><nd ref="-4209"/><nd ref="-4210"/><nd ref="-4207"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="ele" v="93.5"/></way>
-<way id="-4211" visible="true"><nd ref="-4212"/><nd ref="-4213"/><nd ref="-4214"/><nd ref="-4215"/><nd ref="-4212"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="ele" v="101.4"/></way>
-<way id="-4216" visible="true"><nd ref="-4217"/><nd ref="-4218"/><nd ref="-4219"/><nd ref="-4220"/><nd ref="-4217"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="ele" v="95.2"/></way>
+<way id="-3377" visible="true"><nd ref="-3378"/><nd ref="-3379"/><nd ref="-3380"/><nd ref="-3381"/><nd ref="-3382"/><nd ref="-3383"/><nd ref="-3384"/><nd ref="-3385"/><nd ref="-3386"/><nd ref="-3387"/><nd ref="-3378"/><tag k="building" v="yes"/><tag k="height" v="5.6"/><tag k="ele" v="84.9"/></way>
+<way id="-3388" visible="true"><nd ref="-3389"/><nd ref="-3390"/><nd ref="-3391"/><nd ref="-3392"/><nd ref="-3389"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="ele" v="101.4"/></way>
+<way id="-3393" visible="true"><nd ref="-3394"/><nd ref="-3395"/><nd ref="-3396"/><nd ref="-3397"/><nd ref="-3394"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="ele" v="101.4"/></way>
+<way id="-3398" visible="true"><nd ref="-3399"/><nd ref="-3400"/><nd ref="-3401"/><nd ref="-3402"/><nd ref="-3403"/><nd ref="-3399"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.4"/><tag k="ele" v="95.9"/></way>
+<way id="-3404" visible="true"><nd ref="-3405"/><nd ref="-3406"/><nd ref="-3407"/><nd ref="-3408"/><nd ref="-3405"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.3"/><tag k="ele" v="96.0"/></way>
+<way id="-3409" visible="true"><nd ref="-3410"/><nd ref="-3411"/><nd ref="-3412"/><nd ref="-3413"/><nd ref="-3410"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="4.3"/><tag k="ele" v="97.0"/></way>
+<way id="-3414" visible="true"><nd ref="-3415"/><nd ref="-3416"/><nd ref="-3417"/><nd ref="-3418"/><nd ref="-3415"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="ele" v="97.1"/></way>
+<way id="-3419" visible="true"><nd ref="-3420"/><nd ref="-3421"/><nd ref="-3422"/><nd ref="-3423"/><nd ref="-3424"/><nd ref="-3425"/><nd ref="-3426"/><nd ref="-3420"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="4.9"/><tag k="ele" v="98.0"/></way>
+<way id="-3427" visible="true"><nd ref="-3428"/><nd ref="-3429"/><nd ref="-3430"/><nd ref="-3431"/><nd ref="-3428"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.4"/><tag k="ele" v="91.6"/></way>
+<way id="-3432" visible="true"><nd ref="-3433"/><nd ref="-3434"/><nd ref="-3435"/><nd ref="-3436"/><nd ref="-3433"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="4.1"/><tag k="ele" v="91.8"/></way>
+<way id="-3437" visible="true"><nd ref="-3438"/><nd ref="-3439"/><nd ref="-3440"/><nd ref="-3441"/><nd ref="-3438"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="2.2"/><tag k="ele" v="80.8"/></way>
+<way id="-3442" visible="true"><nd ref="-3443"/><nd ref="-3444"/><nd ref="-3445"/><nd ref="-3446"/><nd ref="-3443"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="ele" v="82.2"/></way>
+<way id="-3447" visible="true"><nd ref="-3448"/><nd ref="-3449"/><nd ref="-3450"/><nd ref="-3451"/><nd ref="-3448"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.3"/><tag k="ele" v="78.2"/></way>
+<way id="-3452" visible="true"><nd ref="-3453"/><nd ref="-3454"/><nd ref="-3455"/><nd ref="-3456"/><nd ref="-3453"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="ele" v="91.6"/></way>
+<way id="-3457" visible="true"><nd ref="-3458"/><nd ref="-3459"/><nd ref="-3460"/><nd ref="-3461"/><nd ref="-3462"/><nd ref="-3463"/><nd ref="-3464"/><nd ref="-3465"/><nd ref="-3458"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="4.7"/><tag k="ele" v="92.6"/></way>
+<way id="-3466" visible="true"><nd ref="-3467"/><nd ref="-3468"/><nd ref="-3469"/><nd ref="-3470"/><nd ref="-3467"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="4.5"/><tag k="ele" v="81.8"/></way>
+<way id="-3471" visible="true"><nd ref="-3472"/><nd ref="-3473"/><nd ref="-3474"/><nd ref="-3475"/><nd ref="-3472"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="4.2"/><tag k="ele" v="82.1"/></way>
+<way id="-3476" visible="true"><nd ref="-3477"/><nd ref="-3478"/><nd ref="-3479"/><nd ref="-3480"/><nd ref="-3477"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.7"/><tag k="ele" v="92.9"/></way>
+<way id="-3481" visible="true"><nd ref="-3482"/><nd ref="-3483"/><nd ref="-3484"/><nd ref="-3485"/><nd ref="-3482"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="5.0"/><tag k="ele" v="94.1"/></way>
+<way id="-3486" visible="true"><nd ref="-3487"/><nd ref="-3488"/><nd ref="-3489"/><nd ref="-3490"/><nd ref="-3487"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.2"/><tag k="ele" v="76.2"/></way>
+<way id="-3491" visible="true"><nd ref="-3492"/><nd ref="-3493"/><nd ref="-3494"/><nd ref="-3495"/><nd ref="-3492"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.9"/><tag k="ele" v="91.8"/></way>
+<way id="-3496" visible="true"><nd ref="-3497"/><nd ref="-3498"/><nd ref="-3499"/><nd ref="-3500"/><nd ref="-3497"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.9"/><tag k="ele" v="93.5"/></way>
+<way id="-3501" visible="true"><nd ref="-3502"/><nd ref="-3503"/><nd ref="-3504"/><nd ref="-3505"/><nd ref="-3502"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.0"/><tag k="ele" v="77.8"/></way>
+<way id="-3506" visible="true"><nd ref="-3507"/><nd ref="-3508"/><nd ref="-3509"/><nd ref="-3510"/><nd ref="-3511"/><nd ref="-3512"/><nd ref="-3507"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="ele" v="83.8"/></way>
+<way id="-3513" visible="true"><nd ref="-3514"/><nd ref="-3515"/><nd ref="-3516"/><nd ref="-3517"/><nd ref="-3518"/><nd ref="-3519"/><nd ref="-3514"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="6.4"/><tag k="ele" v="99.4"/></way>
+<way id="-3520" visible="true"><nd ref="-3521"/><nd ref="-3522"/><nd ref="-3523"/><nd ref="-3524"/><nd ref="-3521"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="5.1"/><tag k="ele" v="98.6"/></way>
+<way id="-3525" visible="true"><nd ref="-3526"/><nd ref="-3527"/><nd ref="-3528"/><nd ref="-3529"/><nd ref="-3526"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="2.5"/><tag k="ele" v="94.9"/></way>
+<way id="-3530" visible="true"><nd ref="-3531"/><nd ref="-3532"/><nd ref="-3533"/><nd ref="-3534"/><nd ref="-3535"/><nd ref="-3536"/><nd ref="-3537"/><nd ref="-3538"/><nd ref="-3539"/><nd ref="-3540"/><nd ref="-3531"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.8"/><tag k="ele" v="97.1"/></way>
+<way id="-3541" visible="true"><nd ref="-3542"/><nd ref="-3543"/><nd ref="-3544"/><nd ref="-3545"/><nd ref="-3542"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.8"/><tag k="ele" v="99.5"/></way>
+<way id="-3546" visible="true"><nd ref="-3547"/><nd ref="-3548"/><nd ref="-3549"/><nd ref="-3550"/><nd ref="-3547"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="4.3"/><tag k="ele" v="100.2"/></way>
+<way id="-3551" visible="true"><nd ref="-3552"/><nd ref="-3553"/><nd ref="-3554"/><nd ref="-3555"/><nd ref="-3552"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.1"/><tag k="ele" v="98.9"/></way>
+<way id="-3556" visible="true"><nd ref="-3557"/><nd ref="-3558"/><nd ref="-3559"/><nd ref="-3560"/><nd ref="-3557"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.7"/><tag k="ele" v="100.6"/></way>
+<way id="-3561" visible="true"><nd ref="-3562"/><nd ref="-3563"/><nd ref="-3564"/><nd ref="-3565"/><nd ref="-3562"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.3"/><tag k="ele" v="98.6"/></way>
+<way id="-3566" visible="true"><nd ref="-3567"/><nd ref="-3568"/><nd ref="-3569"/><nd ref="-3570"/><nd ref="-3567"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="2.2"/><tag k="ele" v="101.9"/></way>
+<way id="-3571" visible="true"><nd ref="-3572"/><nd ref="-3573"/><nd ref="-3574"/><nd ref="-3575"/><nd ref="-3572"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="2.7"/><tag k="ele" v="99.7"/></way>
+<way id="-3576" visible="true"><nd ref="-3577"/><nd ref="-3578"/><nd ref="-3579"/><nd ref="-3580"/><nd ref="-3577"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="4.6"/><tag k="ele" v="94.8"/></way>
+<way id="-3581" visible="true"><nd ref="-3582"/><nd ref="-3583"/><nd ref="-3584"/><nd ref="-3585"/><nd ref="-3582"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="ele" v="93.3"/></way>
+<way id="-3586" visible="true"><nd ref="-3587"/><nd ref="-3588"/><nd ref="-3589"/><nd ref="-3590"/><nd ref="-3587"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="ele" v="93.4"/></way>
+<way id="-3591" visible="true"><nd ref="-3592"/><nd ref="-3593"/><nd ref="-3594"/><nd ref="-3595"/><nd ref="-3592"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.7"/><tag k="ele" v="90.3"/></way>
+<way id="-3596" visible="true"><nd ref="-3597"/><nd ref="-3598"/><nd ref="-3599"/><nd ref="-3600"/><nd ref="-3597"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="6.0"/><tag k="ele" v="92.3"/></way>
+<way id="-3601" visible="true"><nd ref="-3602"/><nd ref="-3603"/><nd ref="-3604"/><nd ref="-3605"/><nd ref="-3606"/><nd ref="-3602"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="4.4"/><tag k="ele" v="90.5"/></way>
+<way id="-3607" visible="true"><nd ref="-3608"/><nd ref="-3609"/><nd ref="-3610"/><nd ref="-3611"/><nd ref="-3608"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="ele" v="91.5"/></way>
+<way id="-3612" visible="true"><nd ref="-3613"/><nd ref="-3614"/><nd ref="-3615"/><nd ref="-3616"/><nd ref="-3613"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="2.8"/><tag k="ele" v="90.7"/></way>
+<way id="-3617" visible="true"><nd ref="-3618"/><nd ref="-3619"/><nd ref="-3620"/><nd ref="-3621"/><nd ref="-3618"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.9"/><tag k="ele" v="93.1"/></way>
+<way id="-3622" visible="true"><nd ref="-3623"/><nd ref="-3624"/><nd ref="-3625"/><nd ref="-3626"/><nd ref="-3623"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="ele" v="93.9"/></way>
+<way id="-3627" visible="true"><nd ref="-3628"/><nd ref="-3629"/><nd ref="-3630"/><nd ref="-3631"/><nd ref="-3628"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="2.9"/><tag k="ele" v="95.3"/></way>
+<way id="-3632" visible="true"><nd ref="-3633"/><nd ref="-3634"/><nd ref="-3635"/><nd ref="-3636"/><nd ref="-3633"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="2.6"/><tag k="ele" v="96.9"/></way>
+<way id="-3637" visible="true"><nd ref="-3638"/><nd ref="-3639"/><nd ref="-3640"/><nd ref="-3641"/><nd ref="-3638"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="ele" v="95.3"/></way>
+<way id="-3642" visible="true"><nd ref="-3643"/><nd ref="-3644"/><nd ref="-3645"/><nd ref="-3646"/><nd ref="-3647"/><nd ref="-3648"/><nd ref="-3643"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.1"/><tag k="ele" v="95.0"/></way>
+<way id="-3649" visible="true"><nd ref="-3650"/><nd ref="-3651"/><nd ref="-3652"/><nd ref="-3653"/><nd ref="-3654"/><nd ref="-3655"/><nd ref="-3656"/><nd ref="-3657"/><nd ref="-3650"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="4.3"/><tag k="ele" v="95.2"/></way>
+<way id="-3658" visible="true"><nd ref="-3659"/><nd ref="-3660"/><nd ref="-3661"/><nd ref="-3662"/><nd ref="-3659"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="ele" v="95.1"/></way>
+<way id="-3663" visible="true"><nd ref="-3664"/><nd ref="-3665"/><nd ref="-3666"/><nd ref="-3667"/><nd ref="-3664"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="ele" v="95.0"/></way>
+<way id="-3668" visible="true"><nd ref="-3669"/><nd ref="-3670"/><nd ref="-3671"/><nd ref="-3672"/><nd ref="-3669"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.9"/><tag k="ele" v="95.9"/></way>
+<way id="-3673" visible="true"><nd ref="-3674"/><nd ref="-3675"/><nd ref="-3676"/><nd ref="-3677"/><nd ref="-3674"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="5.3"/><tag k="ele" v="95.7"/></way>
+<way id="-3678" visible="true"><nd ref="-3679"/><nd ref="-3680"/><nd ref="-3681"/><nd ref="-3682"/><nd ref="-3679"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.8"/><tag k="ele" v="97.1"/></way>
+<way id="-3683" visible="true"><nd ref="-3684"/><nd ref="-3685"/><nd ref="-3686"/><nd ref="-3687"/><nd ref="-3684"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.5"/><tag k="ele" v="97.2"/></way>
+<way id="-3688" visible="true"><nd ref="-3689"/><nd ref="-3690"/><nd ref="-3691"/><nd ref="-3692"/><nd ref="-3689"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.9"/><tag k="ele" v="96.7"/></way>
+<way id="-3693" visible="true"><nd ref="-3694"/><nd ref="-3695"/><nd ref="-3696"/><nd ref="-3697"/><nd ref="-3694"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.9"/><tag k="ele" v="86.4"/></way>
+<way id="-3698" visible="true"><nd ref="-3699"/><nd ref="-3700"/><nd ref="-3701"/><nd ref="-3702"/><nd ref="-3699"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="ele" v="86.2"/></way>
+<way id="-3703" visible="true"><nd ref="-3704"/><nd ref="-3705"/><nd ref="-3706"/><nd ref="-3707"/><nd ref="-3704"/><tag k="building" v="yes"/><tag k="height" v="2.8"/><tag k="ele" v="85.1"/></way>
+<way id="-3708" visible="true"><nd ref="-3709"/><nd ref="-3710"/><nd ref="-3711"/><nd ref="-3712"/><nd ref="-3709"/><tag k="building" v="yes"/><tag k="height" v="3.0"/><tag k="ele" v="84.7"/></way>
+<way id="-3713" visible="true"><nd ref="-3714"/><nd ref="-3715"/><nd ref="-3716"/><nd ref="-3717"/><nd ref="-3714"/><tag k="building" v="yes"/><tag k="ele" v="84.7"/></way>
+<way id="-3718" visible="true"><nd ref="-3719"/><nd ref="-3720"/><nd ref="-3721"/><nd ref="-3722"/><nd ref="-3723"/><nd ref="-3719"/><tag k="building" v="yes"/><tag k="ele" v="84.8"/></way>
+<way id="-3724" visible="true"><nd ref="-3725"/><nd ref="-3726"/><nd ref="-3727"/><nd ref="-3728"/><nd ref="-3725"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="4.7"/><tag k="ele" v="85.1"/></way>
+<way id="-3729" visible="true"><nd ref="-2760"/><nd ref="-3730"/><nd ref="-3731"/><nd ref="-3732"/><nd ref="-2760"/><tag k="building" v="yes"/><tag k="ele" v="75.2"/></way>
+<way id="-3733" visible="true"><nd ref="-3734"/><nd ref="-3735"/><nd ref="-3736"/><nd ref="-3737"/><nd ref="-3734"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="5.2"/><tag k="ele" v="83.1"/></way>
+<way id="-3738" visible="true"><nd ref="-3739"/><nd ref="-3740"/><nd ref="-3741"/><nd ref="-3742"/><nd ref="-3739"/><tag k="building:levels" v="2"/><tag k="building" v="apartments"/><tag k="height" v="7.7"/><tag k="ele" v="81.3"/></way>
+<way id="-3743" visible="true"><nd ref="-3744"/><nd ref="-3745"/><nd ref="-3746"/><nd ref="-3747"/><nd ref="-3748"/><nd ref="-3749"/><nd ref="-3750"/><nd ref="-3751"/><nd ref="-3744"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="4.8"/><tag k="ele" v="86.2"/></way>
+<way id="-3752" visible="true"><nd ref="-3753"/><nd ref="-3754"/><nd ref="-3755"/><nd ref="-3756"/><nd ref="-3753"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="4.5"/><tag k="ele" v="93.9"/></way>
+<way id="-3757" visible="true"><nd ref="-3758"/><nd ref="-3759"/><nd ref="-3760"/><nd ref="-3761"/><nd ref="-3762"/><nd ref="-3763"/><nd ref="-3758"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="3.7"/><tag k="ele" v="99.9"/></way>
+<way id="-3764" visible="true"><nd ref="-3765"/><nd ref="-3766"/><nd ref="-3767"/><nd ref="-3768"/><nd ref="-3765"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="3.6"/><tag k="ele" v="100.3"/></way>
+<way id="-3769" visible="true"><nd ref="-3770"/><nd ref="-3771"/><nd ref="-3772"/><nd ref="-3773"/><nd ref="-3770"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="2.9"/><tag k="ele" v="101.5"/></way>
+<way id="-3774" visible="true"><nd ref="-3775"/><nd ref="-3776"/><nd ref="-3777"/><nd ref="-3778"/><nd ref="-3775"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="5.0"/><tag k="ele" v="100.1"/></way>
+<way id="-3779" visible="true"><nd ref="-3780"/><nd ref="-3781"/><nd ref="-3782"/><nd ref="-3783"/><nd ref="-3780"/><tag k="building:levels" v="2"/><tag k="building" v="detached"/><tag k="height" v="6.0"/><tag k="ele" v="99.9"/></way>
+<way id="-3784" visible="true"><nd ref="-3785"/><nd ref="-3786"/><nd ref="-3787"/><nd ref="-3788"/><nd ref="-3789"/><nd ref="-3790"/><nd ref="-3785"/><tag k="building:levels" v="1"/><tag k="building" v="apartments"/><tag k="height" v="5.2"/><tag k="ele" v="100.2"/></way>
+<way id="-3791" visible="true"><nd ref="-3792"/><nd ref="-3793"/><nd ref="-3794"/><nd ref="-3795"/><nd ref="-3792"/><tag k="building:levels" v="1"/><tag k="building" v="apartments"/><tag k="height" v="4.2"/><tag k="ele" v="101.6"/></way>
+<way id="-3796" visible="true"><nd ref="-3797"/><nd ref="-3798"/><nd ref="-3799"/><nd ref="-3800"/><nd ref="-3797"/><tag k="building:levels" v="1"/><tag k="building" v="apartments"/><tag k="height" v="4.1"/><tag k="ele" v="101.7"/></way>
+<way id="-3801" visible="true"><nd ref="-3802"/><nd ref="-3803"/><nd ref="-3804"/><nd ref="-3805"/><nd ref="-3802"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="3.1"/><tag k="ele" v="94.2"/></way>
+<way id="-3806" visible="true"><nd ref="-3807"/><nd ref="-3808"/><nd ref="-3809"/><nd ref="-3810"/><nd ref="-3807"/><tag k="building" v="yes"/><tag k="height" v="3.3"/><tag k="ele" v="93.9"/></way>
+<way id="-3811" visible="true"><nd ref="-3812"/><nd ref="-3813"/><nd ref="-3814"/><nd ref="-3815"/><nd ref="-3812"/><tag k="building" v="yes"/><tag k="height" v="6.5"/><tag k="ele" v="92.6"/></way>
+<way id="-3816" visible="true"><nd ref="-3817"/><nd ref="-3818"/><nd ref="-3819"/><nd ref="-3820"/><nd ref="-3817"/><tag k="building" v="yes"/><tag k="height" v="6.4"/><tag k="ele" v="93.5"/></way>
+<way id="-3821" visible="true"><nd ref="-3822"/><nd ref="-3823"/><nd ref="-3824"/><nd ref="-3825"/><nd ref="-3822"/><tag k="building" v="yes"/><tag k="height" v="7.2"/><tag k="ele" v="93.7"/></way>
+<way id="-3826" visible="true"><nd ref="-3827"/><nd ref="-3828"/><nd ref="-3829"/><nd ref="-3830"/><nd ref="-3827"/><tag k="building" v="yes"/><tag k="height" v="9.5"/><tag k="ele" v="94.8"/></way>
+<way id="-3831" visible="true"><nd ref="-3832"/><nd ref="-3833"/><nd ref="-3834"/><nd ref="-3835"/><nd ref="-3832"/><tag k="building" v="yes"/><tag k="height" v="7.1"/><tag k="ele" v="93.2"/></way>
+<way id="-3836" visible="true"><nd ref="-3837"/><nd ref="-3838"/><nd ref="-3839"/><nd ref="-3840"/><nd ref="-3837"/><tag k="building" v="yes"/><tag k="height" v="6.9"/><tag k="ele" v="92.3"/></way>
+<way id="-3841" visible="true"><nd ref="-3842"/><nd ref="-3843"/><nd ref="-3844"/><nd ref="-3845"/><nd ref="-3842"/><tag k="building" v="yes"/><tag k="height" v="9.3"/><tag k="ele" v="94.6"/></way>
+<way id="-3846" visible="true"><nd ref="-3847"/><nd ref="-3848"/><nd ref="-3849"/><nd ref="-3850"/><nd ref="-3847"/><tag k="building" v="yes"/><tag k="height" v="6.9"/><tag k="ele" v="93.1"/></way>
+<way id="-3851" visible="true"><nd ref="-3852"/><nd ref="-3853"/><nd ref="-3854"/><nd ref="-3855"/><nd ref="-3852"/><tag k="building" v="yes"/><tag k="height" v="9.5"/><tag k="ele" v="94.9"/></way>
+<way id="-3856" visible="true"><nd ref="-3857"/><nd ref="-3858"/><nd ref="-3859"/><nd ref="-3860"/><nd ref="-3857"/><tag k="building" v="yes"/><tag k="height" v="6.9"/><tag k="ele" v="92.3"/></way>
+<way id="-3861" visible="true"><nd ref="-3862"/><nd ref="-3863"/><nd ref="-3864"/><nd ref="-3865"/><nd ref="-3862"/><tag k="building" v="yes"/><tag k="height" v="7.0"/><tag k="ele" v="92.4"/></way>
+<way id="-3866" visible="true"><nd ref="-3867"/><nd ref="-3868"/><nd ref="-3869"/><nd ref="-3870"/><nd ref="-3867"/><tag k="building" v="yes"/><tag k="height" v="4.4"/><tag k="ele" v="91.2"/></way>
+<way id="-3871" visible="true"><nd ref="-3872"/><nd ref="-3873"/><nd ref="-3874"/><nd ref="-3875"/><nd ref="-3876"/><nd ref="-3877"/><nd ref="-3878"/><nd ref="-3879"/><nd ref="-3880"/><nd ref="-3881"/><nd ref="-3882"/><nd ref="-3883"/><nd ref="-3872"/><tag k="building" v="yes"/><tag k="height" v="5.7"/><tag k="ele" v="91.7"/></way>
+<way id="-3884" visible="true"><nd ref="-3885"/><nd ref="-3886"/><nd ref="-3887"/><nd ref="-3888"/><nd ref="-3885"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="4.7"/><tag k="ele" v="95.1"/></way>
+<way id="-3889" visible="true"><nd ref="-3890"/><nd ref="-3891"/><nd ref="-3892"/><nd ref="-3893"/><nd ref="-3890"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="6.5"/><tag k="ele" v="95.0"/></way>
+<way id="-3894" visible="true"><nd ref="-3895"/><nd ref="-3896"/><nd ref="-3897"/><nd ref="-3898"/><nd ref="-3895"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.5"/><tag k="ele" v="85.3"/></way>
+<way id="-3899" visible="true"><nd ref="-3900"/><nd ref="-3901"/><nd ref="-3902"/><nd ref="-3903"/><nd ref="-3900"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="ele" v="84.8"/></way>
+<way id="-3904" visible="true"><nd ref="-3905"/><nd ref="-3906"/><nd ref="-3907"/><nd ref="-3908"/><nd ref="-3905"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="4.0"/><tag k="ele" v="80.9"/></way>
+<way id="-3909" visible="true"><nd ref="-3910"/><nd ref="-3911"/><nd ref="-3912"/><nd ref="-3913"/><nd ref="-3910"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.2"/><tag k="ele" v="94.7"/></way>
+<way id="-3914" visible="true"><nd ref="-3915"/><nd ref="-3916"/><nd ref="-3917"/><nd ref="-3918"/><nd ref="-3915"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="2.3"/><tag k="ele" v="94.8"/></way>
+<way id="-3919" visible="true"><nd ref="-3920"/><nd ref="-3921"/><nd ref="-3922"/><nd ref="-3923"/><nd ref="-3920"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="4.7"/><tag k="ele" v="80.6"/></way>
+<way id="-3924" visible="true"><nd ref="-3925"/><nd ref="-3926"/><nd ref="-3927"/><nd ref="-3928"/><nd ref="-3925"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="3.6"/><tag k="ele" v="81.1"/></way>
+<way id="-3929" visible="true"><nd ref="-3930"/><nd ref="-3931"/><nd ref="-3932"/><nd ref="-3933"/><nd ref="-3930"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="3.3"/><tag k="ele" v="92.4"/></way>
+<way id="-3934" visible="true"><nd ref="-3935"/><nd ref="-3936"/><nd ref="-3937"/><nd ref="-3938"/><nd ref="-3935"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="4.7"/><tag k="ele" v="75.3"/></way>
+<way id="-3939" visible="true"><nd ref="-3940"/><nd ref="-3941"/><nd ref="-3942"/><nd ref="-3943"/><nd ref="-3940"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="3.0"/><tag k="ele" v="96.0"/></way>
+<way id="-3944" visible="true"><nd ref="-3945"/><nd ref="-3946"/><nd ref="-3947"/><nd ref="-3948"/><nd ref="-3945"/><tag k="building:levels" v="1"/><tag k="building" v="apartments"/><tag k="height" v="4.5"/><tag k="ele" v="96.2"/></way>
+<way id="-3949" visible="true"><nd ref="-3950"/><nd ref="-3951"/><nd ref="-3952"/><nd ref="-3953"/><nd ref="-3950"/><tag k="building:levels" v="1"/><tag k="building" v="apartments"/><tag k="height" v="4.6"/><tag k="ele" v="96.0"/></way>
+<way id="-3954" visible="true"><nd ref="-3955"/><nd ref="-3956"/><nd ref="-3957"/><nd ref="-3958"/><nd ref="-3959"/><nd ref="-3960"/><nd ref="-3961"/><nd ref="-3962"/><nd ref="-3963"/><nd ref="-3955"/><tag k="building:levels" v="1"/><tag k="building" v="apartments"/><tag k="height" v="4.1"/><tag k="ele" v="98.7"/></way>
+<way id="-3964" visible="true"><nd ref="-3965"/><nd ref="-3966"/><nd ref="-3967"/><nd ref="-3968"/><nd ref="-3965"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="5.3"/><tag k="ele" v="98.1"/></way>
+<way id="-3969" visible="true"><nd ref="-3970"/><nd ref="-3971"/><nd ref="-3972"/><nd ref="-3973"/><nd ref="-3970"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="4.0"/><tag k="ele" v="98.5"/></way>
+<way id="-3974" visible="true"><nd ref="-3975"/><nd ref="-3976"/><nd ref="-3977"/><nd ref="-3978"/><nd ref="-3975"/><tag k="building" v="yes"/><tag k="ele" v="91.3"/></way>
+<way id="-3979" visible="true"><nd ref="-3980"/><nd ref="-3981"/><nd ref="-3982"/><nd ref="-3983"/><nd ref="-3980"/><tag k="building:levels" v="1"/><tag k="building" v="apartments"/><tag k="height" v="4.7"/><tag k="ele" v="94.2"/></way>
+<way id="-3984" visible="true"><nd ref="-3985"/><nd ref="-3986"/><nd ref="-3987"/><nd ref="-3988"/><nd ref="-3985"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="5.2"/><tag k="ele" v="94.5"/></way>
+<way id="-3989" visible="true"><nd ref="-3990"/><nd ref="-3991"/><nd ref="-3992"/><nd ref="-3993"/><nd ref="-3990"/><tag k="building" v="yes"/><tag k="height" v="10.6"/><tag k="ele" v="93.4"/></way>
+<way id="-3994" visible="true"><nd ref="-3995"/><nd ref="-3996"/><nd ref="-3997"/><nd ref="-3998"/><nd ref="-3999"/><nd ref="-4000"/><nd ref="-4001"/><nd ref="-4002"/><nd ref="-3995"/><tag k="building" v="yes"/><tag k="height" v="10.6"/><tag k="ele" v="94.2"/></way>
+<way id="-4003" visible="true"><nd ref="-4004"/><nd ref="-4005"/><nd ref="-4006"/><nd ref="-4007"/><nd ref="-4008"/><nd ref="-4004"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="5.9"/><tag k="ele" v="96.0"/></way>
+<way id="-4009" visible="true"><nd ref="-4010"/><nd ref="-4011"/><nd ref="-4012"/><nd ref="-4013"/><nd ref="-4014"/><nd ref="-4015"/><nd ref="-4016"/><nd ref="-4010"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="5.3"/><tag k="ele" v="95.0"/></way>
+<way id="-4017" visible="true"><nd ref="-4018"/><nd ref="-4019"/><nd ref="-4020"/><nd ref="-4021"/><nd ref="-4018"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.8"/><tag k="ele" v="81.9"/></way>
+<way id="-4022" visible="true"><nd ref="-4023"/><nd ref="-4024"/><nd ref="-4025"/><nd ref="-4026"/><nd ref="-4023"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="ele" v="93.3"/></way>
+<way id="-4027" visible="true"><nd ref="-4028"/><nd ref="-4029"/><nd ref="-4030"/><nd ref="-4031"/><nd ref="-4028"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="ele" v="93.5"/></way>
+<way id="-4032" visible="true"><nd ref="-4033"/><nd ref="-4034"/><nd ref="-4035"/><nd ref="-4036"/><nd ref="-4033"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="ele" v="95.2"/></way>
+<way id="-4037" visible="true"><nd ref="-4038"/><nd ref="-4039"/><nd ref="-4040"/><nd ref="-4041"/><nd ref="-4038"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="4.4"/><tag k="ele" v="83.8"/></way>
+<way id="-4042" visible="true"><nd ref="-4043"/><nd ref="-4044"/><nd ref="-4045"/><nd ref="-4046"/><nd ref="-4043"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.3"/><tag k="ele" v="94.1"/></way>
+<way id="-4047" visible="true"><nd ref="-4048"/><nd ref="-4049"/><nd ref="-4050"/><nd ref="-4051"/><nd ref="-4048"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.8"/><tag k="ele" v="88.1"/></way>
+<way id="-4052" visible="true"><nd ref="-4053"/><nd ref="-4054"/><nd ref="-4055"/><nd ref="-4056"/><nd ref="-4053"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="4.0"/><tag k="ele" v="91.9"/></way>
+<way id="-4057" visible="true"><nd ref="-4058"/><nd ref="-4059"/><nd ref="-4060"/><nd ref="-4061"/><nd ref="-4058"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="4.3"/><tag k="ele" v="92.7"/></way>
+<way id="-4062" visible="true"><nd ref="-4063"/><nd ref="-4064"/><nd ref="-4065"/><nd ref="-4066"/><nd ref="-4063"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="ele" v="101.3"/></way>
+<way id="-4067" visible="true"><nd ref="-4068"/><nd ref="-4069"/><nd ref="-4070"/><nd ref="-4071"/><nd ref="-4072"/><nd ref="-4073"/><nd ref="-4074"/><nd ref="-4075"/><nd ref="-4068"/><tag k="building:levels" v="1"/><tag k="building" v="apartments"/><tag k="ele" v="94.2"/></way>
+<way id="-4076" visible="true"><nd ref="-4077"/><nd ref="-4078"/><nd ref="-4079"/><nd ref="-4080"/><nd ref="-4077"/><tag k="building" v="yes"/><tag k="height" v="7.4"/><tag k="ele" v="91.1"/></way>
+<way id="-4081" visible="true"><nd ref="-4082"/><nd ref="-4083"/><nd ref="-4084"/><nd ref="-4085"/><nd ref="-4086"/><nd ref="-4082"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="ele" v="90.7"/></way>
+<way id="-4087" visible="true"><nd ref="-4088"/><nd ref="-4089"/><nd ref="-4090"/><nd ref="-4091"/><nd ref="-4092"/><nd ref="-4093"/><nd ref="-4094"/><nd ref="-4095"/><nd ref="-4088"/><tag k="building:levels" v="1"/><tag k="building" v="detached"/><tag k="height" v="4.4"/><tag k="ele" v="98.2"/></way>
+<way id="-4096" visible="true"><nd ref="-4097"/><nd ref="-4098"/><nd ref="-4099"/><nd ref="-4100"/><nd ref="-4097"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="ele" v="91.7"/></way>
+<way id="-4101" visible="true"><nd ref="-4102"/><nd ref="-4103"/><nd ref="-4104"/><nd ref="-4105"/><nd ref="-4106"/><nd ref="-4107"/><nd ref="-4108"/><nd ref="-4109"/><nd ref="-4110"/><nd ref="-4111"/><nd ref="-4102"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="8.0"/><tag k="ele" v="92.7"/></way>
+<way id="-4112" visible="true"><nd ref="-4113"/><nd ref="-4114"/><nd ref="-4115"/><nd ref="-4116"/><nd ref="-4113"/><tag k="building" v="yes"/><tag k="height" v="4.5"/><tag k="ele" v="91.3"/></way>
+<way id="-4117" visible="true"><nd ref="-4118"/><nd ref="-4119"/><nd ref="-4120"/><nd ref="-4121"/><nd ref="-4122"/><nd ref="-4123"/><nd ref="-4124"/><nd ref="-4125"/><nd ref="-4126"/><nd ref="-4127"/><nd ref="-4118"/><tag k="building" v="yes"/><tag k="height" v="4.2"/><tag k="ele" v="85.2"/></way>
+<way id="-4128" visible="true"><nd ref="-4129"/><nd ref="-4130"/><nd ref="-4131"/><nd ref="-4132"/><nd ref="-4129"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="ele" v="92.1"/></way>
+<way id="-4133" visible="true"><nd ref="-4134"/><nd ref="-4135"/><nd ref="-4136"/><nd ref="-4137"/><nd ref="-4138"/><nd ref="-4139"/><nd ref="-4140"/><nd ref="-4141"/><nd ref="-4134"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="4.0"/><tag k="ele" v="98.2"/></way>
+<way id="-4142" visible="true"><nd ref="-4143"/><nd ref="-4144"/><nd ref="-4145"/><nd ref="-4146"/><nd ref="-4143"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="ele" v="97.7"/></way>
+<way id="-4147" visible="true"><nd ref="-4148"/><nd ref="-4149"/><nd ref="-4150"/><nd ref="-4151"/><nd ref="-4152"/><nd ref="-4153"/><nd ref="-4148"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="7.0"/><tag k="ele" v="96.6"/></way>
+<way id="-4154" visible="true"><nd ref="-4155"/><nd ref="-4156"/><nd ref="-4157"/><nd ref="-4158"/><nd ref="-4155"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="4.8"/><tag k="ele" v="95.4"/></way>
+<way id="-4159" visible="true"><nd ref="-4160"/><nd ref="-4161"/><nd ref="-4162"/><nd ref="-4163"/><nd ref="-4160"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="3.5"/><tag k="ele" v="97.5"/></way>
+<way id="-4164" visible="true"><nd ref="-4165"/><nd ref="-4166"/><nd ref="-4167"/><nd ref="-4168"/><nd ref="-4165"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="4.1"/><tag k="ele" v="99.3"/></way>
+<way id="-4169" visible="true"><nd ref="-4170"/><nd ref="-4171"/><nd ref="-4172"/><nd ref="-4173"/><nd ref="-4170"/><tag k="building:levels" v="1"/><tag k="building" v="apartments"/><tag k="height" v="3.0"/><tag k="ele" v="96.0"/></way>
+<way id="-4174" visible="true"><nd ref="-4175"/><nd ref="-4176"/><nd ref="-4177"/><nd ref="-4178"/><nd ref="-4175"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="3.7"/><tag k="ele" v="89.6"/></way>
+<way id="-4179" visible="true"><nd ref="-4180"/><nd ref="-4181"/><nd ref="-4182"/><nd ref="-4183"/><nd ref="-4180"/><tag k="building:levels" v="2"/><tag k="building" v="yes"/><tag k="height" v="6.9"/><tag k="ele" v="81.2"/></way>
+<way id="-4184" visible="true"><nd ref="-4185"/><nd ref="-4186"/><nd ref="-4187"/><nd ref="-4188"/><nd ref="-4185"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="height" v="5.9"/><tag k="ele" v="93.8"/></way>
+<way id="-4189" visible="true"><nd ref="-15"/><nd ref="-4190"/><nd ref="-4191"/><nd ref="-4192"/><nd ref="-15"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="4.6"/><tag k="ele" v="93.9"/></way>
+<way id="-4193" visible="true"><nd ref="-4194"/><nd ref="-4195"/><nd ref="-4196"/><nd ref="-4197"/><nd ref="-4194"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="height" v="4.7"/><tag k="ele" v="84.4"/></way>
+<way id="-4198" visible="true"><nd ref="-4199"/><nd ref="-4200"/><nd ref="-4201"/><nd ref="-4202"/><nd ref="-4199"/><tag k="building:levels" v="1"/><tag k="building" v="yes"/><tag k="ele" v="90.6"/></way>
+<way id="-4203" visible="true"><nd ref="-4204"/><nd ref="-4205"/><nd ref="-4206"/><nd ref="-4207"/><nd ref="-4204"/><tag k="building:levels" v="2"/><tag k="building" v="apartments"/><tag k="height" v="8.9"/><tag k="ele" v="80.5"/></way>
+<way id="-4208" visible="true"><nd ref="-4209"/><nd ref="-4210"/><nd ref="-4211"/><nd ref="-4212"/><nd ref="-4213"/><nd ref="-4214"/><nd ref="-4215"/><nd ref="-4216"/><nd ref="-4209"/><tag k="building:levels" v="1"/><tag k="building" v="apartments"/><tag k="height" v="4.0"/><tag k="ele" v="80.3"/></way>
+<way id="-4217" visible="true"><nd ref="-4218"/><nd ref="-4219"/><nd ref="-4220"/><nd ref="-4221"/><nd ref="-4218"/><tag k="building" v="yes"/><tag k="ele" v="86.2"/></way>
+<way id="-4222" visible="true"><nd ref="-4223"/><nd ref="-4224"/><nd ref="-4225"/><nd ref="-4226"/><nd ref="-4223"/><tag k="building:levels" v="1"/><tag k="building" v="garage"/><tag k="ele" v="74.7"/></way>
 </osm>

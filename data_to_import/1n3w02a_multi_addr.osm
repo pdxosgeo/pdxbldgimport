@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.599973307" lon="-123.003248555" visible="true"><tag k="addr:housenumber" v="31693"/><tag k="addr:postcode" v="97133"/><tag k="addr:city" v="North Plains"/><tag k="addr:street" v="Northwest Wascoe Street"/></node>
-<node id="-2" lat="45.599977225" lon="-123.003247224" visible="true"><tag k="addr:housenumber" v="31695"/><tag k="addr:postcode" v="97133"/><tag k="addr:city" v="North Plains"/><tag k="addr:street" v="Northwest Wascoe Street"/></node>
-<node id="-3" lat="45.600089789" lon="-123.004498619" visible="true"><tag k="addr:housenumber" v="31841"/><tag k="addr:postcode" v="97133"/><tag k="addr:city" v="North Plains"/><tag k="addr:street" v="Northwest Wascoe Street"/></node>
-<node id="-4" lat="45.600085471" lon="-123.004497499" visible="true"><tag k="addr:housenumber" v="31845"/><tag k="addr:postcode" v="97133"/><tag k="addr:city" v="North Plains"/><tag k="addr:street" v="Northwest Wascoe Street"/></node>
+<node id="-1" lat="45.59997828" lon="-123.00325047" visible="true"><tag k="addr:housenumber" v="31693"/><tag k="addr:postcode" v="97133"/><tag k="addr:city" v="North Plains"/><tag k="addr:street" v="Northwest Wascoe Street"/></node>
+<node id="-2" lat="45.59998143" lon="-123.003245686" visible="true"><tag k="addr:housenumber" v="31695"/><tag k="addr:postcode" v="97133"/><tag k="addr:city" v="North Plains"/><tag k="addr:street" v="Northwest Wascoe Street"/></node>
+<node id="-3" lat="45.60008567" lon="-123.004505771" visible="true"><tag k="addr:housenumber" v="31841"/><tag k="addr:postcode" v="97133"/><tag k="addr:city" v="North Plains"/><tag k="addr:street" v="Northwest Wascoe Street"/></node>
+<node id="-4" lat="45.600087024" lon="-123.00450569" visible="true"><tag k="addr:housenumber" v="31845"/><tag k="addr:postcode" v="97133"/><tag k="addr:city" v="North Plains"/><tag k="addr:street" v="Northwest Wascoe Street"/></node>
 </osm>

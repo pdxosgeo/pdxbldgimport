@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.448428024" lon="-122.567317768" visible="true"><tag k="addr:housenumber" v="10300"/><tag k="addr:postcode" v="97086"/><tag k="addr:city" v="Happy Valley"/><tag k="addr:street" v="Southeast 92nd Avenue"/></node>
-<node id="-2" lat="45.448436829" lon="-122.567323109" visible="true"><tag k="addr:housenumber" v="10285"/><tag k="addr:postcode" v="97086"/><tag k="addr:city" v="Happy Valley"/><tag k="addr:street" v="Southeast 92nd Place"/></node>
-<node id="-3" lat="45.448430117" lon="-122.567322649" visible="true"><tag k="addr:housenumber" v="9375"/><tag k="addr:postcode" v="97086"/><tag k="addr:city" v="Happy Valley"/><tag k="addr:street" v="Southeast Meridien Drive"/></node>
+<node id="-1" lat="45.448427165" lon="-122.567325762" visible="true"><tag k="addr:housenumber" v="10300"/><tag k="addr:postcode" v="97086"/><tag k="addr:city" v="Happy Valley"/><tag k="addr:street" v="Southeast 92nd Avenue"/></node>
+<node id="-2" lat="45.448435637" lon="-122.567317727" visible="true"><tag k="addr:housenumber" v="10285"/><tag k="addr:postcode" v="97086"/><tag k="addr:city" v="Happy Valley"/><tag k="addr:street" v="Southeast 92nd Place"/></node>
+<node id="-3" lat="45.448436498" lon="-122.56732604" visible="true"><tag k="addr:housenumber" v="9375"/><tag k="addr:postcode" v="97086"/><tag k="addr:city" v="Happy Valley"/><tag k="addr:street" v="Southeast Meridien Drive"/></node>
 </osm>

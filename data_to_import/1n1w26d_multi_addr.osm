@@ -1,5 +1,7 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.535308228" lon="-122.771820512" visible="true"><tag k="addr:housenumber" v="9211"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Wood Rose Loop"/></node>
-<node id="-2" lat="45.535300432" lon="-122.771824909" visible="true"><tag k="addr:housenumber" v="9213"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Wood Rose Loop"/></node>
+<node id="-1" lat="45.534878026" lon="-122.764488965" visible="true"><tag k="addr:housenumber" v="8606"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Hazeltine Street"/></node>
+<node id="-2" lat="45.534869617" lon="-122.764489509" visible="true"><tag k="addr:housenumber" v="8509"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Mendenhall Street"/></node>
+<node id="-3" lat="45.535299112" lon="-122.771819624" visible="true"><tag k="addr:housenumber" v="9211"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Wood Rose Loop"/></node>
+<node id="-4" lat="45.535306509" lon="-122.771816119" visible="true"><tag k="addr:housenumber" v="9213"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Wood Rose Loop"/></node>
 </osm>

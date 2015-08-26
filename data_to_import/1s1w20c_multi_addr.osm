@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.464930897" lon="-122.840216134" visible="true"><tag k="addr:housenumber" v="15833"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Misty Court"/></node>
-<node id="-2" lat="45.464936736" lon="-122.84039977" visible="true"><tag k="addr:housenumber" v="15835"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Misty Court"/></node>
-<node id="-3" lat="45.464400515" lon="-122.840298411" visible="true"><tag k="addr:housenumber" v="15858"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Misty Court"/></node>
-<node id="-4" lat="45.464361659" lon="-122.840371003" visible="true"><tag k="addr:housenumber" v="15860"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Misty Court"/></node>
-<node id="-5" lat="45.464366229" lon="-122.840446753" visible="true"><tag k="addr:housenumber" v="15862"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Misty Court"/></node>
-<node id="-6" lat="45.465204202" lon="-122.84032873" visible="true"><tag k="addr:housenumber" v="15865"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Misty Court"/></node>
-<node id="-7" lat="45.465256533" lon="-122.84032952" visible="true"><tag k="addr:housenumber" v="15867"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Misty Court"/></node>
-<node id="-8" lat="45.465292093" lon="-122.840325542" visible="true"><tag k="addr:housenumber" v="15869"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Misty Court"/></node>
-<node id="-9" lat="45.465402024" lon="-122.840334793" visible="true"><tag k="addr:housenumber" v="15871"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Misty Court"/></node>
-<node id="-10" lat="45.465445393" lon="-122.840338478" visible="true"><tag k="addr:housenumber" v="15873"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Misty Court"/></node>
-<node id="-11" lat="45.465479437" lon="-122.840340235" visible="true"><tag k="addr:housenumber" v="15875"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Misty Court"/></node>
+<node id="-1" lat="45.464938119" lon="-122.840210833" visible="true"><tag k="addr:housenumber" v="15833"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Misty Court"/></node>
+<node id="-2" lat="45.464932748" lon="-122.840397821" visible="true"><tag k="addr:housenumber" v="15835"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Misty Court"/></node>
+<node id="-3" lat="45.464401123" lon="-122.840296554" visible="true"><tag k="addr:housenumber" v="15858"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Misty Court"/></node>
+<node id="-4" lat="45.464367707" lon="-122.840374787" visible="true"><tag k="addr:housenumber" v="15860"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Misty Court"/></node>
+<node id="-5" lat="45.464367938" lon="-122.840441328" visible="true"><tag k="addr:housenumber" v="15862"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Misty Court"/></node>
+<node id="-6" lat="45.465208182" lon="-122.840328667" visible="true"><tag k="addr:housenumber" v="15865"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Misty Court"/></node>
+<node id="-7" lat="45.465248311" lon="-122.840333164" visible="true"><tag k="addr:housenumber" v="15867"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Misty Court"/></node>
+<node id="-8" lat="45.465290348" lon="-122.840330102" visible="true"><tag k="addr:housenumber" v="15869"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Misty Court"/></node>
+<node id="-9" lat="45.465401598" lon="-122.840339418" visible="true"><tag k="addr:housenumber" v="15871"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Misty Court"/></node>
+<node id="-10" lat="45.465444961" lon="-122.840335681" visible="true"><tag k="addr:housenumber" v="15873"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Misty Court"/></node>
+<node id="-11" lat="45.46547879" lon="-122.840341122" visible="true"><tag k="addr:housenumber" v="15875"/><tag k="addr:postcode" v="97007"/><tag k="addr:city" v="Beaverton"/><tag k="addr:street" v="Southwest Misty Court"/></node>
 </osm>

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.457424573" lon="-122.304051848" visible="true"><tag k="addr:housenumber" v="34755"/><tag k="addr:postcode" v="97009"/><tag k="addr:city" v="Boring"/><tag k="addr:street" v="Southeast Bluff Road"/></node>
-<node id="-2" lat="45.45742234" lon="-122.304058896" visible="true"><tag k="addr:housenumber" v="34851"/><tag k="addr:postcode" v="97009"/><tag k="addr:city" v="Boring"/><tag k="addr:street" v="Southeast Bluff Road"/></node>
-<node id="-3" lat="45.428838562" lon="-122.319507252" visible="true"><tag k="addr:housenumber" v="13040"/><tag k="addr:postcode" v="97009"/><tag k="addr:city" v="Boring"/><tag k="addr:street" v="Southeast Bobby Bruce Lane"/></node>
-<node id="-4" lat="45.428838787" lon="-122.319298108" visible="true"><tag k="addr:housenumber" v="13050"/><tag k="addr:postcode" v="97009"/><tag k="addr:city" v="Boring"/><tag k="addr:street" v="Southeast Bobby Bruce Lane"/></node>
+<node id="-1" lat="45.457426484" lon="-122.304057472" visible="true"><tag k="addr:housenumber" v="34755"/><tag k="addr:postcode" v="97009"/><tag k="addr:city" v="Boring"/><tag k="addr:street" v="Southeast Bluff Road"/></node>
+<node id="-2" lat="45.457428963" lon="-122.304051094" visible="true"><tag k="addr:housenumber" v="34851"/><tag k="addr:postcode" v="97009"/><tag k="addr:city" v="Boring"/><tag k="addr:street" v="Southeast Bluff Road"/></node>
+<node id="-3" lat="45.428837455" lon="-122.319509767" visible="true"><tag k="addr:housenumber" v="13040"/><tag k="addr:postcode" v="97009"/><tag k="addr:city" v="Boring"/><tag k="addr:street" v="Southeast Bobby Bruce Lane"/></node>
+<node id="-4" lat="45.428844115" lon="-122.319297791" visible="true"><tag k="addr:housenumber" v="13050"/><tag k="addr:postcode" v="97009"/><tag k="addr:city" v="Boring"/><tag k="addr:street" v="Southeast Bobby Bruce Lane"/></node>
 </osm>

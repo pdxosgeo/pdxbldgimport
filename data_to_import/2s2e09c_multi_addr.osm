@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.409602382" lon="-122.56914556" visible="true"><tag k="addr:housenumber" v="15661"/><tag k="addr:postcode" v="97015"/><tag k="addr:city" v="Clackamas"/><tag k="addr:street" v="Southeast 82nd Drive"/></node>
-<node id="-2" lat="45.409487347" lon="-122.569048483" visible="true"><tag k="addr:housenumber" v="15675"/><tag k="addr:postcode" v="97015"/><tag k="addr:city" v="Clackamas"/><tag k="addr:street" v="Southeast 82nd Drive"/></node>
-<node id="-3" lat="45.409602846" lon="-122.570207652" visible="true"><tag k="addr:housenumber" v="9124"/><tag k="addr:postcode" v="97015"/><tag k="addr:city" v="Clackamas"/><tag k="addr:street" v="Southeast St Helens Street"/></node>
-<node id="-4" lat="45.409458415" lon="-122.570200457" visible="true"><tag k="addr:housenumber" v="9128"/><tag k="addr:postcode" v="97015"/><tag k="addr:city" v="Clackamas"/><tag k="addr:street" v="Southeast St Helens Street"/></node>
-<node id="-5" lat="45.409378267" lon="-122.570108721" visible="true"><tag k="addr:housenumber" v="9132"/><tag k="addr:postcode" v="97015"/><tag k="addr:city" v="Clackamas"/><tag k="addr:street" v="Southeast St Helens Street"/></node>
-<node id="-6" lat="45.409379798" lon="-122.569895441" visible="true"><tag k="addr:housenumber" v="9134"/><tag k="addr:postcode" v="97015"/><tag k="addr:city" v="Clackamas"/><tag k="addr:street" v="Southeast St Helens Street"/></node>
-<node id="-7" lat="45.409378488" lon="-122.569721293" visible="true"><tag k="addr:housenumber" v="9136"/><tag k="addr:postcode" v="97015"/><tag k="addr:city" v="Clackamas"/><tag k="addr:street" v="Southeast St Helens Street"/></node>
-<node id="-8" lat="45.409446027" lon="-122.569586415" visible="true"><tag k="addr:housenumber" v="9140"/><tag k="addr:postcode" v="97015"/><tag k="addr:city" v="Clackamas"/><tag k="addr:street" v="Southeast St Helens Street"/></node>
-<node id="-9" lat="45.409584291" lon="-122.569590546" visible="true"><tag k="addr:housenumber" v="9144"/><tag k="addr:postcode" v="97015"/><tag k="addr:city" v="Clackamas"/><tag k="addr:street" v="Southeast St Helens Street"/></node>
+<node id="-1" lat="45.409594041" lon="-122.569142382" visible="true"><tag k="addr:housenumber" v="15661"/><tag k="addr:postcode" v="97015"/><tag k="addr:city" v="Clackamas"/><tag k="addr:street" v="Southeast 82nd Drive"/></node>
+<node id="-2" lat="45.409484728" lon="-122.5690435" visible="true"><tag k="addr:housenumber" v="15675"/><tag k="addr:postcode" v="97015"/><tag k="addr:city" v="Clackamas"/><tag k="addr:street" v="Southeast 82nd Drive"/></node>
+<node id="-3" lat="45.409607149" lon="-122.570206418" visible="true"><tag k="addr:housenumber" v="9124"/><tag k="addr:postcode" v="97015"/><tag k="addr:city" v="Clackamas"/><tag k="addr:street" v="Southeast St Helens Street"/></node>
+<node id="-4" lat="45.409455515" lon="-122.570203364" visible="true"><tag k="addr:housenumber" v="9128"/><tag k="addr:postcode" v="97015"/><tag k="addr:city" v="Clackamas"/><tag k="addr:street" v="Southeast St Helens Street"/></node>
+<node id="-5" lat="45.409379397" lon="-122.570103745" visible="true"><tag k="addr:housenumber" v="9132"/><tag k="addr:postcode" v="97015"/><tag k="addr:city" v="Clackamas"/><tag k="addr:street" v="Southeast St Helens Street"/></node>
+<node id="-6" lat="45.409374787" lon="-122.569896264" visible="true"><tag k="addr:housenumber" v="9134"/><tag k="addr:postcode" v="97015"/><tag k="addr:city" v="Clackamas"/><tag k="addr:street" v="Southeast St Helens Street"/></node>
+<node id="-7" lat="45.409374177" lon="-122.569715439" visible="true"><tag k="addr:housenumber" v="9136"/><tag k="addr:postcode" v="97015"/><tag k="addr:city" v="Clackamas"/><tag k="addr:street" v="Southeast St Helens Street"/></node>
+<node id="-8" lat="45.409443248" lon="-122.569585829" visible="true"><tag k="addr:housenumber" v="9140"/><tag k="addr:postcode" v="97015"/><tag k="addr:city" v="Clackamas"/><tag k="addr:street" v="Southeast St Helens Street"/></node>
+<node id="-9" lat="45.409580608" lon="-122.569592184" visible="true"><tag k="addr:housenumber" v="9144"/><tag k="addr:postcode" v="97015"/><tag k="addr:city" v="Clackamas"/><tag k="addr:street" v="Southeast St Helens Street"/></node>
 </osm>

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.538739452" lon="-122.506547647" visible="true"><tag k="addr:housenumber" v="2020"/><tag k="addr:postcode" v="97230"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 150th Avenue"/></node>
-<node id="-2" lat="45.538067186" lon="-122.510985784" visible="true"><tag k="addr:housenumber" v="14717"/><tag k="addr:postcode" v="97230"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast San Rafael Street"/></node>
-<node id="-3" lat="45.538067391" lon="-122.510986055" visible="true"><tag k="addr:housenumber" v="14741"/><tag k="addr:postcode" v="97230"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast San Rafael Street"/></node>
-<node id="-4" lat="45.538734988" lon="-122.506549313" visible="true"><tag k="addr:housenumber" v="15205"/><tag k="addr:postcode" v="97230"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast San Rafael Street"/></node>
+<node id="-1" lat="45.538734915" lon="-122.506544731" visible="true"><tag k="addr:housenumber" v="2020"/><tag k="addr:postcode" v="97230"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 150th Avenue"/></node>
+<node id="-2" lat="45.538068252" lon="-122.510984953" visible="true"><tag k="addr:housenumber" v="14717"/><tag k="addr:postcode" v="97230"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast San Rafael Street"/></node>
+<node id="-3" lat="45.538074849" lon="-122.510988759" visible="true"><tag k="addr:housenumber" v="14741"/><tag k="addr:postcode" v="97230"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast San Rafael Street"/></node>
+<node id="-4" lat="45.538734095" lon="-122.506549513" visible="true"><tag k="addr:housenumber" v="15205"/><tag k="addr:postcode" v="97230"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast San Rafael Street"/></node>
 </osm>

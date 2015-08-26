@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.39425076" lon="-122.574627895" visible="true"><tag k="addr:housenumber" v="17765"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="82nd Drive"/></node>
-<node id="-2" lat="45.394088446" lon="-122.574710717" visible="true"><tag k="addr:housenumber" v="17785"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="82nd Drive"/></node>
-<node id="-3" lat="45.393923018" lon="-122.574823268" visible="true"><tag k="addr:housenumber" v="17795"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="82nd Drive"/></node>
-<node id="-4" lat="45.393719242" lon="-122.574895328" visible="true"><tag k="addr:housenumber" v="17805"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="82nd Drive"/></node>
-<node id="-5" lat="45.393532467" lon="-122.574972839" visible="true"><tag k="addr:housenumber" v="17825"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="82nd Drive"/></node>
-<node id="-6" lat="45.393284313" lon="-122.575066801" visible="true"><tag k="addr:housenumber" v="17835"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="82nd Drive"/></node>
-<node id="-7" lat="45.392834296" lon="-122.575208126" visible="true"><tag k="addr:housenumber" v="17845"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="82nd Drive"/></node>
-<node id="-8" lat="45.392637548" lon="-122.575316207" visible="true"><tag k="addr:housenumber" v="17855"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="82nd Drive"/></node>
-<node id="-9" lat="45.39239948" lon="-122.575407705" visible="true"><tag k="addr:housenumber" v="17865"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="82nd Drive"/></node>
-<node id="-10" lat="45.39221333" lon="-122.575438702" visible="true"><tag k="addr:housenumber" v="17885"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="82nd Drive"/></node>
+<node id="-1" lat="45.394249354" lon="-122.574634077" visible="true"><tag k="addr:housenumber" v="17765"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="82nd Drive"/></node>
+<node id="-2" lat="45.394094387" lon="-122.574717259" visible="true"><tag k="addr:housenumber" v="17785"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="82nd Drive"/></node>
+<node id="-3" lat="45.393924941" lon="-122.574824033" visible="true"><tag k="addr:housenumber" v="17795"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="82nd Drive"/></node>
+<node id="-4" lat="45.393726274" lon="-122.574891994" visible="true"><tag k="addr:housenumber" v="17805"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="82nd Drive"/></node>
+<node id="-5" lat="45.393534941" lon="-122.574978675" visible="true"><tag k="addr:housenumber" v="17825"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="82nd Drive"/></node>
+<node id="-6" lat="45.393288505" lon="-122.575064892" visible="true"><tag k="addr:housenumber" v="17835"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="82nd Drive"/></node>
+<node id="-7" lat="45.392831625" lon="-122.575209231" visible="true"><tag k="addr:housenumber" v="17845"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="82nd Drive"/></node>
+<node id="-8" lat="45.392634361" lon="-122.575314003" visible="true"><tag k="addr:housenumber" v="17855"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="82nd Drive"/></node>
+<node id="-9" lat="45.392401713" lon="-122.575416244" visible="true"><tag k="addr:housenumber" v="17865"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="82nd Drive"/></node>
+<node id="-10" lat="45.392215833" lon="-122.57543549" visible="true"><tag k="addr:housenumber" v="17885"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="82nd Drive"/></node>
 </osm>

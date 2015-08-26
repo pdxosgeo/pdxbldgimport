@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.401325269" lon="-122.58148059" visible="true"><tag k="addr:housenumber" v="7998"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Towhee Court"/></node>
-<node id="-2" lat="45.401330389" lon="-122.581404919" visible="true"><tag k="addr:housenumber" v="8024"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Towhee Court"/></node>
-<node id="-3" lat="45.398299364" lon="-122.585625578" visible="true"><tag k="addr:housenumber" v="17190"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="Webster Road"/></node>
-<node id="-4" lat="45.398198727" lon="-122.585617813" visible="true"><tag k="addr:housenumber" v="17192"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="Webster Road"/></node>
-<node id="-5" lat="45.397393354" lon="-122.584975978" visible="true"><tag k="addr:housenumber" v="17262"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="Webster Road"/></node>
-<node id="-6" lat="45.397388984" lon="-122.585052329" visible="true"><tag k="addr:housenumber" v="17264"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="Webster Road"/></node>
-<node id="-7" lat="45.397389699" lon="-122.585130232" visible="true"><tag k="addr:housenumber" v="17266"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="Webster Road"/></node>
-<node id="-8" lat="45.397388518" lon="-122.585194544" visible="true"><tag k="addr:housenumber" v="17268"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="Webster Road"/></node>
-<node id="-9" lat="45.397395067" lon="-122.585536375" visible="true"><tag k="addr:housenumber" v="17270"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="Webster Road"/></node>
-<node id="-10" lat="45.397387814" lon="-122.585476609" visible="true"><tag k="addr:housenumber" v="17272"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="Webster Road"/></node>
-<node id="-11" lat="45.397393805" lon="-122.585382244" visible="true"><tag k="addr:housenumber" v="17274"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="Webster Road"/></node>
-<node id="-12" lat="45.397395454" lon="-122.585310457" visible="true"><tag k="addr:housenumber" v="17276"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="Webster Road"/></node>
+<node id="-1" lat="45.401327816" lon="-122.58147898" visible="true"><tag k="addr:housenumber" v="7998"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Towhee Court"/></node>
+<node id="-2" lat="45.40133094" lon="-122.581405533" visible="true"><tag k="addr:housenumber" v="8024"/><tag k="addr:postcode" v="97267"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Towhee Court"/></node>
+<node id="-3" lat="45.398298915" lon="-122.585623119" visible="true"><tag k="addr:housenumber" v="17190"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="Webster Road"/></node>
+<node id="-4" lat="45.398196802" lon="-122.585617629" visible="true"><tag k="addr:housenumber" v="17192"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="Webster Road"/></node>
+<node id="-5" lat="45.397389782" lon="-122.584978404" visible="true"><tag k="addr:housenumber" v="17262"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="Webster Road"/></node>
+<node id="-6" lat="45.397393587" lon="-122.585050336" visible="true"><tag k="addr:housenumber" v="17264"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="Webster Road"/></node>
+<node id="-7" lat="45.39739408" lon="-122.585132187" visible="true"><tag k="addr:housenumber" v="17266"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="Webster Road"/></node>
+<node id="-8" lat="45.397391868" lon="-122.585195994" visible="true"><tag k="addr:housenumber" v="17268"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="Webster Road"/></node>
+<node id="-9" lat="45.397388394" lon="-122.585539862" visible="true"><tag k="addr:housenumber" v="17270"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="Webster Road"/></node>
+<node id="-10" lat="45.397390772" lon="-122.58547084" visible="true"><tag k="addr:housenumber" v="17272"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="Webster Road"/></node>
+<node id="-11" lat="45.397393874" lon="-122.585390677" visible="true"><tag k="addr:housenumber" v="17274"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="Webster Road"/></node>
+<node id="-12" lat="45.397389597" lon="-122.585312021" visible="true"><tag k="addr:housenumber" v="17276"/><tag k="addr:postcode" v="97027"/><tag k="addr:city" v="Gladstone"/><tag k="addr:street" v="Webster Road"/></node>
 </osm>

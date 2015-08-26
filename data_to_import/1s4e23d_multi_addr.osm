@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.487239663" lon="-122.243091195" visible="true"><tag k="addr:housenumber" v="40565"/><tag k="addr:postcode" v="97019"/><tag k="addr:city" v="Corbett"/><tag k="addr:street" v="Southeast Trout Creek Road"/></node>
-<node id="-2" lat="45.487240333" lon="-122.243091393" visible="true"><tag k="addr:housenumber" v="40575"/><tag k="addr:postcode" v="97019"/><tag k="addr:city" v="Corbett"/><tag k="addr:street" v="Southeast Trout Creek Road"/></node>
+<node id="-1" lat="45.487239244" lon="-122.243088006" visible="true"><tag k="addr:housenumber" v="40565"/><tag k="addr:postcode" v="97019"/><tag k="addr:city" v="Corbett"/><tag k="addr:street" v="Southeast Trout Creek Road"/></node>
+<node id="-2" lat="45.487236712" lon="-122.243093337" visible="true"><tag k="addr:housenumber" v="40575"/><tag k="addr:postcode" v="97019"/><tag k="addr:city" v="Corbett"/><tag k="addr:street" v="Southeast Trout Creek Road"/></node>
 </osm>

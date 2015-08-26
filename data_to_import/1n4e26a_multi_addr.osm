@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.54116634" lon="-122.290690294" visible="true"><tag k="addr:housenumber" v="2803"/><tag k="addr:postcode" v="97019"/><tag k="addr:city" v="Corbett"/><tag k="addr:street" v="Northeast Corbett Hill Road"/></node>
-<node id="-2" lat="45.541162591" lon="-122.290681957" visible="true"><tag k="addr:housenumber" v="2905"/><tag k="addr:postcode" v="97019"/><tag k="addr:city" v="Corbett"/><tag k="addr:street" v="Northeast Rasmussen Road"/></node>
-<node id="-3" lat="45.523656841" lon="-122.376923432" visible="true"><tag k="addr:housenumber" v="1323"/><tag k="addr:postcode" v="97060"/><tag k="addr:city" v="Troutdale"/><tag k="addr:street" v="Southeast 24th Circle"/></node>
-<node id="-4" lat="45.523655618" lon="-122.376917967" visible="true"><tag k="addr:housenumber" v="1324"/><tag k="addr:postcode" v="97060"/><tag k="addr:city" v="Troutdale"/><tag k="addr:street" v="Southeast 24th Circle"/></node>
+<node id="-1" lat="45.541167321" lon="-122.290689488" visible="true"><tag k="addr:housenumber" v="2803"/><tag k="addr:postcode" v="97019"/><tag k="addr:city" v="Corbett"/><tag k="addr:street" v="Northeast Corbett Hill Road"/></node>
+<node id="-2" lat="45.541164768" lon="-122.290685262" visible="true"><tag k="addr:housenumber" v="2905"/><tag k="addr:postcode" v="97019"/><tag k="addr:city" v="Corbett"/><tag k="addr:street" v="Northeast Rasmussen Road"/></node>
+<node id="-3" lat="45.523656415" lon="-122.376920461" visible="true"><tag k="addr:housenumber" v="1323"/><tag k="addr:postcode" v="97060"/><tag k="addr:city" v="Troutdale"/><tag k="addr:street" v="Southeast 24th Circle"/></node>
+<node id="-4" lat="45.523651891" lon="-122.376918025" visible="true"><tag k="addr:housenumber" v="1324"/><tag k="addr:postcode" v="97060"/><tag k="addr:city" v="Troutdale"/><tag k="addr:street" v="Southeast 24th Circle"/></node>
 </osm>

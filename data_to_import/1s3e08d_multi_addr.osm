@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.496549276" lon="-122.455167624" visible="true"><tag k="addr:housenumber" v="2253"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southwest 1st Street"/></node>
-<node id="-2" lat="45.496555233" lon="-122.455168547" visible="true"><tag k="addr:housenumber" v="2255"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southwest 1st Street"/></node>
-<node id="-3" lat="45.496744686" lon="-122.455347566" visible="true"><tag k="addr:housenumber" v="2293"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southwest 1st Street"/></node>
-<node id="-4" lat="45.496744286" lon="-122.455349899" visible="true"><tag k="addr:housenumber" v="2295"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southwest 1st Street"/></node>
+<node id="-1" lat="45.496555212" lon="-122.455168922" visible="true"><tag k="addr:housenumber" v="2253"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southwest 1st Street"/></node>
+<node id="-2" lat="45.496552673" lon="-122.455168592" visible="true"><tag k="addr:housenumber" v="2255"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southwest 1st Street"/></node>
+<node id="-3" lat="45.496742741" lon="-122.455347353" visible="true"><tag k="addr:housenumber" v="2293"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southwest 1st Street"/></node>
+<node id="-4" lat="45.496748037" lon="-122.455343866" visible="true"><tag k="addr:housenumber" v="2295"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southwest 1st Street"/></node>
 </osm>

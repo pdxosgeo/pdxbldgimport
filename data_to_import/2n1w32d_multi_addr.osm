@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.609570273" lon="-122.866001306" visible="true"><tag k="addr:housenumber" v="11703"/><tag k="addr:postcode" v="97231"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Cornelius Pass Road"/></node>
-<node id="-2" lat="45.6095734" lon="-122.865996245" visible="true"><tag k="addr:housenumber" v="11903"/><tag k="addr:postcode" v="97231"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Cornelius Pass Road"/></node>
-<node id="-3" lat="45.588309208" lon="-122.832736311" visible="true"><tag k="addr:housenumber" v="14647"/><tag k="addr:postcode" v="97231"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Germantown Road"/></node>
-<node id="-4" lat="45.588318525" lon="-122.832741097" visible="true"><tag k="addr:housenumber" v="14649"/><tag k="addr:postcode" v="97231"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Germantown Road"/></node>
-<node id="-5" lat="45.606044141" lon="-122.833112871" visible="true"><tag k="addr:housenumber" v="15305"/><tag k="addr:postcode" v="97231"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Newberry Road"/></node>
-<node id="-6" lat="45.60957859" lon="-122.865994358" visible="true"><tag k="addr:housenumber" v="11703"/><tag k="addr:postcode" v="97231"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Old Cornelius Pass Road"/></node>
-<node id="-7" lat="45.600337103" lon="-122.829750088" visible="true"><tag k="addr:housenumber" v="10560"/><tag k="addr:postcode" v="97231"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Skyline Boulevard"/></node>
-<node id="-8" lat="45.600334262" lon="-122.829755446" visible="true"><tag k="addr:housenumber" v="10566"/><tag k="addr:postcode" v="97231"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Skyline Boulevard"/></node>
-<node id="-9" lat="45.606039615" lon="-122.833117922" visible="true"><tag k="addr:housenumber" v="11250"/><tag k="addr:postcode" v="97231"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Skyline Boulevard"/></node>
+<node id="-1" lat="45.60957902" lon="-122.865999878" visible="true"><tag k="addr:housenumber" v="11703"/><tag k="addr:postcode" v="97231"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Cornelius Pass Road"/></node>
+<node id="-2" lat="45.609575094" lon="-122.865993349" visible="true"><tag k="addr:housenumber" v="11903"/><tag k="addr:postcode" v="97231"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Cornelius Pass Road"/></node>
+<node id="-3" lat="45.588314737" lon="-122.83274092" visible="true"><tag k="addr:housenumber" v="14647"/><tag k="addr:postcode" v="97231"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Germantown Road"/></node>
+<node id="-4" lat="45.588312309" lon="-122.832743341" visible="true"><tag k="addr:housenumber" v="14649"/><tag k="addr:postcode" v="97231"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Germantown Road"/></node>
+<node id="-5" lat="45.606044761" lon="-122.833117954" visible="true"><tag k="addr:housenumber" v="15305"/><tag k="addr:postcode" v="97231"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Newberry Road"/></node>
+<node id="-6" lat="45.609576582" lon="-122.866001423" visible="true"><tag k="addr:housenumber" v="11703"/><tag k="addr:postcode" v="97231"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Old Cornelius Pass Road"/></node>
+<node id="-7" lat="45.600333902" lon="-122.829753617" visible="true"><tag k="addr:housenumber" v="10560"/><tag k="addr:postcode" v="97231"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Skyline Boulevard"/></node>
+<node id="-8" lat="45.600340431" lon="-122.829756705" visible="true"><tag k="addr:housenumber" v="10566"/><tag k="addr:postcode" v="97231"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Skyline Boulevard"/></node>
+<node id="-9" lat="45.606039337" lon="-122.833118302" visible="true"><tag k="addr:housenumber" v="11250"/><tag k="addr:postcode" v="97231"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Skyline Boulevard"/></node>
 </osm>

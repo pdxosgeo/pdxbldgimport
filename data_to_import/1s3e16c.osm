@@ -3942,54 +3942,54 @@
 <node id="-4434" lat="45.477058894" lon="-122.453815845" visible="true"/>
 <node id="-4435" lat="45.477059684" lon="-122.453981053" visible="true"/>
 <node id="-4436" lat="45.47728439" lon="-122.453978884" visible="true"/>
-<node id="-4438" lat="45.477348609" lon="-122.450099076" visible="true"/>
-<node id="-4439" lat="45.477393012" lon="-122.450098644" visible="true"/>
-<node id="-4440" lat="45.477392643" lon="-122.450022241" visible="true"/>
-<node id="-4441" lat="45.477348241" lon="-122.450022673" visible="true"/>
-<node id="-4443" lat="45.476730273" lon="-122.445508521" visible="true"/>
-<node id="-4444" lat="45.476723637" lon="-122.445547394" visible="true"/>
-<node id="-4445" lat="45.47677982" lon="-122.445566775" visible="true"/>
-<node id="-4446" lat="45.476786457" lon="-122.445527902" visible="true"/>
-<node id="-4448" lat="45.476586632" lon="-122.446407353" visible="true"/>
-<node id="-4449" lat="45.476504324" lon="-122.446291802" visible="true"/>
-<node id="-4450" lat="45.476445014" lon="-122.446377159" visible="true"/>
-<node id="-4451" lat="45.476527322" lon="-122.44649271" visible="true"/>
-<node id="-4453" lat="45.477300298" lon="-122.448803959" visible="true"/>
-<node id="-4454" lat="45.477330679" lon="-122.448803663" visible="true"/>
-<node id="-4455" lat="45.477330167" lon="-122.448697364" visible="true"/>
-<node id="-4456" lat="45.477299786" lon="-122.448697659" visible="true"/>
-<node id="-4458" lat="45.481694512" lon="-122.449618143" visible="true"/>
-<node id="-4459" lat="45.481693917" lon="-122.449653222" visible="true"/>
-<node id="-4460" lat="45.481728361" lon="-122.449654404" visible="true"/>
-<node id="-4461" lat="45.481728957" lon="-122.449619325" visible="true"/>
-<node id="-4463" lat="45.480005151" lon="-122.447883225" visible="true"/>
-<node id="-4464" lat="45.479967278" lon="-122.447881927" visible="true"/>
-<node id="-4465" lat="45.479966359" lon="-122.447946243" visible="true"/>
-<node id="-4466" lat="45.480004403" lon="-122.447947548" visible="true"/>
-<node id="-4468" lat="45.482211427" lon="-122.453091568" visible="true"/>
-<node id="-4469" lat="45.482168359" lon="-122.453091984" visible="true"/>
-<node id="-4470" lat="45.482168668" lon="-122.45315681" visible="true"/>
-<node id="-4471" lat="45.482211736" lon="-122.453156393" visible="true"/>
-<node id="-4473" lat="45.481480786" lon="-122.451301484" visible="true"/>
-<node id="-4474" lat="45.481399718" lon="-122.451302272" visible="true"/>
-<node id="-4475" lat="45.481400202" lon="-122.451403109" visible="true"/>
-<node id="-4476" lat="45.48148127" lon="-122.451402322" visible="true"/>
-<node id="-4478" lat="45.477320398" lon="-122.453085062" visible="true"/>
-<node id="-4479" lat="45.47725881" lon="-122.453086845" visible="true"/>
-<node id="-4480" lat="45.47725943" lon="-122.453151211" visible="true"/>
-<node id="-4481" lat="45.477321156" lon="-122.453151383" visible="true"/>
-<node id="-4483" lat="45.47627437" lon="-122.447847272" visible="true"/>
-<node id="-4484" lat="45.47626776" lon="-122.447930386" visible="true"/>
-<node id="-4485" lat="45.476300602" lon="-122.447935662" visible="true"/>
-<node id="-4486" lat="45.476307211" lon="-122.447852549" visible="true"/>
-<node id="-4488" lat="45.477628851" lon="-122.449039936" visible="true"/>
-<node id="-4489" lat="45.477393737" lon="-122.449041621" visible="true"/>
-<node id="-4490" lat="45.477394434" lon="-122.449172286" visible="true"/>
-<node id="-4491" lat="45.477629204" lon="-122.449170589" visible="true"/>
-<node id="-4493" lat="45.477407626" lon="-122.449251385" visible="true"/>
-<node id="-4494" lat="45.477349201" lon="-122.449251955" visible="true"/>
-<node id="-4495" lat="45.47734949" lon="-122.449311748" visible="true"/>
-<node id="-4496" lat="45.477407915" lon="-122.449311179" visible="true"/>
+<node id="-4438" lat="45.481480786" lon="-122.451301484" visible="true"/>
+<node id="-4439" lat="45.481399718" lon="-122.451302272" visible="true"/>
+<node id="-4440" lat="45.481400202" lon="-122.451403109" visible="true"/>
+<node id="-4441" lat="45.48148127" lon="-122.451402322" visible="true"/>
+<node id="-4443" lat="45.477320398" lon="-122.453085062" visible="true"/>
+<node id="-4444" lat="45.47725881" lon="-122.453086845" visible="true"/>
+<node id="-4445" lat="45.47725943" lon="-122.453151211" visible="true"/>
+<node id="-4446" lat="45.477321156" lon="-122.453151383" visible="true"/>
+<node id="-4448" lat="45.47627437" lon="-122.447847272" visible="true"/>
+<node id="-4449" lat="45.47626776" lon="-122.447930386" visible="true"/>
+<node id="-4450" lat="45.476300602" lon="-122.447935662" visible="true"/>
+<node id="-4451" lat="45.476307211" lon="-122.447852549" visible="true"/>
+<node id="-4453" lat="45.477628851" lon="-122.449039936" visible="true"/>
+<node id="-4454" lat="45.477393737" lon="-122.449041621" visible="true"/>
+<node id="-4455" lat="45.477394434" lon="-122.449172286" visible="true"/>
+<node id="-4456" lat="45.477629204" lon="-122.449170589" visible="true"/>
+<node id="-4458" lat="45.477407626" lon="-122.449251385" visible="true"/>
+<node id="-4459" lat="45.477349201" lon="-122.449251955" visible="true"/>
+<node id="-4460" lat="45.47734949" lon="-122.449311748" visible="true"/>
+<node id="-4461" lat="45.477407915" lon="-122.449311179" visible="true"/>
+<node id="-4463" lat="45.477348609" lon="-122.450099076" visible="true"/>
+<node id="-4464" lat="45.477393012" lon="-122.450098644" visible="true"/>
+<node id="-4465" lat="45.477392643" lon="-122.450022241" visible="true"/>
+<node id="-4466" lat="45.477348241" lon="-122.450022673" visible="true"/>
+<node id="-4468" lat="45.476730273" lon="-122.445508521" visible="true"/>
+<node id="-4469" lat="45.476723637" lon="-122.445547394" visible="true"/>
+<node id="-4470" lat="45.47677982" lon="-122.445566775" visible="true"/>
+<node id="-4471" lat="45.476786457" lon="-122.445527902" visible="true"/>
+<node id="-4473" lat="45.476586632" lon="-122.446407353" visible="true"/>
+<node id="-4474" lat="45.476504324" lon="-122.446291802" visible="true"/>
+<node id="-4475" lat="45.476445014" lon="-122.446377159" visible="true"/>
+<node id="-4476" lat="45.476527322" lon="-122.44649271" visible="true"/>
+<node id="-4478" lat="45.477300298" lon="-122.448803959" visible="true"/>
+<node id="-4479" lat="45.477330679" lon="-122.448803663" visible="true"/>
+<node id="-4480" lat="45.477330167" lon="-122.448697364" visible="true"/>
+<node id="-4481" lat="45.477299786" lon="-122.448697659" visible="true"/>
+<node id="-4483" lat="45.481694512" lon="-122.449618143" visible="true"/>
+<node id="-4484" lat="45.481693917" lon="-122.449653222" visible="true"/>
+<node id="-4485" lat="45.481728361" lon="-122.449654404" visible="true"/>
+<node id="-4486" lat="45.481728957" lon="-122.449619325" visible="true"/>
+<node id="-4488" lat="45.480005151" lon="-122.447883225" visible="true"/>
+<node id="-4489" lat="45.479967278" lon="-122.447881927" visible="true"/>
+<node id="-4490" lat="45.479966359" lon="-122.447946243" visible="true"/>
+<node id="-4491" lat="45.480004403" lon="-122.447947548" visible="true"/>
+<node id="-4493" lat="45.482211427" lon="-122.453091568" visible="true"/>
+<node id="-4494" lat="45.482168359" lon="-122.453091984" visible="true"/>
+<node id="-4495" lat="45.482168668" lon="-122.45315681" visible="true"/>
+<node id="-4496" lat="45.482211736" lon="-122.453156393" visible="true"/>
 <way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-2"/><tag k="addr:housenumber" v="1446"/><tag k="building" v="yes"/><tag k="height" v="7.9"/><tag k="addr:city" v="Gresham"/><tag k="addr:postcode" v="97080"/><tag k="ele" v="142.1"/><tag k="addr:street" v="Southwest 19th Court"/></way>
 <way id="-12" visible="true"><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-13"/><tag k="addr:housenumber" v="1470"/><tag k="building" v="yes"/><tag k="height" v="6.7"/><tag k="addr:city" v="Gresham"/><tag k="addr:postcode" v="97080"/><tag k="ele" v="141.2"/><tag k="addr:street" v="Southwest 19th Court"/></way>
 <way id="-19" visible="true"><nd ref="-20"/><nd ref="-21"/><nd ref="-22"/><nd ref="-23"/><nd ref="-24"/><nd ref="-25"/><nd ref="-26"/><nd ref="-27"/><nd ref="-28"/><nd ref="-29"/><nd ref="-20"/><tag k="addr:housenumber" v="1708"/><tag k="building" v="yes"/><tag k="height" v="7.3"/><tag k="addr:city" v="Gresham"/><tag k="addr:postcode" v="97080"/><tag k="ele" v="130.9"/><tag k="addr:street" v="Southwest 19th Court"/></way>
@@ -4484,16 +4484,16 @@
 <way id="-4408" visible="true"><nd ref="-4409"/><nd ref="-4410"/><nd ref="-4411"/><nd ref="-4412"/><nd ref="-4413"/><nd ref="-4414"/><nd ref="-4415"/><nd ref="-4416"/><nd ref="-4417"/><nd ref="-4418"/><nd ref="-4419"/><nd ref="-4420"/><nd ref="-4409"/><tag k="addr:housenumber" v="2656"/><tag k="building" v="yes"/><tag k="height" v="8.0"/><tag k="addr:city" v="Gresham"/><tag k="addr:postcode" v="97080"/><tag k="ele" v="129.6"/><tag k="addr:street" v="Southwest Wonderview Drive"/></way>
 <way id="-4421" visible="true"><nd ref="-4422"/><nd ref="-4423"/><nd ref="-4424"/><nd ref="-4425"/><nd ref="-4426"/><nd ref="-4427"/><nd ref="-4428"/><nd ref="-4429"/><nd ref="-4430"/><nd ref="-4431"/><nd ref="-4422"/><tag k="addr:housenumber" v="2680"/><tag k="building" v="yes"/><tag k="height" v="6.9"/><tag k="addr:city" v="Gresham"/><tag k="addr:postcode" v="97080"/><tag k="ele" v="128.3"/><tag k="addr:street" v="Southwest Wonderview Drive"/></way>
 <way id="-4432" visible="true"><nd ref="-4433"/><nd ref="-4434"/><nd ref="-4435"/><nd ref="-4436"/><nd ref="-4433"/><tag k="addr:housenumber" v="2681"/><tag k="building" v="yes"/><tag k="height" v="6.8"/><tag k="addr:city" v="Gresham"/><tag k="addr:postcode" v="97080"/><tag k="ele" v="125.6"/><tag k="addr:street" v="Southwest Wonderview Drive"/></way>
-<way id="-4437" visible="true"><nd ref="-4438"/><nd ref="-4439"/><nd ref="-4440"/><nd ref="-4441"/><nd ref="-4438"/><tag k="building" v="yes"/><tag k="ele" v="152.5"/></way>
-<way id="-4442" visible="true"><nd ref="-4443"/><nd ref="-4444"/><nd ref="-4445"/><nd ref="-4446"/><nd ref="-4443"/><tag k="building" v="yes"/><tag k="height" v="3.1"/><tag k="ele" v="199.8"/></way>
-<way id="-4447" visible="true"><nd ref="-4448"/><nd ref="-4449"/><nd ref="-4450"/><nd ref="-4451"/><nd ref="-4448"/><tag k="building" v="yes"/></way>
-<way id="-4452" visible="true"><nd ref="-4453"/><nd ref="-4454"/><nd ref="-4455"/><nd ref="-4456"/><nd ref="-4453"/><tag k="building" v="yes"/><tag k="ele" v="158.7"/></way>
-<way id="-4457" visible="true"><nd ref="-4458"/><nd ref="-4459"/><nd ref="-4460"/><nd ref="-4461"/><nd ref="-4458"/><tag k="building" v="yes"/><tag k="height" v="2.8"/><tag k="ele" v="132.1"/></way>
-<way id="-4462" visible="true"><nd ref="-4463"/><nd ref="-4464"/><nd ref="-4465"/><nd ref="-4466"/><nd ref="-4463"/><tag k="building" v="yes"/><tag k="height" v="3.5"/><tag k="ele" v="148.8"/></way>
-<way id="-4467" visible="true"><nd ref="-4468"/><nd ref="-4469"/><nd ref="-4470"/><nd ref="-4471"/><nd ref="-4468"/><tag k="building" v="yes"/><tag k="height" v="3.0"/><tag k="ele" v="127.9"/></way>
-<way id="-4472" visible="true"><nd ref="-4473"/><nd ref="-4474"/><nd ref="-4475"/><nd ref="-4476"/><nd ref="-4473"/><tag k="building" v="yes"/><tag k="height" v="4.2"/><tag k="ele" v="130.7"/></way>
-<way id="-4477" visible="true"><nd ref="-4478"/><nd ref="-4479"/><nd ref="-4480"/><nd ref="-4481"/><nd ref="-4478"/><tag k="building" v="yes"/><tag k="height" v="3.5"/><tag k="ele" v="129.7"/></way>
-<way id="-4482" visible="true"><nd ref="-4483"/><nd ref="-4484"/><nd ref="-4485"/><nd ref="-4486"/><nd ref="-4483"/><tag k="building" v="yes"/><tag k="height" v="2.7"/><tag k="ele" v="165.0"/></way>
-<way id="-4487" visible="true"><nd ref="-4488"/><nd ref="-4489"/><nd ref="-4490"/><nd ref="-4491"/><nd ref="-4488"/><tag k="building" v="yes"/><tag k="height" v="5.6"/><tag k="ele" v="157.9"/></way>
-<way id="-4492" visible="true"><nd ref="-4493"/><nd ref="-4494"/><nd ref="-4495"/><nd ref="-4496"/><nd ref="-4493"/><tag k="building" v="yes"/><tag k="height" v="3.3"/><tag k="ele" v="156.8"/></way>
+<way id="-4437" visible="true"><nd ref="-4438"/><nd ref="-4439"/><nd ref="-4440"/><nd ref="-4441"/><nd ref="-4438"/><tag k="building" v="yes"/><tag k="height" v="4.2"/><tag k="ele" v="130.7"/></way>
+<way id="-4442" visible="true"><nd ref="-4443"/><nd ref="-4444"/><nd ref="-4445"/><nd ref="-4446"/><nd ref="-4443"/><tag k="building" v="yes"/><tag k="height" v="3.5"/><tag k="ele" v="129.7"/></way>
+<way id="-4447" visible="true"><nd ref="-4448"/><nd ref="-4449"/><nd ref="-4450"/><nd ref="-4451"/><nd ref="-4448"/><tag k="building" v="yes"/><tag k="height" v="2.7"/><tag k="ele" v="165.0"/></way>
+<way id="-4452" visible="true"><nd ref="-4453"/><nd ref="-4454"/><nd ref="-4455"/><nd ref="-4456"/><nd ref="-4453"/><tag k="building" v="yes"/><tag k="height" v="5.6"/><tag k="ele" v="157.9"/></way>
+<way id="-4457" visible="true"><nd ref="-4458"/><nd ref="-4459"/><nd ref="-4460"/><nd ref="-4461"/><nd ref="-4458"/><tag k="building" v="yes"/><tag k="height" v="3.3"/><tag k="ele" v="156.8"/></way>
+<way id="-4462" visible="true"><nd ref="-4463"/><nd ref="-4464"/><nd ref="-4465"/><nd ref="-4466"/><nd ref="-4463"/><tag k="building" v="yes"/><tag k="ele" v="152.5"/></way>
+<way id="-4467" visible="true"><nd ref="-4468"/><nd ref="-4469"/><nd ref="-4470"/><nd ref="-4471"/><nd ref="-4468"/><tag k="building" v="yes"/><tag k="height" v="3.1"/><tag k="ele" v="199.8"/></way>
+<way id="-4472" visible="true"><nd ref="-4473"/><nd ref="-4474"/><nd ref="-4475"/><nd ref="-4476"/><nd ref="-4473"/><tag k="building" v="yes"/></way>
+<way id="-4477" visible="true"><nd ref="-4478"/><nd ref="-4479"/><nd ref="-4480"/><nd ref="-4481"/><nd ref="-4478"/><tag k="building" v="yes"/><tag k="ele" v="158.7"/></way>
+<way id="-4482" visible="true"><nd ref="-4483"/><nd ref="-4484"/><nd ref="-4485"/><nd ref="-4486"/><nd ref="-4483"/><tag k="building" v="yes"/><tag k="height" v="2.8"/><tag k="ele" v="132.1"/></way>
+<way id="-4487" visible="true"><nd ref="-4488"/><nd ref="-4489"/><nd ref="-4490"/><nd ref="-4491"/><nd ref="-4488"/><tag k="building" v="yes"/><tag k="height" v="3.5"/><tag k="ele" v="148.8"/></way>
+<way id="-4492" visible="true"><nd ref="-4493"/><nd ref="-4494"/><nd ref="-4495"/><nd ref="-4496"/><nd ref="-4493"/><tag k="building" v="yes"/><tag k="height" v="3.0"/><tag k="ele" v="127.9"/></way>
 </osm>

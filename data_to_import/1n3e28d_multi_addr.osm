@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.535236485" lon="-122.439063969" visible="true"><tag k="addr:housenumber" v="355"/><tag k="addr:postcode" v="97024"/><tag k="addr:city" v="Fairview"/><tag k="addr:street" v="6th Street"/></node>
-<node id="-2" lat="45.535005891" lon="-122.438342094" visible="true"><tag k="addr:housenumber" v="400"/><tag k="addr:postcode" v="97024"/><tag k="addr:city" v="Fairview"/><tag k="addr:street" v="6th Street"/></node>
-<node id="-3" lat="45.536007296" lon="-122.440548223" visible="true"><tag k="addr:housenumber" v="302"/><tag k="addr:postcode" v="97024"/><tag k="addr:city" v="Fairview"/><tag k="addr:street" v="7th Street"/></node>
-<node id="-4" lat="45.536004263" lon="-122.440554275" visible="true"><tag k="addr:housenumber" v="304"/><tag k="addr:postcode" v="97024"/><tag k="addr:city" v="Fairview"/><tag k="addr:street" v="7th Street"/></node>
-<node id="-5" lat="45.535009648" lon="-122.43834481" visible="true"><tag k="addr:housenumber" v="400"/><tag k="addr:postcode" v="97024"/><tag k="addr:city" v="Fairview"/><tag k="addr:street" v="Lincoln Street"/></node>
-<node id="-6" lat="45.535621992" lon="-122.438002135" visible="true"><tag k="addr:housenumber" v="515"/><tag k="addr:postcode" v="97024"/><tag k="addr:city" v="Fairview"/><tag k="addr:street" v="Lincoln Street"/></node>
-<node id="-7" lat="45.535626402" lon="-122.437994807" visible="true"><tag k="addr:housenumber" v="5815"/><tag k="addr:postcode" v="97024"/><tag k="addr:city" v="Fairview"/><tag k="addr:street" v="Lincoln Street"/></node>
-<node id="-8" lat="45.535239009" lon="-122.43906659" visible="true"><tag k="addr:housenumber" v="609"/><tag k="addr:postcode" v="97024"/><tag k="addr:city" v="Fairview"/><tag k="addr:street" v="Lincoln Street"/></node>
-<node id="-9" lat="45.534762403" lon="-122.436531654" visible="true"><tag k="addr:housenumber" v="21935"/><tag k="addr:postcode" v="97024"/><tag k="addr:city" v="Fairview"/><tag k="addr:street" v="Northeast Halsey Street"/></node>
-<node id="-10" lat="45.534756758" lon="-122.436530568" visible="true"><tag k="addr:housenumber" v="21937"/><tag k="addr:postcode" v="97024"/><tag k="addr:city" v="Fairview"/><tag k="addr:street" v="Northeast Halsey Street"/></node>
-<node id="-11" lat="45.534761825" lon="-122.436538555" visible="true"><tag k="addr:housenumber" v="22001"/><tag k="addr:postcode" v="97024"/><tag k="addr:city" v="Fairview"/><tag k="addr:street" v="Northeast Halsey Street"/></node>
-<node id="-12" lat="45.534757156" lon="-122.436530834" visible="true"><tag k="addr:housenumber" v="22015"/><tag k="addr:postcode" v="97024"/><tag k="addr:city" v="Fairview"/><tag k="addr:street" v="Northeast Halsey Street"/></node>
+<node id="-1" lat="45.535243125" lon="-122.439064016" visible="true"><tag k="addr:housenumber" v="355"/><tag k="addr:postcode" v="97024"/><tag k="addr:city" v="Fairview"/><tag k="addr:street" v="6th Street"/></node>
+<node id="-2" lat="45.535011658" lon="-122.43834651" visible="true"><tag k="addr:housenumber" v="400"/><tag k="addr:postcode" v="97024"/><tag k="addr:city" v="Fairview"/><tag k="addr:street" v="6th Street"/></node>
+<node id="-3" lat="45.536002587" lon="-122.440545473" visible="true"><tag k="addr:housenumber" v="302"/><tag k="addr:postcode" v="97024"/><tag k="addr:city" v="Fairview"/><tag k="addr:street" v="7th Street"/></node>
+<node id="-4" lat="45.53600808" lon="-122.440544601" visible="true"><tag k="addr:housenumber" v="304"/><tag k="addr:postcode" v="97024"/><tag k="addr:city" v="Fairview"/><tag k="addr:street" v="7th Street"/></node>
+<node id="-5" lat="45.535009135" lon="-122.438348366" visible="true"><tag k="addr:housenumber" v="400"/><tag k="addr:postcode" v="97024"/><tag k="addr:city" v="Fairview"/><tag k="addr:street" v="Lincoln Street"/></node>
+<node id="-6" lat="45.535623689" lon="-122.437996498" visible="true"><tag k="addr:housenumber" v="515"/><tag k="addr:postcode" v="97024"/><tag k="addr:city" v="Fairview"/><tag k="addr:street" v="Lincoln Street"/></node>
+<node id="-7" lat="45.535616858" lon="-122.437999852" visible="true"><tag k="addr:housenumber" v="5815"/><tag k="addr:postcode" v="97024"/><tag k="addr:city" v="Fairview"/><tag k="addr:street" v="Lincoln Street"/></node>
+<node id="-8" lat="45.535242872" lon="-122.439069159" visible="true"><tag k="addr:housenumber" v="609"/><tag k="addr:postcode" v="97024"/><tag k="addr:city" v="Fairview"/><tag k="addr:street" v="Lincoln Street"/></node>
+<node id="-9" lat="45.534757645" lon="-122.436534627" visible="true"><tag k="addr:housenumber" v="21935"/><tag k="addr:postcode" v="97024"/><tag k="addr:city" v="Fairview"/><tag k="addr:street" v="Northeast Halsey Street"/></node>
+<node id="-10" lat="45.534761022" lon="-122.436529451" visible="true"><tag k="addr:housenumber" v="21937"/><tag k="addr:postcode" v="97024"/><tag k="addr:city" v="Fairview"/><tag k="addr:street" v="Northeast Halsey Street"/></node>
+<node id="-11" lat="45.53476367" lon="-122.436539112" visible="true"><tag k="addr:housenumber" v="22001"/><tag k="addr:postcode" v="97024"/><tag k="addr:city" v="Fairview"/><tag k="addr:street" v="Northeast Halsey Street"/></node>
+<node id="-12" lat="45.534762016" lon="-122.436530635" visible="true"><tag k="addr:housenumber" v="22015"/><tag k="addr:postcode" v="97024"/><tag k="addr:city" v="Fairview"/><tag k="addr:street" v="Northeast Halsey Street"/></node>
 </osm>

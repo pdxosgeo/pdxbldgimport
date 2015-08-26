@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.479747236" lon="-122.403208321" visible="true"><tag k="addr:housenumber" v="2444"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Palmblad Road"/></node>
-<node id="-2" lat="45.479751496" lon="-122.403204246" visible="true"><tag k="addr:housenumber" v="2454"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Palmblad Road"/></node>
-<node id="-3" lat="45.47961087" lon="-122.403199358" visible="true"><tag k="addr:housenumber" v="2468"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Palmblad Road"/></node>
-<node id="-4" lat="45.479607211" lon="-122.403207223" visible="true"><tag k="addr:housenumber" v="2478"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Palmblad Road"/></node>
-<node id="-5" lat="45.480335475" lon="-122.402562848" visible="true"><tag k="addr:housenumber" v="2361"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Robin Lane"/></node>
-<node id="-6" lat="45.480334446" lon="-122.402564185" visible="true"><tag k="addr:housenumber" v="2371"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Robin Lane"/></node>
+<node id="-1" lat="45.479749527" lon="-122.403208608" visible="true"><tag k="addr:housenumber" v="2444"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Palmblad Road"/></node>
+<node id="-2" lat="45.479744873" lon="-122.403206177" visible="true"><tag k="addr:housenumber" v="2454"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Palmblad Road"/></node>
+<node id="-3" lat="45.479611355" lon="-122.403200366" visible="true"><tag k="addr:housenumber" v="2468"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Palmblad Road"/></node>
+<node id="-4" lat="45.479614698" lon="-122.403203945" visible="true"><tag k="addr:housenumber" v="2478"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Palmblad Road"/></node>
+<node id="-5" lat="45.480334574" lon="-122.402560183" visible="true"><tag k="addr:housenumber" v="2361"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Robin Lane"/></node>
+<node id="-6" lat="45.480340871" lon="-122.402559494" visible="true"><tag k="addr:housenumber" v="2371"/><tag k="addr:postcode" v="97080"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast Robin Lane"/></node>
 </osm>
