@@ -242,7 +242,7 @@ This task list will be used to track progress for all .osm imports. To participa
 - [ ] 1s1w20b contains a lot of duplicate data because [OSM user emem](http://www.openstreetmap.org/user/emem) has imported part of this ad-hoc in [changeset 30242159](http://www.openstreetmap.org/changeset/30242159)
 - [ ] 1s1w20c contains a lot of duplicate data because [OSM user emem](http://www.openstreetmap.org/user/emem) has imported part of this ad-hoc in [changeset 30242159](http://www.openstreetmap.org/changeset/30242159)
 - [x] 1s1w24c Complete (Peter) [changeset 33589579](http://www.openstreetmap.org/changeset/33589579)
-- [ ] 1s1w25a In Progress (Peter)
+- [x] 1s1w25a Complete (Peter) [changeset 33589746](http://www.openstreetmap.org/changeset/33589746)
 - [ ] 1s1w25d In Progress (Peter)
 - [ ] 1s2e01b
 - [ ] 1s2e01c
