@@ -193,10 +193,10 @@ This task list will be used to track progress for all .osm imports. To participa
 - [ ] 1s1e11b
 - [ ] 1s1e11c
 - [ ] 1s1e11d
-- [ ] 1s1e12a
-- [ ] 1s1e12b
-- [ ] 1s1e12c
-- [ ] 1s1e12d
+- [ ] 1s1e12a In Progress (Peter)
+- [ ] 1s1e12b In Progress (Peter)
+- [ ] 1s1e12c In Progress (Peter)
+- [ ] 1s1e12d In Progress (Peter)
 - [x] 1s1e13a Complete (Peter) [changeset 33632453](http://www.openstreetmap.org/changeset/33632453)
 - [x] 1s1e13d Complete (Peter) [changeset 33632641](http://www.openstreetmap.org/changeset/33632641)
 - [x] 1s1e14c Complete (Peter) [changeset 33632844](http://www.openstreetmap.org/changeset/33632844)
@@ -217,7 +217,7 @@ This task list will be used to track progress for all .osm imports. To participa
 - [x] 1s1e24d Complete (Peter) [changeset 33634902](http://www.openstreetmap.org/changeset/33634902)
 - [x] 1s1e25a Complete (Peter) [changeset 33634932](http://www.openstreetmap.org/changeset/33634932)
 - [x] 1s1e25c Complete (Peter) [changeset 33635042](http://www.openstreetmap.org/changeset/33635042)
-- [ ] 1s1e25d In Progress (Peter)
+- [x] 1s1e25d Complete (Peter) [changeset 33635092](http://www.openstreetmap.org/changeset/33635092)
 - [x] 1s1e26b buildings, In Progress (Tanya)
 - [x] 1s1e28a buildings, In Progress (Tanya)
 - [ ] 1s1e28c
