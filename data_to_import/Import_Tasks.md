@@ -54,14 +54,14 @@ This task list will be used to track progress for all .osm imports. To participa
 - [x] 1n1e26b Complete (Lyzi) [33601995](http://www.openstreetmap.org/changeset/33601995)
 - [x] 1n1e26d Complete (Lyzi) [33602252](http://www.openstreetmap.org/changeset/33602252)
 - [x] 1n1e27a Complete (Lyzi) [33603539](http://www.openstreetmap.org/changeset/33603539)
-- [ ] 1n1e27b in progress (Lyzi)
-- [ ] 1n1e28b in progress (Lyzi)
-- [ ] 1n1e29b in progress (Lyzi)
-- [ ] 1n1e31b in progress (Lyzi)
-- [ ] 1n1e32a
-- [ ] 1n1e32b
-- [ ] 1n1e35b
-- [ ] 1n1e36a
+- [x] 1n1e27b Complete (Lyzi) [33612163](http://www.openstreetmap.org/changeset/33612163) [33629767](http://www.openstreetmap.org/changeset/33629767)
+- [x] 1n1e28b Complete (Lyzi) [33633347](http://www.openstreetmap.org/changeset/33633347)
+- [x] 1n1e29b Complete (Lyzi) [33633584](http://www.openstreetmap.org/changeset/33633584) [33633605](http://www.openstreetmap.org/changeset/33633605) [33633691](http://www.openstreetmap.org/changeset/33633691)
+- [x] 1n1e31b Complete (Lyzi) [33633724](http://www.openstreetmap.org/changeset/33633724)
+- [ ] 1n1e32a in progress (Lyzi)
+- [ ] 1n1e32b in progress (Lyzi)
+- [ ] 1n1e35b in progress (Lyzi)
+- [ ] 1n1e36a in progress (Lyzi)
 - [ ] 1n1e36c
 - [ ] 1n1e36d
 - [ ] 1n1w01c
@@ -496,11 +496,11 @@ This task list will be used to track progress for all .osm imports. To participa
 - [ ] 3s3e08b Complete (Justin) [changeset](https://www.openstreetmap.org/changeset/33059066)
 - [x] Complete (Justin) [changeset](https://www.openstreetmap.org/changeset/33059179)
 - [ ] 3s3e22a
-- [X] 3s1e34c 28406592
-- [X] 3s1e36c 28693738
-- [X] 3s1w01d 28894253,28894412
-- [X] 3s3e24b 31827626
-- [X] 3s3e32c 31827235
+- [x] 3s1e34c 28406592
+- [x] 3s1e36c 28693738
+- [x] 3s1w01d 28894253,28894412
+- [x] 3s3e24b 31827626
+- [x] 3s3e32c 31827235
 - [x] 1n1w17b Complete (Darrell) [changeset 28363652](http://www.openstreetmap.org/changeset/28363652)
 - [x] 1n1w17d Complete (Darrell) [changeset 28364238](http://www.openstreetmap.org/changeset/28364238)
 - [x] 1n1w19a Complete (Darrell) [changeset 28364267](http://www.openstreetmap.org/changeset/28364267)
