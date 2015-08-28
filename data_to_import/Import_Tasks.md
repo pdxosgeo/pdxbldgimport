@@ -189,14 +189,14 @@ This task list will be used to track progress for all .osm imports. To participa
 - [ ] 1s1e08b
 - [ ] 1s1e09b
 - [ ] 1s1e10b
-- [ ] 1s1e11a
-- [ ] 1s1e11b
-- [ ] 1s1e11c
-- [ ] 1s1e11d
+- [ ] 1s1e11a In Progress (Peter)
+- [ ] 1s1e11b In Progress (Peter)
+- [ ] 1s1e11c In Progress (Peter)
+- [ ] 1s1e11d In Progress (Peter)
 - [x] 1s1e12a Complete (Peter) [changeset 33635187](http://www.openstreetmap.org/changeset/33635187)
 - [x] 1s1e12b Complete (Peter) [changeset 33635349](http://www.openstreetmap.org/changeset/33635349)
 - [x] 1s1e12c Complete (Peter) [changeset 33636037](http://www.openstreetmap.org/changeset/33636037)
-- [ ] 1s1e12d In Progress (Peter)
+- [x] 1s1e12d Complete (Peter) [changeset 33636213](http://www.openstreetmap.org/changeset/33636213)
 - [x] 1s1e13a Complete (Peter) [changeset 33632453](http://www.openstreetmap.org/changeset/33632453)
 - [x] 1s1e13d Complete (Peter) [changeset 33632641](http://www.openstreetmap.org/changeset/33632641)
 - [x] 1s1e14c Complete (Peter) [changeset 33632844](http://www.openstreetmap.org/changeset/33632844)
@@ -388,8 +388,7 @@ This task list will be used to track progress for all .osm imports. To participa
 - [ ] 1s4e33b
 - [ ] 1s4e34c
 - [ ] 1s4e35d
-- [ ] 1s4w19a buildings
-- [ ] 1s4w19a multi-address
+- [ ] 1s4w19a In Progress (Peter)
 - [ ] 1s5e18a
 - [ ] 1s5e31c
 - [ ] 2n1e30d
