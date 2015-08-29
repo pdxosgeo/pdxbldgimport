@@ -67,14 +67,14 @@ This task list will be used to track progress for all .osm imports. To participa
 - [x] 1n1w01c Complete (Lyzi) [33655548](http://www.openstreetmap.org/changeset/33655548)
 - [x] 1n1w01d Complete (Lyzi) [33655879](http://www.openstreetmap.org/changeset/33655879)
 - [x] 1n1w12a Complete (Darrell) 32687145
-- [ ] 1n1w15a in progress (Lyzi)
-- [ ] 1n1w16b in progress (Lyzi)
-- [ ] 1n1w23a in progress (Lyzi)
-- [ ] 1n1w25a in progress (Lyzi)
-- [ ] 1n1w26b
-- [ ] 1n1w26d
-- [ ] 1n1w27a
-- [ ] 1n1w34a
+- [x] 1n1w15a Complete (Lyzi) [33656192](http://www.openstreetmap.org/changeset/33656192) [33656201](http://www.openstreetmap.org/changeset/33656201) [33656207](http://www.openstreetmap.org/changeset/33656207) [33656217](http://www.openstreetmap.org/changeset/33656217) [33656250](http://www.openstreetmap.org/changeset/33656250) [33656268](http://www.openstreetmap.org/changeset/33656268) [33656275](http://www.openstreetmap.org/changeset/33656275) [33656289](http://www.openstreetmap.org/changeset/33656289)
+- [x] 1n1w16b Complete (Lyzi) [33656348](http://www.openstreetmap.org/changeset/33656348) [33656392](http://www.openstreetmap.org/changeset/33656392) [33656419](http://www.openstreetmap.org/changeset/33656419)
+- [x] 1n1w23a Complete (Lyzi) [33656463](http://www.openstreetmap.org/changeset/33656463) [33656502](http://www.openstreetmap.org/changeset/33656502) [33656506](http://www.openstreetmap.org/changeset/33656506) [33656514](http://www.openstreetmap.org/changeset/33656514)
+- [x] 1n1w25a Complete (Lyzi) [33656556](http://www.openstreetmap.org/changeset/33656556) [33656592](http://www.openstreetmap.org/changeset/33656592)
+- [ ] 1n1w26b in progress (Lyzi)
+- [ ] 1n1w26d in progress (Lyzi)
+- [ ] 1n1w27a in progress (Lyzi)
+- [ ] 1n1w34a in progress (Lyzi)
 - [ ] 1n1w35b
 - [ ] 1n1w36b
 - [ ] 1n2e15b
