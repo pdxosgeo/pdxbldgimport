@@ -1,5 +1,0 @@
-<?xml version="1.0"?>
-<osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.307615561" lon="-122.572128947" visible="true"><tag k="addr:housenumber" v="20599"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="South Highway 213"/></node>
-<node id="-2" lat="45.307609742" lon="-122.572128727" visible="true"><tag k="addr:housenumber" v="20601"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="South Shelly Scott Drive"/></node>
-</osm>

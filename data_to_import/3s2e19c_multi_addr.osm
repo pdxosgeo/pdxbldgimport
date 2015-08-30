@@ -1,5 +1,0 @@
-<?xml version="1.0"?>
-<osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.322537993" lon="-122.617221807" visible="true"><tag k="addr:housenumber" v="12140"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Hazeldell Avenue"/></node>
-<node id="-2" lat="45.322540154" lon="-122.617216038" visible="true"><tag k="addr:housenumber" v="19499"/><tag k="addr:postcode" v="97045"/><tag k="addr:city" v="Oregon City"/><tag k="addr:street" v="Orchard Grove Drive"/></node>
-</osm>
