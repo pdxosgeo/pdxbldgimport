@@ -174,21 +174,21 @@ This task list will be used to track progress for all .osm imports. To participa
 - [ ] 1n4e26a
 - [ ] 1n4e28d
 - [ ] 1n4e29c
-- [ ] 1s1e01a
-- [ ] 1s1e01b
-- [ ] 1s1e01c
-- [ ] 1s1e01d
-- [ ] 1s1e02a
-- [ ] 1s1e02b
-- [ ] 1s1e02d
-- [ ] 1s1e03b
-- [ ] 1s1e04c
+- [ ] 1s1e01a In Progress (Peter)
+- [ ] 1s1e01b In Progress (Peter)
+- [ ] 1s1e01c In Progress (Peter)
+- [ ] 1s1e01d In Progress (Peter)
+- [ ] 1s1e02a In Progress (Peter)
+- [ ] 1s1e02b In Progress (Peter)
+- [ ] 1s1e02d In Progress (Peter)
+- [ ] 1s1e03b In Progress (Peter)
+- [ ] 1s1e04c In Progress (Peter)
 - [x] 1s1e05a Complete (Peter) [changeset 33668200](http://www.openstreetmap.org/changeset/33668200)
 - [x] 1s1e07a Complete (Peter) [changeset 33669081](http://www.openstreetmap.org/changeset/33669081)
 - [x] 1s1e07b Complete (Peter) [changeset 33669943](http://www.openstreetmap.org/changeset/33669943)
 - [x] 1s1e08b Complete (Peter) [changeset 33671691](http://www.openstreetmap.org/changeset/33671691)
 - [x] 1s1e09b Complete (Peter) [changeset 33674192](http://www.openstreetmap.org/changeset/33674192)
-- [ ] 1s1e10b In Progress (Peter)
+- [x] 1s1e10b Complete (Peter) [changeset 33675371](http://www.openstreetmap.org/changeset/33675371)
 - [x] 1s1e11a Complete (Peter) [changeset 33645143](http://www.openstreetmap.org/changeset/33645143)
 - [x] 1s1e11b Complete (Peter) [changeset 33654423](http://www.openstreetmap.org/changeset/33654423)
 - [x] 1s1e11c Complete (Peter) [changeset 33656895](http://www.openstreetmap.org/changeset/33656895)
