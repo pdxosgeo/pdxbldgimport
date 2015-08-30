@@ -474,12 +474,12 @@ This task list will be used to track progress for all .osm imports. To participa
 - [x] 3s2e06a Complete (Justin) [changeset](https://www.openstreetmap.org/changeset/33684562)
 - [x] 3s2e06b Complete (Justin) [changeset](https://www.openstreetmap.org/changeset/33684818)
 - [x] 3s2e06c Complete (Justin) [changeset](https://www.openstreetmap.org/changeset/33685182)
-- [x] 3s2e06d Complate (Justin) [changeset](https://www.openstreetmap.org/changeset/33685591)
-- [ ] 3s2e07a in progress (Justin)
-- [ ] 3s2e07b in progress (Justin)
-- [ ] 3s2e08a
-- [ ] 3s2e08b
-- [ ] 3s2e08c
+- [x] 3s2e06d Complete (Justin) [changeset](https://www.openstreetmap.org/changeset/33685591)
+- [x] 3s2e07a Complete (Justin) [changeset](https://www.openstreetmap.org/changeset/33686007)
+- [x] 3s2e07b Complete (Justin) [changeset](https://www.openstreetmap.org/changeset/33686160)
+- [ ] 3s2e08a in progress (Justin)
+- [ ] 3s2e08b in progress (Justin)
+- [ ] 3s2e08c in progress (Justin)
 - [ ] 3s2e09a
 - [ ] 3s2e15b
 - [ ] 3s2e19c
