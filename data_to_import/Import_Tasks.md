@@ -180,9 +180,9 @@ This task list will be used to track progress for all .osm imports. To participa
 - [x] 1s1e01d Complete (Peter) [changeset 33676820](http://www.openstreetmap.org/changeset/33676820)
 - [x] 1s1e02a Complete (Peter) [changeset 33684209](http://www.openstreetmap.org/changeset/33684209)
 - [x] 1s1e02b Complete (Peter) [changeset 33684711](http://www.openstreetmap.org/changeset/33684711)
-- [ ] 1s1e02d In Progress (Peter)
-- [ ] 1s1e03b In Progress (Peter)
-- [ ] 1s1e04c In Progress (Peter)
+- [x] 1s1e02d Complete (Peter) [changeset 33686298](http://www.openstreetmap.org/changeset/33686298)
+- [x] 1s1e03b Complete (Peter) [changeset 33687203](http://www.openstreetmap.org/changeset/33687203)
+- [x] 1s1e04c Complete (Peter) [changeset 33687322](http://www.openstreetmap.org/changeset/33687322)
 - [x] 1s1e05a Complete (Peter) [changeset 33668200](http://www.openstreetmap.org/changeset/33668200)
 - [x] 1s1e07a Complete (Peter) [changeset 33669081](http://www.openstreetmap.org/changeset/33669081)
 - [x] 1s1e07b Complete (Peter) [changeset 33669943](http://www.openstreetmap.org/changeset/33669943)
@@ -220,20 +220,20 @@ This task list will be used to track progress for all .osm imports. To participa
 - [x] 1s1e25d Complete (Peter) [changeset 33635092](http://www.openstreetmap.org/changeset/33635092)
 - [x] 1s1e26b buildings, In Progress (Tanya)
 - [x] 1s1e28a buildings, In Progress (Tanya)
-- [ ] 1s1e28c
-- [ ] 1s1e29a
-- [ ] 1s1e29b
-- [ ] 1s1e30c
-- [ ] 1s1e31a
-- [ ] 1s1e31b
-- [ ] 1s1e31d
-- [ ] 1s1e32b
-- [ ] 1s1e32c
-- [ ] 1s1e32d
-- [ ] 1s1e33c
-- [ ] 1s1e34d
-- [ ] 1s1e35d
-- [ ] 1s1e36a
+- [x] 1s1e28c Complete (Peter) [changeset 33687510](http://www.openstreetmap.org/changeset/33687510)
+- [ ] 1s1e29a In Progress (Peter)
+- [ ] 1s1e29b In Progress (Peter)
+- [ ] 1s1e30c In Progress (Peter)
+- [ ] 1s1e31a In Progress (Peter)
+- [ ] 1s1e31b In Progress (Peter)
+- [ ] 1s1e31d In Progress (Peter)
+- [ ] 1s1e32b In Progress (Peter)
+- [ ] 1s1e32c In Progress (Peter)
+- [ ] 1s1e32d In Progress (Peter)
+- [ ] 1s1e33c In Progress (Peter)
+- [ ] 1s1e34d In Progress (Peter)
+- [ ] 1s1e35d In Progress (Peter)
+- [ ] 1s1e36a In Progress (Peter)
 - [x] 1s1w01b Complete (Peter) [changeset 33611550](http://www.openstreetmap.org/changeset/33611550)
 - [x] 1s1w13a Complete (Peter) [changeset 33584649](http://www.openstreetmap.org/changeset/33584649)
 - [x] 1s1w13d Complete (Peter) [changeset 33587069](http://www.openstreetmap.org/changeset/33587069)
