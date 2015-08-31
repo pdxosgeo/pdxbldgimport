@@ -117,21 +117,21 @@ This task list will be used to track progress for all .osm imports. To participa
 - [x] 1n2e30b Complete (Lyzi) [33713054](http://www.openstreetmap.org/changeset/33713054)
 - [x] 1n2e30c Complete (Lyzi) [33698863](http://www.openstreetmap.org/changeset/33698863)
 - [x] 1n2e30d Complete (Lyzi) [33710754](http://www.openstreetmap.org/changeset/33710754)
-- [ ] 1n2e31a in progress (Lyzi)
-- [ ] 1n2e31b in progress (Lyzi)
-- [ ] 1n2e31c in progress (Lyzi)
-- [ ] 1n2e31d in progress (Lyzi)
-- [ ] 1n2e32a in progress (Lyzi)
-- [ ] 1n2e32b in progress (Lyzi)
-- [ ] 1n2e32c in progress (Lyzi)
-- [ ] 1n2e32d in progress (Lyzi)
-- [ ] 1n2e33b
-- [ ] 1n2e33c
-- [ ] 1n2e33d
-- [ ] 1n2e34a
-- [ ] 1n2e34b
-- [ ] 1n2e34c
-- [ ] 1n2e34d
+- [x] 1n2e31a Complete (Lyzi) [33713395](http://www.openstreetmap.org/changeset/33713395)
+- [x] 1n2e31b Complete (Lyzi) [33713724](http://www.openstreetmap.org/changeset/33713724)
+- [x] 1n2e31c Complete (Lyzi) [33713893](http://www.openstreetmap.org/changeset/33713893)
+- [x] 1n2e31d Complete (Lyzi) [33714329](http://www.openstreetmap.org/changeset/33714329)
+- [x] 1n2e32a Complete (Lyzi) [33715195](http://www.openstreetmap.org/changeset/33715195)
+- [x] 1n2e32b Complete (Lyzi) [33715670](http://www.openstreetmap.org/changeset/33715670)
+- [x] 1n2e32c Complete (Lyzi) [33716138](http://www.openstreetmap.org/changeset/33716138)
+- [x] 1n2e32d Complete (Lyzi) [33716278](http://www.openstreetmap.org/changeset/33716278)
+- [ ] 1n2e33b in progress (Lyzi)
+- [ ] 1n2e33c in progress (Lyzi)
+- [ ] 1n2e33d in progress (Lyzi)
+- [ ] 1n2e34a in progress (Lyzi)
+- [ ] 1n2e34b in progress (Lyzi)
+- [ ] 1n2e34c in progress (Lyzi)
+- [ ] 1n2e34d in progress (Lyzi)
 - [ ] 1n2e35b
 - [ ] 1n2e35c
 - [ ] 1n2e35d
