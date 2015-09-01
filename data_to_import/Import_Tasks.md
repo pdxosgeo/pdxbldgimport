@@ -231,7 +231,7 @@ This task list will be used to track progress for all .osm imports. To participa
 - [x] 1s1e32c Complete (Peter) [changeset 33729517](http://www.openstreetmap.org/changeset/33729517)
 - [x] 1s1e32d Complete (Peter) [changeset 33735004](http://www.openstreetmap.org/changeset/33735004)
 - [x] 1s1e33c Complete (Peter) [changeset 33736106](http://www.openstreetmap.org/changeset/33736106)
-- [ ] 1s1e34d In Progress (Peter)
+- [x] 1s1e34d Complete (Peter) [changeset 33738823](http://www.openstreetmap.org/changeset/33738823)
 - [ ] 1s1e35d In Progress (Peter)
 - [ ] 1s1e36a In Progress (Peter)
 - [x] 1s1w01b Complete (Peter) [changeset 33611550](http://www.openstreetmap.org/changeset/33611550)
