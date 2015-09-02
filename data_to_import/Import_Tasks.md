@@ -904,7 +904,7 @@ This task list will be used to track progress for all .osm imports. To participa
 - [x] 1n3w25d multi-address, Complete (Tanya) [changeset 28101545](http://www.openstreetmap.org/changeset/28101545)
 - [x] 1n3w25d Complete (Tanya) [changeset 28101522](http://www.openstreetmap.org/changeset/28101522)
 - [x] 1n3w36a multi-address, Complete (Tanya) [changeset 28100124](http://www.openstreetmap.org/changeset/28100124)
-- [x] 1n3w36a, Complete (Tanya) [changeset 28100025](http://www.openstreetmap.org/changeset/28100025)
+- [x] 1n3w36a Complete (Tanya) [changeset 28100025](http://www.openstreetmap.org/changeset/28100025)
 - [x] 1n3w36d multi-address, Complete (Tanya) [changeset 28098202](http://www.openstreetmap.org/changeset/28098202)
 - [x] 1n3w36d Complete (Tanya) [changeset 28098029] (http://www.openstreetmap.org/changeset/28098029)
 - [x] 1n4e25c multi-address, Complete (Tanya) [changeset 28093608](http://www.openstreetmap.org/changeset/28093608)

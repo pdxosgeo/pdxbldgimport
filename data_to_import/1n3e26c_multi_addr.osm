@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.536601156" lon="-122.420592312" visible="true"><tag k="addr:housenumber" v="1175"/><tag k="addr:postcode" v="97060"/><tag k="addr:city" v="Troutdale"/><tag k="addr:street" v="Northeast 236th Avenue"/></node>
-<node id="-2" lat="45.536886348" lon="-122.422965272" visible="true"><tag k="addr:housenumber" v="23345"/><tag k="addr:postcode" v="97024"/><tag k="addr:city" v="Troutdale"/><tag k="addr:street" v="Northeast Halsey Street"/></node>
-<node id="-3" lat="45.536891594" lon="-122.422964571" visible="true"><tag k="addr:housenumber" v="23505"/><tag k="addr:postcode" v="97060"/><tag k="addr:city" v="Troutdale"/><tag k="addr:street" v="Northeast Halsey Street"/></node>
-<node id="-4" lat="45.536594364" lon="-122.420596418" visible="true"><tag k="addr:housenumber" v="23544"/><tag k="addr:postcode" v="97060"/><tag k="addr:city" v="Troutdale"/><tag k="addr:street" v="Northeast Halsey Street"/></node>
-</osm>
