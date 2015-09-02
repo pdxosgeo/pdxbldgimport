@@ -1,5 +1,0 @@
-<?xml version="1.0"?>
-<osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.464861985" lon="-122.754987179" visible="true"><tag k="addr:housenumber" v="7645"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Oleson Road"/></node>
-<node id="-2" lat="45.464977873" lon="-122.755164499" visible="true"><tag k="addr:housenumber" v="7647"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Oleson Road"/></node>
-</osm>

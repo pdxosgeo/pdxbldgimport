@@ -1,6 +1,0 @@
-<?xml version="1.0"?>
-<osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.536919332" lon="-122.757291958" visible="true"><tag k="addr:housenumber" v="2055"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Ramsey Drive"/></node>
-<node id="-2" lat="45.536921483" lon="-122.757289271" visible="true"><tag k="addr:housenumber" v="2057"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Ramsey Drive"/></node>
-<node id="-3" lat="45.536924619" lon="-122.757291575" visible="true"><tag k="addr:housenumber" v="2059"/><tag k="addr:postcode" v="97229"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northwest Ramsey Drive"/></node>
-</osm>

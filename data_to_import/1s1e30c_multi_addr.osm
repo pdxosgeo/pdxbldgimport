@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.455848943" lon="-122.733720425" visible="true"><tag k="addr:housenumber" v="9609"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 55th Avenue"/></node>
-<node id="-2" lat="45.455910637" lon="-122.743331157" visible="true"><tag k="addr:housenumber" v="9752"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest 65th Avenue"/></node>
-<node id="-3" lat="45.455846178" lon="-122.733722427" visible="true"><tag k="addr:housenumber" v="5510"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Brugger Street"/></node>
-<node id="-4" lat="45.455917575" lon="-122.743330557" visible="true"><tag k="addr:housenumber" v="6434"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Brugger Street"/></node>
-</osm>

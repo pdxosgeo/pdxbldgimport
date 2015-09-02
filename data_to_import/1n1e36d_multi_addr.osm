@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.526193792" lon="-122.624032575" visible="true"><tag k="addr:housenumber" v="3846"/><tag k="addr:postcode" v="97232"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Glisan Street"/></node>
-<node id="-2" lat="45.52619276" lon="-122.62403161" visible="true"><tag k="addr:housenumber" v="3847"/><tag k="addr:postcode" v="97232"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Glisan Street"/></node>
-<node id="-3" lat="45.522466716" lon="-122.621854659" visible="true"><tag k="addr:housenumber" v="3950"/><tag k="addr:postcode" v="97214"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Ankeny Street"/></node>
-<node id="-4" lat="45.522471821" lon="-122.621860915" visible="true"><tag k="addr:housenumber" v="3952"/><tag k="addr:postcode" v="97214"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Ankeny Street"/></node>
-</osm>

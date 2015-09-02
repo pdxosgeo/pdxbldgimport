@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.453799945" lon="-122.747429206" visible="true"><tag k="addr:housenumber" v="9155"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest 69th Avenue"/></node>
-<node id="-2" lat="45.453696949" lon="-122.747430229" visible="true"><tag k="addr:housenumber" v="9161"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest 69th Avenue"/></node>
-<node id="-3" lat="45.452821837" lon="-122.751904226" visible="true"><tag k="addr:housenumber" v="9310"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest 74th Avenue"/></node>
-<node id="-4" lat="45.452828044" lon="-122.751902586" visible="true"><tag k="addr:housenumber" v="9312"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest 74th Avenue"/></node>
-<node id="-5" lat="45.451412355" lon="-122.743718839" visible="true"><tag k="addr:housenumber" v="6505"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Alfred Street"/></node>
-<node id="-6" lat="45.451409147" lon="-122.743911855" visible="true"><tag k="addr:housenumber" v="6525"/><tag k="addr:postcode" v="97223"/><tag k="addr:city" v="Tigard"/><tag k="addr:street" v="Southwest Alfred Street"/></node>
-</osm>
