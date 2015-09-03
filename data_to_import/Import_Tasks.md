@@ -163,16 +163,16 @@ This task list will be used to track progress for all .osm imports. To participa
 - [x] 1n3e35d Complete (Lyzi) [33764007](http://www.openstreetmap.org/changeset/33764007)
 - [x] 1n3e36b Complete (Lyzi) [33764118](http://www.openstreetmap.org/changeset/33764118)
 - [x] 1n3w02a Complete (Lyzi) [33764571](http://www.openstreetmap.org/changeset/33764571)
-- [ ] 1n3w25a in progress (Lyzi)
-- [ ] 1n3w25c in progress (Lyzi)
-- [ ] 1n3w25d in progress (Lyzi)
+- [ ] 1n3w25a No data
+- [x] 1n3w25c Complete (Lyzi) [33764726](http://www.openstreetmap.org/changeset/33764726) [33764771](http://www.openstreetmap.org/changeset/33764771)
+- [ ] 1n3w25d No data
 - [ ] 1n3w33d buildings, In Progress (Tanya)
 - [ ] 1n3w33d multi-address, In Progress (Tanya)
-- [ ] 1n3w36a
-- [ ] 1n3w36d
-- [ ] 1n4e26a
-- [ ] 1n4e28d
-- [ ] 1n4e29c
+- [ ] 1n3w36a No data
+- [ ] 1n3w36d No data
+- [ ] 1n4e26a in progress (Lyzi)
+- [ ] 1n4e28d in progress (Lyzi)
+- [ ] 1n4e29c in progress (Lyzi)
 - [x] 1s1e01a Complete (Peter) [changeset 33675408](http://www.openstreetmap.org/changeset/33675408)
 - [x] 1s1e01b Complete (Peter) [changeset 33675449](http://www.openstreetmap.org/changeset/33675449)
 - [x] 1s1e01c Complete (Peter) [changeset 33676536](http://www.openstreetmap.org/changeset/33676536)
