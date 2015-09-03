@@ -406,7 +406,7 @@ This task list will be used to track progress for all .osm imports. To participa
 - [ ] 2n2w36d
 - [ ] 2n7e21c
 - [x] 2s1e02b Complete (Peter) [changeset 33742407](http://www.openstreetmap.org/changeset/33742407)
-- [ ] 2s1e03b In Progress (Peter)
+- [x] 2s1e03b Complete (Peter) [changeset 33777757](http://www.openstreetmap.org/changeset/33777757)
 - [ ] 2s1e04a In Progress (Peter)
 - [ ] 2s1e06a In Progress (Peter)
 - [ ] 2s1e06b In Progress (Peter)
