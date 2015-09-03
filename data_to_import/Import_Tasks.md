@@ -170,7 +170,7 @@ This task list will be used to track progress for all .osm imports. To participa
 - [ ] 1n3w33d multi-address, In Progress (Tanya)
 - [ ] 1n3w36a No data
 - [ ] 1n3w36d No data
-- [ ] 1n4e26a in progress (Lyzi)
+- [x] 1n4e26a Complete (Lyzi) [33765058](http://www.openstreetmap.org/changeset/33765058) [33765084](http://www.openstreetmap.org/changeset/33765084) [33765221](http://www.openstreetmap.org/changeset/33765221)
 - [ ] 1n4e28d in progress (Lyzi)
 - [ ] 1n4e29c in progress (Lyzi)
 - [x] 1s1e01a Complete (Peter) [changeset 33675408](http://www.openstreetmap.org/changeset/33675408)
