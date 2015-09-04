@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.423673574" lon="-122.689710698" visible="true"><tag k="addr:housenumber" v="1111"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Country Club Road"/></node>
-<node id="-2" lat="45.423600304" lon="-122.690002048" visible="true"><tag k="addr:housenumber" v="1115"/><tag k="addr:postcode" v="97034"/><tag k="addr:city" v="Lake Oswego"/><tag k="addr:street" v="Country Club Road"/></node>
-<node id="-3" lat="45.437121197" lon="-122.691330946" visible="true"><tag k="addr:housenumber" v="12090"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Boones Ferry Road"/></node>
-<node id="-4" lat="45.437121998" lon="-122.691330993" visible="true"><tag k="addr:housenumber" v="1201"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Ophelia Street"/></node>
-</osm>

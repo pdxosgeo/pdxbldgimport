@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.526998423" lon="-122.462340602" visible="true"><tag k="addr:housenumber" v="555"/><tag k="addr:postcode" v="97230"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 195th Drive"/></node>
-<node id="-2" lat="45.52699994" lon="-122.462343565" visible="true"><tag k="addr:housenumber" v="565"/><tag k="addr:postcode" v="97230"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 195th Drive"/></node>
-<node id="-3" lat="45.527081925" lon="-122.456332235" visible="true"><tag k="addr:housenumber" v="554"/><tag k="addr:postcode" v="97230"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 200th Place"/></node>
-<node id="-4" lat="45.527084708" lon="-122.456325464" visible="true"><tag k="addr:housenumber" v="556"/><tag k="addr:postcode" v="97230"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast 200th Place"/></node>
-<node id="-5" lat="45.533405672" lon="-122.458762731" visible="true"><tag k="addr:housenumber" v="19820"/><tag k="addr:postcode" v="97230"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Halsey Street"/></node>
-<node id="-6" lat="45.533412919" lon="-122.458764434" visible="true"><tag k="addr:housenumber" v="19830"/><tag k="addr:postcode" v="97230"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Northeast Halsey Street"/></node>
-</osm>

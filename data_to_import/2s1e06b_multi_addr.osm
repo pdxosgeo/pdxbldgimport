@@ -1,5 +1,0 @@
-<?xml version="1.0"?>
-<osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.433144038" lon="-122.741643478" visible="true"><tag k="addr:housenumber" v="6275"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Douglas Drive"/></node>
-<node id="-2" lat="45.433120948" lon="-122.741437432" visible="true"><tag k="addr:housenumber" v="6277"/><tag k="addr:postcode" v="97219"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southwest Douglas Drive"/></node>
-</osm>
