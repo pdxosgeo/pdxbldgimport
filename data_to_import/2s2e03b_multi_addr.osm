@@ -1,5 +1,0 @@
-<?xml version="1.0"?>
-<osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.438232914" lon="-122.550698058" visible="true"><tag k="addr:housenumber" v="10950"/><tag k="addr:postcode" v="97086"/><tag k="addr:city" v="Happy Valley"/><tag k="addr:street" v="Southeast Vista View Lane"/></node>
-<node id="-2" lat="45.438237803" lon="-122.550696501" visible="true"><tag k="addr:housenumber" v="10990"/><tag k="addr:postcode" v="97086"/><tag k="addr:city" v="Happy Valley"/><tag k="addr:street" v="Southeast Vista View Lane"/></node>
-</osm>

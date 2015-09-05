@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.432960053" lon="-122.538480226" visible="true"><tag k="addr:housenumber" v="12373"/><tag k="addr:postcode" v="97086"/><tag k="addr:city" v="Happy Valley"/><tag k="addr:street" v="Southeast 122nd Avenue"/></node>
-<node id="-2" lat="45.432874606" lon="-122.538474061" visible="true"><tag k="addr:housenumber" v="12377"/><tag k="addr:postcode" v="97086"/><tag k="addr:city" v="Happy Valley"/><tag k="addr:street" v="Southeast 122nd Avenue"/></node>
-<node id="-3" lat="45.436299899" lon="-122.538848023" visible="true"><tag k="addr:housenumber" v="12100"/><tag k="addr:postcode" v="97086"/><tag k="addr:city" v="Happy Valley"/><tag k="addr:street" v="Southeast Nella Way"/></node>
-<node id="-4" lat="45.436413039" lon="-122.538793568" visible="true"><tag k="addr:housenumber" v="12102"/><tag k="addr:postcode" v="97086"/><tag k="addr:city" v="Happy Valley"/><tag k="addr:street" v="Southeast Nella Way"/></node>
-<node id="-5" lat="45.428311738" lon="-122.54019641" visible="true"><tag k="addr:housenumber" v="12058"/><tag k="addr:postcode" v="97015"/><tag k="addr:city" v="Clackamas"/><tag k="addr:street" v="Southeast Sunnyside Road"/></node>
-<node id="-6" lat="45.427922682" lon="-122.538704248" visible="true"><tag k="addr:housenumber" v="12072"/><tag k="addr:postcode" v="97015"/><tag k="addr:city" v="Clackamas"/><tag k="addr:street" v="Southeast Sunnyside Road"/></node>
-</osm>
