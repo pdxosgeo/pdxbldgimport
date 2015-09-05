@@ -418,7 +418,7 @@ This task list will be used to track progress for all .osm imports. To participa
 - [x] 2s2e02b Complete (Darrell) [changeset 33806136](http://www.openstreetmap.org/changeset/33806136)
 - [x] 2s2e03a Complete (Darrell) [changeset 33806336](http://www.openstreetmap.org/changeset/33806336)
 - [x] 2s2e03b Complete (Darrell) [changeset 33806448](http://www.openstreetmap.org/changeset/33806448 
-- [ ] 2s2e03d
+- [x] 2s2e03d Complete (Darrell) [changeset 33806495](http://www.openstreetmap.org/changeset/33806495 
 - [ ] 2s2e04a
 - [ ] 2s2e05a
 - [ ] 2s2e05b
