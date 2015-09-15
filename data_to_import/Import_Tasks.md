@@ -324,10 +324,10 @@ This task list will be used to track progress for all .osm imports. To participa
 - [x] 1s2e30b Complete (Lyzi) [34031139](http://www.openstreetmap.org/changeset/34031139)
 - [x] 1s2e30c Complete (Lyzi) [34031977](http://www.openstreetmap.org/changeset/34031977)
 - [x] 1s2e31a Complete (Lyzi) [34032073](http://www.openstreetmap.org/changeset/34032073)
-- [ ] 1s2e31b in progress (Lyzi)
+- [x] 1s2e31b in progress (Lyzi) [34049996](http://www.openstreetmap.org/changeset/34049996)
 - [ ] 1s2e32b in progress (Lyzi)
 - [ ] 1s2e33b in progress (Lyzi)
-- [ ] 1s2e35c
+- [ ] 1s2e35c in progress (Lyzi)
 - [ ] 1s3e01c
 - [ ] 1s3e01d
 - [ ] 1s3e02c
