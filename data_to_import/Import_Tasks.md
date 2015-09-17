@@ -306,53 +306,53 @@ This task list will be used to track progress for all .osm imports. To participa
 - [x] 1s2e19d Complete (Lyzi) [33921949](http://www.openstreetmap.org/changeset/33921949)
 - [x] 1s2e20a Complete (Lyzi) [33922127](http://www.openstreetmap.org/changeset/33922127)
 - [x] 1s2e20b Complete (Lyzi) [33922168](http://www.openstreetmap.org/changeset/33922168)
-- [ ] 1s2e20c in progress (Lyzi)
-- [ ] 1s2e20d in progress (Lyzi)
-- [ ] 1s2e21b in progress (Lyzi)
-- [ ] 1s2e22c
-- [ ] 1s2e25a
-- [ ] 1s2e26b
-- [ ] 1s2e26d
-- [ ] 1s2e27a
-- [ ] 1s2e27c
-- [ ] 1s2e28a
-- [ ] 1s2e28b
-- [ ] 1s2e29b
-- [ ] 1s2e29c
-- [ ] 1s2e29d
-- [ ] 1s2e30a
-- [ ] 1s2e30b
-- [ ] 1s2e30c
-- [ ] 1s2e31a
-- [ ] 1s2e31b
-- [ ] 1s2e32b
-- [ ] 1s2e33b
-- [ ] 1s2e35c
-- [ ] 1s3e01c
-- [ ] 1s3e01d
-- [ ] 1s3e02c
-- [ ] 1s3e03a
-- [ ] 1s3e03b
-- [ ] 1s3e03d
-- [ ] 1s3e04a
-- [ ] 1s3e04b
-- [ ] 1s3e04c
-- [ ] 1s3e04d
-- [ ] 1s3e05d
-- [ ] 1s3e06a
-- [ ] 1s3e06b
-- [ ] 1s3e06c
-- [ ] 1s3e06d
-- [ ] 1s3e07a
-- [ ] 1s3e07b
-- [ ] 1s3e07d
-- [ ] 1s3e08b
-- [ ] 1s3e08d
-- [ ] 1s3e09b
-- [ ] 1s3e09c
-- [ ] 1s3e09d
-- [ ] 1s3e10c
-- [ ] 1s3e10d
+- [x] 1s2e20c Complete (Lyzi) [33925327](http://www.openstreetmap.org/changeset/33925327)
+- [x] 1s2e20d Complete (Lyzi) [33945008](http://www.openstreetmap.org/changeset/33945008)
+- [x] 1s2e21b Complete (Lyzi) [33945008](http://www.openstreetmap.org/changeset/33945008)
+- [x] 1s2e22c Complete (Lyzi) [33945577](http://www.openstreetmap.org/changeset/33945577)
+- [x] 1s2e25a Complete (Lyzi) [33968733](http://www.openstreetmap.org/changeset/33968733)
+- [x] 1s2e26b Complete (Lyzi) [33969223](http://www.openstreetmap.org/changeset/33969223)
+- [x] 1s2e26d Complete (Lyzi) [33969487](http://www.openstreetmap.org/changeset/33969487)
+- [x] 1s2e27a Complete (Lyzi) [33969707](http://www.openstreetmap.org/changeset/33969707)
+- [x] 1s2e27c Complete (Lyzi) [33970972](http://www.openstreetmap.org/changeset/33970972)
+- [x] 1s2e28a Complete (Lyzi) [33971665](http://www.openstreetmap.org/changeset/33971665)
+- [x] 1s2e28b Complete (Lyzi) [33971794](http://www.openstreetmap.org/changeset/33971794)
+- [x] 1s2e29b Complete (Lyzi) [33971868](http://www.openstreetmap.org/changeset/33971868)
+- [x] 1s2e29c Complete (Lyzi) [33971927](http://www.openstreetmap.org/changeset/33971927)
+- [x] 1s2e29d Complete (Lyzi) [33976127](http://www.openstreetmap.org/changeset/33976127)
+- [x] 1s2e30a Complete (Lyzi) [33976275](http://www.openstreetmap.org/changeset/33976275)
+- [x] 1s2e30b Complete (Lyzi) [34031139](http://www.openstreetmap.org/changeset/34031139)
+- [x] 1s2e30c Complete (Lyzi) [34031977](http://www.openstreetmap.org/changeset/34031977)
+- [x] 1s2e31a Complete (Lyzi) [34032073](http://www.openstreetmap.org/changeset/34032073)
+- [x] 1s2e31b Complete (Lyzi) [34049996](http://www.openstreetmap.org/changeset/34049996)
+- [x] 1s2e32b Complete (Lyzi) [34051016](http://www.openstreetmap.org/changeset/34051016)
+- [x] 1s2e33b Complete (Lyzi) [34051366](http://www.openstreetmap.org/changeset/34051366)
+- [x] 1s2e35c Complete (Lyzi) [34051648](http://www.openstreetmap.org/changeset/34051648)
+- [x] 1s3e01c Complete (Lyzi) [34051743](http://www.openstreetmap.org/changeset/34051743)
+- [x] 1s3e01d Complete (Lyzi) [34051848](http://www.openstreetmap.org/changeset/34051848)
+- [x] 1s3e02c Complete (Lyzi) [34051948](http://www.openstreetmap.org/changeset/34051948)
+- [x] 1s3e03a Complete (Lyzi) [34053331](http://www.openstreetmap.org/changeset/34053331)
+- [x] 1s3e03b Complete (Lyzi) [34053530](http://www.openstreetmap.org/changeset/34053530)
+- [x] 1s3e03d Complete (Lyzi) [34053864](http://www.openstreetmap.org/changeset/34053864)
+- [x] 1s3e04a Complete (Lyzi) [34054070](http://www.openstreetmap.org/changeset/34054070)
+- [x] 1s3e04b Complete (Lyzi) [34054513](http://www.openstreetmap.org/changeset/34054513)
+- [x] 1s3e04c Complete (Lyzi) [34054666](http://www.openstreetmap.org/changeset/34054666)
+- [x] 1s3e04d Complete (Lyzi) [34055199](http://www.openstreetmap.org/changeset/34055199)
+- [x] 1s3e05d Complete (Lyzi) [34055351](https://www.openstreetmap.org/changeset/34055351)
+- [x] 1s3e06a Complete (Lyzi) [34066480](https://www.openstreetmap.org/changeset/34066480)
+- [x] 1s3e06b Complete (Lyzi) [34066635](https://www.openstreetmap.org/changeset/34066635)
+- [x] 1s3e06c Complete (Lyzi) [34067049](https://www.openstreetmap.org/changeset/34067049)
+- [x] 1s3e06d Complete (Lyzi) [34071687](https://www.openstreetmap.org/changeset/34071687)
+- [x] 1s3e07a Complete (Lyzi) [34072615](https://www.openstreetmap.org/changeset/34072615)
+- [x] 1s3e07b Complete (Lyzi) [34072813](https://www.openstreetmap.org/changeset/34072813)
+- [x] 1s3e07d Complete (Lyzi) [34074210](https://www.openstreetmap.org/changeset/34074210)
+- [x] 1s3e08b Complete (Lyzi) [34074345](https://www.openstreetmap.org/changeset/34074345)
+- [x] 1s3e08d Complete (Lyzi) [34074444](https://www.openstreetmap.org/changeset/34074444)
+- [x] 1s3e09b Complete (Lyzi) [34074496](https://www.openstreetmap.org/changeset/34074496)
+- [x] 1s3e09c Complete (Lyzi) [34074665](https://www.openstreetmap.org/changeset/34074665)
+- [ ] 1s3e09d in progress (Lyzi)
+- [ ] 1s3e10c in progress (Lyzi)
+- [ ] 1s3e10d in progress (Lyzi)
 - [ ] 1s3e11a
 - [ ] 1s3e11d
 - [ ] 1s3e12c
