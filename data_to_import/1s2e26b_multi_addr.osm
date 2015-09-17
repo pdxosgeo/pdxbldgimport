@@ -1,5 +1,0 @@
-<?xml version="1.0"?>
-<osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.455779268" lon="-122.530562837" visible="true"><tag k="addr:housenumber" v="9245"/><tag k="addr:postcode" v="97086"/><tag k="addr:city" v="Happy Valley"/><tag k="addr:street" v="Southeast 129th Avenue"/></node>
-<node id="-2" lat="45.455707335" lon="-122.530549784" visible="true"><tag k="addr:housenumber" v="9246"/><tag k="addr:postcode" v="97086"/><tag k="addr:city" v="Happy Valley"/><tag k="addr:street" v="Southeast 129th Avenue"/></node>
-</osm>

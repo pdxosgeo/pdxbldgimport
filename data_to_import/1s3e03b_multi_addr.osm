@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.514765718" lon="-122.434191053" visible="true"><tag k="addr:housenumber" v="309"/><tag k="addr:postcode" v="97030"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Northwest 25th Street"/></node>
-<node id="-2" lat="45.514398997" lon="-122.434194036" visible="true"><tag k="addr:housenumber" v="310"/><tag k="addr:postcode" v="97030"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Northwest 25th Street"/></node>
-<node id="-3" lat="45.514763117" lon="-122.434194792" visible="true"><tag k="addr:housenumber" v="311"/><tag k="addr:postcode" v="97030"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Northwest 25th Street"/></node>
-<node id="-4" lat="45.514398453" lon="-122.434191032" visible="true"><tag k="addr:housenumber" v="312"/><tag k="addr:postcode" v="97030"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Northwest 25th Street"/></node>
-<node id="-5" lat="45.517952715" lon="-122.4342324" visible="true"><tag k="addr:housenumber" v="617"/><tag k="addr:postcode" v="97030"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast 223rd Avenue"/></node>
-<node id="-6" lat="45.517950594" lon="-122.434237983" visible="true"><tag k="addr:housenumber" v="631"/><tag k="addr:postcode" v="97030"/><tag k="addr:city" v="Gresham"/><tag k="addr:street" v="Southeast 223rd Avenue"/></node>
-</osm>

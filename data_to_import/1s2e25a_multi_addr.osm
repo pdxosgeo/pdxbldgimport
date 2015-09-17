@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="45.465350772" lon="-122.499236955" visible="true"><tag k="addr:housenumber" v="7915"/><tag k="addr:postcode" v="97236"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast 162nd Avenue"/></node>
-<node id="-2" lat="45.462609516" lon="-122.497379251" visible="true"><tag k="addr:housenumber" v="8305"/><tag k="addr:postcode" v="97236"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast 162nd Avenue"/></node>
-<node id="-3" lat="45.462616369" lon="-122.497382744" visible="true"><tag k="addr:housenumber" v="8307"/><tag k="addr:postcode" v="97236"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast 162nd Avenue"/></node>
-<node id="-4" lat="45.465352213" lon="-122.499219284" visible="true"><tag k="addr:housenumber" v="15922"/><tag k="addr:postcode" v="97236"/><tag k="addr:city" v="Portland"/><tag k="addr:street" v="Southeast Nehalem Street"/></node>
-</osm>
