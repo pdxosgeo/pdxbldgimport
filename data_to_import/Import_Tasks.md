@@ -417,13 +417,13 @@ This task list will be used to track progress for all .osm imports. To participa
 - [x] 2s2e02a Complete (Darrell) [changeset 33805931](http://www.openstreetmap.org/changeset/33805931)
 - [x] 2s2e02b Complete (Darrell) [changeset 33806136](http://www.openstreetmap.org/changeset/33806136)
 - [x] 2s2e03a Complete (Darrell) [changeset 33806336](http://www.openstreetmap.org/changeset/33806336)
-- [x] 2s2e03b Complete (Darrell) [changeset 33806448](http://www.openstreetmap.org/changeset/33806448 
-- [x] 2s2e03d Complete (Darrell) [changeset 33806495](http://www.openstreetmap.org/changeset/33806495 
+- [x] 2s2e03b Complete (Darrell) [changeset 33806448](http://www.openstreetmap.org/changeset/33806448) 
+- [x] 2s2e03d Complete (Darrell) [changeset 33806495](http://www.openstreetmap.org/changeset/33806495) 
 - [x] 2s2e04a Complete (Lyzi) [34153562](https://www.openstreetmap.org/changeset/34153562)
-- [ ] 2s2e05a in progress (Lyzi)
+- [x] 2s2e05a Complete (Lyzi) [34169494](https://www.openstreetmap.org/changeset/34169494)
 - [ ] 2s2e05b in progress (Lyzi)
 - [ ] 2s2e05c in progress (Lyzi)
-- [ ] 2s2e08a
+- [ ] 2s2e08a in progress (Lyzi)
 - [ ] 2s2e08c
 - [ ] 2s2e08d
 - [ ] 2s2e09c
