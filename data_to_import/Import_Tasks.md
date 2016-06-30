@@ -36,7 +36,7 @@ This task list will be used to track progress for all .osm imports. To participa
 - [x] 1n1e21d Complete (Lyzi) [33583220](http://www.openstreetmap.org/changeset/33583220)
 - [x] 1n1e22a complete (Rafa) [#32711234](http://www.openstreetmap.org/changeset/32711234)
 - [x] 1n1e22b Complete (Lyzi) [33584317](http://www.openstreetmap.org/changeset/33584317)
-- [ ] 1n1e22c in progress (Rafa)
+- [x] 1n1e22c Complete (Rafa) [32817259](https://www.openstreetmap.org/changeset/32817259)
 - [x] 1n1e22d complete (Rafa) [#32642126](https://www.openstreetmap.org/changeset/32712182)
 - [x] 1n1e23a Complete (Lyzi) [33584317](http://www.openstreetmap.org/changeset/33584317)
 - [x] 1n1e23b complete (Rafa) [#32712182]
@@ -138,9 +138,9 @@ This task list will be used to track progress for all .osm imports. To participa
 - [x] 1n2e36a Complete (Lyzi) [33737553](http://www.openstreetmap.org/changeset/33737553)
 - [x] 1n2e36c Complete (Lyzi) [33741206](http://www.openstreetmap.org/changeset/33741206)
 - [x] 1n2e36d Complete (Lyzi) [33741461](http://www.openstreetmap.org/changeset/33741461)
-- [ ] 1n2w30b No data
-- [ ] 1n2w30d No data
-- [ ] 1n2w31b No data
+- [x] 1n2w30b No data
+- [x] 1n2w30d No data
+- [x] 1n2w31b No data
 - [x] 1n3e20b Complete (Lyzi) [33741605](http://www.openstreetmap.org/changeset/33741605)
 - [x] 1n3e21b Complete (Lyzi) [33741648](http://www.openstreetmap.org/changeset/33741648)
 - [x] 1n3e22a Complete (Lyzi) [33756978](http://www.openstreetmap.org/changeset/33756978)
@@ -163,13 +163,13 @@ This task list will be used to track progress for all .osm imports. To participa
 - [x] 1n3e35d Complete (Lyzi) [33764007](http://www.openstreetmap.org/changeset/33764007)
 - [x] 1n3e36b Complete (Lyzi) [33764118](http://www.openstreetmap.org/changeset/33764118)
 - [x] 1n3w02a Complete (Lyzi) [33764571](http://www.openstreetmap.org/changeset/33764571)
-- [ ] 1n3w25a No data
+- [x] 1n3w25a No data
 - [x] 1n3w25c Complete (Lyzi) [33764726](http://www.openstreetmap.org/changeset/33764726) [33764771](http://www.openstreetmap.org/changeset/33764771)
-- [ ] 1n3w25d No data
+- [x] 1n3w25d No data
 - [ ] 1n3w33d buildings, In Progress (Tanya)
 - [ ] 1n3w33d multi-address, In Progress (Tanya)
-- [ ] 1n3w36a No data
-- [ ] 1n3w36d No data
+- [x] 1n3w36a No data
+- [x] 1n3w36d No data
 - [x] 1n4e26a Complete (Lyzi) [33765058](http://www.openstreetmap.org/changeset/33765058) [33765084](http://www.openstreetmap.org/changeset/33765084) [33765221](http://www.openstreetmap.org/changeset/33765221)
 - [x] 1n4e28d Complete (Lyzi) [33765317](http://www.openstreetmap.org/changeset/33765317)
 - [x] 1n4e29c Complete (Lyzi) [33765519](http://www.openstreetmap.org/changeset/33765519)
