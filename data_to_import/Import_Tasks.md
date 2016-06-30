@@ -166,8 +166,7 @@ This task list will be used to track progress for all .osm imports. To participa
 - [x] 1n3w25a No data
 - [x] 1n3w25c Complete (Lyzi) [33764726](http://www.openstreetmap.org/changeset/33764726) [33764771](http://www.openstreetmap.org/changeset/33764771)
 - [x] 1n3w25d No data
-- [ ] 1n3w33d buildings, In Progress (Tanya)
-- [ ] 1n3w33d multi-address, In Progress (Tanya)
+- [x] 1n3w33d Complete (Peter) [40382392](http://www.openstreetmap.org/changeset/40382392)
 - [x] 1n3w36a No data
 - [x] 1n3w36d No data
 - [x] 1n4e26a Complete (Lyzi) [33765058](http://www.openstreetmap.org/changeset/33765058) [33765084](http://www.openstreetmap.org/changeset/33765084) [33765221](http://www.openstreetmap.org/changeset/33765221)
@@ -208,8 +207,8 @@ This task list will be used to track progress for all .osm imports. To participa
 - [x] 1s1e19a Complete (Peter) [changeset 33603425](http://www.openstreetmap.org/changeset/33603425)
 - [x] 1s1e19c Complete (Peter) [changeset 33611192](http://www.openstreetmap.org/changeset/33611192)
 - [x] 1s1e21d Complete (Peter) [changeset 33611414](http://www.openstreetmap.org/changeset/33611414)
-- [ ] 1s1e23a buildings, In Progress (Tanya)
-- [ ] 1s1e23c buildings, In Progress (Tanya)
+- [x] 1s1e23a Complete (Peter) [changeset 40383689](http://www.openstreetmap.org/changeset/40383689)
+- [x] 1s1e23c Complete (Peter) [changeset 40384292](http://www.openstreetmap.org/changeset/40384292)
 - [ ] 1s1e23d buildings, In Progress (Tanya)
 - [x] 1s1e24a Complete (Peter) [changeset 33633109](http://www.openstreetmap.org/changeset/33633109)
 - [x] 1s1e24b Complete (Peter) [changeset 33634854](http://www.openstreetmap.org/changeset/33634854)
@@ -559,7 +558,7 @@ This task list will be used to track progress for all .osm imports. To participa
 - [x] 1n3w31d buildings, Complete (Tanya) [changeset 28123579](https://www.openstreetmap.org/changeset/28123579)
 - [x] 1n3w31d multi-address, Complete (Tanya) [changeset 28124257](https://www.openstreetmap.org/changeset/28124257)
 - [x] 1n3w32d buildings, Complete (Tanya) [changeset 28124754](https://www.openstreetmap.org/changeset/28124754)
-- [x] 1n3w32d multi-address, In Progress (Tanya) [changeset 28125805](https://www.openstreetmap.org/changeset/28125805)
+- [x] 1n3w32d multi-address, Complete (Tanya) [changeset 28125805](https://www.openstreetmap.org/changeset/28125805)
 - [x] 1n3w34c buildings, Complete (Peter) [changeset 28201703] (http://www.openstreetmap.org/changeset/28201703)
 - [x] 1n3w34c multi-address, Complete (Peter) [changeset 28201703] (http://www.openstreetmap.org/changeset/28201703)
 - [x] 1n3w34d buildings, Complete (Peter) [changeset 28201856] (http://www.openstreetmap.org/changeset/28201856)
@@ -575,7 +574,7 @@ This task list will be used to track progress for all .osm imports. To participa
 - [x] 1n4w35d buildings, Complete (Tanya) [changeset 28102114](https://www.openstreetmap.org/changeset/28102114)
 - [x] 1n4w35d multi-address, Complete (Tanya), no actual entries
 - [x] 1n4w36c buildings, Complete (Tanya) [changeset 28103574](https://www.openstreetmap.org/changeset/28103574)
-- [x] 1n4w36c multi-address, In Progress (Tanya) [changeset 28103633](https://www.openstreetmap.org/changeset/28103633)
+- [x] 1n4w36c multi-address, Complete (Tanya) [changeset 28103633](https://www.openstreetmap.org/changeset/28103633)
 - [x] 1s1e18c Complete (Darrell)[changeset 32640454](http://www.openstreetmap.org/changeset/32640454)
 - [x] 1s1w03a Complete (Peter) [changeset 28499821](http://www.openstreetmap.org/changeset/28499821)
 - [x] 1s1w03c Complete (Peter) [changeset 28499913](http://www.openstreetmap.org/changeset/28499913)
@@ -878,7 +877,7 @@ This task list will be used to track progress for all .osm imports. To participa
 #### OLD Files for Review and Import (need to re-visit some of these)
 
 - [x] 1n2w27a multi-address, complete (Darrell) [changeset 28052069](https://www.openstreetmap.org/changeset/28052069)
-- [x] 1n2w27a in progress (Darrell)
+- [x] 1n2w27a complete (Darrell)
 - [ ] 1n2w29c multi-address,
 - [ ] 1n2w29c
 - [ ] 1n2w30a multi-address,
