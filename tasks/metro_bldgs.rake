@@ -21,7 +21,7 @@ table :metro_bldgs => [:pdx_bldgs, :clark_bldgs_orig, :osm_buildings] do |t|
 			,NULL::numeric as height
 			,'yes'::text as bldg_type
 			,the_geom_centroids
-			,the_geom
+			,st_multi(ST_SimplifyPreserveTopology(the_geom,0.000001))::geometry(MultiPolygon,4326) as the_geom
 		FROM  clark_bldgs_orig
 		
 		UNION
