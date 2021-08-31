@@ -19,6 +19,7 @@ table :osm_buildings => [:ways] do |t|
 		tags -> 'addr:state' as addr_state,
 		tags -> 'area' as area,
 		tags -> 'building' as building,
+		tags -> 'demolished:building' as demolished_building,
 		tags -> 'building:levels' as building_levels,
 		tags -> 'construction' as construction,
 		tags -> 'generator:source' as generator_source,
@@ -32,7 +33,7 @@ table :osm_buildings => [:ways] do |t|
 		tags -> 'shop' as shop,
 		st_setsrid(st_makepolygon(linestring),4326) as the_geom
 		FROM ways
-		WHERE st_isclosed(linestring) AND (tags -> 'building' <> '' OR tags -> 'destroyed:building' <> '');
+		WHERE st_isclosed(linestring) AND (tags -> 'building' <> '' OR tags -> 'demolished:building' <> '');
 	}
 
 	# now get the multipolygons
@@ -79,6 +80,7 @@ table :osm_buildings => [:ways] do |t|
 			tags -> 'addr:state' as addr_state,
 			tags -> 'area' as area,
 			tags -> 'building' as building,
+			tags -> 'demolished:building' as demolished_building,
 			tags -> 'building:levels' as building_levels,
 			tags -> 'construction' as construction,
 			tags -> 'generator:source' as generator_source,
@@ -94,7 +96,7 @@ table :osm_buildings => [:ways] do |t|
 			from outside
 			join inside on outside.relation_id=inside.relation_id
 			JOIN relations r on outside.relation_id=r.id
-			WHERE  (tags -> 'building' <> '' OR tags -> 'destroyed:building' <> '');
+			WHERE  (tags -> 'building' <> '' OR tags -> 'demolished:building' <> '');
 }
 	t.add_spatial_index
 	t.add_update_column
