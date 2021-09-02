@@ -135,7 +135,7 @@ table :clark_addrs_orig  =>  shapefile("clark/Situs.shp") do |t|
 		UPDATE #{t.name}
 			SET 
 			stcity = initcap(stcity),
-			stname = initcap(stname),
+			stname = initcap(regexp_replace(stname, '^Mt ','Mount ', 'i')),
 			stdir = CASE stdir
 				WHEN 'E' THEN 'East'
 				WHEN 'W' THEN 'West'
