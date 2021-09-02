@@ -49,7 +49,7 @@ table :osm_buildings => [:ways] do |t|
 			WHERE rm.member_type='W'
 			AND rm.member_role='inner'
 			AND st_isclosed(w.linestring)
-			 -- AND rm.relation_id=5262654
+			--AND rm.relation_id=12571935
 			GROUP BY rm.relation_id, rm.member_role
 		)
 		, outside as (
@@ -62,7 +62,7 @@ table :osm_buildings => [:ways] do |t|
 			WHERE rm.member_type='W'
 			AND rm.member_role='outer'
 			AND st_isclosed(w.linestring)
-			--AND rm.relation_id=5262654
+			--AND rm.relation_id=12571935
 			GROUP BY rm.relation_id, rm.member_role,w.linestring
 		)
 		SELECT 
@@ -94,7 +94,7 @@ table :osm_buildings => [:ways] do |t|
 			tags -> 'shop' as shop,
 			st_setsrid(st_makepolygon(outside.the_geom,inside.the_geom),4326) as the_geom
 			from outside
-			join inside on outside.relation_id=inside.relation_id
+			LEFT OUTER join inside on outside.relation_id=inside.relation_id
 			JOIN relations r on outside.relation_id=r.id
 			WHERE  (tags -> 'building' <> '' OR tags -> 'demolished:building' <> '' OR tags -> 'building:part' <> '' OR tags -> 'demolished:building:part' <> '' );
 }
