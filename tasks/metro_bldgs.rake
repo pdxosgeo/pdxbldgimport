@@ -1,5 +1,5 @@
 desc "Build our final table of buildings we want to add"
-table :metro_bldgs => [:pdx_bldgs, :clark_bldgs_orig, :osm_buildings] do |t|
+table :metro_bldgs => [:pdx_bldgs, :clark_bldgs_orig, :osm_buildings, :osm_construction_sites] do |t|
 	t.drop_table
 	t.run %Q{
 		CREATE TABLE #{t.name} AS
@@ -53,6 +53,11 @@ table :metro_bldgs => [:pdx_bldgs, :clark_bldgs_orig, :osm_buildings] do |t|
 		SET is_deleted=true
 		FROM osm_buildings b
 		where st_intersects(a.the_geom,b.the_geom);
+	
+		UPDATE #{t.name} a
+		SET is_deleted=true
+		FROM osm_construction_sites c
+		where st_intersects(a.the_geom,c.the_geom);
 	
 		DROP TABLE IF EXISTS #{t.name}_deleted;
 		CREATE TABLE #{t.name}_deleted AS

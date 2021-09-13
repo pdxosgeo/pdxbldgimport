@@ -101,29 +101,3 @@ table :osm_buildings => [:ways] do |t|
 	t.add_spatial_index
 	t.add_update_column
 end
-
-desc "Convert nodes into address points"
-table :osm_addrs => 'osm/metro.osm.pbf' do |t|
-	t.drop_table
-	t.run %Q{
-		CREATE TABLE #{t.name} AS 
-		SELECT 
-		id as node_id,
-		tags -> 'addr:housename' as addr_housename,
-		tags -> 'addr:housenumber' as addr_housenumber,
-		tags -> 'addr:interpolation' as addr_interpolation,
-		tags -> 'addr:street' as addr_street,
-		tags -> 'addr:unit' as addr_unit,
-		tags -> 'addr:postcode' as addr_postcode,
-		tags -> 'addr:city' as addr_city,
-		tags -> 'addr:country' as addr_country,
-		tags -> 'addr:full' as addr_full,
-		tags -> 'addr:state' as addr_state,
-		geom as the_geom
-		FROM nodes
-		WHERE tags -> 'addr:street' <>'';
-	}
-	t.add_spatial_index
-	t.add_update_column
-
- end

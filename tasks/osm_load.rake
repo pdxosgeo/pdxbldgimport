@@ -36,8 +36,13 @@ file 'osm/metro.osm.pbf' => ['osm/washington-latest.osm.pbf', 'osm/oregon-latest
 	sh %Q{ osmosis --read-pbf osm/washington-latest.osm.pbf --read-pbf osm/oregon-latest.osm.pbf --merge --bounding-box bottom=#{s} left=#{w} top=#{n} right=#{e}  --write-pbf file=#{t.name}  }
 end
 
-table :ways => 'osm/metro.osm.pbf' do |t|
+table :nodes => 'osm/metro.osm.pbf' do |t|
 	sh %Q{osmosis --read-pbf 'osm/metro.osm.pbf' --bounding-box bottom=#{s} left=#{w} top=#{n} right=#{e} --truncate-pgsql database=pdx_bldgs --wp database=pdx_bldgs }
+	t.add_update_column
+end
+
+table :ways => :nodes do |t|
+	# loaded in nodes above, just add an updated_at column
 	t.add_update_column
 end
 	
